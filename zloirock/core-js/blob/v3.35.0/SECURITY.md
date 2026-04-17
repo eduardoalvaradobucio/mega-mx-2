@@ -4,7 +4,6 @@
 
 
 
-
 <!DOCTYPE html>
 <html
   lang="en"
@@ -28,6 +27,7 @@
 
   
 
+
   <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/light-8db8ec9d843a6198.css" /><link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/light_high_contrast-1ebc8c2fbf646f62.css" /><link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/dark-5a2079a7af880b5d.css" /><link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/dark_high_contrast-f22f15c407d6eca1.css" /><link data-color-theme="light" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/light-8db8ec9d843a6198.css" /><link data-color-theme="light_high_contrast" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/light_high_contrast-1ebc8c2fbf646f62.css" /><link data-color-theme="light_colorblind" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/light_colorblind-2c630c094e7e58fe.css" /><link data-color-theme="light_colorblind_high_contrast" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/light_colorblind_high_contrast-1e74f08f26690427.css" /><link data-color-theme="light_tritanopia" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/light_tritanopia-a55e823d68b6636a.css" /><link data-color-theme="light_tritanopia_high_contrast" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/light_tritanopia_high_contrast-2a79786d0d9a72b7.css" /><link data-color-theme="dark" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/dark-5a2079a7af880b5d.css" /><link data-color-theme="dark_high_contrast" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/dark_high_contrast-f22f15c407d6eca1.css" /><link data-color-theme="dark_colorblind" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/dark_colorblind-f483db49f1126b90.css" /><link data-color-theme="dark_colorblind_high_contrast" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/dark_colorblind_high_contrast-666e5c9bc47065ef.css" /><link data-color-theme="dark_tritanopia" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/dark_tritanopia-1424433ddc9f2f2e.css" /><link data-color-theme="dark_tritanopia_high_contrast" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/dark_tritanopia_high_contrast-76544daae5228ed1.css" /><link data-color-theme="dark_dimmed" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/dark_dimmed-90ebacd7fa543c51.css" /><link data-color-theme="dark_dimmed_high_contrast" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/dark_dimmed_high_contrast-9ab7fa96747a4402.css" />
 
   <style type="text/css">
@@ -45,6 +45,7 @@
     <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/global-c9ae636e7affabfe.css" />
     <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/github-c94ab8d1f22049a8.css" />
   <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/repository-6ec84ae2261fecf8.css" />
+<link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/code-2d31826944fd3be8.css" />
 
   
 
@@ -90,53 +91,78 @@
 <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/react-core.3902c02312ea4c60.module.css" />
 <script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/4244-d5dcb589fae0ecbf.js" defer="defer"></script>
 <script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/notifications-global-3fa46b9a6c6c431f.js" defer="defer"></script>
-<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/19262-313c6e4aa6bc1abc.js" defer="defer"></script>
-<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/73285-d87cea24224220e4.js" defer="defer"></script>
-<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/70206-3ba10f6524cc3c66.js" defer="defer"></script>
-<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/19930-d7474e22a5e73a83.js" defer="defer"></script>
-<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/repositories-a87b03b7ad454a08.js" defer="defer"></script>
+<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/39373-387ca62dc398695d.js" defer="defer"></script>
+<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/code-menu-4dd9096d36fd962d.js" defer="defer"></script>
   
   <script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/primer-react-6dbbf6a6b62127f5.js" defer="defer"></script>
 <script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/octicons-react-a181826f33dcd4d8.js" defer="defer"></script>
 <script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/89960-387607d3b39aa528.js" defer="defer"></script>
 <script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/37869-a873e81f0fcb98e2.js" defer="defer"></script>
 <script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/68751-fe5cb40b5547c377.js" defer="defer"></script>
+<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/7463-f34e26efc84a7578.js" defer="defer"></script>
+<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/15272-00d6ef52b0f88c77.js" defer="defer"></script>
+<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/32769-329cba91f224b6ee.js" defer="defer"></script>
 <script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/36505-d881e4fdaa1f52d2.js" defer="defer"></script>
-<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/33073-19b499126dc11486.js" defer="defer"></script>
+<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/46148-0e40187c0246d203.js" defer="defer"></script>
+<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/64462-aace35a668bb9e54.js" defer="defer"></script>
+<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/17894-e0128f369d75471b.js" defer="defer"></script>
+<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/43947-18e23171752897a9.js" defer="defer"></script>
 <script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/63991-125a5c660965e63e.js" defer="defer"></script>
 <script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/59852-80edf21194f9d3f8.js" defer="defer"></script>
+<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/3624-e2fcb28c28b4d319.js" defer="defer"></script>
+<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/66231-e5fbc544a569ca6a.js" defer="defer"></script>
+<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/36600-4f87611db710da71.js" defer="defer"></script>
 <script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/33684-93c00536afad2a9e.js" defer="defer"></script>
+<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/18222-498ac30c45b2263a.js" defer="defer"></script>
+<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/96755-4b30aa134d425c76.js" defer="defer"></script>
 <script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/22895-381c5e0210588619.js" defer="defer"></script>
+<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/75674-2e114facd4804efc.js" defer="defer"></script>
+<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/1097-b805267515cb2087.js" defer="defer"></script>
+<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/8987-5c9265a0508c59d9.js" defer="defer"></script>
 <script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/5289-9250cf167b7fe748.js" defer="defer"></script>
+<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/32475-34be8bee17c828f1.js" defer="defer"></script>
+<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/41110-bf1fbe4fd0f79f3c.js" defer="defer"></script>
+<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/1144-e386a1c4758ecdda.js" defer="defer"></script>
 <script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/72825-5a547b1b4e08a8bc.js" defer="defer"></script>
+<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/42771-4ebf93dd4d342b28.js" defer="defer"></script>
+<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/66519-86fe8878b914408f.js" defer="defer"></script>
+<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/50110-4385e3caef0c7e52.js" defer="defer"></script>
+<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/26497-09a1f1b643b5d8b9.js" defer="defer"></script>
+<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/49135-908f43bfb988d283.js" defer="defer"></script>
+<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/1683-68ed9e9645c4c779.js" defer="defer"></script>
+<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/code-view-4ceabd31a75609ec.js" defer="defer"></script>
+<link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/primer-react-css.8a057b98cd8a150b.module.css" />
+<link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/code-view.54c9225c60bc1a24.module.css" />
+
+  <script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/33073-19b499126dc11486.js" defer="defer"></script>
 <script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/notifications-subscriptions-menu-08d363922a64ae24.js" defer="defer"></script>
 <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/primer-react-css.8a057b98cd8a150b.module.css" />
 <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/notifications-subscriptions-menu.bd6c994adeb63adb.module.css" />
 
 
-  <title>Stargazers · Download/ulog · GitHub</title>
+  <title>core-js/SECURITY.md at v3.35.0 · zloirock/core-js · GitHub</title>
 
 
 
-  <meta name="route-pattern" content="/:user_id/:repository/stargazers(.:format)" data-turbo-transient>
-  <meta name="route-controller" content="repositories" data-turbo-transient>
-  <meta name="route-action" content="stargazers" data-turbo-transient>
-  <meta name="fetch-nonce" content="v2:035dc1d5-6ac5-583b-997b-283be71f19c6">
+  <meta name="route-pattern" content="/:user_id/:repository/blob/*name(/*path)" data-turbo-transient>
+  <meta name="route-controller" content="blob" data-turbo-transient>
+  <meta name="route-action" content="show" data-turbo-transient>
+  <meta name="fetch-nonce" content="v2:e7b00533-3532-569c-8a55-26b3357b6814">
 
     
-  <meta name="current-catalog-service-hash" content="505a3631cbcc69b4198e2324e6cd4015c05647a2165333b8faf6274e25e2d290">
+  <meta name="current-catalog-service-hash" content="f3abb0cc802f3d7b95fc8762b94bdcb13bf39634c40c357301c4aa1d67a256fb">
 
 
-  <meta name="request-id" content="E047:21EF5E:16EF11:20F4D7:69E2927F" data-pjax-transient="true"/><meta name="html-safe-nonce" content="4d5fe7cb485c613542301e6ce7841f88aac4c87eecd37b91a5d5646c31dd152b" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiJFMDQ3OjIxRUY1RToxNkVGMTE6MjBGNEQ3OjY5RTI5MjdGIiwidmlzaXRvcl9pZCI6IjQ4OTE5ODY2NzEyNTEzOTQ4NjQiLCJyZWdpb25fZWRnZSI6ImlhZCIsInJlZ2lvbl9yZW5kZXIiOiJpYWQifQ==" data-pjax-transient="true"/><meta name="visitor-hmac" content="a28c017c3693871a73fa99495370fae1b7d542882271a7169c17c61b917b3e35" data-pjax-transient="true"/>
+  <meta name="request-id" content="E039:DA785:153CAE:1DD30F:69E29276" data-pjax-transient="true"/><meta name="html-safe-nonce" content="4d5fe7cb485c613542301e6ce7841f88aac4c87eecd37b91a5d5646c31dd152b" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiJFMDM5OkRBNzg1OjE1M0NBRToxREQzMEY6NjlFMjkyNzYiLCJ2aXNpdG9yX2lkIjoiNDg5MTk4NjY3MTI1MTM5NDg2NCIsInJlZ2lvbl9lZGdlIjoiaWFkIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9" data-pjax-transient="true"/><meta name="visitor-hmac" content="f27b3c6c17b7a7cc331bd05f67240273166a09e5406932ee6ffc1eaf060a6690" data-pjax-transient="true"/>
 
 
-    <meta name="hovercard-subject-tag" content="repository:68936919" data-turbo-transient>
+    <meta name="hovercard-subject-tag" content="repository:11481338" data-turbo-transient>
 
 
-  <meta name="github-keyboard-shortcuts" content="repository,copilot" data-turbo-transient="true" />
+  <meta name="github-keyboard-shortcuts" content="repository,source-code,file-tree,copilot" data-turbo-transient="true" />
   
 
-  <meta name="selected-link" value="/Download/ulog/stargazers" data-turbo-transient>
+  <meta name="selected-link" value="repo_source" data-turbo-transient>
   <link rel="assets" href="https://github.githubassets.com/">
 
     <meta name="google-site-verification" content="Apib7-x98H0j5cPqHWwSMm6dNU4GmODRoqxLiDzdx9I">
@@ -147,7 +173,7 @@
 
 
 
-  <meta name="analytics-location" content="/&lt;user-name&gt;/&lt;repo-name&gt;/repositories/stargazers" data-turbo-transient="true" />
+  <meta name="analytics-location" content="/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show" data-turbo-transient="true" />
 
   
 
@@ -160,18 +186,18 @@
 
     <meta name="viewport" content="width=device-width">
 
-    <meta name="robots" content="noindex, follow" />
+    
 
-      <meta name="description" content="The universal logger. Contribute to Download/ulog development by creating an account on GitHub.">
+      <meta name="description" content="Standard Library. Contribute to zloirock/core-js development by creating an account on GitHub.">
 
       <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
 
     <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
     <meta property="fb:app_id" content="1401488693436528">
-    <meta name="apple-itunes-app" content="app-id=1477376905, app-argument=https://github.com/Download/ulog/stargazers?page=2" />
+    <meta name="apple-itunes-app" content="app-id=1477376905, app-argument=https://github.com/zloirock/core-js/blob/v3.35.0/SECURITY.md" />
 
-      <meta name="twitter:image" content="https://opengraph.githubassets.com/9ae0617192a0efc29e8b9b622e0a257c02dee28c0739f039766c68a1218d085c/Download/ulog" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="Stargazers · Download/ulog" /><meta name="twitter:description" content="The universal logger. Contribute to Download/ulog development by creating an account on GitHub." />
-  <meta property="og:image" content="https://opengraph.githubassets.com/9ae0617192a0efc29e8b9b622e0a257c02dee28c0739f039766c68a1218d085c/Download/ulog" /><meta property="og:image:alt" content="The universal logger. Contribute to Download/ulog development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="Stargazers · Download/ulog" /><meta property="og:url" content="https://github.com/Download/ulog" /><meta property="og:description" content="The universal logger. Contribute to Download/ulog development by creating an account on GitHub." />
+      <meta name="twitter:image" content="https://repository-images.githubusercontent.com/11481338/9f911778-bd91-488c-ac30-c4cb061b11c1" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="core-js/SECURITY.md at v3.35.0 · zloirock/core-js" /><meta name="twitter:description" content="Standard Library. Contribute to zloirock/core-js development by creating an account on GitHub." />
+  <meta property="og:image" content="https://repository-images.githubusercontent.com/11481338/9f911778-bd91-488c-ac30-c4cb061b11c1" /><meta property="og:image:alt" content="Standard Library. Contribute to zloirock/core-js development by creating an account on GitHub." /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="core-js/SECURITY.md at v3.35.0 · zloirock/core-js" /><meta property="og:url" content="https://github.com/zloirock/core-js/blob/v3.35.0/SECURITY.md" /><meta property="og:description" content="Standard Library. Contribute to zloirock/core-js development by creating an account on GitHub." />
   
 
 
@@ -191,9 +217,13 @@
 
   <meta name="turbo-cache-control" content="no-preview" data-turbo-transient="">
 
-      <meta name="go-import" content="github.com/Download/ulog git https://github.com/Download/ulog.git">
+      <meta name="turbo-cache-control" content="no-cache" data-turbo-transient>
 
-  <meta name="octolytics-dimension-user_id" content="153391" /><meta name="octolytics-dimension-user_login" content="Download" /><meta name="octolytics-dimension-repository_id" content="68936919" /><meta name="octolytics-dimension-repository_nwo" content="Download/ulog" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="68936919" /><meta name="octolytics-dimension-repository_network_root_nwo" content="Download/ulog" />
+    <meta data-hydrostats="publish">
+
+  <meta name="go-import" content="github.com/zloirock/core-js git https://github.com/zloirock/core-js.git">
+
+  <meta name="octolytics-dimension-user_id" content="2213682" /><meta name="octolytics-dimension-user_login" content="zloirock" /><meta name="octolytics-dimension-repository_id" content="11481338" /><meta name="octolytics-dimension-repository_nwo" content="zloirock/core-js" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="11481338" /><meta name="octolytics-dimension-repository_network_root_nwo" content="zloirock/core-js" />
 
 
 
@@ -301,19 +331,19 @@
 
       <div class="d-flex flex-1 flex-order-2 text-right d-lg-none gap-2 flex-justify-end">
           <a
-            href="/login?return_to=https%3A%2F%2Fgithub.com%2FDownload%2Fulog%2Fstargazers%3Fpage%3D2"
+            href="/login?return_to=https%3A%2F%2Fgithub.com%2Fzloirock%2Fcore-js%2Fblob%2Fv3.35.0%2FSECURITY.md"
             class="HeaderMenu-link HeaderMenu-button d-inline-flex f5 no-underline border color-border-default rounded-2 px-2 py-1 color-fg-inherit js-prevent-focus-on-mobile-nav"
-            data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/Download/ulog/stargazers?page=2&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="3fbff9fc833b947508f13eb553c0819e51dd8c3c73fae99415669203faa50183"
+            data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/zloirock/core-js/blob/v3.35.0/SECURITY.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="5be69d905ad8b3461bfd24d654a106f2649cd53e69a28f0068e5cce08f8ba954"
             data-analytics-event="{&quot;category&quot;:&quot;Marketing nav&quot;,&quot;action&quot;:&quot;click to Sign in&quot;,&quot;label&quot;:&quot;ref_page:Marketing;ref_cta:Sign in;ref_loc:Header&quot;}"
           >
             Sign in
           </a>
               <div class="AppHeader-appearanceSettings">
     <react-partial-anchor>
-      <button data-target="react-partial-anchor.anchor" id="icon-button-2571fcbe-b283-4d41-9c92-4836cde5bede" aria-labelledby="tooltip-77826b93-19d2-4639-b07b-ee56f4f3897d" type="button" disabled="disabled" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium AppHeader-button HeaderMenu-link border cursor-wait">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-sliders Button-visual">
+      <button data-target="react-partial-anchor.anchor" id="icon-button-68921df6-9449-4692-a169-cd60e33df5b7" aria-labelledby="tooltip-514bb372-4323-40db-9877-6834997260f8" type="button" disabled="disabled" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium AppHeader-button HeaderMenu-link border cursor-wait">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-sliders Button-visual">
     <path d="M15 2.75a.75.75 0 0 1-.75.75h-4a.75.75 0 0 1 0-1.5h4a.75.75 0 0 1 .75.75Zm-8.5.75v1.25a.75.75 0 0 0 1.5 0v-4a.75.75 0 0 0-1.5 0V2H1.75a.75.75 0 0 0 0 1.5H6.5Zm1.25 5.25a.75.75 0 0 0 0-1.5h-6a.75.75 0 0 0 0 1.5h6ZM15 8a.75.75 0 0 1-.75.75H11.5V10a.75.75 0 1 1-1.5 0V6a.75.75 0 0 1 1.5 0v1.25h2.75A.75.75 0 0 1 15 8Zm-9 5.25v-2a.75.75 0 0 0-1.5 0v1.25H1.75a.75.75 0 0 0 0 1.5H4.5v1.25a.75.75 0 0 0 1.5 0v-2Zm9 0a.75.75 0 0 1-.75.75h-6a.75.75 0 0 1 0-1.5h6a.75.75 0 0 1 .75.75Z"></path>
 </svg>
-</button><tool-tip id="tooltip-77826b93-19d2-4639-b07b-ee56f4f3897d" for="icon-button-2571fcbe-b283-4d41-9c92-4836cde5bede" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Appearance settings</tool-tip>
+</button><tool-tip id="tooltip-514bb372-4323-40db-9877-6834997260f8" for="icon-button-68921df6-9449-4692-a169-cd60e33df5b7" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Appearance settings</tool-tip>
 
       <template data-target="react-partial-anchor.template">
         <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/primer-react-css.8a057b98cd8a150b.module.css" />
@@ -361,7 +391,7 @@
                 
 
 
-<qbsearch-input class="search-input" data-scope="repo:Download/ulog" data-custom-scopes-path="/search/custom_scopes" data-delete-custom-scopes-csrf="BbxVYe6lKa-E497w2QXGUxka-LXq5KHMDmmUyOtd2b5p0_NUY5TrxIklb_a-mzh1EJjhbw1spQ7jnSAWCI3xCA" data-max-custom-scopes="10" data-header-redesign-enabled="false" data-initial-value="" data-blackbird-suggestions-path="/search/suggestions" data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations" data-current-repository="Download/ulog" data-current-org="" data-current-owner="Download" data-logged-in="false" data-copilot-chat-enabled="false" data-nl-search-enabled="false" data-retain-scroll-position="true">
+<qbsearch-input class="search-input" data-scope="repo:zloirock/core-js" data-custom-scopes-path="/search/custom_scopes" data-delete-custom-scopes-csrf="il9hShedAbN6dEa17bDRa9_20EGOdAeacpkp1dMRIOOH6dq8qV64aLScAvv2nbzp25ZkSm2tfVlOi3zYmMJlgw" data-max-custom-scopes="10" data-header-redesign-enabled="false" data-initial-value="" data-blackbird-suggestions-path="/search/suggestions" data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations" data-current-repository="zloirock/core-js" data-current-org="" data-current-owner="zloirock" data-logged-in="false" data-copilot-chat-enabled="false" data-nl-search-enabled="false" data-retain-scroll-position="true">
   <div
     class="search-input-container search-with-dialog position-relative d-flex flex-row flex-items-center tmp-mr-4 rounded"
     data-action="click:qbsearch-input#searchInputContainerClicked"
@@ -425,7 +455,7 @@
           ></div>
           <div class="QueryBuilder-InputWrapper">
             <div aria-hidden="true" class="QueryBuilder-Sizer" data-target="query-builder.sizer"></div>
-            <input id="query-builder-test" name="query-builder-test" value="" autocomplete="off" type="text" role="combobox" spellcheck="false" aria-expanded="false" aria-describedby="validation-a5473256-225f-48d9-9518-b426b0c30dcc" data-target="query-builder.input" data-action="
+            <input id="query-builder-test" name="query-builder-test" value="" autocomplete="off" type="text" role="combobox" spellcheck="false" aria-expanded="false" aria-describedby="validation-5e2a612e-f771-4d51-9455-02648b63ae0a" data-target="query-builder.input" data-action="
           input:query-builder#inputChange
           blur:query-builder#inputBlur
           keydown:query-builder#inputKeydown
@@ -666,7 +696,7 @@
             ></ul>
 
         </div>
-      <div class="FormControl-inlineValidation" id="validation-a5473256-225f-48d9-9518-b426b0c30dcc" hidden="hidden">
+      <div class="FormControl-inlineValidation" id="validation-5e2a612e-f771-4d51-9455-02648b63ae0a" hidden="hidden">
         <span class="FormControl-inlineValidation--visual">
           <svg aria-hidden="true" height="12" viewBox="0 0 12 12" version="1.1" width="12" data-view-component="true" class="octicon octicon-alert-fill">
     <path d="M4.855.708c.5-.896 1.79-.896 2.29 0l4.675 8.351a1.312 1.312 0 0 1-1.146 1.954H1.33A1.313 1.313 0 0 1 .183 9.058ZM7 7V3H5v4Zm-1 3a1 1 0 1 0 0-2 1 1 0 0 0 0 2Z"></path>
@@ -707,7 +737,7 @@
   
 </div>
       <scrollable-region data-labelled-by="feedback-dialog-title">
-        <div data-view-component="true" class="Overlay-body">        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="code-search-feedback-form" data-turbo="false" action="/search/feedback" accept-charset="UTF-8" method="post"><input type="hidden" data-csrf="true" name="authenticity_token" value="V8hxBISBe0JCw6I+QbtPuRNcJiGH8CPbr/ma3iRXjuigqMz3akknG4ALw7H6cWa+vY0nK5tDBEzR4WDwZ+sdiw==" />
+        <div data-view-component="true" class="Overlay-body">        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="code-search-feedback-form" data-turbo="false" action="/search/feedback" accept-charset="UTF-8" method="post"><input type="hidden" data-csrf="true" name="authenticity_token" value="0+aBi7shCLc8iTwM+Y86gEg7glZo/Vm0lJQPjDbtoUIkhjx4VelU7v5BXYNCRROH5uqDXHROfiPqjPWidVEyIQ==" />
           <p>We read every piece of feedback, and take your input very seriously.</p>
           <textarea name="feedback" class="form-control width-full mb-2" style="height: 120px" id="feedback"></textarea>
           <input name="include_email" id="include_email" aria-label="Include my email address so I can be contacted" class="form-control mr-2" type="checkbox">
@@ -745,7 +775,7 @@
         <div data-view-component="true" class="Overlay-body">        <div data-target="custom-scopes.customScopesModalDialogFlash"></div>
 
         <div hidden class="create-custom-scope-form" data-target="custom-scopes.createCustomScopeForm">
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="custom-scopes-dialog-form" data-turbo="false" action="/search/custom_scopes" accept-charset="UTF-8" method="post"><input type="hidden" data-csrf="true" name="authenticity_token" value="E1CANFCDoH8S90Ihn5UTaWEgP2Dq8ZeCp0yIPrGt8QT46SzM9TD9IWkztQ/+Z8c8HLoLyadFjUzDDRFx8oM2uA==" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="custom-scopes-dialog-form" data-turbo="false" action="/search/custom_scopes" accept-charset="UTF-8" method="post"><input type="hidden" data-csrf="true" name="authenticity_token" value="GMv7G7l8cbx4DWtukmhDqTXOXWpUCvWmwbcTrGLpH6fzclfjHM8s4gPJnEDzmpf8SFRpwxm+72il9orjIcfYGw==" />
           <div data-target="custom-scopes.customScopesModalDialogFlash"></div>
 
           <input type="hidden" id="custom_scope_id" name="custom_scope_id" data-target="custom-scopes.customScopesIdField">
@@ -763,7 +793,7 @@
                 placeholder="github-ruby"
                 required
                 maxlength="50">
-              <input type="hidden" data-csrf="true" value="MEgK5xg2XgIkRRu4oCIG6ACsyEi5UGaa1Z4ePizTzevSaogMLThU1e26uDqjaq/At9OlWNcoUdJvaEOu560Yng==" />
+              <input type="hidden" data-csrf="true" value="/api+QN2KrMVhLfgwWkfdUBgLEts4cDVLOwpmnuBL6IfiOASNnggZNx7FGLCIbZd9x9BWwKZ952WGnQKsP/61w==" />
             </auto-check>
           </div>
 
@@ -805,30 +835,30 @@
 
             <div class="position-relative HeaderMenu-link-wrap d-lg-inline-block">
               <a
-                href="/login?return_to=https%3A%2F%2Fgithub.com%2FDownload%2Fulog%2Fstargazers%3Fpage%3D2"
+                href="/login?return_to=https%3A%2F%2Fgithub.com%2Fzloirock%2Fcore-js%2Fblob%2Fv3.35.0%2FSECURITY.md"
                 class="HeaderMenu-link HeaderMenu-link--sign-in HeaderMenu-button flex-shrink-0 no-underline d-none d-lg-inline-flex border border-lg-0 rounded px-2 py-1"
                 style="margin-left: 12px;"
-                data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/Download/ulog/stargazers?page=2&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="3fbff9fc833b947508f13eb553c0819e51dd8c3c73fae99415669203faa50183"
+                data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/zloirock/core-js/blob/v3.35.0/SECURITY.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="5be69d905ad8b3461bfd24d654a106f2649cd53e69a28f0068e5cce08f8ba954"
                 data-analytics-event="{&quot;category&quot;:&quot;Marketing nav&quot;,&quot;action&quot;:&quot;click to go to homepage&quot;,&quot;label&quot;:&quot;ref_page:Marketing;ref_cta:Sign in;ref_loc:Header&quot;}"
               >
                 Sign in
               </a>
             </div>
 
-              <a href="/signup?ref_cta=Sign+up&amp;ref_loc=header+logged+out&amp;ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Frepositories%2Fstargazers&amp;source=header-repo&amp;source_repo=Download%2Fulog"
+              <a href="/signup?ref_cta=Sign+up&amp;ref_loc=header+logged+out&amp;ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Fblob%2Fshow&amp;source=header-repo&amp;source_repo=zloirock%2Fcore-js"
                 class="HeaderMenu-link HeaderMenu-link--sign-up HeaderMenu-button flex-shrink-0 d-flex d-lg-inline-flex no-underline border color-border-default rounded px-2 py-1"
-                data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/Download/ulog/stargazers?page=2&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="3fbff9fc833b947508f13eb553c0819e51dd8c3c73fae99415669203faa50183"
-                data-analytics-event="{&quot;category&quot;:&quot;Sign up&quot;,&quot;action&quot;:&quot;click to sign up for account&quot;,&quot;label&quot;:&quot;ref_page:/&lt;user-name&gt;/&lt;repo-name&gt;/repositories/stargazers;ref_cta:Sign up;ref_loc:header logged out&quot;}"
+                data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/zloirock/core-js/blob/v3.35.0/SECURITY.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="5be69d905ad8b3461bfd24d654a106f2649cd53e69a28f0068e5cce08f8ba954"
+                data-analytics-event="{&quot;category&quot;:&quot;Sign up&quot;,&quot;action&quot;:&quot;click to sign up for account&quot;,&quot;label&quot;:&quot;ref_page:/&lt;user-name&gt;/&lt;repo-name&gt;/blob/show;ref_cta:Sign up;ref_loc:header logged out&quot;}"
               >
                 Sign up
               </a>
 
                 <div class="AppHeader-appearanceSettings">
     <react-partial-anchor>
-      <button data-target="react-partial-anchor.anchor" id="icon-button-f0a34a00-3b25-4250-bbc0-5ed4ba6b67be" aria-labelledby="tooltip-83b3a914-579c-444e-b119-a9fd5d294bd9" type="button" disabled="disabled" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium AppHeader-button HeaderMenu-link border cursor-wait">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-sliders Button-visual">
+      <button data-target="react-partial-anchor.anchor" id="icon-button-0e6c8b14-35a7-4576-b9df-5ee63e93ce2b" aria-labelledby="tooltip-db6af002-2233-4e3a-96d0-83103fa07d58" type="button" disabled="disabled" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium AppHeader-button HeaderMenu-link border cursor-wait">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-sliders Button-visual">
     <path d="M15 2.75a.75.75 0 0 1-.75.75h-4a.75.75 0 0 1 0-1.5h4a.75.75 0 0 1 .75.75Zm-8.5.75v1.25a.75.75 0 0 0 1.5 0v-4a.75.75 0 0 0-1.5 0V2H1.75a.75.75 0 0 0 0 1.5H6.5Zm1.25 5.25a.75.75 0 0 0 0-1.5h-6a.75.75 0 0 0 0 1.5h6ZM15 8a.75.75 0 0 1-.75.75H11.5V10a.75.75 0 1 1-1.5 0V6a.75.75 0 0 1 1.5 0v1.25h2.75A.75.75 0 0 1 15 8Zm-9 5.25v-2a.75.75 0 0 0-1.5 0v1.25H1.75a.75.75 0 0 0 0 1.5H4.5v1.25a.75.75 0 0 0 1.5 0v-2Zm9 0a.75.75 0 0 1-.75.75h-6a.75.75 0 0 1 0-1.5h6a.75.75 0 0 1 .75.75Z"></path>
 </svg>
-</button><tool-tip id="tooltip-83b3a914-579c-444e-b119-a9fd5d294bd9" for="icon-button-f0a34a00-3b25-4250-bbc0-5ed4ba6b67be" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Appearance settings</tool-tip>
+</button><tool-tip id="tooltip-db6af002-2233-4e3a-96d0-83103fa07d58" for="icon-button-0e6c8b14-35a7-4576-b9df-5ee63e93ce2b" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Appearance settings</tool-tip>
 
       <template data-target="react-partial-anchor.template">
         <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/primer-react-css.8a057b98cd8a150b.module.css" />
@@ -866,10 +896,10 @@
         <span class="js-stale-session-flash-signed-out" hidden>You signed out in another tab or window. <a class="Link--inTextBlock" href="">Reload</a> to refresh your session.</span>
         <span class="js-stale-session-flash-switched" hidden>You switched accounts on another tab or window. <a class="Link--inTextBlock" href="">Reload</a> to refresh your session.</span>
 
-    <button id="icon-button-58bb7d32-5bd7-4dc4-a947-2da2f0780aef" aria-labelledby="tooltip-afb26f39-c57d-4e70-8b0e-35d4a8ca413b" type="button" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium flash-close js-flash-close">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x Button-visual">
+    <button id="icon-button-73251508-e182-4d6c-b8e2-5fb07f8be00a" aria-labelledby="tooltip-213e40ee-d0e0-4d07-82db-6be4b92f3246" type="button" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium flash-close js-flash-close">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x Button-visual">
     <path d="M3.72 3.72a.75.75 0 0 1 1.06 0L8 6.94l3.22-3.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L9.06 8l3.22 3.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L8 9.06l-3.22 3.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L6.94 8 3.72 4.78a.75.75 0 0 1 0-1.06Z"></path>
 </svg>
-</button><tool-tip id="tooltip-afb26f39-c57d-4e70-8b0e-35d4a8ca413b" for="icon-button-58bb7d32-5bd7-4dc4-a947-2da2f0780aef" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Dismiss alert</tool-tip>
+</button><tool-tip id="tooltip-213e40ee-d0e0-4d07-82db-6be4b92f3246" for="icon-button-73251508-e182-4d6c-b8e2-5fb07f8be00a" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Dismiss alert</tool-tip>
 
 
   
@@ -927,8 +957,7 @@
         <div itemscope itemtype="http://schema.org/SoftwareSourceCode" class="">
     <main id="js-repo-pjax-container" >
       
-  
-    
+      
 
 
 
@@ -949,12 +978,12 @@
 </svg>
     
     <span class="author flex-self-stretch" itemprop="author">
-      <a class="url fn" rel="author" data-hovercard-type="user" data-hovercard-url="/users/Download/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/Download">
-        Download
+      <a class="url fn" rel="author" data-hovercard-type="user" data-hovercard-url="/users/zloirock/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/zloirock">
+        zloirock
 </a>    </span>
     <span class="mx-1 flex-self-stretch color-fg-muted">/</span>
     <strong itemprop="name" class="mr-2 flex-self-stretch">
-      <a data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" href="/Download/ulog">ulog</a>
+      <a data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" href="/zloirock/core-js">core-js</a>
     </strong>
 
     <span></span><span class="Label Label--secondary v-align-middle mr-1">Public</span>
@@ -966,31 +995,50 @@
         <div id="repository-details-container" class="flex-shrink-0" data-turbo-replace style="max-width: 70%;">
             <ul class="pagehead-actions flex-shrink-0 d-none d-md-inline" style="padding: 2px 0;">
     
+        <li>
+          <include-fragment src="/zloirock/core-js/sponsor_button" data-nonce="v2:e7b00533-3532-569c-8a55-26b3357b6814" data-view-component="true">
+  
+  <div data-show-on-forbidden-error hidden>
+    <div class="Box">
+  <div class="blankslate-container">
+    <div data-view-component="true" class="blankslate blankslate-spacious color-bg-default rounded-2">
+      
+
+      <h3 data-view-component="true" class="blankslate-heading">        Uh oh!
+</h3>
+      <p data-view-component="true" class="blankslate-description">        <p class="color-fg-muted my-2 mb-2 ws-normal">There was an error while loading. <a class="Link--inTextBlock" data-turbo="false" href="" aria-label="Please reload this page">Please reload this page</a>.</p>
+</p>
+
+</div>  </div>
+</div>  </div>
+</include-fragment>
+        </li>
+
       
 
   <li>
-            <a href="/login?return_to=%2FDownload%2Fulog" rel="nofollow" id="repository-details-watch-button" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;notification subscription menu watch&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/Download/ulog/stargazers?page=2&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="04d153ec5c90ba11fbea543e702e4e6b0a6cd92a794c1d820efc20a7ecc0f72d" aria-label="You must be signed in to change notification settings" data-view-component="true" class="btn-sm btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-bell mr-2 tmp-mr-2">
+            <a href="/login?return_to=%2Fzloirock%2Fcore-js" rel="nofollow" id="repository-details-watch-button" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;notification subscription menu watch&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/zloirock/core-js/blob/v3.35.0/SECURITY.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="a289bed8247cf432b3fb41a32cecfb8ede30f85e629b8322c42cd5be4adcba97" aria-label="You must be signed in to change notification settings" data-view-component="true" class="btn-sm btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-bell mr-2 tmp-mr-2">
     <path d="M8 16a2 2 0 0 0 1.985-1.75c.017-.137-.097-.25-.235-.25h-3.5c-.138 0-.252.113-.235.25A2 2 0 0 0 8 16ZM3 5a5 5 0 0 1 10 0v2.947c0 .05.015.098.042.139l1.703 2.555A1.519 1.519 0 0 1 13.482 13H2.518a1.516 1.516 0 0 1-1.263-2.36l1.703-2.554A.255.255 0 0 0 3 7.947Zm5-3.5A3.5 3.5 0 0 0 4.5 5v2.947c0 .346-.102.683-.294.97l-1.703 2.556a.017.017 0 0 0-.003.01l.001.006c0 .002.002.004.004.006l.006.004.007.001h10.964l.007-.001.006-.004.004-.006.001-.007a.017.017 0 0 0-.003-.01l-1.703-2.554a1.745 1.745 0 0 1-.294-.97V5A3.5 3.5 0 0 0 8 1.5Z"></path>
 </svg>Notifications
-</a>    <tool-tip id="tooltip-3446ca11-cda6-4efa-93b7-f5a330f2eed7" for="repository-details-watch-button" popover="manual" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">You must be signed in to change notification settings</tool-tip>
+</a>    <tool-tip id="tooltip-fa4b4419-2633-465f-bc4d-6733b6607084" for="repository-details-watch-button" popover="manual" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">You must be signed in to change notification settings</tool-tip>
 
   </li>
 
   <li>
-          <a icon="repo-forked" id="fork-button" href="/login?return_to=%2FDownload%2Fulog" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;repo details fork button&quot;,&quot;repository_id&quot;:68936919,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/Download/ulog/stargazers?page=2&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="4d7ec20c45b87fca82528b56375391098a9b6324c1961bccd9ef3856e6dd8cb6" data-view-component="true" class="btn-sm btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2 tmp-mr-2">
+          <a icon="repo-forked" id="fork-button" href="/login?return_to=%2Fzloirock%2Fcore-js" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;repo details fork button&quot;,&quot;repository_id&quot;:11481338,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/zloirock/core-js/blob/v3.35.0/SECURITY.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="121be6272aa7916844af6f2c02d7561fc1997615fd0e6f906dcf846a07eaff2c" data-view-component="true" class="btn-sm btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2 tmp-mr-2">
     <path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z"></path>
 </svg>Fork
-    <span id="repo-network-counter" data-pjax-replace="true" data-turbo-replace="true" title="19" data-view-component="true" class="Counter">19</span>
+    <span id="repo-network-counter" data-pjax-replace="true" data-turbo-replace="true" title="1,697" data-view-component="true" class="Counter">1.7k</span>
 </a>
   </li>
 
   <li>
         <div data-view-component="true" class="BtnGroup d-flex">
-        <a href="/login?return_to=%2FDownload%2Fulog" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:68936919,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/Download/ulog/stargazers?page=2&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="d401041b0b10819598930fbbd7a7a9b3caa30c3d77d1417e80457acd8805ba29" aria-label="You must be signed in to star a repository" data-view-component="true" class="tooltipped tooltipped-sw btn-sm btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star v-align-text-bottom d-inline-block mr-2 tmp-mr-2">
+        <a href="/login?return_to=%2Fzloirock%2Fcore-js" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:11481338,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/zloirock/core-js/blob/v3.35.0/SECURITY.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="db66a742df685f7b1a1015a585595d21c5ca0d6d4d65267fcac2bf136f55aff2" aria-label="You must be signed in to star a repository" data-view-component="true" class="tooltipped tooltipped-sw btn-sm btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star v-align-text-bottom d-inline-block mr-2 tmp-mr-2">
     <path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
 </svg><span data-view-component="true" class="d-inline">
           Star
-</span>          <span id="repo-stars-counter-star" aria-label="91 users starred this repository" data-singular-suffix="user starred this repository" data-plural-suffix="users starred this repository" data-turbo-replace="true" title="91" data-view-component="true" class="Counter js-social-count">91</span>
+</span>          <span id="repo-stars-counter-star" aria-label="25485 users starred this repository" data-singular-suffix="user starred this repository" data-plural-suffix="users starred this repository" data-turbo-replace="true" title="25,485" data-view-component="true" class="Counter js-social-count">25.5k</span>
 </a></div>
   </li>
 
@@ -1007,7 +1055,7 @@
 
   <ul data-view-component="true" class="UnderlineNav-body list-style-none">
       <li data-view-component="true" class="d-inline-flex">
-  <a id="code-tab" href="/Download/ulog" data-tab-item="i0code-tab" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages repo_deployments repo_attestations /Download/ulog" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g c" data-command-id="repositories:go-to-code" data-react-nav="code-view" data-react-nav-anchor="code-view-repo-link" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Code&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="code-tab" href="/zloirock/core-js/tree/v3.35.0" data-tab-item="i0code-tab" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages repo_deployments repo_attestations /zloirock/core-js/tree/v3.35.0" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g c" data-command-id="repositories:go-to-code" data-react-nav="code-view" data-react-nav-anchor="code-view-repo-link" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Code&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" aria-current="page" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item selected">
     
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code UnderlineNav-octicon d-none d-sm-inline">
     <path d="m11.28 3.22 4.25 4.25a.75.75 0 0 1 0 1.06l-4.25 4.25a.749.749 0 0 1-1.275-.326.749.749 0 0 1 .215-.734L13.94 8l-3.72-3.72a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215Zm-6.56 0a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042L2.06 8l3.72 3.72a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L.47 8.53a.75.75 0 0 1 0-1.06Z"></path>
@@ -1019,31 +1067,43 @@
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="issues-tab" href="/Download/ulog/issues" data-tab-item="i1issues-tab" data-selected-links="repo_issues repo_labels repo_milestones /Download/ulog/issues" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g i" data-command-id="repositories:go-to-issues" data-react-nav="issues-react" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Issues&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="issues-tab" href="/zloirock/core-js/issues" data-tab-item="i1issues-tab" data-selected-links="repo_issues repo_labels repo_milestones /zloirock/core-js/issues" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g i" data-command-id="repositories:go-to-issues" data-react-nav="issues-react" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Issues&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-issue-opened UnderlineNav-octicon d-none d-sm-inline">
     <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path><path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Z"></path>
 </svg>
         <span data-content="Issues">Issues</span>
-          <span id="issues-repo-tab-count" data-pjax-replace="" data-turbo-replace="" title="21" data-view-component="true" class="Counter">21</span>
+          <span id="issues-repo-tab-count" data-pjax-replace="" data-turbo-replace="" title="31" data-view-component="true" class="Counter">31</span>
 
 
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="pull-requests-tab" href="/Download/ulog/pulls" data-tab-item="i2pull-requests-tab" data-selected-links="repo_pulls checks /Download/ulog/pulls" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g p" data-command-id="repositories:go-to-pull-requests" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Pull requests&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="pull-requests-tab" href="/zloirock/core-js/pulls" data-tab-item="i2pull-requests-tab" data-selected-links="repo_pulls checks /zloirock/core-js/pulls" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g p" data-command-id="repositories:go-to-pull-requests" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Pull requests&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-git-pull-request UnderlineNav-octicon d-none d-sm-inline">
     <path d="M1.5 3.25a2.25 2.25 0 1 1 3 2.122v5.256a2.251 2.251 0 1 1-1.5 0V5.372A2.25 2.25 0 0 1 1.5 3.25Zm5.677-.177L9.573.677A.25.25 0 0 1 10 .854V2.5h1A2.5 2.5 0 0 1 13.5 5v5.628a2.251 2.251 0 1 1-1.5 0V5a1 1 0 0 0-1-1h-1v1.646a.25.25 0 0 1-.427.177L7.177 3.427a.25.25 0 0 1 0-.354ZM3.75 2.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm0 9.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm8.25.75a.75.75 0 1 0 1.5 0 .75.75 0 0 0-1.5 0Z"></path>
 </svg>
         <span data-content="Pull requests">Pull requests</span>
-          <span id="pull-requests-repo-tab-count" data-pjax-replace="" data-turbo-replace="" title="2" data-view-component="true" class="Counter">2</span>
+          <span id="pull-requests-repo-tab-count" data-pjax-replace="" data-turbo-replace="" title="12" data-view-component="true" class="Counter">12</span>
 
 
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="actions-tab" href="/Download/ulog/actions" data-tab-item="i3actions-tab" data-selected-links="repo_actions /Download/ulog/actions" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g a" data-command-id="repositories:go-to-actions" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Actions&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="discussions-tab" href="/zloirock/core-js/discussions" data-tab-item="i3discussions-tab" data-selected-links="repo_discussions /zloirock/core-js/discussions" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g g" data-command-id="repositories:go-to-discussions" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Discussions&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+    
+              <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-comment-discussion UnderlineNav-octicon d-none d-sm-inline">
+    <path d="M1.75 1h8.5c.966 0 1.75.784 1.75 1.75v5.5A1.75 1.75 0 0 1 10.25 10H7.061l-2.574 2.573A1.458 1.458 0 0 1 2 11.543V10h-.25A1.75 1.75 0 0 1 0 8.25v-5.5C0 1.784.784 1 1.75 1ZM1.5 2.75v5.5c0 .138.112.25.25.25h1a.75.75 0 0 1 .75.75v2.19l2.72-2.72a.749.749 0 0 1 .53-.22h3.5a.25.25 0 0 0 .25-.25v-5.5a.25.25 0 0 0-.25-.25h-8.5a.25.25 0 0 0-.25.25Zm13 2a.25.25 0 0 0-.25-.25h-.5a.75.75 0 0 1 0-1.5h.5c.966 0 1.75.784 1.75 1.75v5.5A1.75 1.75 0 0 1 14.25 12H14v1.543a1.458 1.458 0 0 1-2.487 1.03L9.22 12.28a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215l2.22 2.22v-2.19a.75.75 0 0 1 .75-.75h1a.25.25 0 0 0 .25-.25Z"></path>
+</svg>
+        <span data-content="Discussions">Discussions</span>
+          <span id="discussions-repo-tab-count" data-pjax-replace="" data-turbo-replace="" title="Not available" data-view-component="true" class="Counter"></span>
+
+
+    
+</a></li>
+      <li data-view-component="true" class="d-inline-flex">
+  <a id="actions-tab" href="/zloirock/core-js/actions" data-tab-item="i4actions-tab" data-selected-links="repo_actions /zloirock/core-js/actions" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g a" data-command-id="repositories:go-to-actions" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Actions&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-play UnderlineNav-octicon d-none d-sm-inline">
     <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm4.879-2.773 4.264 2.559a.25.25 0 0 1 0 .428l-4.264 2.559A.25.25 0 0 1 6 10.559V5.442a.25.25 0 0 1 .379-.215Z"></path>
@@ -1055,19 +1115,7 @@
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="projects-tab" href="/Download/ulog/projects" data-tab-item="i4projects-tab" data-selected-links="repo_projects new_repo_project repo_project /Download/ulog/projects" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g b" data-command-id="repositories:go-to-projects" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Projects&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
-    
-              <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-table UnderlineNav-octicon d-none d-sm-inline">
-    <path d="M0 1.75C0 .784.784 0 1.75 0h12.5C15.216 0 16 .784 16 1.75v12.5A1.75 1.75 0 0 1 14.25 16H1.75A1.75 1.75 0 0 1 0 14.25ZM6.5 6.5v8h7.75a.25.25 0 0 0 .25-.25V6.5Zm8-1.5V1.75a.25.25 0 0 0-.25-.25H6.5V5Zm-13 1.5v7.75c0 .138.112.25.25.25H5v-8ZM5 5V1.5H1.75a.25.25 0 0 0-.25.25V5Z"></path>
-</svg>
-        <span data-content="Projects">Projects</span>
-          <span id="projects-repo-tab-count" data-pjax-replace="" data-turbo-replace="" title="Not available" data-view-component="true" class="Counter"></span>
-
-
-    
-</a></li>
-      <li data-view-component="true" class="d-inline-flex">
-  <a id="security-and-quality-tab" href="/Download/ulog/security" data-tab-item="i5security-and-quality-tab" data-selected-links="security overview alerts policy token_scanning code_scanning /Download/ulog/security" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g s" data-command-id="repositories:go-to-security" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Security and quality&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="security-and-quality-tab" href="/zloirock/core-js/security" data-tab-item="i5security-and-quality-tab" data-selected-links="security overview alerts policy token_scanning code_scanning /zloirock/core-js/security" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g s" data-command-id="repositories:go-to-security" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Security and quality&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-shield UnderlineNav-octicon d-none d-sm-inline">
     <path d="M7.467.133a1.748 1.748 0 0 1 1.066 0l5.25 1.68A1.75 1.75 0 0 1 15 3.48V7c0 1.566-.32 3.182-1.303 4.682-.983 1.498-2.585 2.813-5.032 3.855a1.697 1.697 0 0 1-1.33 0c-2.447-1.042-4.049-2.357-5.032-3.855C1.32 10.182 1 8.566 1 7V3.48a1.75 1.75 0 0 1 1.217-1.667Zm.61 1.429a.25.25 0 0 0-.153 0l-5.25 1.68a.25.25 0 0 0-.174.238V7c0 1.358.275 2.666 1.057 3.86.784 1.194 2.121 2.34 4.366 3.297a.196.196 0 0 0 .154 0c2.245-.956 3.582-2.104 4.366-3.298C13.225 9.666 13.5 8.36 13.5 7V3.48a.251.251 0 0 0-.174-.237l-5.25-1.68ZM8.75 4.75v3a.75.75 0 0 1-1.5 0v-3a.75.75 0 0 1 1.5 0ZM9 10.5a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path>
@@ -1079,7 +1127,7 @@
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="insights-tab" href="/Download/ulog/pulse" data-tab-item="i6insights-tab" data-selected-links="repo_graphs repo_contributors dependency_graph dependabot_updates pulse people community /Download/ulog/pulse" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-command-id="repositories:go-to-insights" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Insights&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="insights-tab" href="/zloirock/core-js/pulse" data-tab-item="i6insights-tab" data-selected-links="repo_graphs repo_contributors dependency_graph dependabot_updates pulse people community /zloirock/core-js/pulse" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-command-id="repositories:go-to-insights" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Insights&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-graph UnderlineNav-octicon d-none d-sm-inline">
     <path d="M1.5 1.75V13.5h13.75a.75.75 0 0 1 0 1.5H.75a.75.75 0 0 1-.75-.75V1.75a.75.75 0 0 1 1.5 0Zm14.28 2.53-5.25 5.25a.75.75 0 0 1-1.06 0L7 7.06 4.28 9.78a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042l3.25-3.25a.75.75 0 0 1 1.06 0L10 7.94l4.72-4.72a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042Z"></path>
@@ -1093,22 +1141,22 @@
 </ul>
     <div style="visibility:hidden;" data-view-component="true" class="UnderlineNav-actions js-responsive-underlinenav-overflow position-absolute pr-3 tmp-pr-3 pr-md-4 tmp-pr-md-4 pr-lg-5 tmp-pr-lg-5 right-0">      <action-menu data-select-variant="none" data-view-component="true">
   <focus-group direction="vertical" mnemonics retain>
-    <button id="action-menu-19c29f7b-614d-4b08-9480-c0f138040996-button" popovertarget="action-menu-19c29f7b-614d-4b08-9480-c0f138040996-overlay" aria-controls="action-menu-19c29f7b-614d-4b08-9480-c0f138040996-list" aria-haspopup="true" aria-labelledby="tooltip-b5bd8070-459a-48eb-a038-514da621065c" type="button" data-view-component="true" class="Button Button--iconOnly Button--secondary Button--medium UnderlineNav-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal Button-visual">
+    <button id="action-menu-d8e29704-14c2-41b6-8242-893eaef23736-button" popovertarget="action-menu-d8e29704-14c2-41b6-8242-893eaef23736-overlay" aria-controls="action-menu-d8e29704-14c2-41b6-8242-893eaef23736-list" aria-haspopup="true" aria-labelledby="tooltip-b3978957-f4e9-4272-8cad-f79bbcb5f915" type="button" data-view-component="true" class="Button Button--iconOnly Button--secondary Button--medium UnderlineNav-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal Button-visual">
     <path d="M8 9a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3ZM1.5 9a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Zm13 0a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path>
 </svg>
-</button><tool-tip id="tooltip-b5bd8070-459a-48eb-a038-514da621065c" for="action-menu-19c29f7b-614d-4b08-9480-c0f138040996-button" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Additional navigation options</tool-tip>
+</button><tool-tip id="tooltip-b3978957-f4e9-4272-8cad-f79bbcb5f915" for="action-menu-d8e29704-14c2-41b6-8242-893eaef23736-button" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Additional navigation options</tool-tip>
 
 
-<anchored-position data-target="action-menu.overlay" id="action-menu-19c29f7b-614d-4b08-9480-c0f138040996-overlay" anchor="action-menu-19c29f7b-614d-4b08-9480-c0f138040996-button" align="start" side="outside-bottom" anchor-offset="normal" popover="auto" data-view-component="true">
+<anchored-position data-target="action-menu.overlay" id="action-menu-d8e29704-14c2-41b6-8242-893eaef23736-overlay" anchor="action-menu-d8e29704-14c2-41b6-8242-893eaef23736-button" align="start" side="outside-bottom" anchor-offset="normal" popover="auto" data-view-component="true">
   <div data-view-component="true" class="Overlay Overlay--size-auto">
     
       <div data-view-component="true" class="Overlay-body Overlay-body--paddingNone">          <action-list>
   <div data-view-component="true">
-    <ul aria-labelledby="action-menu-19c29f7b-614d-4b08-9480-c0f138040996-button" id="action-menu-19c29f7b-614d-4b08-9480-c0f138040996-list" role="menu" data-view-component="true" class="ActionListWrap--inset ActionListWrap">
+    <ul aria-labelledby="action-menu-d8e29704-14c2-41b6-8242-893eaef23736-button" id="action-menu-d8e29704-14c2-41b6-8242-893eaef23736-list" role="menu" data-view-component="true" class="ActionListWrap--inset ActionListWrap">
         <li hidden="hidden" data-menu-item="i0code-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
     
-    <a tabindex="-1" id="item-ad463f07-e4cc-4b6e-925b-7d17b0a9c124" href="/Download/ulog" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-2788437d-8f49-447e-a88c-98ab42ac0518" href="/zloirock/core-js/tree/v3.35.0" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
     <path d="m11.28 3.22 4.25 4.25a.75.75 0 0 1 0 1.06l-4.25 4.25a.749.749 0 0 1-1.275-.326.749.749 0 0 1 .215-.734L13.94 8l-3.72-3.72a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215Zm-6.56 0a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042L2.06 8l3.72 3.72a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L.47 8.53a.75.75 0 0 1 0-1.06Z"></path>
@@ -1124,7 +1172,7 @@
         <li hidden="hidden" data-menu-item="i1issues-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
     
-    <a tabindex="-1" id="item-6d9ce971-2f32-471f-b33c-4e2428098689" href="/Download/ulog/issues" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-62c83160-0557-40a6-a632-6c2fa7786862" href="/zloirock/core-js/issues" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-issue-opened">
     <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path><path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Z"></path>
@@ -1140,7 +1188,7 @@
         <li hidden="hidden" data-menu-item="i2pull-requests-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
     
-    <a tabindex="-1" id="item-e9c87207-89be-47b7-a19f-022cb055de91" href="/Download/ulog/pulls" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-abd903ae-795f-4c2d-b77f-afef9249ba57" href="/zloirock/core-js/pulls" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-git-pull-request">
     <path d="M1.5 3.25a2.25 2.25 0 1 1 3 2.122v5.256a2.251 2.251 0 1 1-1.5 0V5.372A2.25 2.25 0 0 1 1.5 3.25Zm5.677-.177L9.573.677A.25.25 0 0 1 10 .854V2.5h1A2.5 2.5 0 0 1 13.5 5v5.628a2.251 2.251 0 1 1-1.5 0V5a1 1 0 0 0-1-1h-1v1.646a.25.25 0 0 1-.427.177L7.177 3.427a.25.25 0 0 1 0-.354ZM3.75 2.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm0 9.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm8.25.75a.75.75 0 1 0 1.5 0 .75.75 0 0 0-1.5 0Z"></path>
@@ -1153,10 +1201,26 @@
 </a>
   
 </li>
-        <li hidden="hidden" data-menu-item="i3actions-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
+        <li hidden="hidden" data-menu-item="i3discussions-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
     
-    <a tabindex="-1" id="item-cb0e4434-7231-4a7b-995a-0c5b53065020" href="/Download/ulog/actions" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-609b428e-8f4a-485e-b39f-6c618b7a7be2" href="/zloirock/core-js/discussions" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+        <span class="ActionListItem-visual ActionListItem-visual--leading">
+          <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-comment-discussion">
+    <path d="M1.75 1h8.5c.966 0 1.75.784 1.75 1.75v5.5A1.75 1.75 0 0 1 10.25 10H7.061l-2.574 2.573A1.458 1.458 0 0 1 2 11.543V10h-.25A1.75 1.75 0 0 1 0 8.25v-5.5C0 1.784.784 1 1.75 1ZM1.5 2.75v5.5c0 .138.112.25.25.25h1a.75.75 0 0 1 .75.75v2.19l2.72-2.72a.749.749 0 0 1 .53-.22h3.5a.25.25 0 0 0 .25-.25v-5.5a.25.25 0 0 0-.25-.25h-8.5a.25.25 0 0 0-.25.25Zm13 2a.25.25 0 0 0-.25-.25h-.5a.75.75 0 0 1 0-1.5h.5c.966 0 1.75.784 1.75 1.75v5.5A1.75 1.75 0 0 1 14.25 12H14v1.543a1.458 1.458 0 0 1-2.487 1.03L9.22 12.28a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215l2.22 2.22v-2.19a.75.75 0 0 1 .75-.75h1a.25.25 0 0 0 .25-.25Z"></path>
+</svg>
+        </span>
+      
+        <span data-view-component="true" class="ActionListItem-label">
+          Discussions
+</span>      
+</a>
+  
+</li>
+        <li hidden="hidden" data-menu-item="i4actions-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
+    
+    
+    <a tabindex="-1" id="item-193e4f2c-afbf-44a2-ba22-b5b0fdade37e" href="/zloirock/core-js/actions" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-play">
     <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm4.879-2.773 4.264 2.559a.25.25 0 0 1 0 .428l-4.264 2.559A.25.25 0 0 1 6 10.559V5.442a.25.25 0 0 1 .379-.215Z"></path>
@@ -1169,26 +1233,10 @@
 </a>
   
 </li>
-        <li hidden="hidden" data-menu-item="i4projects-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
-    
-    
-    <a tabindex="-1" id="item-a3840a06-0963-40f6-8b44-fcecd7c720cc" href="/Download/ulog/projects" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
-        <span class="ActionListItem-visual ActionListItem-visual--leading">
-          <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-table">
-    <path d="M0 1.75C0 .784.784 0 1.75 0h12.5C15.216 0 16 .784 16 1.75v12.5A1.75 1.75 0 0 1 14.25 16H1.75A1.75 1.75 0 0 1 0 14.25ZM6.5 6.5v8h7.75a.25.25 0 0 0 .25-.25V6.5Zm8-1.5V1.75a.25.25 0 0 0-.25-.25H6.5V5Zm-13 1.5v7.75c0 .138.112.25.25.25H5v-8ZM5 5V1.5H1.75a.25.25 0 0 0-.25.25V5Z"></path>
-</svg>
-        </span>
-      
-        <span data-view-component="true" class="ActionListItem-label">
-          Projects
-</span>      
-</a>
-  
-</li>
         <li hidden="hidden" data-menu-item="i5security-and-quality-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
     
-    <a tabindex="-1" id="item-cb820c92-7584-4e0e-be11-16d494f2db6b" href="/Download/ulog/security" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-d49738c9-cd30-4e74-ad50-a094b5a4146a" href="/zloirock/core-js/security" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-shield">
     <path d="M7.467.133a1.748 1.748 0 0 1 1.066 0l5.25 1.68A1.75 1.75 0 0 1 15 3.48V7c0 1.566-.32 3.182-1.303 4.682-.983 1.498-2.585 2.813-5.032 3.855a1.697 1.697 0 0 1-1.33 0c-2.447-1.042-4.049-2.357-5.032-3.855C1.32 10.182 1 8.566 1 7V3.48a1.75 1.75 0 0 1 1.217-1.667Zm.61 1.429a.25.25 0 0 0-.153 0l-5.25 1.68a.25.25 0 0 0-.174.238V7c0 1.358.275 2.666 1.057 3.86.784 1.194 2.121 2.34 4.366 3.297a.196.196 0 0 0 .154 0c2.245-.956 3.582-2.104 4.366-3.298C13.225 9.666 13.5 8.36 13.5 7V3.48a.251.251 0 0 0-.174-.237l-5.25-1.68ZM8.75 4.75v3a.75.75 0 0 1-1.5 0v-3a.75.75 0 0 1 1.5 0ZM9 10.5a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path>
@@ -1204,7 +1252,7 @@
         <li hidden="hidden" data-menu-item="i6insights-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
     
-    <a tabindex="-1" id="item-0565fe1d-d4e0-4d8d-b2c3-4adaa6537fe8" href="/Download/ulog/pulse" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-340936ec-6cc5-4da4-9cf1-82e7f8370ffc" href="/zloirock/core-js/pulse" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-graph">
     <path d="M1.5 1.75V13.5h13.75a.75.75 0 0 1 0 1.5H.75a.75.75 0 0 1-.75-.75V1.75a.75.75 0 0 1 1.5 0Zm14.28 2.53-5.25 5.25a.75.75 0 0 1-1.06 0L7 7.06 4.28 9.78a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042l3.25-3.25a.75.75 0 0 1 1.06 0L10 7.94l4.72-4.72a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042Z"></path>
@@ -1240,873 +1288,44 @@
 
     
       
-  <div class="clearfix container-xl tmp-px-3 tmp-px-md-4 tmp-px-lg-5 tmp-mt-4" id="repos" data-hpc>
-    <div data-view-component="true" class="Subhead">
-  <h1 data-view-component="true" class="Subhead-heading Subhead-heading--large">        Stargazers
-</h1>
+    
+
+
+
+
+
+
+
+
+<react-app
+  app-name="code-view"
+  initial-path="/zloirock/core-js/blob/v3.35.0/SECURITY.md"
+  style="display: block; min-height: calc(100vh - 64px);"
+  data-attempted-ssr="true"
+  data-ssr="true"
+  data-lazy="false"
+  data-alternate="false"
+  data-data-router-enabled="true"
+  data-react-profiling="false"
+>
   
-  
-</div>    <div class="tabnav">
-  <nav class="tabnav-tabs" aria-label="Stargazers">
-      <a class="js-selected-navigation-item selected tabnav-tab" aria-current="page" data-selected-links="stargazers_main /Download/ulog/stargazers" href="/Download/ulog/stargazers">
-      All <span title="91" data-view-component="true" class="Counter">91</span>
-</a>      <a class="js-selected-navigation-item tabnav-tab" data-selected-links="stargazers_you_know /Download/ulog/stargazers/you_know" href="/Download/ulog/stargazers/you_know">
-      You know
-</a>  </nav>
-</div>
+  <script type="application/json" data-target="react-app.embeddedData">{"payload":{"codeViewBlobRoute":{"csv":null,"csvError":null,"headerInfo":{"toc":[{"level":1,"text":"Security Policy","anchor":"security-policy","htmlText":"Security Policy"},{"level":2,"text":"Supported Versions","anchor":"supported-versions","htmlText":"Supported Versions"},{"level":2,"text":"Reporting a Vulnerability","anchor":"reporting-a-vulnerability","htmlText":"Reporting a Vulnerability"}]},"issueTemplate":null,"discussionTemplate":null,"richText":"\u003carticle class=\"markdown-body entry-content container-lg\" itemprop=\"text\"\u003e\u003cdiv class=\"markdown-heading\" dir=\"auto\"\u003e\u003ch1 tabindex=\"-1\" class=\"heading-element\" dir=\"auto\"\u003eSecurity Policy\u003c/h1\u003e\u003ca id=\"user-content-security-policy\" class=\"anchor\" aria-label=\"Permalink: Security Policy\" href=\"#security-policy\"\u003e\u003csvg class=\"octicon octicon-link\" viewBox=\"0 0 16 16\" version=\"1.1\" width=\"16\" height=\"16\" aria-hidden=\"true\"\u003e\u003cpath d=\"m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z\"\u003e\u003c/path\u003e\u003c/svg\u003e\u003c/a\u003e\u003c/div\u003e\n\u003cdiv class=\"markdown-heading\" dir=\"auto\"\u003e\u003ch2 tabindex=\"-1\" class=\"heading-element\" dir=\"auto\"\u003eSupported Versions\u003c/h2\u003e\u003ca id=\"user-content-supported-versions\" class=\"anchor\" aria-label=\"Permalink: Supported Versions\" href=\"#supported-versions\"\u003e\u003csvg class=\"octicon octicon-link\" viewBox=\"0 0 16 16\" version=\"1.1\" width=\"16\" height=\"16\" aria-hidden=\"true\"\u003e\u003cpath d=\"m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z\"\u003e\u003c/path\u003e\u003c/svg\u003e\u003c/a\u003e\u003c/div\u003e\n\u003cp dir=\"auto\"\u003eThe \u003ca href=\"https://github.com/zloirock/core-js/releases\"\u003elatest released version\u003c/a\u003e of \u003ccode\u003ecore-js\u003c/code\u003e is supported.\u003c/p\u003e\n\u003cdiv class=\"markdown-heading\" dir=\"auto\"\u003e\u003ch2 tabindex=\"-1\" class=\"heading-element\" dir=\"auto\"\u003eReporting a Vulnerability\u003c/h2\u003e\u003ca id=\"user-content-reporting-a-vulnerability\" class=\"anchor\" aria-label=\"Permalink: Reporting a Vulnerability\" href=\"#reporting-a-vulnerability\"\u003e\u003csvg class=\"octicon octicon-link\" viewBox=\"0 0 16 16\" version=\"1.1\" width=\"16\" height=\"16\" aria-hidden=\"true\"\u003e\u003cpath d=\"m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z\"\u003e\u003c/path\u003e\u003c/svg\u003e\u003c/a\u003e\u003c/div\u003e\n\u003cp dir=\"auto\"\u003eTo report a vulnerability please send an email with the details to \u003ca href=\"mailto:zloirock@zloirock.ru\"\u003ezloirock@zloirock.ru\u003c/a\u003e.\nThis will help us to assess the risk and start the necessary steps.\u003c/p\u003e\n\u003cp dir=\"auto\"\u003eThanks for helping to keep \u003ccode\u003ecore-js\u003c/code\u003e secure!\u003c/p\u003e\n\u003c/article\u003e","richTextTruncated":false,"renderedFileInfo":null,"symbols":{"timed_out":false,"not_analyzed":false,"symbols":[{"name":"Security Policy","kind":"section_1","ident_start":2,"ident_end":17,"extent_start":0,"extent_end":380,"fully_qualified_name":"Security Policy","ident_utf16":{"start":{"line_number":0,"utf16_col":2},"end":{"line_number":0,"utf16_col":17}},"extent_utf16":{"start":{"line_number":0,"utf16_col":0},"end":{"line_number":12,"utf16_col":0}}},{"name":"Supported Versions","kind":"section_2","ident_start":22,"ident_end":40,"extent_start":19,"extent_end":146,"fully_qualified_name":"Supported Versions","ident_utf16":{"start":{"line_number":2,"utf16_col":3},"end":{"line_number":2,"utf16_col":21}},"extent_utf16":{"start":{"line_number":2,"utf16_col":0},"end":{"line_number":6,"utf16_col":0}}},{"name":"Reporting a Vulnerability","kind":"section_2","ident_start":149,"ident_end":174,"extent_start":146,"extent_end":380,"fully_qualified_name":"Reporting a Vulnerability","ident_utf16":{"start":{"line_number":6,"utf16_col":3},"end":{"line_number":6,"utf16_col":28}},"extent_utf16":{"start":{"line_number":6,"utf16_col":0},"end":{"line_number":12,"utf16_col":0}}}]}},"codeViewLayoutRoute":{"repo":{"id":11481338,"defaultBranch":"master","name":"core-js","ownerLogin":"zloirock","currentUserCanPush":false,"isFork":false,"isEmpty":false,"createdAt":"2013-07-17T16:32:27.000Z","ownerAvatar":"https://avatars.githubusercontent.com/u/2213682?v=4","public":true,"private":false,"isOrgOwned":false},"currentUser":null,"uploadToken":"vS1SLUHLDwRiusiEkzpa_PUDycGir_f4FLjcBO-Gpg8ejEY-CoI9lg2PAeuAI2gihDs8AAIgALYnPHduWBysrg","allShortcutsEnabled":false,"treeExpanded":true,"path":"SECURITY.md","symbolsExpanded":false,"refInfo":{"name":"v3.35.0","listCacheKey":"v0:1775672924.0","canEdit":false,"currentOid":"eafff6c0ec7738adb005b1186503e527180f4ece"},"helpUrl":"https://docs.github.com","findFileWorkerPath":"/assets-cdn/worker/find-file-worker-4e5d7136862a2a48.js","findInFileWorkerPath":"/assets-cdn/worker/find-in-file-worker-9be48adcc2a72b93.js","githubDevUrl":null},"codeViewFileTreeLayoutRoute":{"fileTree":{"":{"items":[{"name":".github","path":".github","contentType":"directory"},{"name":"deno","path":"deno","contentType":"directory"},{"name":"docs","path":"docs","contentType":"directory"},{"name":"packages","path":"packages","contentType":"directory"},{"name":"scripts","path":"scripts","contentType":"directory"},{"name":"tests","path":"tests","contentType":"directory"},{"name":".gitattributes","path":".gitattributes","contentType":"file"},{"name":".gitignore","path":".gitignore","contentType":"file"},{"name":".npmrc","path":".npmrc","contentType":"file"},{"name":"CHANGELOG.md","path":"CHANGELOG.md","contentType":"file"},{"name":"CONTRIBUTING.md","path":"CONTRIBUTING.md","contentType":"file"},{"name":"LICENSE","path":"LICENSE","contentType":"file"},{"name":"README.md","path":"README.md","contentType":"file"},{"name":"SECURITY.md","path":"SECURITY.md","contentType":"file"},{"name":"babel.config.js","path":"babel.config.js","contentType":"file"},{"name":"package-lock.json","path":"package-lock.json","contentType":"file"},{"name":"package.json","path":"package.json","contentType":"file"}],"totalCount":17}},"fileTreeProcessingTime":3.3578509999999997,"foldersToFetch":[]},"codeViewBlobLayoutRoute":{"codeLineWrapEnabled":false,"refInfo":{"name":"v3.35.0","listCacheKey":"v0:1775672924.0","canEdit":false,"refType":"tag","currentOid":"eafff6c0ec7738adb005b1186503e527180f4ece","canEditOnDefaultBranch":false,"fileExistsOnDefault":true},"path":"SECURITY.md","blob":{"copilotSWEAgentEnabled":false,"dependabotInfo":{"showConfigurationBanner":false,"configFilePath":null,"networkDependabotPath":"/zloirock/core-js/network/updates","dismissConfigurationNoticePath":"/settings/dismiss-notice/dependabot_configuration_notice","configurationNoticeDismissed":null},"displayName":"SECURITY.md","displayUrl":"https://github.com/zloirock/core-js/blob/v3.35.0/SECURITY.md?raw=true","headerInfo":{"blobSize":"380 Bytes","deleteTooltip":"You must be signed in to make or propose changes","editTooltip":"You must be signed in to make or propose changes","ghDesktopPath":null,"isGitLfs":false,"onBranch":false,"shortPath":"4c01330","siteNavLoginPath":"/login?return_to=https%3A%2F%2Fgithub.com%2Fzloirock%2Fcore-js%2Fblob%2Fv3.35.0%2FSECURITY.md","isCSV":false,"isRichtext":true,"lineInfo":{"truncatedLoc":"12","truncatedSloc":"7"},"mode":"file"},"image":false,"isCodeownersFile":null,"isPlain":false,"isValidLegacyIssueTemplate":false,"isIssueTemplate":false,"isDiscussionTemplate":false,"language":"Markdown","languageID":222,"large":false,"planSupportInfo":{"repoIsFork":null,"repoOwnedByCurrentUser":null,"requestFullPath":"/zloirock/core-js/blob/v3.35.0/SECURITY.md","showFreeOrgGatedFeatureMessage":null,"showPlanSupportBanner":null,"upgradeDataAttributes":null,"upgradePath":null},"publishBannersInfo":{"dismissActionNoticePath":"/settings/dismiss-notice/publish_action_from_dockerfile","releasePath":"/zloirock/core-js/releases/new?marketplace=true","showPublishActionBanner":false},"rawBlobUrl":"https://github.com/zloirock/core-js/raw/refs/tags/v3.35.0/SECURITY.md","renderImageOrRaw":false,"shortPath":null,"symbolsEnabled":true,"tabSize":4,"topBannersInfo":{"overridingGlobalFundingFile":false,"globalPreferredFundingPath":null,"showInvalidCitationWarning":false,"citationHelpUrl":"https://docs.github.com/github/creating-cloning-and-archiving-repositories/creating-a-repository-on-github/about-citation-files","actionsOnboardingTip":null},"truncated":false,"viewable":true,"workflowRedirectUrl":null},"copilotInfo":null,"copilotAccessAllowed":false,"copilotSpacesEnabled":false,"modelsAccessAllowed":false,"modelsRepoIntegrationEnabled":false,"isMarketplaceEnabled":true},"codeViewBlobLayoutRoute.StyledBlob":{"rawLines":["# Security Policy","","## Supported Versions","","The [latest released version](https://github.com/zloirock/core-js/releases) of `core-js` is supported.","","## Reporting a Vulnerability","","To report a vulnerability please send an email with the details to zloirock@zloirock.ru. ","This will help us to assess the risk and start the necessary steps.","","Thanks for helping to keep `core-js` secure!"],"stylingDirectives":[[[0,17,"pl-mh"],[2,17,"pl-en"]],[],[[0,21,"pl-mh"],[3,21,"pl-en"]],[],[[4,5,"pl-s"],[28,29,"pl-s"],[29,30,"pl-s"],[30,74,"pl-corl"],[74,75,"pl-s"],[79,80,"pl-s"],[80,87,"pl-c1"],[87,88,"pl-s"]],[],[[0,28,"pl-mh"],[3,28,"pl-en"]],[],[[67,87,"pl-corl"]],[],[],[[27,28,"pl-s"],[28,35,"pl-c1"],[35,36,"pl-s"]]],"colorizedLines":null}},"title":"core-js/SECURITY.md at v3.35.0 · zloirock/core-js","appPayload":{},"meta":{"title":"core-js/SECURITY.md at v3.35.0 · zloirock/core-js"}}</script>
+  <div data-target="react-app.reactRoot"><meta name="github-code-view-meta-stats" id="github-code-view-meta-stats" data-hydrostats="publish"/> <!-- --> <a hidden="" id="code-view-repo-link" href="/zloirock/core-js" data-discover="true"></a> <div class="d-none"></div><div><div style="--spacing:var(--spacing-none)" class="prc-PageLayout-PageLayoutRoot--KH-d"><div class="prc-PageLayout-PageLayoutWrapper-2BhU2" data-width="full"><div class="prc-PageLayout-PageLayoutContent-BneH9"><div class="CodeViewFileTreeLayout-module__sidebar__n_Aau" tabindex="0"><div class="prc-PageLayout-PaneWrapper-pHPop ReposFileTreePane-module__Pane__rBZpI ReposFileTreePane-module__HideTree__AYZnm ReposFileTreePane-module__HidePane__VHAVt" style="--offset-header:0px;--spacing-row:var(--spacing-none);--spacing-column:var(--spacing-none)" data-is-hidden="false" data-position="start" data-sticky="true"><div class="prc-PageLayout-HorizontalDivider-JLVqp prc-PageLayout-PaneHorizontalDivider-9tbnE" data-variant-regular="none" data-variant-narrow="none" data-position="start" style="--spacing-divider:var(--spacing-none);--spacing:var(--spacing-none)"></div><div class="prc-PageLayout-Pane-AyzHK" data-resizable="true" style="--spacing:var(--spacing-none);--pane-min-width:256px;--pane-max-width:calc(100vw - var(--pane-max-width-diff));--pane-width-size:var(--pane-width-large);--pane-width:320px"></div><div class="prc-PageLayout-VerticalDivider-9QRmK prc-PageLayout-PaneVerticalDivider-le57g" data-variant-narrow="none" data-variant-regular="line" data-variant-wide="line" data-position="start" style="--spacing:var(--spacing-none)"><div class="prc-PageLayout-DraggableHandle-9s6B4" role="slider" aria-label="Draggable pane splitter" aria-valuemin="256" aria-valuemax="600" aria-valuenow="320" aria-valuetext="Pane width 320 pixels" tabindex="0"></div></div></div></div><div class="prc-PageLayout-ContentWrapper-gR9eG"><div class="prc-PageLayout-Content-xWL-A" data-width="full" style="--spacing:var(--spacing-none)"><div class="SharedPageLayout-module__content__IwGAp" data-selector="repos-split-pane-content" tabindex="0"> <!-- --> <div class="container CodeViewHeader-module__Box__JkPOb"><div class="CodeViewHeader-module__StickyHeader__Qn7UN" id="StickyHeader"><div class="CodeViewHeader-module__Box_1__SbNDV"><div class="CodeViewHeader-module__Box_2__TB46f"><div class="react-code-view-header-wrap--narrow CodeViewHeader-module__Box_3__q1zUL"><div class="CodeViewHeader-module__treeToggleWrapper__RQ__9"><h2 class="use-tree-pane-module__Heading__s4QbZ prc-Heading-Heading-MtWFE"><button type="button" aria-label="Expand file tree" data-testid="expand-file-tree-button-mobile" class="prc-Button-ButtonBase-9n-Xk ExpandFileTreeButton-module__Button_1__Svs95" data-loading="false" data-size="medium" data-variant="invisible"><span data-component="buttonContent" data-align="center" class="prc-Button-ButtonContent-Iohp5"><span data-component="leadingVisual" class="prc-Button-Visual-YNt2F prc-Button-VisualWrap-E4cnq"><svg aria-hidden="true" focusable="false" class="octicon octicon-arrow-left" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M7.78 12.53a.75.75 0 0 1-1.06 0L2.47 8.28a.75.75 0 0 1 0-1.06l4.25-4.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042L4.81 7h7.44a.75.75 0 0 1 0 1.5H4.81l2.97 2.97a.75.75 0 0 1 0 1.06Z"></path></svg></span><span data-component="text" class="prc-Button-Label-FWkx3">Files</span></span></button><button data-component="IconButton" type="button" data-testid="expand-file-tree-button" aria-controls="repos-file-tree" class="prc-Button-ButtonBase-9n-Xk position-relative ExpandFileTreeButton-module__expandButton__hDOcv ExpandFileTreeButton-module__filesButtonBreakpoint__zEvz3 fgColor-muted prc-Button-IconButton-fyge7" data-loading="false" data-no-visuals="true" data-size="medium" data-variant="invisible" aria-labelledby="_R_2aql3al1d_"><svg aria-hidden="true" focusable="false" class="octicon octicon-sidebar-collapse" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M6.823 7.823a.25.25 0 0 1 0 .354l-2.396 2.396A.25.25 0 0 1 4 10.396V5.604a.25.25 0 0 1 .427-.177Z"></path><path d="M1.75 0h12.5C15.216 0 16 .784 16 1.75v12.5A1.75 1.75 0 0 1 14.25 16H1.75A1.75 1.75 0 0 1 0 14.25V1.75C0 .784.784 0 1.75 0ZM1.5 1.75v12.5c0 .138.112.25.25.25H9.5v-13H1.75a.25.25 0 0 0-.25.25ZM11 14.5h3.25a.25.25 0 0 0 .25-.25V1.75a.25.25 0 0 0-.25-.25H11Z"></path></svg></button><span class="prc-TooltipV2-Tooltip-tLeuB" data-direction="se" aria-hidden="true" id="_R_2aql3al1d_">Expand file tree</span><div class="d-none"></div></h2></div><div class="react-code-view-header-mb--narrow mr-2"><button type="button" aria-haspopup="true" aria-expanded="false" tabindex="0" aria-label="v3.35.0 branch" data-testid="anchor-button" data-icv-name="Switch branches/tags" class="prc-Button-ButtonBase-9n-Xk ref-selector-class RefSelectorAnchoredOverlay-module__RefSelectorOverlayBtn__a3WK3" data-loading="false" data-size="medium" data-variant="default" id="ref-picker-repos-header-ref-selector-wide"><span data-component="buttonContent" data-align="center" class="prc-Button-ButtonContent-Iohp5"><span data-component="text" class="prc-Button-Label-FWkx3"><div class="RefSelectorAnchoredOverlay-module__RefSelectorOverlayContainer__yaf4p"><div class="RefSelectorAnchoredOverlay-module__RefSelectorOverlayHeader__XtXRG"><svg aria-hidden="true" focusable="false" class="octicon octicon-git-branch" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M9.5 3.25a2.25 2.25 0 1 1 3 2.122V6A2.5 2.5 0 0 1 10 8.5H6a1 1 0 0 0-1 1v1.128a2.251 2.251 0 1 1-1.5 0V5.372a2.25 2.25 0 1 1 1.5 0v1.836A2.493 2.493 0 0 1 6 7h4a1 1 0 0 0 1-1v-.628A2.25 2.25 0 0 1 9.5 3.25Zm-6 0a.75.75 0 1 0 1.5 0 .75.75 0 0 0-1.5 0Zm8.25-.75a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5ZM4.25 12a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Z"></path></svg></div><div style="max-width:125px" class="ref-selector-button-text-container RefSelectorAnchoredOverlay-module__RefSelectorBtnTextContainer__Di3rk"><span class="RefSelectorAnchoredOverlay-module__RefSelectorText__w_fmP"> <!-- -->v3.35.0</span></div></div></span><span data-component="trailingVisual" class="prc-Button-Visual-YNt2F prc-Button-VisualWrap-E4cnq"><svg aria-hidden="true" focusable="false" class="octicon octicon-triangle-down" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="m4.427 7.427 3.396 3.396a.25.25 0 0 0 .354 0l3.396-3.396A.25.25 0 0 0 11.396 7H4.604a.25.25 0 0 0-.177.427Z"></path></svg></span></span></button><div class="d-none"></div></div><div class="react-code-view-header-mb--narrow CodeViewHeader-module__Box_5__MQ0hL"><div class="Breadcrumb-module__container__Vxvev Breadcrumb-module__lg__Rjz0A"><nav data-testid="breadcrumbs" aria-labelledby="repos-header-breadcrumb-heading" id="repos-header-breadcrumb" class="Breadcrumb-module__nav__rQFDj"><h2 class="sr-only ScreenReaderHeading-module__userSelectNone__rwWIk prc-Heading-Heading-MtWFE" data-testid="screen-reader-heading" id="repos-header-breadcrumb-heading">Breadcrumbs</h2><ol class="Breadcrumb-module__list__ZH6zr"><li class="Breadcrumb-module__listItem__Ib0x_"><a class="Breadcrumb-module__repoLink__O2Nbs prc-Link-Link-9ZwDx" data-testid="breadcrumbs-repo-link" href="/zloirock/core-js/tree/v3.35.0" data-discover="true">core-js</a></li></ol></nav><div data-testid="breadcrumbs-filename" class="Breadcrumb-module__filename__equZR"><span class="Breadcrumb-module__separator__eNwsI Breadcrumb-module__lg__Rjz0A" aria-hidden="true">/</span><h1 class="Breadcrumb-module__filenameHeading__MNMtw Breadcrumb-module__lg__Rjz0A prc-Heading-Heading-MtWFE" tabindex="-1" id="file-name-id">SECURITY.md</h1></div><button data-component="IconButton" type="button" class="prc-Button-ButtonBase-9n-Xk ml-2 prc-Button-IconButton-fyge7" data-loading="false" data-no-visuals="true" data-size="small" data-variant="invisible" aria-labelledby="_R_3qql3al1d_"><svg aria-hidden="true" focusable="false" class="octicon octicon-copy" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path></svg></button><span class="CopyToClipboardButton-module__tooltip__BhMvU prc-TooltipV2-Tooltip-tLeuB" data-direction="nw" aria-label="Copy path" aria-hidden="true" id="_R_3qql3al1d_">Copy path</span></div></div></div><div class="react-code-view-header-element--wide"><div class="CodeViewHeader-module__Box_7___0R6c"><div class="d-flex gap-2"><div><div class="CodeViewHeader-module__FileResultsList__JDzUy"><span class="d-flex FileResultsList-module__FilesSearchBox__ivVkc TextInput-wrapper prc-components-TextInputWrapper-Hpdqi prc-components-TextInputBaseWrapper-wY-n0" data-leading-visual="true" data-trailing-visual="true" aria-busy="false"><span class="TextInput-icon" id="_R_2pcql3al1d_" aria-hidden="true"><svg aria-hidden="true" focusable="false" class="octicon octicon-search" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M10.68 11.74a6 6 0 0 1-7.922-8.982 6 6 0 0 1 8.982 7.922l3.04 3.04a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215ZM11.5 7a4.499 4.499 0 1 0-8.997 0A4.499 4.499 0 0 0 11.5 7Z"></path></svg></span><input type="text" aria-label="Go to file" role="combobox" aria-controls="file-results-list" aria-expanded="false" aria-haspopup="dialog" autoCorrect="off" spellCheck="false" placeholder="Go to file" aria-describedby="_R_2pcql3al1d_ _R_2pcql3al1dH1_" data-component="input" class="prc-components-Input-IwWrt" value=""/><span class="TextInput-icon" id="_R_2pcql3al1dH1_" aria-hidden="true"></span></span></div><div class="d-none"></div></div><button type="button" style="display:none" class="prc-Button-ButtonBase-9n-Xk NavigationMenu-module__Button__LpKgm" data-loading="false" data-no-visuals="true" data-size="medium" data-variant="default"><span data-component="buttonContent" data-align="center" class="prc-Button-ButtonContent-Iohp5"><span data-component="text" class="prc-Button-Label-FWkx3">Blame</span></span></button><div class="d-none"></div><button data-component="IconButton" type="button" data-testid="more-file-actions-button-nav-menu-wide" aria-haspopup="true" aria-expanded="false" tabindex="0" class="prc-Button-ButtonBase-9n-Xk js-blob-dropdown-click NavigationMenu-module__IconButton__HpX3G prc-Button-IconButton-fyge7" data-loading="false" data-no-visuals="true" data-size="medium" data-variant="default" aria-labelledby="_R_ficql3al1d_" id="_R_icql3al1d_"><svg aria-hidden="true" focusable="false" class="octicon octicon-kebab-horizontal" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M8 9a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3ZM1.5 9a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Zm13 0a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path></svg></button><span class="prc-TooltipV2-Tooltip-tLeuB" data-direction="nw" aria-hidden="true" id="_R_ficql3al1d_">More file actions</span></div></div></div><div class="react-code-view-header-element--narrow"><div class="CodeViewHeader-module__Box_7___0R6c"><div class="d-flex gap-2"><button type="button" style="display:none" class="prc-Button-ButtonBase-9n-Xk NavigationMenu-module__Button__LpKgm" data-loading="false" data-no-visuals="true" data-size="medium" data-variant="default"><span data-component="buttonContent" data-align="center" class="prc-Button-ButtonContent-Iohp5"><span data-component="text" class="prc-Button-Label-FWkx3">Blame</span></span></button><div class="d-none"></div><button data-component="IconButton" type="button" data-testid="more-file-actions-button-nav-menu-narrow" aria-haspopup="true" aria-expanded="false" tabindex="0" class="prc-Button-ButtonBase-9n-Xk js-blob-dropdown-click NavigationMenu-module__IconButton__HpX3G prc-Button-IconButton-fyge7" data-loading="false" data-no-visuals="true" data-size="medium" data-variant="default" aria-labelledby="_R_fieql3al1d_" id="_R_ieql3al1d_"><svg aria-hidden="true" focusable="false" class="octicon octicon-kebab-horizontal" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M8 9a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3ZM1.5 9a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Zm13 0a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path></svg></button><span class="prc-TooltipV2-Tooltip-tLeuB" data-direction="nw" aria-hidden="true" id="_R_fieql3al1d_">More file actions</span></div></div></div></div></div></div></div><div class="CodeView-module__contentWrapper__cG2JH"><div class="react-code-view-bottom-padding"><div class="BlobTopBanners-module__Box__v_nvx"></div></div> <div class="d-none"></div><div class="d-flex flex-column border rounded-2 tmp-mb-3 pl-1"><div class="LatestCommit-module__Box__B25ZT"><h2 class="sr-only ScreenReaderHeading-module__userSelectNone__rwWIk prc-Heading-Heading-MtWFE" data-testid="screen-reader-heading">Latest commit</h2><div style="width:120px" class="Skeleton Skeleton--text" data-testid="loading"> </div><div class="d-flex flex-shrink-0 gap-2"><div data-testid="latest-commit-details" class="d-none d-sm-flex flex-items-center"></div><div class="d-flex gap-2"><h2 class="sr-only ScreenReaderHeading-module__userSelectNone__rwWIk prc-Heading-Heading-MtWFE" data-testid="screen-reader-heading">History</h2><a href="/zloirock/core-js/commits/v3.35.0/SECURITY.md" class="prc-Button-ButtonBase-9n-Xk d-none d-lg-flex LinkButton-module__linkButton__nFnov flex-items-center fgColor-default" data-loading="false" data-size="small" data-variant="invisible"><span data-component="buttonContent" data-align="center" class="prc-Button-ButtonContent-Iohp5"><span data-component="leadingVisual" class="prc-Button-Visual-YNt2F prc-Button-VisualWrap-E4cnq"><svg aria-hidden="true" focusable="false" class="octicon octicon-history" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="m.427 1.927 1.215 1.215a8.002 8.002 0 1 1-1.6 5.685.75.75 0 1 1 1.493-.154 6.5 6.5 0 1 0 1.18-4.458l1.358 1.358A.25.25 0 0 1 3.896 6H.25A.25.25 0 0 1 0 5.75V2.104a.25.25 0 0 1 .427-.177ZM7.75 4a.75.75 0 0 1 .75.75v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5A.75.75 0 0 1 7.75 4Z"></path></svg></span><span data-component="text" class="prc-Button-Label-FWkx3"><span class="fgColor-default">History</span></span></span></a><div class="d-sm-none"></div><div class="d-flex d-lg-none"><a aria-label="View commit history for this file." href="/zloirock/core-js/commits/v3.35.0/SECURITY.md" class="prc-Button-ButtonBase-9n-Xk LinkButton-module__linkButton__nFnov flex-items-center fgColor-default" data-loading="false" data-size="small" data-variant="invisible" aria-describedby="_R_2balal3al1d_"><span data-component="buttonContent" data-align="center" class="prc-Button-ButtonContent-Iohp5"><span data-component="leadingVisual" class="prc-Button-Visual-YNt2F prc-Button-VisualWrap-E4cnq"><svg aria-hidden="true" focusable="false" class="octicon octicon-history" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="m.427 1.927 1.215 1.215a8.002 8.002 0 1 1-1.6 5.685.75.75 0 1 1 1.493-.154 6.5 6.5 0 1 0 1.18-4.458l1.358 1.358A.25.25 0 0 1 3.896 6H.25A.25.25 0 0 1 0 5.75V2.104a.25.25 0 0 1 .427-.177ZM7.75 4a.75.75 0 0 1 .75.75v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5A.75.75 0 0 1 7.75 4Z"></path></svg></span></span></a><span class="prc-TooltipV2-Tooltip-tLeuB" data-direction="s" role="tooltip" aria-hidden="true" id="_R_2balal3al1d_">History</span></div></div></div></div></div><div class="d-flex flex-row"><div class="container BlobViewContent-module__blobContainer__DtH2d"><div class="react-code-size-details-banner BlobViewContent-module__codeSizeDetails__e5sUw"><div class="react-code-size-details-banner CodeSizeDetails-module__Box__VcD6l"><div class="text-mono CodeSizeDetails-module__Box_1__GVxQL"><div data-testid="blob-size" class="CodeSizeDetails-module__Truncate_1__lE93V prc-Truncate-Truncate-2G1eo" data-inline="true" title="380 Bytes" style="--truncate-max-width:100%"><span>12 lines (7 loc) · 380 Bytes</span></div></div></div></div><div class="react-blob-view-header-sticky BlobViewContent-module__stickyHeader__VwxB5" id="repos-sticky-header"><div class="BlobViewHeader-module__Box__yhm9u"><div class="react-blob-sticky-header"><div class="FileNameStickyHeader-module__outerWrapper__ZL4Xc FileNameStickyHeader-module__outerWrapperHidden__Zpynk"><div class="FileNameStickyHeader-module__Box_1__Hazu5"><div class="FileNameStickyHeader-module__Box_2__hoolP"><div class="FileNameStickyHeader-module__Box_3__MVKsk"><button type="button" aria-haspopup="true" aria-expanded="false" tabindex="0" aria-label="v3.35.0 tag" data-testid="anchor-button" data-icv-name="Switch branches/tags" class="prc-Button-ButtonBase-9n-Xk ref-selector-class RefSelectorAnchoredOverlay-module__RefSelectorOverlayBtn__a3WK3" data-loading="false" data-size="medium" data-variant="default" id="ref-picker-repos-header-ref-selector"><span data-component="buttonContent" data-align="center" class="prc-Button-ButtonContent-Iohp5"><span data-component="text" class="prc-Button-Label-FWkx3"><div class="RefSelectorAnchoredOverlay-module__RefSelectorOverlayContainer__yaf4p"><div class="RefSelectorAnchoredOverlay-module__RefSelectorOverlayHeader__XtXRG"><svg aria-hidden="true" focusable="false" class="octicon octicon-tag" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M1 7.775V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 0 1 0 2.474l-5.026 5.026a1.75 1.75 0 0 1-2.474 0l-6.25-6.25A1.752 1.752 0 0 1 1 7.775Zm1.5 0c0 .066.026.13.073.177l6.25 6.25a.25.25 0 0 0 .354 0l5.025-5.025a.25.25 0 0 0 0-.354l-6.25-6.25a.25.25 0 0 0-.177-.073H2.75a.25.25 0 0 0-.25.25ZM6 5a1 1 0 1 1 0 2 1 1 0 0 1 0-2Z"></path></svg></div><div style="max-width:125px" class="ref-selector-button-text-container RefSelectorAnchoredOverlay-module__RefSelectorBtnTextContainer__Di3rk"><span class="RefSelectorAnchoredOverlay-module__RefSelectorText__w_fmP"> <!-- -->v3.35.0</span></div></div></span><span data-component="trailingVisual" class="prc-Button-Visual-YNt2F prc-Button-VisualWrap-E4cnq"><svg aria-hidden="true" focusable="false" class="octicon octicon-triangle-down" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="m4.427 7.427 3.396 3.396a.25.25 0 0 0 .354 0l3.396-3.396A.25.25 0 0 0 11.396 7H4.604a.25.25 0 0 0-.177.427Z"></path></svg></span></span></button><div class="d-none"></div></div><div class="FileNameStickyHeader-module__Box_4__FLhtt"><div class="Breadcrumb-module__container__Vxvev Breadcrumb-module__md__Wb1Gs"><nav data-testid="breadcrumbs" aria-labelledby="sticky-breadcrumb-heading" id="sticky-breadcrumb" class="Breadcrumb-module__nav__rQFDj"><h2 class="sr-only ScreenReaderHeading-module__userSelectNone__rwWIk prc-Heading-Heading-MtWFE" data-testid="screen-reader-heading" id="sticky-breadcrumb-heading">Breadcrumbs</h2><ol class="Breadcrumb-module__list__ZH6zr"><li class="Breadcrumb-module__listItem__Ib0x_"><a class="Breadcrumb-module__repoLink__O2Nbs prc-Link-Link-9ZwDx" data-testid="breadcrumbs-repo-link" href="/zloirock/core-js/tree/v3.35.0" data-discover="true">core-js</a></li></ol></nav><div data-testid="breadcrumbs-filename" class="Breadcrumb-module__filename__equZR"><span class="Breadcrumb-module__separator__eNwsI Breadcrumb-module__md__Wb1Gs" aria-hidden="true">/</span><h1 class="Breadcrumb-module__filenameHeading__MNMtw Breadcrumb-module__md__Wb1Gs prc-Heading-Heading-MtWFE" tabindex="-1" id="sticky-file-name-id">SECURITY.md</h1></div></div></div></div><button type="button" class="prc-Button-ButtonBase-9n-Xk FileNameStickyHeader-module__Button__LSEU_ FileNameStickyHeader-module__GoToTopButton__nxAFn" data-loading="false" data-size="small" data-variant="invisible"><span data-component="buttonContent" data-align="center" class="prc-Button-ButtonContent-Iohp5"><span data-component="leadingVisual" class="prc-Button-Visual-YNt2F prc-Button-VisualWrap-E4cnq"><svg aria-hidden="true" focusable="false" class="octicon octicon-arrow-up" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M3.47 7.78a.75.75 0 0 1 0-1.06l4.25-4.25a.75.75 0 0 1 1.06 0l4.25 4.25a.751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018L9 4.81v7.44a.75.75 0 0 1-1.5 0V4.81L4.53 7.78a.75.75 0 0 1-1.06 0Z"></path></svg></span><span data-component="text" class="prc-Button-Label-FWkx3">Top</span></span></button></div></div></div><div class="BlobViewHeader-module__Box_1__VEmuQ"><h2 class="sr-only ScreenReaderHeading-module__userSelectNone__rwWIk prc-Heading-Heading-MtWFE" data-testid="screen-reader-heading">File metadata and controls</h2><div class="BlobViewHeader-module__Box_2__icUs2"><ul aria-label="File view" class="prc-SegmentedControl-SegmentedControl-lqIXp BlobTabButtons-module__SegmentedControl__jen2u" data-variant="default" data-size="small"><li class="prc-SegmentedControl-Item-tSCQh" data-selected=""><button aria-current="true" class="prc-SegmentedControl-Button-E48xz" type="button" style="--separator-color:transparent"><span class="prc-SegmentedControl-Content-1COlk segmentedControl-content"><div class="prc-SegmentedControl-Text-7S2y2 segmentedControl-text" data-text="Preview">Preview</div></span></button></li><li class="prc-SegmentedControl-Item-tSCQh"><button aria-current="false" class="prc-SegmentedControl-Button-E48xz" type="button" style="--separator-color:var(--borderColor-default)"><span class="prc-SegmentedControl-Content-1COlk segmentedControl-content"><div class="prc-SegmentedControl-Text-7S2y2 segmentedControl-text" data-text="Code">Code</div></span></button></li><li class="prc-SegmentedControl-Item-tSCQh"><button aria-current="false" class="prc-SegmentedControl-Button-E48xz" type="button" style="--separator-color:var(--borderColor-default)"><span class="prc-SegmentedControl-Content-1COlk segmentedControl-content"><div class="prc-SegmentedControl-Text-7S2y2 segmentedControl-text" data-text="Blame">Blame</div></span></button></li></ul><div class="d-none"></div><div class="react-code-size-details-in-header CodeSizeDetails-module__Box__VcD6l"><div class="text-mono CodeSizeDetails-module__Box_1__GVxQL"><div data-testid="blob-size" class="CodeSizeDetails-module__Truncate_1__lE93V prc-Truncate-Truncate-2G1eo" data-inline="true" title="380 Bytes" style="--truncate-max-width:100%"><span>12 lines (7 loc) · 380 Bytes</span></div></div></div></div><div class="BlobViewHeader-module__Box_3__ng6v2"><div class="d-none"></div><div class="react-blob-header-edit-and-raw-actions BlobViewHeader-module__Box_4__J4Y4W"><div class="d-none"></div><div class="prc-ButtonGroup-ButtonGroup-vFUrY"><div><a href="https://github.com/zloirock/core-js/raw/refs/tags/v3.35.0/SECURITY.md" data-testid="raw-button" class="prc-Button-ButtonBase-9n-Xk LinkButton-module__linkButton__nFnov BlobViewHeader-module__LinkButton__X9kx2" data-loading="false" data-no-visuals="true" data-size="small" data-variant="default"><span data-component="buttonContent" data-align="center" class="prc-Button-ButtonContent-Iohp5"><span data-component="text" class="prc-Button-Label-FWkx3">Raw</span></span></a></div><div><button data-component="IconButton" type="button" data-testid="copy-raw-button" class="prc-Button-ButtonBase-9n-Xk prc-Button-IconButton-fyge7" data-loading="false" data-no-visuals="true" data-size="small" data-variant="default" aria-labelledby="_R_d5f6clal3al1d_"><svg aria-hidden="true" focusable="false" class="octicon octicon-copy" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path></svg></button><span class="prc-TooltipV2-Tooltip-tLeuB" data-direction="n" aria-hidden="true" id="_R_d5f6clal3al1d_">Copy raw file</span></div><div><button data-component="IconButton" type="button" data-testid="download-raw-button" class="prc-Button-ButtonBase-9n-Xk BlobViewHeader-module__downloadButton__ef459 prc-Button-IconButton-fyge7" data-loading="false" data-no-visuals="true" data-size="small" data-variant="default" aria-labelledby="_R_75f6clal3al1d_"><svg aria-hidden="true" focusable="false" class="octicon octicon-download" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M2.75 14A1.75 1.75 0 0 1 1 12.25v-2.5a.75.75 0 0 1 1.5 0v2.5c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25v-2.5a.75.75 0 0 1 1.5 0v2.5A1.75 1.75 0 0 1 13.25 14Z"></path><path d="M7.25 7.689V2a.75.75 0 0 1 1.5 0v5.689l1.97-1.969a.749.749 0 1 1 1.06 1.06l-3.25 3.25a.749.749 0 0 1-1.06 0L4.22 6.78a.749.749 0 1 1 1.06-1.06l1.97 1.969Z"></path></svg></button><span class="prc-TooltipV2-Tooltip-tLeuB" data-direction="n" aria-hidden="true" id="_R_75f6clal3al1d_">Download raw file</span></div></div></div><button data-component="IconButton" type="button" aria-pressed="false" class="prc-Button-ButtonBase-9n-Xk tmp-mr-2 TableOfContents-module__IconButton__jrlNM prc-Button-IconButton-fyge7" data-loading="false" data-no-visuals="true" data-size="small" data-variant="invisible" aria-labelledby="_R_1v6clal3al1d_"><svg aria-hidden="true" focusable="false" class="octicon octicon-list-unordered" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M5.75 2.5h8.5a.75.75 0 0 1 0 1.5h-8.5a.75.75 0 0 1 0-1.5Zm0 5h8.5a.75.75 0 0 1 0 1.5h-8.5a.75.75 0 0 1 0-1.5Zm0 5h8.5a.75.75 0 0 1 0 1.5h-8.5a.75.75 0 0 1 0-1.5ZM2 14a1 1 0 1 1 0-2 1 1 0 0 1 0 2Zm1-6a1 1 0 1 1-2 0 1 1 0 0 1 2 0ZM2 4a1 1 0 1 1 0-2 1 1 0 0 1 0 2Z"></path></svg></button><span class="prc-TooltipV2-Tooltip-tLeuB" data-direction="n" aria-hidden="true" id="_R_1v6clal3al1d_">Outline</span><div class="react-blob-header-edit-and-raw-actions-combined"><button data-component="IconButton" type="button" title="More file actions" data-testid="more-file-actions-button" aria-haspopup="true" aria-expanded="false" tabindex="0" class="prc-Button-ButtonBase-9n-Xk js-blob-dropdown-click BlobViewHeader-module__IconButton__XrMQY prc-Button-IconButton-fyge7" data-loading="false" data-no-visuals="true" data-size="small" data-variant="invisible" aria-labelledby="_R_7q76clal3al1d_" id="_R_a76clal3al1d_"><svg aria-hidden="true" focusable="false" class="octicon octicon-kebab-horizontal" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M8 9a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3ZM1.5 9a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Zm13 0a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path></svg></button><span class="prc-TooltipV2-Tooltip-tLeuB" data-direction="nw" aria-hidden="true" id="_R_7q76clal3al1d_">Edit and raw actions</span></div></div></div></div><div></div></div><div class="BlobViewContent-module__blobContentWrapper__JS0W6"><section aria-labelledby="file-name-id-wide file-name-id-mobile" class="BlobContent-module__blobContentSection__VOgZq BlobContent-module__blobContentSectionMarkdown__mPLOK" style="margin-top:46px"><div class="js-snippet-clipboard-copy-unpositioned BlobContent-module__markdownBlob__T8jpG" data-hpc="true"><article class="markdown-body entry-content container-lg" itemprop="text"><div class="markdown-heading" dir="auto"><h1 tabindex="-1" class="heading-element" dir="auto">Security Policy</h1><a id="user-content-security-policy" class="anchor" aria-label="Permalink: Security Policy" href="#security-policy"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto">Supported Versions</h2><a id="user-content-supported-versions" class="anchor" aria-label="Permalink: Supported Versions" href="#supported-versions"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto">The <a href="https://github.com/zloirock/core-js/releases">latest released version</a> of <code>core-js</code> is supported.</p>
+<div class="markdown-heading" dir="auto"><h2 tabindex="-1" class="heading-element" dir="auto">Reporting a Vulnerability</h2><a id="user-content-reporting-a-vulnerability" class="anchor" aria-label="Permalink: Reporting a Vulnerability" href="#reporting-a-vulnerability"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto">To report a vulnerability please send an email with the details to <a href="mailto:zloirock@zloirock.ru">zloirock@zloirock.ru</a>.
+This will help us to assess the risk and start the necessary steps.</p>
+<p dir="auto">Thanks for helping to keep <code>core-js</code> secure!</p>
+</article></div><div class="d-none"></div></section></div></div></div> </div> <!-- --> </div></div></div></div></div></div><div class="ScrollMarksContainer-module__scrollMarksContainer__Eu7uU" id="find-result-marks-container"></div><div class="d-none"></div><div class="d-none"></div></div> <!-- --> <!-- --> <script type="application/json" id="__PRIMER_DATA__R_1___">{"resolvedServerColorMode":"day"}</script></div>
+</react-app>
 
-      <ol class="d-block d-md-flex flex-wrap gutter list-style-none">
-          
-  <li class="col-md-4 tmp-mb-3" >
-    <div class="border-bottom d-flex tmp-pb-3">
-      <div>
-        <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/omnibrain/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/omnibrain"><img class="avatar avatar-user" src="https://avatars.githubusercontent.com/u/2551508?s=96&amp;v=4" width="48" height="48" alt="@omnibrain" /></a>
-      </div>
 
-      <div class="tmp-ml-3 flex-auto min-width-0">
-        <h2 class="h4 mb-1" >
-          <span data-view-component="true" class="Truncate">
-    <span data-view-component="true" class="Truncate-text"><a data-hovercard-type="user" data-hovercard-url="/users/omnibrain/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/omnibrain">omnibrain</a></span>
-</span>        </h2>
-        
-<p class="tmp-mb-3 d-flex flex-items-center">
-  <span class="sr-only">Works for i42 GmbH</span>
-  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-organization color-fg-muted mr-2 tmp-mr-2">
-    <path d="M1.75 16A1.75 1.75 0 0 1 0 14.25V1.75C0 .784.784 0 1.75 0h8.5C11.216 0 12 .784 12 1.75v12.5c0 .085-.006.168-.018.25h2.268a.25.25 0 0 0 .25-.25V8.285a.25.25 0 0 0-.111-.208l-1.055-.703a.749.749 0 1 1 .832-1.248l1.055.703c.487.325.779.871.779 1.456v5.965A1.75 1.75 0 0 1 14.25 16h-3.5a.766.766 0 0 1-.197-.026c-.099.017-.2.026-.303.026h-3a.75.75 0 0 1-.75-.75V14h-1v1.25a.75.75 0 0 1-.75.75Zm-.25-1.75c0 .138.112.25.25.25H4v-1.25a.75.75 0 0 1 .75-.75h2.5a.75.75 0 0 1 .75.75v1.25h2.25a.25.25 0 0 0 .25-.25V1.75a.25.25 0 0 0-.25-.25h-8.5a.25.25 0 0 0-.25.25ZM3.75 6h.5a.75.75 0 0 1 0 1.5h-.5a.75.75 0 0 1 0-1.5ZM3 3.75A.75.75 0 0 1 3.75 3h.5a.75.75 0 0 1 0 1.5h-.5A.75.75 0 0 1 3 3.75Zm4 3A.75.75 0 0 1 7.75 6h.5a.75.75 0 0 1 0 1.5h-.5A.75.75 0 0 1 7 6.75ZM7.75 3h.5a.75.75 0 0 1 0 1.5h-.5a.75.75 0 0 1 0-1.5ZM3 9.75A.75.75 0 0 1 3.75 9h.5a.75.75 0 0 1 0 1.5h-.5A.75.75 0 0 1 3 9.75ZM7.75 9h.5a.75.75 0 0 1 0 1.5h-.5a.75.75 0 0 1 0-1.5Z"></path>
-</svg>
-  <span class="Truncate">
-    <span class="Truncate-text" aria-hidden="true">i42 GmbH</span>
-  </span>
-</p>
-
-        <div class="d-flex flex-wrap flex-items-center">
-          
-  <span class="user-following-container">
-    <span class="follow d-block">
-      <a class="btn btn-sm" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;follow button&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/Download/ulog/stargazers?page=2&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="104d206eecaa3a7037702d21b2b9aadaa11c64a8b1a0922327d1896139e6d0fb" href="/login?return_to=https%3A%2F%2Fgithub.com%2FDownload%2Fulog%2Fstargazers%3Fpage%3D2">Follow</a>
-    </span>
-  </span>
-
-
-        </div>
-      </div>
-    </div>
-  </li>
-
-          
-  <li class="col-md-4 tmp-mb-3" >
-    <div class="border-bottom d-flex tmp-pb-3">
-      <div>
-        <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/ElectroBuddha/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/ElectroBuddha"><img class="avatar avatar-user" src="https://avatars.githubusercontent.com/u/8009319?s=96&amp;v=4" width="48" height="48" alt="@ElectroBuddha" /></a>
-      </div>
-
-      <div class="tmp-ml-3 flex-auto min-width-0">
-        <h2 class="h4 mb-1" >
-          <span data-view-component="true" class="Truncate">
-    <span data-view-component="true" class="Truncate-text"><a data-hovercard-type="user" data-hovercard-url="/users/ElectroBuddha/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/ElectroBuddha">ElectroBuddha</a></span>
-</span>        </h2>
-        
-<p class="tmp-mb-3 d-flex flex-items-center">
-  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-location color-fg-muted mr-2 tmp-mr-2">
-    <path d="m12.596 11.596-3.535 3.536a1.5 1.5 0 0 1-2.122 0l-3.535-3.536a6.5 6.5 0 1 1 9.192-9.193 6.5 6.5 0 0 1 0 9.193Zm-1.06-8.132v-.001a5 5 0 1 0-7.072 7.072L8 14.07l3.536-3.534a5 5 0 0 0 0-7.072ZM8 9a2 2 0 1 1-.001-3.999A2 2 0 0 1 8 9Z"></path>
-</svg>
-  <span class="sr-only">Is from Sarajevo, Bosnia &amp; Herzegovina</span>
-  <span class="Truncate">
-    <span class="Truncate-text" aria-hidden="true">Sarajevo, Bosnia &amp; Herzegovina</span>
-  </span>
-  </p>
-
-        <div class="d-flex flex-wrap flex-items-center">
-          
-  <span class="user-following-container">
-    <span class="follow d-block">
-      <a class="btn btn-sm" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;follow button&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/Download/ulog/stargazers?page=2&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="104d206eecaa3a7037702d21b2b9aadaa11c64a8b1a0922327d1896139e6d0fb" href="/login?return_to=https%3A%2F%2Fgithub.com%2FDownload%2Fulog%2Fstargazers%3Fpage%3D2">Follow</a>
-    </span>
-  </span>
-
-
-        </div>
-      </div>
-    </div>
-  </li>
-
-          
-  <li class="col-md-4 tmp-mb-3" >
-    <div class="border-bottom d-flex tmp-pb-3">
-      <div>
-        <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/cleberss/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/cleberss"><img class="avatar avatar-user" src="https://avatars.githubusercontent.com/u/3449304?s=96&amp;v=4" width="48" height="48" alt="@cleberss" /></a>
-      </div>
-
-      <div class="tmp-ml-3 flex-auto min-width-0">
-        <h2 class="h4 mb-1" >
-          <span data-view-component="true" class="Truncate">
-    <span data-view-component="true" class="Truncate-text"><a data-hovercard-type="user" data-hovercard-url="/users/cleberss/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/cleberss">cleberss</a></span>
-</span>        </h2>
-        
-<p class="tmp-mb-3 d-flex flex-items-center">
-  <span class="sr-only">Works for @cssouza-team </span>
-  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-organization color-fg-muted mr-2 tmp-mr-2">
-    <path d="M1.75 16A1.75 1.75 0 0 1 0 14.25V1.75C0 .784.784 0 1.75 0h8.5C11.216 0 12 .784 12 1.75v12.5c0 .085-.006.168-.018.25h2.268a.25.25 0 0 0 .25-.25V8.285a.25.25 0 0 0-.111-.208l-1.055-.703a.749.749 0 1 1 .832-1.248l1.055.703c.487.325.779.871.779 1.456v5.965A1.75 1.75 0 0 1 14.25 16h-3.5a.766.766 0 0 1-.197-.026c-.099.017-.2.026-.303.026h-3a.75.75 0 0 1-.75-.75V14h-1v1.25a.75.75 0 0 1-.75.75Zm-.25-1.75c0 .138.112.25.25.25H4v-1.25a.75.75 0 0 1 .75-.75h2.5a.75.75 0 0 1 .75.75v1.25h2.25a.25.25 0 0 0 .25-.25V1.75a.25.25 0 0 0-.25-.25h-8.5a.25.25 0 0 0-.25.25ZM3.75 6h.5a.75.75 0 0 1 0 1.5h-.5a.75.75 0 0 1 0-1.5ZM3 3.75A.75.75 0 0 1 3.75 3h.5a.75.75 0 0 1 0 1.5h-.5A.75.75 0 0 1 3 3.75Zm4 3A.75.75 0 0 1 7.75 6h.5a.75.75 0 0 1 0 1.5h-.5A.75.75 0 0 1 7 6.75ZM7.75 3h.5a.75.75 0 0 1 0 1.5h-.5a.75.75 0 0 1 0-1.5ZM3 9.75A.75.75 0 0 1 3.75 9h.5a.75.75 0 0 1 0 1.5h-.5A.75.75 0 0 1 3 9.75ZM7.75 9h.5a.75.75 0 0 1 0 1.5h-.5a.75.75 0 0 1 0-1.5Z"></path>
-</svg>
-  <span class="Truncate">
-    <span class="Truncate-text" aria-hidden="true">@cssouza-team </span>
-  </span>
-</p>
-
-        <div class="d-flex flex-wrap flex-items-center">
-          
-  <span class="user-following-container">
-    <span class="follow d-block">
-      <a class="btn btn-sm" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;follow button&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/Download/ulog/stargazers?page=2&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="104d206eecaa3a7037702d21b2b9aadaa11c64a8b1a0922327d1896139e6d0fb" href="/login?return_to=https%3A%2F%2Fgithub.com%2FDownload%2Fulog%2Fstargazers%3Fpage%3D2">Follow</a>
-    </span>
-  </span>
-
-
-        </div>
-      </div>
-    </div>
-  </li>
-
-          
-  <li class="col-md-4 tmp-mb-3" >
-    <div class="border-bottom d-flex tmp-pb-3">
-      <div>
-        <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/roti-dev/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/roti-dev"><img class="avatar avatar-user" src="https://avatars.githubusercontent.com/u/3180634?s=96&amp;v=4" width="48" height="48" alt="@roti-dev" /></a>
-      </div>
-
-      <div class="tmp-ml-3 flex-auto min-width-0">
-        <h2 class="h4 mb-1" >
-          <span data-view-component="true" class="Truncate">
-    <span data-view-component="true" class="Truncate-text"><a data-hovercard-type="user" data-hovercard-url="/users/roti-dev/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/roti-dev">roti-dev</a></span>
-</span>        </h2>
-        
-<p class="tmp-mb-3 d-flex flex-items-center">
-  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-location color-fg-muted mr-2 tmp-mr-2">
-    <path d="m12.596 11.596-3.535 3.536a1.5 1.5 0 0 1-2.122 0l-3.535-3.536a6.5 6.5 0 1 1 9.192-9.193 6.5 6.5 0 0 1 0 9.193Zm-1.06-8.132v-.001a5 5 0 1 0-7.072 7.072L8 14.07l3.536-3.534a5 5 0 0 0 0-7.072ZM8 9a2 2 0 1 1-.001-3.999A2 2 0 0 1 8 9Z"></path>
-</svg>
-  <span class="sr-only">Is from Baltimore, MD</span>
-  <span class="Truncate">
-    <span class="Truncate-text" aria-hidden="true">Baltimore, MD</span>
-  </span>
-  </p>
-
-        <div class="d-flex flex-wrap flex-items-center">
-          
-  <span class="user-following-container">
-    <span class="follow d-block">
-      <a class="btn btn-sm" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;follow button&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/Download/ulog/stargazers?page=2&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="104d206eecaa3a7037702d21b2b9aadaa11c64a8b1a0922327d1896139e6d0fb" href="/login?return_to=https%3A%2F%2Fgithub.com%2FDownload%2Fulog%2Fstargazers%3Fpage%3D2">Follow</a>
-    </span>
-  </span>
-
-
-        </div>
-      </div>
-    </div>
-  </li>
-
-          
-  <li class="col-md-4 tmp-mb-3" >
-    <div class="border-bottom d-flex tmp-pb-3">
-      <div>
-        <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/hartmutobendorf/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/hartmutobendorf"><img class="avatar avatar-user" src="https://avatars.githubusercontent.com/u/5855182?s=96&amp;v=4" width="48" height="48" alt="@hartmutobendorf" /></a>
-      </div>
-
-      <div class="tmp-ml-3 flex-auto min-width-0">
-        <h2 class="h4 mb-1" >
-          <span data-view-component="true" class="Truncate">
-    <span data-view-component="true" class="Truncate-text"><a data-hovercard-type="user" data-hovercard-url="/users/hartmutobendorf/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/hartmutobendorf">hartmutobendorf</a></span>
-</span>        </h2>
-        
-<p class="tmp-mb-3"><svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-clock color-fg-muted">
-    <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"></path>
-</svg> Joined on Nov 4, 2013</p>
-
-        <div class="d-flex flex-wrap flex-items-center">
-          
-  <span class="user-following-container">
-    <span class="follow d-block">
-      <a class="btn btn-sm" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;follow button&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/Download/ulog/stargazers?page=2&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="104d206eecaa3a7037702d21b2b9aadaa11c64a8b1a0922327d1896139e6d0fb" href="/login?return_to=https%3A%2F%2Fgithub.com%2FDownload%2Fulog%2Fstargazers%3Fpage%3D2">Follow</a>
-    </span>
-  </span>
-
-
-        </div>
-      </div>
-    </div>
-  </li>
-
-          
-  <li class="col-md-4 tmp-mb-3" >
-    <div class="border-bottom d-flex tmp-pb-3">
-      <div>
-        <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/abhi137/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/abhi137"><img class="avatar avatar-user" src="https://avatars.githubusercontent.com/u/500999?s=96&amp;v=4" width="48" height="48" alt="@abhi137" /></a>
-      </div>
-
-      <div class="tmp-ml-3 flex-auto min-width-0">
-        <h2 class="h4 mb-1" >
-          <span data-view-component="true" class="Truncate">
-    <span data-view-component="true" class="Truncate-text"><a data-hovercard-type="user" data-hovercard-url="/users/abhi137/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/abhi137">abhi137</a></span>
-</span>        </h2>
-        
-<p class="tmp-mb-3"><svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-clock color-fg-muted">
-    <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"></path>
-</svg> Joined on Nov 29, 2010</p>
-
-        <div class="d-flex flex-wrap flex-items-center">
-          
-  <span class="user-following-container">
-    <span class="follow d-block">
-      <a class="btn btn-sm" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;follow button&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/Download/ulog/stargazers?page=2&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="104d206eecaa3a7037702d21b2b9aadaa11c64a8b1a0922327d1896139e6d0fb" href="/login?return_to=https%3A%2F%2Fgithub.com%2FDownload%2Fulog%2Fstargazers%3Fpage%3D2">Follow</a>
-    </span>
-  </span>
-
-
-        </div>
-      </div>
-    </div>
-  </li>
-
-          
-  <li class="col-md-4 tmp-mb-3" >
-    <div class="border-bottom d-flex tmp-pb-3">
-      <div>
-        <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/jcppman/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/jcppman"><img class="avatar avatar-user" src="https://avatars.githubusercontent.com/u/5248918?s=96&amp;v=4" width="48" height="48" alt="@jcppman" /></a>
-      </div>
-
-      <div class="tmp-ml-3 flex-auto min-width-0">
-        <h2 class="h4 mb-1" >
-          <span data-view-component="true" class="Truncate">
-    <span data-view-component="true" class="Truncate-text"><a data-hovercard-type="user" data-hovercard-url="/users/jcppman/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/jcppman">jcppman</a></span>
-</span>        </h2>
-        
-<p class="tmp-mb-3 d-flex flex-items-center">
-  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-location color-fg-muted mr-2 tmp-mr-2">
-    <path d="m12.596 11.596-3.535 3.536a1.5 1.5 0 0 1-2.122 0l-3.535-3.536a6.5 6.5 0 1 1 9.192-9.193 6.5 6.5 0 0 1 0 9.193Zm-1.06-8.132v-.001a5 5 0 1 0-7.072 7.072L8 14.07l3.536-3.534a5 5 0 0 0 0-7.072ZM8 9a2 2 0 1 1-.001-3.999A2 2 0 0 1 8 9Z"></path>
-</svg>
-  <span class="sr-only">Is from Shanghai</span>
-  <span class="Truncate">
-    <span class="Truncate-text" aria-hidden="true">Shanghai</span>
-  </span>
-  </p>
-
-        <div class="d-flex flex-wrap flex-items-center">
-          
-  <span class="user-following-container">
-    <span class="follow d-block">
-      <a class="btn btn-sm" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;follow button&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/Download/ulog/stargazers?page=2&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="104d206eecaa3a7037702d21b2b9aadaa11c64a8b1a0922327d1896139e6d0fb" href="/login?return_to=https%3A%2F%2Fgithub.com%2FDownload%2Fulog%2Fstargazers%3Fpage%3D2">Follow</a>
-    </span>
-  </span>
-
-
-        </div>
-      </div>
-    </div>
-  </li>
-
-          
-  <li class="col-md-4 tmp-mb-3" >
-    <div class="border-bottom d-flex tmp-pb-3">
-      <div>
-        <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/mig8447/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/mig8447"><img class="avatar avatar-user" src="https://avatars.githubusercontent.com/u/11009660?s=96&amp;v=4" width="48" height="48" alt="@mig8447" /></a>
-      </div>
-
-      <div class="tmp-ml-3 flex-auto min-width-0">
-        <h2 class="h4 mb-1" >
-          <span data-view-component="true" class="Truncate">
-    <span data-view-component="true" class="Truncate-text"><a data-hovercard-type="user" data-hovercard-url="/users/mig8447/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/mig8447">mig8447</a></span>
-</span>        </h2>
-        
-<p class="tmp-mb-3 d-flex flex-items-center">
-  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-location color-fg-muted mr-2 tmp-mr-2">
-    <path d="m12.596 11.596-3.535 3.536a1.5 1.5 0 0 1-2.122 0l-3.535-3.536a6.5 6.5 0 1 1 9.192-9.193 6.5 6.5 0 0 1 0 9.193Zm-1.06-8.132v-.001a5 5 0 1 0-7.072 7.072L8 14.07l3.536-3.534a5 5 0 0 0 0-7.072ZM8 9a2 2 0 1 1-.001-3.999A2 2 0 0 1 8 9Z"></path>
-</svg>
-  <span class="sr-only">Is from Zapopan, Jalisco, México</span>
-  <span class="Truncate">
-    <span class="Truncate-text" aria-hidden="true">Zapopan, Jalisco, México</span>
-  </span>
-  </p>
-
-        <div class="d-flex flex-wrap flex-items-center">
-          
-  <span class="user-following-container">
-    <span class="follow d-block">
-      <a class="btn btn-sm" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;follow button&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/Download/ulog/stargazers?page=2&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="104d206eecaa3a7037702d21b2b9aadaa11c64a8b1a0922327d1896139e6d0fb" href="/login?return_to=https%3A%2F%2Fgithub.com%2FDownload%2Fulog%2Fstargazers%3Fpage%3D2">Follow</a>
-    </span>
-  </span>
-
-
-        </div>
-      </div>
-    </div>
-  </li>
-
-          
-  <li class="col-md-4 tmp-mb-3" >
-    <div class="border-bottom d-flex tmp-pb-3">
-      <div>
-        <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/agarcialeon/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/agarcialeon"><img class="avatar avatar-user" src="https://avatars.githubusercontent.com/u/6717746?s=96&amp;v=4" width="48" height="48" alt="@agarcialeon" /></a>
-      </div>
-
-      <div class="tmp-ml-3 flex-auto min-width-0">
-        <h2 class="h4 mb-1" >
-          <span data-view-component="true" class="Truncate">
-    <span data-view-component="true" class="Truncate-text"><a data-hovercard-type="user" data-hovercard-url="/users/agarcialeon/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/agarcialeon">agarcialeon</a></span>
-</span>        </h2>
-        
-<p class="tmp-mb-3 d-flex flex-items-center">
-  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-location color-fg-muted mr-2 tmp-mr-2">
-    <path d="m12.596 11.596-3.535 3.536a1.5 1.5 0 0 1-2.122 0l-3.535-3.536a6.5 6.5 0 1 1 9.192-9.193 6.5 6.5 0 0 1 0 9.193Zm-1.06-8.132v-.001a5 5 0 1 0-7.072 7.072L8 14.07l3.536-3.534a5 5 0 0 0 0-7.072ZM8 9a2 2 0 1 1-.001-3.999A2 2 0 0 1 8 9Z"></path>
-</svg>
-  <span class="sr-only">Is from Logroño (La Rioja)</span>
-  <span class="Truncate">
-    <span class="Truncate-text" aria-hidden="true">Logroño (La Rioja)</span>
-  </span>
-  </p>
-
-        <div class="d-flex flex-wrap flex-items-center">
-          
-  <span class="user-following-container">
-    <span class="follow d-block">
-      <a class="btn btn-sm" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;follow button&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/Download/ulog/stargazers?page=2&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="104d206eecaa3a7037702d21b2b9aadaa11c64a8b1a0922327d1896139e6d0fb" href="/login?return_to=https%3A%2F%2Fgithub.com%2FDownload%2Fulog%2Fstargazers%3Fpage%3D2">Follow</a>
-    </span>
-  </span>
-
-
-        </div>
-      </div>
-    </div>
-  </li>
-
-          
-  <li class="col-md-4 tmp-mb-3" >
-    <div class="border-bottom d-flex tmp-pb-3">
-      <div>
-        <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/jpsear/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/jpsear"><img class="avatar avatar-user" src="https://avatars.githubusercontent.com/u/2982712?s=96&amp;v=4" width="48" height="48" alt="@jpsear" /></a>
-      </div>
-
-      <div class="tmp-ml-3 flex-auto min-width-0">
-        <h2 class="h4 mb-1" >
-          <span data-view-component="true" class="Truncate">
-    <span data-view-component="true" class="Truncate-text"><a data-hovercard-type="user" data-hovercard-url="/users/jpsear/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/jpsear">jpsear</a></span>
-</span>        </h2>
-        
-<p class="tmp-mb-3 d-flex flex-items-center">
-  <span class="sr-only">Works for @avionapp</span>
-  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-organization color-fg-muted mr-2 tmp-mr-2">
-    <path d="M1.75 16A1.75 1.75 0 0 1 0 14.25V1.75C0 .784.784 0 1.75 0h8.5C11.216 0 12 .784 12 1.75v12.5c0 .085-.006.168-.018.25h2.268a.25.25 0 0 0 .25-.25V8.285a.25.25 0 0 0-.111-.208l-1.055-.703a.749.749 0 1 1 .832-1.248l1.055.703c.487.325.779.871.779 1.456v5.965A1.75 1.75 0 0 1 14.25 16h-3.5a.766.766 0 0 1-.197-.026c-.099.017-.2.026-.303.026h-3a.75.75 0 0 1-.75-.75V14h-1v1.25a.75.75 0 0 1-.75.75Zm-.25-1.75c0 .138.112.25.25.25H4v-1.25a.75.75 0 0 1 .75-.75h2.5a.75.75 0 0 1 .75.75v1.25h2.25a.25.25 0 0 0 .25-.25V1.75a.25.25 0 0 0-.25-.25h-8.5a.25.25 0 0 0-.25.25ZM3.75 6h.5a.75.75 0 0 1 0 1.5h-.5a.75.75 0 0 1 0-1.5ZM3 3.75A.75.75 0 0 1 3.75 3h.5a.75.75 0 0 1 0 1.5h-.5A.75.75 0 0 1 3 3.75Zm4 3A.75.75 0 0 1 7.75 6h.5a.75.75 0 0 1 0 1.5h-.5A.75.75 0 0 1 7 6.75ZM7.75 3h.5a.75.75 0 0 1 0 1.5h-.5a.75.75 0 0 1 0-1.5ZM3 9.75A.75.75 0 0 1 3.75 9h.5a.75.75 0 0 1 0 1.5h-.5A.75.75 0 0 1 3 9.75ZM7.75 9h.5a.75.75 0 0 1 0 1.5h-.5a.75.75 0 0 1 0-1.5Z"></path>
-</svg>
-  <span class="Truncate">
-    <span class="Truncate-text" aria-hidden="true">@avionapp</span>
-  </span>
-</p>
-
-        <div class="d-flex flex-wrap flex-items-center">
-          
-  <span class="user-following-container">
-    <span class="follow d-block">
-      <a class="btn btn-sm" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;follow button&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/Download/ulog/stargazers?page=2&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="104d206eecaa3a7037702d21b2b9aadaa11c64a8b1a0922327d1896139e6d0fb" href="/login?return_to=https%3A%2F%2Fgithub.com%2FDownload%2Fulog%2Fstargazers%3Fpage%3D2">Follow</a>
-    </span>
-  </span>
-
-
-        </div>
-      </div>
-    </div>
-  </li>
-
-          
-  <li class="col-md-4 tmp-mb-3" >
-    <div class="border-bottom d-flex tmp-pb-3">
-      <div>
-        <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/kollster/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/kollster"><img class="avatar avatar-user" src="https://avatars.githubusercontent.com/u/3436707?s=96&amp;v=4" width="48" height="48" alt="@kollster" /></a>
-      </div>
-
-      <div class="tmp-ml-3 flex-auto min-width-0">
-        <h2 class="h4 mb-1" >
-          <span data-view-component="true" class="Truncate">
-    <span data-view-component="true" class="Truncate-text"><a data-hovercard-type="user" data-hovercard-url="/users/kollster/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/kollster">kollster</a></span>
-</span>        </h2>
-        
-<p class="tmp-mb-3 d-flex flex-items-center">
-  <span class="sr-only">Works for Fortes Group</span>
-  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-organization color-fg-muted mr-2 tmp-mr-2">
-    <path d="M1.75 16A1.75 1.75 0 0 1 0 14.25V1.75C0 .784.784 0 1.75 0h8.5C11.216 0 12 .784 12 1.75v12.5c0 .085-.006.168-.018.25h2.268a.25.25 0 0 0 .25-.25V8.285a.25.25 0 0 0-.111-.208l-1.055-.703a.749.749 0 1 1 .832-1.248l1.055.703c.487.325.779.871.779 1.456v5.965A1.75 1.75 0 0 1 14.25 16h-3.5a.766.766 0 0 1-.197-.026c-.099.017-.2.026-.303.026h-3a.75.75 0 0 1-.75-.75V14h-1v1.25a.75.75 0 0 1-.75.75Zm-.25-1.75c0 .138.112.25.25.25H4v-1.25a.75.75 0 0 1 .75-.75h2.5a.75.75 0 0 1 .75.75v1.25h2.25a.25.25 0 0 0 .25-.25V1.75a.25.25 0 0 0-.25-.25h-8.5a.25.25 0 0 0-.25.25ZM3.75 6h.5a.75.75 0 0 1 0 1.5h-.5a.75.75 0 0 1 0-1.5ZM3 3.75A.75.75 0 0 1 3.75 3h.5a.75.75 0 0 1 0 1.5h-.5A.75.75 0 0 1 3 3.75Zm4 3A.75.75 0 0 1 7.75 6h.5a.75.75 0 0 1 0 1.5h-.5A.75.75 0 0 1 7 6.75ZM7.75 3h.5a.75.75 0 0 1 0 1.5h-.5a.75.75 0 0 1 0-1.5ZM3 9.75A.75.75 0 0 1 3.75 9h.5a.75.75 0 0 1 0 1.5h-.5A.75.75 0 0 1 3 9.75ZM7.75 9h.5a.75.75 0 0 1 0 1.5h-.5a.75.75 0 0 1 0-1.5Z"></path>
-</svg>
-  <span class="Truncate">
-    <span class="Truncate-text" aria-hidden="true">Fortes Group</span>
-  </span>
-</p>
-
-        <div class="d-flex flex-wrap flex-items-center">
-          
-  <span class="user-following-container">
-    <span class="follow d-block">
-      <a class="btn btn-sm" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;follow button&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/Download/ulog/stargazers?page=2&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="104d206eecaa3a7037702d21b2b9aadaa11c64a8b1a0922327d1896139e6d0fb" href="/login?return_to=https%3A%2F%2Fgithub.com%2FDownload%2Fulog%2Fstargazers%3Fpage%3D2">Follow</a>
-    </span>
-  </span>
-
-
-        </div>
-      </div>
-    </div>
-  </li>
-
-          
-  <li class="col-md-4 tmp-mb-3" >
-    <div class="border-bottom d-flex tmp-pb-3">
-      <div>
-        <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/gsimwat/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/gsimwat"><img class="avatar avatar-user" src="https://avatars.githubusercontent.com/u/28569221?s=96&amp;v=4" width="48" height="48" alt="@gsimwat" /></a>
-      </div>
-
-      <div class="tmp-ml-3 flex-auto min-width-0">
-        <h2 class="h4 mb-1" >
-          <span data-view-component="true" class="Truncate">
-    <span data-view-component="true" class="Truncate-text"><a data-hovercard-type="user" data-hovercard-url="/users/gsimwat/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/gsimwat">gsimwat</a></span>
-</span>        </h2>
-        
-<p class="tmp-mb-3 d-flex flex-items-center">
-  <span class="sr-only">Works for @metricool</span>
-  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-organization color-fg-muted mr-2 tmp-mr-2">
-    <path d="M1.75 16A1.75 1.75 0 0 1 0 14.25V1.75C0 .784.784 0 1.75 0h8.5C11.216 0 12 .784 12 1.75v12.5c0 .085-.006.168-.018.25h2.268a.25.25 0 0 0 .25-.25V8.285a.25.25 0 0 0-.111-.208l-1.055-.703a.749.749 0 1 1 .832-1.248l1.055.703c.487.325.779.871.779 1.456v5.965A1.75 1.75 0 0 1 14.25 16h-3.5a.766.766 0 0 1-.197-.026c-.099.017-.2.026-.303.026h-3a.75.75 0 0 1-.75-.75V14h-1v1.25a.75.75 0 0 1-.75.75Zm-.25-1.75c0 .138.112.25.25.25H4v-1.25a.75.75 0 0 1 .75-.75h2.5a.75.75 0 0 1 .75.75v1.25h2.25a.25.25 0 0 0 .25-.25V1.75a.25.25 0 0 0-.25-.25h-8.5a.25.25 0 0 0-.25.25ZM3.75 6h.5a.75.75 0 0 1 0 1.5h-.5a.75.75 0 0 1 0-1.5ZM3 3.75A.75.75 0 0 1 3.75 3h.5a.75.75 0 0 1 0 1.5h-.5A.75.75 0 0 1 3 3.75Zm4 3A.75.75 0 0 1 7.75 6h.5a.75.75 0 0 1 0 1.5h-.5A.75.75 0 0 1 7 6.75ZM7.75 3h.5a.75.75 0 0 1 0 1.5h-.5a.75.75 0 0 1 0-1.5ZM3 9.75A.75.75 0 0 1 3.75 9h.5a.75.75 0 0 1 0 1.5h-.5A.75.75 0 0 1 3 9.75ZM7.75 9h.5a.75.75 0 0 1 0 1.5h-.5a.75.75 0 0 1 0-1.5Z"></path>
-</svg>
-  <span class="Truncate">
-    <span class="Truncate-text" aria-hidden="true">@metricool</span>
-  </span>
-</p>
-
-        <div class="d-flex flex-wrap flex-items-center">
-          
-  <span class="user-following-container">
-    <span class="follow d-block">
-      <a class="btn btn-sm" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;follow button&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/Download/ulog/stargazers?page=2&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="104d206eecaa3a7037702d21b2b9aadaa11c64a8b1a0922327d1896139e6d0fb" href="/login?return_to=https%3A%2F%2Fgithub.com%2FDownload%2Fulog%2Fstargazers%3Fpage%3D2">Follow</a>
-    </span>
-  </span>
-
-
-        </div>
-      </div>
-    </div>
-  </li>
-
-          
-  <li class="col-md-4 tmp-mb-3" >
-    <div class="border-bottom d-flex tmp-pb-3">
-      <div>
-        <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/taoqf/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/taoqf"><img class="avatar avatar-user" src="https://avatars.githubusercontent.com/u/15901911?s=96&amp;v=4" width="48" height="48" alt="@taoqf" /></a>
-      </div>
-
-      <div class="tmp-ml-3 flex-auto min-width-0">
-        <h2 class="h4 mb-1" >
-          <span data-view-component="true" class="Truncate">
-    <span data-view-component="true" class="Truncate-text"><a data-hovercard-type="user" data-hovercard-url="/users/taoqf/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/taoqf">taoqf</a></span>
-</span>        </h2>
-        
-<p class="tmp-mb-3 d-flex flex-items-center">
-  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-location color-fg-muted mr-2 tmp-mr-2">
-    <path d="m12.596 11.596-3.535 3.536a1.5 1.5 0 0 1-2.122 0l-3.535-3.536a6.5 6.5 0 1 1 9.192-9.193 6.5 6.5 0 0 1 0 9.193Zm-1.06-8.132v-.001a5 5 0 1 0-7.072 7.072L8 14.07l3.536-3.534a5 5 0 0 0 0-7.072ZM8 9a2 2 0 1 1-.001-3.999A2 2 0 0 1 8 9Z"></path>
-</svg>
-  <span class="sr-only">Is from ZhengZhou</span>
-  <span class="Truncate">
-    <span class="Truncate-text" aria-hidden="true">ZhengZhou</span>
-  </span>
-  </p>
-
-        <div class="d-flex flex-wrap flex-items-center">
-          
-  <span class="user-following-container">
-    <span class="follow d-block">
-      <a class="btn btn-sm" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;follow button&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/Download/ulog/stargazers?page=2&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="104d206eecaa3a7037702d21b2b9aadaa11c64a8b1a0922327d1896139e6d0fb" href="/login?return_to=https%3A%2F%2Fgithub.com%2FDownload%2Fulog%2Fstargazers%3Fpage%3D2">Follow</a>
-    </span>
-  </span>
-
-
-        </div>
-      </div>
-    </div>
-  </li>
-
-          
-  <li class="col-md-4 tmp-mb-3" >
-    <div class="border-bottom d-flex tmp-pb-3">
-      <div>
-        <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/frederickfogerty/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/frederickfogerty"><img class="avatar avatar-user" src="https://avatars.githubusercontent.com/u/615334?s=96&amp;v=4" width="48" height="48" alt="@frederickfogerty" /></a>
-      </div>
-
-      <div class="tmp-ml-3 flex-auto min-width-0">
-        <h2 class="h4 mb-1" >
-          <span data-view-component="true" class="Truncate">
-    <span data-view-component="true" class="Truncate-text"><a data-hovercard-type="user" data-hovercard-url="/users/frederickfogerty/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/frederickfogerty">frederickfogerty</a></span>
-</span>        </h2>
-        
-<p class="tmp-mb-3 d-flex flex-items-center">
-  <span class="sr-only">Works for @hackerone</span>
-  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-organization color-fg-muted mr-2 tmp-mr-2">
-    <path d="M1.75 16A1.75 1.75 0 0 1 0 14.25V1.75C0 .784.784 0 1.75 0h8.5C11.216 0 12 .784 12 1.75v12.5c0 .085-.006.168-.018.25h2.268a.25.25 0 0 0 .25-.25V8.285a.25.25 0 0 0-.111-.208l-1.055-.703a.749.749 0 1 1 .832-1.248l1.055.703c.487.325.779.871.779 1.456v5.965A1.75 1.75 0 0 1 14.25 16h-3.5a.766.766 0 0 1-.197-.026c-.099.017-.2.026-.303.026h-3a.75.75 0 0 1-.75-.75V14h-1v1.25a.75.75 0 0 1-.75.75Zm-.25-1.75c0 .138.112.25.25.25H4v-1.25a.75.75 0 0 1 .75-.75h2.5a.75.75 0 0 1 .75.75v1.25h2.25a.25.25 0 0 0 .25-.25V1.75a.25.25 0 0 0-.25-.25h-8.5a.25.25 0 0 0-.25.25ZM3.75 6h.5a.75.75 0 0 1 0 1.5h-.5a.75.75 0 0 1 0-1.5ZM3 3.75A.75.75 0 0 1 3.75 3h.5a.75.75 0 0 1 0 1.5h-.5A.75.75 0 0 1 3 3.75Zm4 3A.75.75 0 0 1 7.75 6h.5a.75.75 0 0 1 0 1.5h-.5A.75.75 0 0 1 7 6.75ZM7.75 3h.5a.75.75 0 0 1 0 1.5h-.5a.75.75 0 0 1 0-1.5ZM3 9.75A.75.75 0 0 1 3.75 9h.5a.75.75 0 0 1 0 1.5h-.5A.75.75 0 0 1 3 9.75ZM7.75 9h.5a.75.75 0 0 1 0 1.5h-.5a.75.75 0 0 1 0-1.5Z"></path>
-</svg>
-  <span class="Truncate">
-    <span class="Truncate-text" aria-hidden="true">@hackerone</span>
-  </span>
-</p>
-
-        <div class="d-flex flex-wrap flex-items-center">
-          
-  <span class="user-following-container">
-    <span class="follow d-block">
-      <a class="btn btn-sm" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;follow button&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/Download/ulog/stargazers?page=2&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="104d206eecaa3a7037702d21b2b9aadaa11c64a8b1a0922327d1896139e6d0fb" href="/login?return_to=https%3A%2F%2Fgithub.com%2FDownload%2Fulog%2Fstargazers%3Fpage%3D2">Follow</a>
-    </span>
-  </span>
-
-
-        </div>
-      </div>
-    </div>
-  </li>
-
-          
-  <li class="col-md-4 tmp-mb-3" >
-    <div class="border-bottom d-flex tmp-pb-3">
-      <div>
-        <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/terenceng2010/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/terenceng2010"><img class="avatar avatar-user" src="https://avatars.githubusercontent.com/u/1858568?s=96&amp;v=4" width="48" height="48" alt="@terenceng2010" /></a>
-      </div>
-
-      <div class="tmp-ml-3 flex-auto min-width-0">
-        <h2 class="h4 mb-1" >
-          <span data-view-component="true" class="Truncate">
-    <span data-view-component="true" class="Truncate-text"><a data-hovercard-type="user" data-hovercard-url="/users/terenceng2010/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/terenceng2010">terenceng2010</a></span>
-</span>        </h2>
-        
-<p class="tmp-mb-3"><svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-clock color-fg-muted">
-    <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"></path>
-</svg> Joined on Jun 17, 2012</p>
-
-        <div class="d-flex flex-wrap flex-items-center">
-          
-  <span class="user-following-container">
-    <span class="follow d-block">
-      <a class="btn btn-sm" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;follow button&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/Download/ulog/stargazers?page=2&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="104d206eecaa3a7037702d21b2b9aadaa11c64a8b1a0922327d1896139e6d0fb" href="/login?return_to=https%3A%2F%2Fgithub.com%2FDownload%2Fulog%2Fstargazers%3Fpage%3D2">Follow</a>
-    </span>
-  </span>
-
-
-        </div>
-      </div>
-    </div>
-  </li>
-
-          
-  <li class="col-md-4 tmp-mb-3" >
-    <div class="border-bottom d-flex tmp-pb-3">
-      <div>
-        <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/vasiliy-vdovichenko/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/vasiliy-vdovichenko"><img class="avatar avatar-user" src="https://avatars.githubusercontent.com/u/1890862?s=96&amp;v=4" width="48" height="48" alt="@vasiliy-vdovichenko" /></a>
-      </div>
-
-      <div class="tmp-ml-3 flex-auto min-width-0">
-        <h2 class="h4 mb-1" >
-          <span data-view-component="true" class="Truncate">
-    <span data-view-component="true" class="Truncate-text"><a data-hovercard-type="user" data-hovercard-url="/users/vasiliy-vdovichenko/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/vasiliy-vdovichenko">vasiliy-vdovichenko</a></span>
-</span>        </h2>
-        
-<p class="tmp-mb-3"><svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-clock color-fg-muted">
-    <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"></path>
-</svg> Joined on Jun 25, 2012</p>
-
-        <div class="d-flex flex-wrap flex-items-center">
-          
-  <span class="user-following-container">
-    <span class="follow d-block">
-      <a class="btn btn-sm" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;follow button&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/Download/ulog/stargazers?page=2&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="104d206eecaa3a7037702d21b2b9aadaa11c64a8b1a0922327d1896139e6d0fb" href="/login?return_to=https%3A%2F%2Fgithub.com%2FDownload%2Fulog%2Fstargazers%3Fpage%3D2">Follow</a>
-    </span>
-  </span>
-
-
-        </div>
-      </div>
-    </div>
-  </li>
-
-          
-  <li class="col-md-4 tmp-mb-3" >
-    <div class="border-bottom d-flex tmp-pb-3">
-      <div>
-        <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/dimaqq/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/dimaqq"><img class="avatar avatar-user" src="https://avatars.githubusercontent.com/u/662249?s=96&amp;v=4" width="48" height="48" alt="@dimaqq" /></a>
-      </div>
-
-      <div class="tmp-ml-3 flex-auto min-width-0">
-        <h2 class="h4 mb-1" >
-          <span data-view-component="true" class="Truncate">
-    <span data-view-component="true" class="Truncate-text"><a data-hovercard-type="user" data-hovercard-url="/users/dimaqq/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/dimaqq">dimaqq</a></span>
-</span>        </h2>
-        
-<p class="tmp-mb-3 d-flex flex-items-center">
-  <span class="sr-only">Works for TBD</span>
-  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-organization color-fg-muted mr-2 tmp-mr-2">
-    <path d="M1.75 16A1.75 1.75 0 0 1 0 14.25V1.75C0 .784.784 0 1.75 0h8.5C11.216 0 12 .784 12 1.75v12.5c0 .085-.006.168-.018.25h2.268a.25.25 0 0 0 .25-.25V8.285a.25.25 0 0 0-.111-.208l-1.055-.703a.749.749 0 1 1 .832-1.248l1.055.703c.487.325.779.871.779 1.456v5.965A1.75 1.75 0 0 1 14.25 16h-3.5a.766.766 0 0 1-.197-.026c-.099.017-.2.026-.303.026h-3a.75.75 0 0 1-.75-.75V14h-1v1.25a.75.75 0 0 1-.75.75Zm-.25-1.75c0 .138.112.25.25.25H4v-1.25a.75.75 0 0 1 .75-.75h2.5a.75.75 0 0 1 .75.75v1.25h2.25a.25.25 0 0 0 .25-.25V1.75a.25.25 0 0 0-.25-.25h-8.5a.25.25 0 0 0-.25.25ZM3.75 6h.5a.75.75 0 0 1 0 1.5h-.5a.75.75 0 0 1 0-1.5ZM3 3.75A.75.75 0 0 1 3.75 3h.5a.75.75 0 0 1 0 1.5h-.5A.75.75 0 0 1 3 3.75Zm4 3A.75.75 0 0 1 7.75 6h.5a.75.75 0 0 1 0 1.5h-.5A.75.75 0 0 1 7 6.75ZM7.75 3h.5a.75.75 0 0 1 0 1.5h-.5a.75.75 0 0 1 0-1.5ZM3 9.75A.75.75 0 0 1 3.75 9h.5a.75.75 0 0 1 0 1.5h-.5A.75.75 0 0 1 3 9.75ZM7.75 9h.5a.75.75 0 0 1 0 1.5h-.5a.75.75 0 0 1 0-1.5Z"></path>
-</svg>
-  <span class="Truncate">
-    <span class="Truncate-text" aria-hidden="true">TBD</span>
-  </span>
-</p>
-
-        <div class="d-flex flex-wrap flex-items-center">
-          
-  <span class="user-following-container">
-    <span class="follow d-block">
-      <a class="btn btn-sm" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;follow button&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/Download/ulog/stargazers?page=2&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="104d206eecaa3a7037702d21b2b9aadaa11c64a8b1a0922327d1896139e6d0fb" href="/login?return_to=https%3A%2F%2Fgithub.com%2FDownload%2Fulog%2Fstargazers%3Fpage%3D2">Follow</a>
-    </span>
-  </span>
-
-
-        </div>
-      </div>
-    </div>
-  </li>
-
-          
-  <li class="col-md-4 tmp-mb-3" >
-    <div class="border-bottom d-flex tmp-pb-3">
-      <div>
-        <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/liborjelinek/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/liborjelinek"><img class="avatar avatar-user" src="https://avatars.githubusercontent.com/u/383059?s=96&amp;v=4" width="48" height="48" alt="@liborjelinek" /></a>
-      </div>
-
-      <div class="tmp-ml-3 flex-auto min-width-0">
-        <h2 class="h4 mb-1" >
-          <span data-view-component="true" class="Truncate">
-    <span data-view-component="true" class="Truncate-text"><a data-hovercard-type="user" data-hovercard-url="/users/liborjelinek/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/liborjelinek">liborjelinek</a></span>
-</span>        </h2>
-        
-<p class="tmp-mb-3 d-flex flex-items-center">
-  <span class="sr-only">Works for @documatt </span>
-  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-organization color-fg-muted mr-2 tmp-mr-2">
-    <path d="M1.75 16A1.75 1.75 0 0 1 0 14.25V1.75C0 .784.784 0 1.75 0h8.5C11.216 0 12 .784 12 1.75v12.5c0 .085-.006.168-.018.25h2.268a.25.25 0 0 0 .25-.25V8.285a.25.25 0 0 0-.111-.208l-1.055-.703a.749.749 0 1 1 .832-1.248l1.055.703c.487.325.779.871.779 1.456v5.965A1.75 1.75 0 0 1 14.25 16h-3.5a.766.766 0 0 1-.197-.026c-.099.017-.2.026-.303.026h-3a.75.75 0 0 1-.75-.75V14h-1v1.25a.75.75 0 0 1-.75.75Zm-.25-1.75c0 .138.112.25.25.25H4v-1.25a.75.75 0 0 1 .75-.75h2.5a.75.75 0 0 1 .75.75v1.25h2.25a.25.25 0 0 0 .25-.25V1.75a.25.25 0 0 0-.25-.25h-8.5a.25.25 0 0 0-.25.25ZM3.75 6h.5a.75.75 0 0 1 0 1.5h-.5a.75.75 0 0 1 0-1.5ZM3 3.75A.75.75 0 0 1 3.75 3h.5a.75.75 0 0 1 0 1.5h-.5A.75.75 0 0 1 3 3.75Zm4 3A.75.75 0 0 1 7.75 6h.5a.75.75 0 0 1 0 1.5h-.5A.75.75 0 0 1 7 6.75ZM7.75 3h.5a.75.75 0 0 1 0 1.5h-.5a.75.75 0 0 1 0-1.5ZM3 9.75A.75.75 0 0 1 3.75 9h.5a.75.75 0 0 1 0 1.5h-.5A.75.75 0 0 1 3 9.75ZM7.75 9h.5a.75.75 0 0 1 0 1.5h-.5a.75.75 0 0 1 0-1.5Z"></path>
-</svg>
-  <span class="Truncate">
-    <span class="Truncate-text" aria-hidden="true">@documatt </span>
-  </span>
-</p>
-
-        <div class="d-flex flex-wrap flex-items-center">
-          
-  <span class="user-following-container">
-    <span class="follow d-block">
-      <a class="btn btn-sm" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;follow button&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/Download/ulog/stargazers?page=2&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="104d206eecaa3a7037702d21b2b9aadaa11c64a8b1a0922327d1896139e6d0fb" href="/login?return_to=https%3A%2F%2Fgithub.com%2FDownload%2Fulog%2Fstargazers%3Fpage%3D2">Follow</a>
-    </span>
-  </span>
-
-
-        </div>
-      </div>
-    </div>
-  </li>
-
-          
-  <li class="col-md-4 tmp-mb-3" >
-    <div class="border-bottom d-flex tmp-pb-3">
-      <div>
-        <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/mason-kanpai/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/mason-kanpai"><img class="avatar avatar-user" src="https://avatars.githubusercontent.com/u/63821016?s=96&amp;v=4" width="48" height="48" alt="@mason-kanpai" /></a>
-      </div>
-
-      <div class="tmp-ml-3 flex-auto min-width-0">
-        <h2 class="h4 mb-1" >
-          <span data-view-component="true" class="Truncate">
-    <span data-view-component="true" class="Truncate-text"><a data-hovercard-type="user" data-hovercard-url="/users/mason-kanpai/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/mason-kanpai">mason-kanpai</a></span>
-</span>        </h2>
-        
-<p class="tmp-mb-3"><svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-clock color-fg-muted">
-    <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"></path>
-</svg> Joined on Apr 16, 2020</p>
-
-        <div class="d-flex flex-wrap flex-items-center">
-          
-  <span class="user-following-container">
-    <span class="follow d-block">
-      <a class="btn btn-sm" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;follow button&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/Download/ulog/stargazers?page=2&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="104d206eecaa3a7037702d21b2b9aadaa11c64a8b1a0922327d1896139e6d0fb" href="/login?return_to=https%3A%2F%2Fgithub.com%2FDownload%2Fulog%2Fstargazers%3Fpage%3D2">Follow</a>
-    </span>
-  </span>
-
-
-        </div>
-      </div>
-    </div>
-  </li>
-
-          
-  <li class="col-md-4 tmp-mb-3" >
-    <div class="border-bottom d-flex tmp-pb-3">
-      <div>
-        <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/c-jacquin/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/c-jacquin"><img class="avatar avatar-user" src="https://avatars.githubusercontent.com/u/2829504?s=96&amp;v=4" width="48" height="48" alt="@c-jacquin" /></a>
-      </div>
-
-      <div class="tmp-ml-3 flex-auto min-width-0">
-        <h2 class="h4 mb-1" >
-          <span data-view-component="true" class="Truncate">
-    <span data-view-component="true" class="Truncate-text"><a data-hovercard-type="user" data-hovercard-url="/users/c-jacquin/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/c-jacquin">c-jacquin</a></span>
-</span>        </h2>
-        
-<p class="tmp-mb-3 d-flex flex-items-center">
-  <span class="sr-only">Works for Freelance</span>
-  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-organization color-fg-muted mr-2 tmp-mr-2">
-    <path d="M1.75 16A1.75 1.75 0 0 1 0 14.25V1.75C0 .784.784 0 1.75 0h8.5C11.216 0 12 .784 12 1.75v12.5c0 .085-.006.168-.018.25h2.268a.25.25 0 0 0 .25-.25V8.285a.25.25 0 0 0-.111-.208l-1.055-.703a.749.749 0 1 1 .832-1.248l1.055.703c.487.325.779.871.779 1.456v5.965A1.75 1.75 0 0 1 14.25 16h-3.5a.766.766 0 0 1-.197-.026c-.099.017-.2.026-.303.026h-3a.75.75 0 0 1-.75-.75V14h-1v1.25a.75.75 0 0 1-.75.75Zm-.25-1.75c0 .138.112.25.25.25H4v-1.25a.75.75 0 0 1 .75-.75h2.5a.75.75 0 0 1 .75.75v1.25h2.25a.25.25 0 0 0 .25-.25V1.75a.25.25 0 0 0-.25-.25h-8.5a.25.25 0 0 0-.25.25ZM3.75 6h.5a.75.75 0 0 1 0 1.5h-.5a.75.75 0 0 1 0-1.5ZM3 3.75A.75.75 0 0 1 3.75 3h.5a.75.75 0 0 1 0 1.5h-.5A.75.75 0 0 1 3 3.75Zm4 3A.75.75 0 0 1 7.75 6h.5a.75.75 0 0 1 0 1.5h-.5A.75.75 0 0 1 7 6.75ZM7.75 3h.5a.75.75 0 0 1 0 1.5h-.5a.75.75 0 0 1 0-1.5ZM3 9.75A.75.75 0 0 1 3.75 9h.5a.75.75 0 0 1 0 1.5h-.5A.75.75 0 0 1 3 9.75ZM7.75 9h.5a.75.75 0 0 1 0 1.5h-.5a.75.75 0 0 1 0-1.5Z"></path>
-</svg>
-  <span class="Truncate">
-    <span class="Truncate-text" aria-hidden="true">Freelance</span>
-  </span>
-</p>
-
-        <div class="d-flex flex-wrap flex-items-center">
-          
-  <span class="user-following-container">
-    <span class="follow d-block">
-      <a class="btn btn-sm" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;follow button&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/Download/ulog/stargazers?page=2&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="104d206eecaa3a7037702d21b2b9aadaa11c64a8b1a0922327d1896139e6d0fb" href="/login?return_to=https%3A%2F%2Fgithub.com%2FDownload%2Fulog%2Fstargazers%3Fpage%3D2">Follow</a>
-    </span>
-  </span>
-
-
-        </div>
-      </div>
-    </div>
-  </li>
-
-          
-  <li class="col-md-4 tmp-mb-3" >
-    <div class="border-bottom d-flex tmp-pb-3">
-      <div>
-        <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/loicCodes/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/loicCodes"><img class="avatar avatar-user" src="https://avatars.githubusercontent.com/u/2123984?s=96&amp;v=4" width="48" height="48" alt="@loicCodes" /></a>
-      </div>
-
-      <div class="tmp-ml-3 flex-auto min-width-0">
-        <h2 class="h4 mb-1" >
-          <span data-view-component="true" class="Truncate">
-    <span data-view-component="true" class="Truncate-text"><a data-hovercard-type="user" data-hovercard-url="/users/loicCodes/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/loicCodes">loicCodes</a></span>
-</span>        </h2>
-        
-<p class="tmp-mb-3"><svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-clock color-fg-muted">
-    <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"></path>
-</svg> Joined on Aug 9, 2012</p>
-
-        <div class="d-flex flex-wrap flex-items-center">
-          
-  <span class="user-following-container">
-    <span class="follow d-block">
-      <a class="btn btn-sm" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;follow button&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/Download/ulog/stargazers?page=2&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="104d206eecaa3a7037702d21b2b9aadaa11c64a8b1a0922327d1896139e6d0fb" href="/login?return_to=https%3A%2F%2Fgithub.com%2FDownload%2Fulog%2Fstargazers%3Fpage%3D2">Follow</a>
-    </span>
-  </span>
-
-
-        </div>
-      </div>
-    </div>
-  </li>
-
-          
-  <li class="col-md-4 tmp-mb-3" >
-    <div class="border-bottom d-flex tmp-pb-3">
-      <div>
-        <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/byteninja/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/byteninja"><img class="avatar avatar-user" src="https://avatars.githubusercontent.com/u/5484733?s=96&amp;v=4" width="48" height="48" alt="@byteninja" /></a>
-      </div>
-
-      <div class="tmp-ml-3 flex-auto min-width-0">
-        <h2 class="h4 mb-1" >
-          <span data-view-component="true" class="Truncate">
-    <span data-view-component="true" class="Truncate-text"><a data-hovercard-type="user" data-hovercard-url="/users/byteninja/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/byteninja">byteninja</a></span>
-</span>        </h2>
-        
-<p class="tmp-mb-3"><svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-clock color-fg-muted">
-    <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"></path>
-</svg> Joined on Sep 18, 2013</p>
-
-        <div class="d-flex flex-wrap flex-items-center">
-          
-  <span class="user-following-container">
-    <span class="follow d-block">
-      <a class="btn btn-sm" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;follow button&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/Download/ulog/stargazers?page=2&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="104d206eecaa3a7037702d21b2b9aadaa11c64a8b1a0922327d1896139e6d0fb" href="/login?return_to=https%3A%2F%2Fgithub.com%2FDownload%2Fulog%2Fstargazers%3Fpage%3D2">Follow</a>
-    </span>
-  </span>
-
-
-        </div>
-      </div>
-    </div>
-  </li>
-
-          
-  <li class="col-md-4 tmp-mb-3" >
-    <div class="border-bottom d-flex tmp-pb-3">
-      <div>
-        <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/equalsp/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/equalsp"><img class="avatar avatar-user" src="https://avatars.githubusercontent.com/u/6240702?s=96&amp;v=4" width="48" height="48" alt="@equalsp" /></a>
-      </div>
-
-      <div class="tmp-ml-3 flex-auto min-width-0">
-        <h2 class="h4 mb-1" >
-          <span data-view-component="true" class="Truncate">
-    <span data-view-component="true" class="Truncate-text"><a data-hovercard-type="user" data-hovercard-url="/users/equalsp/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/equalsp">equalsp</a></span>
-</span>        </h2>
-        
-<p class="tmp-mb-3"><svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-clock color-fg-muted">
-    <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm7-3.25v2.992l2.028.812a.75.75 0 0 1-.557 1.392l-2.5-1A.751.751 0 0 1 7 8.25v-3.5a.75.75 0 0 1 1.5 0Z"></path>
-</svg> Joined on Dec 22, 2013</p>
-
-        <div class="d-flex flex-wrap flex-items-center">
-          
-  <span class="user-following-container">
-    <span class="follow d-block">
-      <a class="btn btn-sm" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;follow button&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/Download/ulog/stargazers?page=2&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="104d206eecaa3a7037702d21b2b9aadaa11c64a8b1a0922327d1896139e6d0fb" href="/login?return_to=https%3A%2F%2Fgithub.com%2FDownload%2Fulog%2Fstargazers%3Fpage%3D2">Follow</a>
-    </span>
-  </span>
-
-
-        </div>
-      </div>
-    </div>
-  </li>
-
-          
-  <li class="col-md-4 tmp-mb-3" >
-    <div class="border-bottom d-flex tmp-pb-3">
-      <div>
-        <a class="d-inline-block" data-hovercard-type="user" data-hovercard-url="/users/TimonVS/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/TimonVS"><img class="avatar avatar-user" src="https://avatars.githubusercontent.com/u/876666?s=96&amp;v=4" width="48" height="48" alt="@TimonVS" /></a>
-      </div>
-
-      <div class="tmp-ml-3 flex-auto min-width-0">
-        <h2 class="h4 mb-1" >
-          <span data-view-component="true" class="Truncate">
-    <span data-view-component="true" class="Truncate-text"><a data-hovercard-type="user" data-hovercard-url="/users/TimonVS/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/TimonVS">TimonVS</a></span>
-</span>        </h2>
-        
-<p class="tmp-mb-3 d-flex flex-items-center">
-  <span class="sr-only">Works for Cimpress Technology</span>
-  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-organization color-fg-muted mr-2 tmp-mr-2">
-    <path d="M1.75 16A1.75 1.75 0 0 1 0 14.25V1.75C0 .784.784 0 1.75 0h8.5C11.216 0 12 .784 12 1.75v12.5c0 .085-.006.168-.018.25h2.268a.25.25 0 0 0 .25-.25V8.285a.25.25 0 0 0-.111-.208l-1.055-.703a.749.749 0 1 1 .832-1.248l1.055.703c.487.325.779.871.779 1.456v5.965A1.75 1.75 0 0 1 14.25 16h-3.5a.766.766 0 0 1-.197-.026c-.099.017-.2.026-.303.026h-3a.75.75 0 0 1-.75-.75V14h-1v1.25a.75.75 0 0 1-.75.75Zm-.25-1.75c0 .138.112.25.25.25H4v-1.25a.75.75 0 0 1 .75-.75h2.5a.75.75 0 0 1 .75.75v1.25h2.25a.25.25 0 0 0 .25-.25V1.75a.25.25 0 0 0-.25-.25h-8.5a.25.25 0 0 0-.25.25ZM3.75 6h.5a.75.75 0 0 1 0 1.5h-.5a.75.75 0 0 1 0-1.5ZM3 3.75A.75.75 0 0 1 3.75 3h.5a.75.75 0 0 1 0 1.5h-.5A.75.75 0 0 1 3 3.75Zm4 3A.75.75 0 0 1 7.75 6h.5a.75.75 0 0 1 0 1.5h-.5A.75.75 0 0 1 7 6.75ZM7.75 3h.5a.75.75 0 0 1 0 1.5h-.5a.75.75 0 0 1 0-1.5ZM3 9.75A.75.75 0 0 1 3.75 9h.5a.75.75 0 0 1 0 1.5h-.5A.75.75 0 0 1 3 9.75ZM7.75 9h.5a.75.75 0 0 1 0 1.5h-.5a.75.75 0 0 1 0-1.5Z"></path>
-</svg>
-  <span class="Truncate">
-    <span class="Truncate-text" aria-hidden="true">Cimpress Technology</span>
-  </span>
-</p>
-
-        <div class="d-flex flex-wrap flex-items-center">
-          
-  <span class="user-following-container">
-    <span class="follow d-block">
-      <a class="btn btn-sm" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;follow button&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/Download/ulog/stargazers?page=2&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="104d206eecaa3a7037702d21b2b9aadaa11c64a8b1a0922327d1896139e6d0fb" href="/login?return_to=https%3A%2F%2Fgithub.com%2FDownload%2Fulog%2Fstargazers%3Fpage%3D2">Follow</a>
-    </span>
-  </span>
-
-
-        </div>
-      </div>
-    </div>
-  </li>
-
-      </ol>
-      <div class="paginate-container">
-        <div class="pagination"><a rel="nofollow" href="https://github.com/Download/ulog/stargazers?page=1">Previous</a><a rel="nofollow" href="https://github.com/Download/ulog/stargazers?page=3">Next</a></div>
-      </div>
-  </div>
 
 
   </div>
 
 </turbo-frame>
-
 
     </main>
   </div>
