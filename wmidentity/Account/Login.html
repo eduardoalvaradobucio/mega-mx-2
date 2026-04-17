@@ -1,0 +1,310 @@
+<html><head>
+  <meta charset="UTF-8">
+  <title>Webmail</title>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:100,400,500,700">
+
+  <style>
+    /* Page Defaults */
+    * {
+      -webkit-box-sizing: border-box;
+      -moz-box-sizing: border-box;
+      box-sizing: border-box;
+    }
+    body {
+      font-family: "Roboto", "Helvetica Neue", Helvetica, Arial, sans-serif;
+      font-size: 14px;
+      line-height: 1.42857;
+      color: #333333;
+      background-color: #FAFAFA;
+      margin: 0;
+    }
+
+    /* Page Layout */
+    #content {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      position: fixed;
+      top: 0;
+      left: 0;
+      bottom: 0;
+      right: 0;
+      background: #EAEAEA;
+    }
+    #content-header {
+      height: 53px;
+      padding: 16px;
+      font-size: 24px;
+      font-weight: 300;
+      line-height: 18px;
+      background: #424242;
+      color: #FCFCFC;
+    }
+    #content-header-logo {
+      float: right;
+    }
+    #logo {
+      width: 130px;
+      height: 26px;
+    }
+    #content-header-label {
+      float: left;
+    }
+    #content-body {
+      display: flex;
+      justify-content: start;
+      background: #FFFFFF;
+      min-width: 500px;
+    }
+
+    /* Form Layout */
+    #form {
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      padding: 20px;
+      min-height: 268px;
+      width: 100%;
+    }
+    #form-body {
+      height: 205px;
+      width: 100%;
+      margin: 40px 0px 0px 20px;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      padding-right: 20px;
+    }
+    #form-container {
+      width: 100%;
+      margin: 0px auto;
+      padding: 0px 10px;
+    }
+    .row {
+      margin: 0px -10px;
+    }
+    .row:before, .row:after {
+      content: " ";
+      display: table;
+    }
+    .col {
+      width: 100%;
+      float: left;
+      position: relative;
+      min-height: 1px;
+      padding: 0px 10px;
+    }
+    .form-group {
+      width: inherit;
+      padding-right: 30px;
+      margin-bottom: 20px;
+    }
+    .form-label {
+      position: relative;
+      font-family: Roboto;
+      font-size: 16px;
+      margin-bottom: 8px;
+      line-height: 1;
+      color: #616161;
+      display: inline-block;
+      max-width: 100%;
+    }
+    .form-field {
+      border: 1px solid #BDBDBD;
+      border-radius: 2px;
+      background: #FFFFFF;
+      font-family: Roboto;
+      font-size: 16px;
+      color: #616161;
+      height: 32px;
+      display: block;
+      width: 100%;
+      padding: 4px 8px;
+      line-height: 1.42857;
+      -webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+      box-shadow: inset 0 1px 1px rgba(0, 0, 0, 0.075);
+      -webkit-transition: border-color ease-in-out 0.15s, box-shadow ease-in-out 0.15s;
+      -o-transition: border-color ease-in-out 0.15s, box-shadow ease-in-out 0.15s;
+      transition: border-color ease-in-out 0.15s, box-shadow ease-in-out 0.15s;
+    }
+    #forgot-password {
+      position: absolute;
+      top: 0px;
+      right: 40px;
+      color: #0f74bc;
+      text-decoration: none;
+      background-color: transparent;
+      box-sizing: border-box;
+    }
+    #login-btn-toolbar {
+      float: right;
+      margin: auto 30px 15px -20px;
+    }
+    #login-btn {
+      float: right;
+      display: inline-flex;
+      flex-direction: row;
+      justify-content: center;
+      align-items: center;
+      padding: 0 12px;
+      height: 32px;
+      line-height: 1px;
+      font-size: 14px;
+      font-weight: 400;
+      text-transform: capitalize;
+      color: #fff;
+      background-color: #0f74bc;
+      border-color: #0f74bc;
+      margin-bottom: 0;
+      text-align: center;
+      vertical-align: middle;
+      touch-action: manipulation;
+      cursor: pointer;
+      background-image: none;
+      border: 1px solid transparent;
+      white-space: nowrap;
+      border-radius: 2px;
+      -webkit-user-select: none;
+      -moz-user-select: none;
+      -ms-user-select: none;
+      user-select: none;
+    }
+    #form-container {
+      width: 100%;
+      margin: 0px auto;
+      padding: 0px 10px;
+    }
+    @media only screen
+      and (max-device-width: 480px) {
+      /* Page Defaults */
+      body {
+        font-size: 19pt;
+        line-height: 1.42857em;
+      }
+      /* Page Layout */
+      #content {
+        align-items: inherit;
+        display: inherit;
+        justify-content: inherit;
+      }
+      #content-header {
+        font-size: 171%;
+        height: 3em;
+        line-height: 1em;
+        padding: 1em;
+      }
+      /* Form Layout */
+      .form-label {
+        font-size: 114%;
+      }
+      .form-field {
+        font-size: 114%;
+        height: 2em;
+      }
+      #forgot-password {
+        right: 2em;
+        top: 0;
+      }
+      #login-btn-toolbar {
+        margin: 1.5em 2em 1em -1.5em;
+      }
+      #login-btn {
+        font-size: 150%;
+        height: 3em;
+        padding: 1.25em;
+      }
+    }
+  </style>
+
+  <script type="text/javascript">
+  document.addEventListener("DOMContentLoaded", function(){
+    document.getElementById('user-label').innerHTML='USUARIO';
+    document.getElementById('pass-label').innerHTML = 'CONTRASEÑA';
+    document.getElementById('login-btn').innerHTML = 'INGRESAR';
+    document.getElementById('forgot-password').innerHTML = '¿Olvidó su contraseña?';
+  });
+</script>
+
+  <body>
+    <div>
+      <div id="content">
+        <div>
+          <div id="content-header">
+            <div id="content-header-label">Webmail Login</div>
+            <div id="content-header-logo">
+                <!-- To add a logo just put it in an img tag below this comment! -->
+            </div>
+          </div>
+          <div id="content-body">
+            <!-- DO NOT REMOVE THE FOLLOWING LINE YOUR SITE WILL NOT WORK WITHOUT IT!!! -->
+            <form id="form" method="post" name="login" action="" autocomplete="off">
+  <script src="/wmidentity/dist/webmailLogin.js?v=dn70RwATRXPGR3I_MlY9aK9fMX6zSf1GYvcRvRv-UFc=" type="text/javascript"></script>
+  <div id="form-body">
+    <div id="form-container">
+      <input type="hidden" name="__RequestVerificationToken" value="CfDJ8C9JbzfMhuZPt6XTc-PPbnYAplxKcbEIQGrFZvEHbO2RqTAWCIhVcJoYxZX-emqwrrHSx92sRUJiAkXOqTXsJdhtp5iYMc57zogTFkGRS_6zuopCplThb0hytClPFkhsgFev_DjzKMTs4Yh6b-2Hd2Q" />
+      <!-- destination and flags is used for OWA login -->
+      <input id="form-destination" type="hidden" name="destination" value="" />
+      <input id="form-owa-flags" type="hidden" name="flags" value="4" />
+      <div id="user-row" class="row">
+        <div id="user-col" class="col">
+          <div id="user-field" class="form-group">
+            <label id="user-label" class="form-label">Email address</label>
+            <input id="user-input" name="username" tabindex="1" class="form-field" value="" autocomplete="username" />
+          </div>
+        </div>
+      </div>
+      <div id="pass-row" class="row">
+        <div id="pass-col" class="col">
+          <div id="pass-field" class="form-group">
+            <label id="pass-label" class="form-label">Password</label>
+            <input id="pass-input" name="password" tabindex="2" type="password" class="form-field" value="" autocomplete="current-password" />
+          </div>
+          <a id="forgot-password" href="/wmidentity/recover/password" tabindex="4">Forgot password?</a>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div id="login-btn-toolbar">
+    <button onclick="submitLogin(event);" id="login-btn" tabindex="3" type="submit">Log In</button>
+  </div>
+</form>
+            <!-- This section contains an EXAMPLE of the login form.
+                 You should use this for help with style changes.
+                 DO NOT try to change this area as it does nothing.
+                 All html tags are just "element" to ensure no css uses html selectors.
+                 Please only use IDs and Classes.
+
+                 <element id="form">
+                   <element id="form-body">
+                     <element id="form-container">
+                       <element id="user-row" class="row">
+                         <element id="user-col" class="col">
+                           <element id="user-field" class="form-group">
+                             <element id="user-label" class="form-label">Username</element>
+                             <element id="user-input" name="user_name" class="form-field" />
+                           </>
+                         </>
+                       </>
+                       <element id="pass-row" class="row">
+                         <element id="pass-col" class="col">
+                           <element id="pass-field" class="form-group">
+                             <element id="pass-label" class="form-label">Password</element>
+                             <element id="pass-input" name="password" class="form-field" />
+                           </>
+                           <element id="forgot-password">Forgot password?</element>
+                         </>
+                       </>
+                     </>
+                   </>
+                   <element id="login-btn-toolbar">
+                     <element id="login-btn">Log In</element>
+                   </>
+                 </>
+            -->
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
