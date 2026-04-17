@@ -1,0 +1,1736 @@
+<!--
+@license
+Copyright (c) 2016 The Polymer Project Authors. All rights reserved.
+This code may only be used under the BSD style license found at http://polymer.github.io/LICENSE.txt
+The complete set of authors may be found at http://polymer.github.io/AUTHORS.txt
+The complete set of contributors may be found at http://polymer.github.io/CONTRIBUTORS.txt
+Code distributed by Google as part of the polymer project is also
+subject to an additional IP rights grant found at http://polymer.github.io/PATENTS.txt
+-->
+<!DOCTYPE html>
+<html itemscope itemtype="http://schema.org/Organization" lang="en">
+<head>
+<title>What's new in 2.0 - Polymer Project</title>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="chrome=1" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0">
+<meta name="google-site-verification" content="k0e8DrbD40s54xHNBqwIsRrSSAkZoprwtEYDnNY06bU" />
+<meta name="google-site-verification" content="pnjjbQFvjPwaWhEXY6nSyaS9iyghmH-M_yLHBveDX2M">
+<meta itemprop="image" content="https://www.polymer-project.org/images/logos/favicon.png">
+<meta itemprop="description" content="The Polymer library uses the latest web technologies to let you create custom HTML elements.">
+<meta name="theme-color" content="#1e88e5">
+<link rel="manifest" href="/manifest.json">
+
+<link rel="publisher" href="https://plus.google.com/107187849809354688692">
+<link rel="shortcut icon" href="/images/logos/favicon.png">
+<link rel="stylesheet" href="//fonts.googleapis.com/css?family=Source+Code+Pro:400,700|Roboto+Slab:300,500">
+
+<link rel="stylesheet" href="/css/site.css">
+
+<script>if (!window.customElements) { document.write('<!--'); }</script>
+<script src="/webcomponentsjs/custom-elements-es5-adapter.js"></script>
+<!--! do not remove -->
+<script src="/webcomponentsjs/webcomponents-loader.js"></script></head>
+<body>
+  <pw-shell server-rendered>
+    <div class="site-nav" slot="site-nav">
+  <img src="/images/logos/p-logo.png" alt="Polymer Logo">
+      <pw-version-selector
+        active-docs-version="2.0"
+        v1-page-link="/1.0/docs/devguide/feature-overview"
+        v2-page-link="/2.0/docs/about_20"
+        v3-page-link="/3.0/docs/devguide/feature-overview"></pw-version-selector>
+    
+            <a class="level-1"
+         href="/"
+         name="/"
+         data-version="2.0">
+         <span>Home</span>
+
+                </a>
+
+                <a class="level-1"
+         href="/2.0/docs/devguide/feature-overview"
+         name="/2.0/docs/devguide/feature-overview"
+         data-version="2.0">
+         <span>Guides</span>
+
+                  <paper-icon-button icon="icons:expand-more"
+            onclick="_expandClicked(event)">
+         </paper-icon-button>
+                </a>
+
+              <iron-collapse class="">
+                                    <a class="level-2 "
+                 href="/2.0/docs/devguide/feature-overview"
+                 name="/2.0/docs/devguide/feature-overview">
+                 <span>Feature overview</span>
+              </a>
+                                                <a class="level-2 "
+                 href="/2.0/docs/quick-tour"
+                 name="/2.0/docs/quick-tour">
+                 <span>Try Polymer</span>
+              </a>
+                                                <a class="level-2 "
+                 href="/2.0/docs/install-2-0"
+                 name="/2.0/docs/install-2-0">
+                 <span>Install Polymer 2.x</span>
+              </a>
+                                                <a class="level-2" onclick="_expandClicked(event)">
+                 <span>Tutorial: Build an element</span>
+                 <paper-icon-button icon="icons:expand-more"></paper-icon-button>
+              </a>
+              <iron-collapse>
+                                                <a class="level-2 indent"
+                 href="/2.0/docs/first-element/intro"
+                 name="/2.0/docs/first-element/intro">
+                 <span>1. Get set up</span>
+              </a>
+                                                <a class="level-2 indent"
+                 href="/2.0/docs/first-element/step-2"
+                 name="/2.0/docs/first-element/step-2">
+                 <span>2. Add local DOM</span>
+              </a>
+                                                <a class="level-2 indent"
+                 href="/2.0/docs/first-element/step-3"
+                 name="/2.0/docs/first-element/step-3">
+                 <span>3. Data binding &amp; properties</span>
+              </a>
+                                                <a class="level-2 indent"
+                 href="/2.0/docs/first-element/step-4"
+                 name="/2.0/docs/first-element/step-4">
+                 <span>4. React to input</span>
+              </a>
+                                                <a class="level-2 indent"
+                 href="/2.0/docs/first-element/step-5"
+                 name="/2.0/docs/first-element/step-5">
+                 <span>5. Theming with custom properties</span>
+              </a>
+                                                </iron-collapse>
+                                                <a class="level-2" onclick="_expandClicked(event)">
+                 <span>About this release</span>
+                 <paper-icon-button icon="icons:expand-more"></paper-icon-button>
+              </a>
+              <iron-collapse>
+                                                <a class="level-2 indent"
+                 href="/2.0/docs/about_20"
+                 name="/2.0/docs/about_20">
+                 <span>What&#39;s new in 2.0</span>
+              </a>
+                                                <a class="level-2 indent"
+                 href="/2.0/docs/upgrade"
+                 name="/2.0/docs/upgrade">
+                 <span>Upgrade guide</span>
+              </a>
+                                                <a class="level-2 indent"
+                 href="/2.0/docs/devguide/hybrid-elements"
+                 name="/2.0/docs/devguide/hybrid-elements">
+                 <span>Hybrid elements</span>
+              </a>
+                                                <a class="level-2 indent"
+                 href="/2.0/docs/release-notes"
+                 name="/2.0/docs/release-notes">
+                 <span>Release notes</span>
+              </a>
+                                                </iron-collapse>
+                                                <a class="level-2" onclick="_expandClicked(event)">
+                 <span>Custom elements</span>
+                 <paper-icon-button icon="icons:expand-more"></paper-icon-button>
+              </a>
+              <iron-collapse>
+                                                <a class="level-2 indent"
+                 href="/2.0/docs/devguide/custom-elements"
+                 name="/2.0/docs/devguide/custom-elements">
+                 <span>Custom element concepts</span>
+              </a>
+                                                <a class="level-2 indent"
+                 href="/2.0/docs/devguide/registering-elements"
+                 name="/2.0/docs/devguide/registering-elements">
+                 <span>Define an element</span>
+              </a>
+                                                <a class="level-2 indent"
+                 href="/2.0/docs/devguide/properties"
+                 name="/2.0/docs/devguide/properties">
+                 <span>Declare properties</span>
+              </a>
+                                                </iron-collapse>
+                                                <a class="level-2" onclick="_expandClicked(event)">
+                 <span>Shadow DOM &amp; styling</span>
+                 <paper-icon-button icon="icons:expand-more"></paper-icon-button>
+              </a>
+              <iron-collapse>
+                                                <a class="level-2 indent"
+                 href="/2.0/docs/devguide/shadow-dom"
+                 name="/2.0/docs/devguide/shadow-dom">
+                 <span>Shadow DOM concepts</span>
+              </a>
+                                                <a class="level-2 indent"
+                 href="/2.0/docs/devguide/dom-template"
+                 name="/2.0/docs/devguide/dom-template">
+                 <span>DOM templating</span>
+              </a>
+                                                <a class="level-2 indent"
+                 href="/2.0/docs/devguide/style-shadow-dom"
+                 name="/2.0/docs/devguide/style-shadow-dom">
+                 <span>Style shadow DOM</span>
+              </a>
+                                                <a class="level-2 indent"
+                 href="/2.0/docs/devguide/custom-css-properties"
+                 name="/2.0/docs/devguide/custom-css-properties">
+                 <span>Custom CSS properties</span>
+              </a>
+                                                </iron-collapse>
+                                                <a class="level-2" onclick="_expandClicked(event)">
+                 <span>Events</span>
+                 <paper-icon-button icon="icons:expand-more"></paper-icon-button>
+              </a>
+              <iron-collapse>
+                                                <a class="level-2 indent"
+                 href="/2.0/docs/devguide/events"
+                 name="/2.0/docs/devguide/events">
+                 <span>Handle and fire events</span>
+              </a>
+                                                <a class="level-2 indent"
+                 href="/2.0/docs/devguide/gesture-events"
+                 name="/2.0/docs/devguide/gesture-events">
+                 <span>Gesture events</span>
+              </a>
+                                                </iron-collapse>
+                                                <a class="level-2" onclick="_expandClicked(event)">
+                 <span>Data system</span>
+                 <paper-icon-button icon="icons:expand-more"></paper-icon-button>
+              </a>
+              <iron-collapse>
+                                                <a class="level-2 indent"
+                 href="/2.0/docs/devguide/data-system"
+                 name="/2.0/docs/devguide/data-system">
+                 <span>Data system concepts</span>
+              </a>
+                                                <a class="level-2 indent"
+                 href="/2.0/docs/devguide/model-data"
+                 name="/2.0/docs/devguide/model-data">
+                 <span>Work with object and array data</span>
+              </a>
+                                                <a class="level-2 indent"
+                 href="/2.0/docs/devguide/observers"
+                 name="/2.0/docs/devguide/observers">
+                 <span>Observers and computed properties</span>
+              </a>
+                                                <a class="level-2 indent"
+                 href="/2.0/docs/devguide/data-binding"
+                 name="/2.0/docs/devguide/data-binding">
+                 <span>Data binding</span>
+              </a>
+                                                <a class="level-2 indent"
+                 href="/2.0/docs/devguide/templates"
+                 name="/2.0/docs/devguide/templates">
+                 <span>Helper elements</span>
+              </a>
+                                                </iron-collapse>
+                                                <a class="level-2" onclick="_expandClicked(event)">
+                 <span>Browser support</span>
+                 <paper-icon-button icon="icons:expand-more"></paper-icon-button>
+              </a>
+              <iron-collapse>
+                                                <a class="level-2 indent"
+                 href="/2.0/docs/browsers"
+                 name="/2.0/docs/browsers">
+                 <span>Overview</span>
+              </a>
+                                                <a class="level-2 indent"
+                 href="/2.0/docs/polyfills"
+                 name="/2.0/docs/polyfills">
+                 <span>Polyfills</span>
+              </a>
+                                                <a class="level-2 indent"
+                 href="/2.0/docs/es6"
+                 name="/2.0/docs/es6">
+                 <span>ES6</span>
+              </a>
+                                                </iron-collapse>
+                                                <a class="level-2" onclick="_expandClicked(event)">
+                 <span>Tools</span>
+                 <paper-icon-button icon="icons:expand-more"></paper-icon-button>
+              </a>
+              <iron-collapse>
+                                                <a class="level-2 indent"
+                 href="/2.0/docs/tools/overview"
+                 name="/2.0/docs/tools/overview">
+                 <span>Tools overview</span>
+              </a>
+                                                <a class="level-2 indent"
+                 href="/2.0/docs/tools/polymer-cli"
+                 name="/2.0/docs/tools/polymer-cli">
+                 <span>Polymer CLI</span>
+              </a>
+                                                <a class="level-2 indent"
+                 href="/2.0/docs/tools/polymer-cli-commands"
+                 name="/2.0/docs/tools/polymer-cli-commands">
+                 <span>CLI commands</span>
+              </a>
+                                                <a class="level-2 indent"
+                 href="/2.0/docs/tools/create-element-polymer-cli"
+                 name="/2.0/docs/tools/create-element-polymer-cli">
+                 <span>Create an element project</span>
+              </a>
+                                                <a class="level-2 indent"
+                 href="/2.0/docs/tools/create-app-polymer-cli"
+                 name="/2.0/docs/tools/create-app-polymer-cli">
+                 <span>Create an application project</span>
+              </a>
+                                                <a class="level-2 indent"
+                 href="/2.0/docs/tools/documentation"
+                 name="/2.0/docs/tools/documentation">
+                 <span>Document your elements</span>
+              </a>
+                                                <a class="level-2 indent"
+                 href="/2.0/docs/tools/tests"
+                 name="/2.0/docs/tools/tests">
+                 <span>Test your elements</span>
+              </a>
+                                                <a class="level-2 indent"
+                 href="/2.0/docs/tools/publish"
+                 name="/2.0/docs/tools/publish">
+                 <span>Publish your elements</span>
+              </a>
+                                                <a class="level-2 indent"
+                 href="/2.0/docs/tools/services"
+                 name="/2.0/docs/tools/services">
+                 <span>Web services</span>
+              </a>
+                                                <a class="level-2 indent"
+                 href="/2.0/docs/tools/polymer-json"
+                 name="/2.0/docs/tools/polymer-json">
+                 <span>polymer.json specification</span>
+              </a>
+                                                <a class="level-2 indent"
+                 href="/2.0/docs/tools/node-support"
+                 name="/2.0/docs/tools/node-support">
+                 <span>Node support</span>
+              </a>
+                                                </iron-collapse>
+                                                <a class="level-2" onclick="_expandClicked(event)">
+                 <span>Build apps</span>
+                 <paper-icon-button icon="icons:expand-more"></paper-icon-button>
+              </a>
+              <iron-collapse>
+                                                <a class="level-2 indent"
+                 href="/2.0/docs/apps/"
+                 name="/2.0/docs/apps/">
+                 <span>Overview</span>
+              </a>
+                                                <a class="level-2 indent"
+                 href="/2.0/docs/apps/templates"
+                 name="/2.0/docs/apps/templates">
+                 <span>App templates</span>
+              </a>
+                                                <a class="level-2 indent"
+                 href="/2.0/docs/apps/app-layout"
+                 name="/2.0/docs/apps/app-layout">
+                 <span>Responsive app layout</span>
+              </a>
+                                                <a class="level-2 indent"
+                 href="/2.0/docs/apps/routing"
+                 name="/2.0/docs/apps/routing">
+                 <span>Routing</span>
+              </a>
+                                                <a class="level-2 indent"
+                 href="/2.0/docs/apps/localize"
+                 name="/2.0/docs/apps/localize">
+                 <span>Localization</span>
+              </a>
+                                                <a class="level-2 indent"
+                 href="/2.0/docs/apps/app-storage"
+                 name="/2.0/docs/apps/app-storage">
+                 <span>App storage</span>
+              </a>
+                                                <a class="level-2 indent"
+                 href="/2.0/docs/apps/service-worker"
+                 name="/2.0/docs/apps/service-worker">
+                 <span>Service worker</span>
+              </a>
+                                                <a class="level-2 indent"
+                 href="/2.0/docs/apps/build-for-production"
+                 name="/2.0/docs/apps/build-for-production">
+                 <span>Build for production</span>
+              </a>
+                                                <a class="level-2 indent"
+                 href="/2.0/docs/apps/serve"
+                 name="/2.0/docs/apps/serve">
+                 <span>Serve your app</span>
+              </a>
+                                                <a class="level-2 indent"
+                 href="/2.0/docs/apps/prpl"
+                 name="/2.0/docs/apps/prpl">
+                 <span>The PRPL pattern</span>
+              </a>
+                                                <a class="level-2 indent"
+                 href="/2.0/docs/apps/case-study"
+                 name="/2.0/docs/apps/case-study">
+                 <span>Shop App Case Study</span>
+              </a>
+                                                <a class="level-2 indent"
+                 href="/2.0/docs/apps/news-case-study"
+                 name="/2.0/docs/apps/news-case-study">
+                 <span>News App Case Study</span>
+              </a>
+                                                </iron-collapse>
+                                                <a class="level-2" onclick="_expandClicked(event)">
+                 <span>Resources</span>
+                 <paper-icon-button icon="icons:expand-more"></paper-icon-button>
+              </a>
+              <iron-collapse>
+                                                <a class="level-2 indent"
+                 href="/2.0/docs/glossary"
+                 name="/2.0/docs/glossary">
+                 <span>Glossary</span>
+              </a>
+                                                <a class="level-2 indent"
+                 href="/2.0/docs/devguide/settings"
+                 name="/2.0/docs/devguide/settings">
+                 <span>Global settings</span>
+              </a>
+                                                </iron-collapse>
+                              </iron-collapse>
+                <a class="level-1"
+         href="/2.0/api/"
+         name="/2.0/api/"
+         data-version="2.0">
+         <span>API Reference</span>
+
+                  <paper-icon-button icon="icons:expand-more"
+            onclick="_expandClicked(event)">
+         </paper-icon-button>
+                </a>
+
+              <iron-collapse class="">
+                                    <a class="level-2 "
+                 href="/2.0/api/"
+                 name="/2.0/api/">
+                 <span>index</span>
+              </a>
+                                                <a class="level-2" onclick="_expandClicked(event)">
+                 <span>Elements</span>
+                 <paper-icon-button icon="icons:expand-more"></paper-icon-button>
+              </a>
+              <iron-collapse>
+                                                <a class="level-2 indent"
+                 href="/2.0/api/elements/Polymer.ArraySelector"
+                 name="/2.0/api/elements/Polymer.ArraySelector">
+                 <span>Polymer.ArraySelector</span>
+              </a>
+                                                <a class="level-2 indent"
+                 href="/2.0/api/elements/Polymer.CustomStyle"
+                 name="/2.0/api/elements/Polymer.CustomStyle">
+                 <span>Polymer.CustomStyle</span>
+              </a>
+                                                <a class="level-2 indent"
+                 href="/2.0/api/elements/Polymer.DomBind"
+                 name="/2.0/api/elements/Polymer.DomBind">
+                 <span>Polymer.DomBind</span>
+              </a>
+                                                <a class="level-2 indent"
+                 href="/2.0/api/elements/Polymer.DomIf"
+                 name="/2.0/api/elements/Polymer.DomIf">
+                 <span>Polymer.DomIf</span>
+              </a>
+                                                <a class="level-2 indent"
+                 href="/2.0/api/elements/Polymer.DomModule"
+                 name="/2.0/api/elements/Polymer.DomModule">
+                 <span>Polymer.DomModule</span>
+              </a>
+                                                <a class="level-2 indent"
+                 href="/2.0/api/elements/Polymer.DomRepeat"
+                 name="/2.0/api/elements/Polymer.DomRepeat">
+                 <span>Polymer.DomRepeat</span>
+              </a>
+                                                <a class="level-2 indent"
+                 href="/2.0/api/elements/Polymer.Element"
+                 name="/2.0/api/elements/Polymer.Element">
+                 <span>Polymer.Element</span>
+              </a>
+                                                </iron-collapse>
+                                                <a class="level-2" onclick="_expandClicked(event)">
+                 <span>Classes</span>
+                 <paper-icon-button icon="icons:expand-more"></paper-icon-button>
+              </a>
+              <iron-collapse>
+                                                <a class="level-2 indent"
+                 href="/2.0/api/classes/Polymer.Debouncer"
+                 name="/2.0/api/classes/Polymer.Debouncer">
+                 <span>Polymer.Debouncer</span>
+              </a>
+                                                <a class="level-2 indent"
+                 href="/2.0/api/classes/Polymer.DomApi"
+                 name="/2.0/api/classes/Polymer.DomApi">
+                 <span>Polymer.DomApi</span>
+              </a>
+                                                <a class="level-2 indent"
+                 href="/2.0/api/classes/Polymer.FlattenedNodesObserver"
+                 name="/2.0/api/classes/Polymer.FlattenedNodesObserver">
+                 <span>Polymer.FlattenedNodesObserver</span>
+              </a>
+                                                </iron-collapse>
+                                                <a class="level-2" onclick="_expandClicked(event)">
+                 <span>Mixins</span>
+                 <paper-icon-button icon="icons:expand-more"></paper-icon-button>
+              </a>
+              <iron-collapse>
+                                                <a class="level-2 indent"
+                 href="/2.0/api/mixins/Polymer.ArraySelectorMixin"
+                 name="/2.0/api/mixins/Polymer.ArraySelectorMixin">
+                 <span>Polymer.ArraySelectorMixin</span>
+              </a>
+                                                <a class="level-2 indent"
+                 href="/2.0/api/mixins/Polymer.DirMixin"
+                 name="/2.0/api/mixins/Polymer.DirMixin">
+                 <span>Polymer.DirMixin</span>
+              </a>
+                                                <a class="level-2 indent"
+                 href="/2.0/api/mixins/Polymer.ElementMixin"
+                 name="/2.0/api/mixins/Polymer.ElementMixin">
+                 <span>Polymer.ElementMixin</span>
+              </a>
+                                                <a class="level-2 indent"
+                 href="/2.0/api/mixins/Polymer.GestureEventListeners"
+                 name="/2.0/api/mixins/Polymer.GestureEventListeners">
+                 <span>Polymer.GestureEventListeners</span>
+              </a>
+                                                <a class="level-2 indent"
+                 href="/2.0/api/mixins/Polymer.LegacyElementMixin"
+                 name="/2.0/api/mixins/Polymer.LegacyElementMixin">
+                 <span>Polymer.LegacyElementMixin</span>
+              </a>
+                                                <a class="level-2 indent"
+                 href="/2.0/api/mixins/Polymer.MutableData"
+                 name="/2.0/api/mixins/Polymer.MutableData">
+                 <span>Polymer.MutableData</span>
+              </a>
+                                                <a class="level-2 indent"
+                 href="/2.0/api/mixins/Polymer.OptionalMutableData"
+                 name="/2.0/api/mixins/Polymer.OptionalMutableData">
+                 <span>Polymer.OptionalMutableData</span>
+              </a>
+                                                <a class="level-2 indent"
+                 href="/2.0/api/mixins/Polymer.PropertiesChanged"
+                 name="/2.0/api/mixins/Polymer.PropertiesChanged">
+                 <span>Polymer.PropertiesChanged</span>
+              </a>
+                                                <a class="level-2 indent"
+                 href="/2.0/api/mixins/Polymer.PropertiesMixin"
+                 name="/2.0/api/mixins/Polymer.PropertiesMixin">
+                 <span>Polymer.PropertiesMixin</span>
+              </a>
+                                                <a class="level-2 indent"
+                 href="/2.0/api/mixins/Polymer.PropertyAccessors"
+                 name="/2.0/api/mixins/Polymer.PropertyAccessors">
+                 <span>Polymer.PropertyAccessors</span>
+              </a>
+                                                <a class="level-2 indent"
+                 href="/2.0/api/mixins/Polymer.PropertyEffects"
+                 name="/2.0/api/mixins/Polymer.PropertyEffects">
+                 <span>Polymer.PropertyEffects</span>
+              </a>
+                                                <a class="level-2 indent"
+                 href="/2.0/api/mixins/Polymer.TemplateStamp"
+                 name="/2.0/api/mixins/Polymer.TemplateStamp">
+                 <span>Polymer.TemplateStamp</span>
+              </a>
+                                                </iron-collapse>
+                                                <a class="level-2" onclick="_expandClicked(event)">
+                 <span>Functions</span>
+                 <paper-icon-button icon="icons:expand-more"></paper-icon-button>
+              </a>
+              <iron-collapse>
+                                                <a class="level-2 indent"
+                 href="/2.0/api/#function-Polymer.Class"
+                 name="/2.0/api/#function-Polymer.Class">
+                 <span>Polymer.Class</span>
+              </a>
+                                                <a class="level-2 indent"
+                 href="/2.0/api/#function-Polymer.dedupingMixin"
+                 name="/2.0/api/#function-Polymer.dedupingMixin">
+                 <span>Polymer.dedupingMixin</span>
+              </a>
+                                                <a class="level-2 indent"
+                 href="/2.0/api/#function-Polymer.dom"
+                 name="/2.0/api/#function-Polymer.dom">
+                 <span>Polymer.dom</span>
+              </a>
+                                                <a class="level-2 indent"
+                 href="/2.0/api/#function-Polymer.enqueueDebouncer"
+                 name="/2.0/api/#function-Polymer.enqueueDebouncer">
+                 <span>Polymer.enqueueDebouncer</span>
+              </a>
+                                                <a class="level-2 indent"
+                 href="/2.0/api/#function-Polymer.flush"
+                 name="/2.0/api/#function-Polymer.flush">
+                 <span>Polymer.flush</span>
+              </a>
+                                                <a class="level-2 indent"
+                 href="/2.0/api/#function-Polymer.html"
+                 name="/2.0/api/#function-Polymer.html">
+                 <span>Polymer.html</span>
+              </a>
+                                                <a class="level-2 indent"
+                 href="/2.0/api/#function-Polymer.htmlLiteral"
+                 name="/2.0/api/#function-Polymer.htmlLiteral">
+                 <span>Polymer.htmlLiteral</span>
+              </a>
+                                                <a class="level-2 indent"
+                 href="/2.0/api/#function-Polymer.importHref"
+                 name="/2.0/api/#function-Polymer.importHref">
+                 <span>Polymer.importHref</span>
+              </a>
+                                                <a class="level-2 indent"
+                 href="/2.0/api/#function-Polymer.mixinBehaviors"
+                 name="/2.0/api/#function-Polymer.mixinBehaviors">
+                 <span>Polymer.mixinBehaviors</span>
+              </a>
+                                                <a class="level-2 indent"
+                 href="/2.0/api/#function-Polymer.setLegacyOptimizations"
+                 name="/2.0/api/#function-Polymer.setLegacyOptimizations">
+                 <span>Polymer.setLegacyOptimizations</span>
+              </a>
+                                                <a class="level-2 indent"
+                 href="/2.0/api/#function-Polymer.setPassiveTouchGestures"
+                 name="/2.0/api/#function-Polymer.setPassiveTouchGestures">
+                 <span>Polymer.setPassiveTouchGestures</span>
+              </a>
+                                                <a class="level-2 indent"
+                 href="/2.0/api/#function-Polymer.setRootPath"
+                 name="/2.0/api/#function-Polymer.setRootPath">
+                 <span>Polymer.setRootPath</span>
+              </a>
+                                                <a class="level-2 indent"
+                 href="/2.0/api/#function-Polymer.setSanitizeDOMValue"
+                 name="/2.0/api/#function-Polymer.setSanitizeDOMValue">
+                 <span>Polymer.setSanitizeDOMValue</span>
+              </a>
+                                                </iron-collapse>
+                                                <a class="level-2" onclick="_expandClicked(event)">
+                 <span>Namespaces</span>
+                 <paper-icon-button icon="icons:expand-more"></paper-icon-button>
+              </a>
+              <iron-collapse>
+                                                <a class="level-2 indent"
+                 href="/2.0/api/namespaces/Polymer.ArraySplice"
+                 name="/2.0/api/namespaces/Polymer.ArraySplice">
+                 <span>Polymer.ArraySplice</span>
+              </a>
+                                                <a class="level-2 indent"
+                 href="/2.0/api/namespaces/Polymer.Async"
+                 name="/2.0/api/namespaces/Polymer.Async">
+                 <span>Polymer.Async</span>
+              </a>
+                                                <a class="level-2 indent"
+                 href="/2.0/api/namespaces/Polymer.CaseMap"
+                 name="/2.0/api/namespaces/Polymer.CaseMap">
+                 <span>Polymer.CaseMap</span>
+              </a>
+                                                <a class="level-2 indent"
+                 href="/2.0/api/namespaces/Polymer.dom"
+                 name="/2.0/api/namespaces/Polymer.dom">
+                 <span>Polymer.dom</span>
+              </a>
+                                                <a class="level-2 indent"
+                 href="/2.0/api/namespaces/Polymer.Gestures"
+                 name="/2.0/api/namespaces/Polymer.Gestures">
+                 <span>Polymer.Gestures</span>
+              </a>
+                                                <a class="level-2 indent"
+                 href="/2.0/api/namespaces/Polymer.Path"
+                 name="/2.0/api/namespaces/Polymer.Path">
+                 <span>Polymer.Path</span>
+              </a>
+                                                <a class="level-2 indent"
+                 href="/2.0/api/namespaces/Polymer.RenderStatus"
+                 name="/2.0/api/namespaces/Polymer.RenderStatus">
+                 <span>Polymer.RenderStatus</span>
+              </a>
+                                                <a class="level-2 indent"
+                 href="/2.0/api/namespaces/Polymer.ResolveUrl"
+                 name="/2.0/api/namespaces/Polymer.ResolveUrl">
+                 <span>Polymer.ResolveUrl</span>
+              </a>
+                                                <a class="level-2 indent"
+                 href="/2.0/api/namespaces/Polymer.Settings"
+                 name="/2.0/api/namespaces/Polymer.Settings">
+                 <span>Polymer.Settings</span>
+              </a>
+                                                <a class="level-2 indent"
+                 href="/2.0/api/namespaces/Polymer.StyleGather"
+                 name="/2.0/api/namespaces/Polymer.StyleGather">
+                 <span>Polymer.StyleGather</span>
+              </a>
+                                                <a class="level-2 indent"
+                 href="/2.0/api/namespaces/Polymer.telemetry"
+                 name="/2.0/api/namespaces/Polymer.telemetry">
+                 <span>Polymer.telemetry</span>
+              </a>
+                                                <a class="level-2 indent"
+                 href="/2.0/api/namespaces/Polymer.Templatize"
+                 name="/2.0/api/namespaces/Polymer.Templatize">
+                 <span>Polymer.Templatize</span>
+              </a>
+                                                </iron-collapse>
+                              </iron-collapse>
+            </div>
+
+<script>
+function _expandClicked(event) {
+  var navLink = event.target.parentNode;
+  var navCollapse = navLink.nextElementSibling;
+
+  document.querySelector('pw-shell').styleLinkPath(navLink, !navCollapse.opened);
+
+  // Don't actually click the link.
+  event.preventDefault();
+  event.stopImmediatePropagation();
+}
+</script>
+    <div class="devguide-main">
+      <nav>
+        <pw-version-selector active-docs-version="2.0"
+            v1-page-link="/1.0/docs/devguide/feature-overview"
+            v2-page-link="/2.0/docs/about_20"
+            v3-page-link="/3.0/docs/devguide/feature-overview"></pw-version-selector>
+
+                  <div class="sidenav">
+                                          <a class="sidenav-content  "
+                    name="/2.0/docs/devguide/feature-overview" href="/2.0/docs/devguide/feature-overview">
+                  Feature overview
+                </a>
+                                                        <a class="sidenav-content  "
+                    name="/2.0/docs/quick-tour" href="/2.0/docs/quick-tour">
+                  Try Polymer
+                </a>
+                                                        <a class="sidenav-content  "
+                    name="/2.0/docs/install-2-0" href="/2.0/docs/install-2-0">
+                  Install Polymer 2.x
+                </a>
+                                                        <div class="sidenav-content sidenav-header">Tutorial: Build an element</div>
+                                                        <a class="sidenav-content indent "
+                    name="/2.0/docs/first-element/intro" href="/2.0/docs/first-element/intro">
+                  1. Get set up
+                </a>
+                                                        <a class="sidenav-content indent "
+                    name="/2.0/docs/first-element/step-2" href="/2.0/docs/first-element/step-2">
+                  2. Add local DOM
+                </a>
+                                                        <a class="sidenav-content indent "
+                    name="/2.0/docs/first-element/step-3" href="/2.0/docs/first-element/step-3">
+                  3. Data binding &amp; properties
+                </a>
+                                                        <a class="sidenav-content indent "
+                    name="/2.0/docs/first-element/step-4" href="/2.0/docs/first-element/step-4">
+                  4. React to input
+                </a>
+                                                        <a class="sidenav-content indent "
+                    name="/2.0/docs/first-element/step-5" href="/2.0/docs/first-element/step-5">
+                  5. Theming with custom properties
+                </a>
+                                                        <div class="sidenav-content sidenav-endheader"></div>
+                                                        <div class="sidenav-content sidenav-header">About this release</div>
+                                                        <a class="sidenav-content indent iron-selected"
+                    name="/2.0/docs/about_20" href="/2.0/docs/about_20">
+                  What&#39;s new in 2.0
+                </a>
+                                                        <a class="sidenav-content indent "
+                    name="/2.0/docs/upgrade" href="/2.0/docs/upgrade">
+                  Upgrade guide
+                </a>
+                                                        <a class="sidenav-content indent "
+                    name="/2.0/docs/devguide/hybrid-elements" href="/2.0/docs/devguide/hybrid-elements">
+                  Hybrid elements
+                </a>
+                                                        <a class="sidenav-content indent "
+                    name="/2.0/docs/release-notes" href="/2.0/docs/release-notes">
+                  Release notes
+                </a>
+                                                        <div class="sidenav-content sidenav-endheader"></div>
+                                                        <div class="sidenav-content sidenav-header">Custom elements</div>
+                                                        <a class="sidenav-content indent "
+                    name="/2.0/docs/devguide/custom-elements" href="/2.0/docs/devguide/custom-elements">
+                  Custom element concepts
+                </a>
+                                                        <a class="sidenav-content indent "
+                    name="/2.0/docs/devguide/registering-elements" href="/2.0/docs/devguide/registering-elements">
+                  Define an element
+                </a>
+                                                        <a class="sidenav-content indent "
+                    name="/2.0/docs/devguide/properties" href="/2.0/docs/devguide/properties">
+                  Declare properties
+                </a>
+                                                        <div class="sidenav-content sidenav-endheader"></div>
+                                                        <div class="sidenav-content sidenav-header">Shadow DOM &amp; styling</div>
+                                                        <a class="sidenav-content indent "
+                    name="/2.0/docs/devguide/shadow-dom" href="/2.0/docs/devguide/shadow-dom">
+                  Shadow DOM concepts
+                </a>
+                                                        <a class="sidenav-content indent "
+                    name="/2.0/docs/devguide/dom-template" href="/2.0/docs/devguide/dom-template">
+                  DOM templating
+                </a>
+                                                        <a class="sidenav-content indent "
+                    name="/2.0/docs/devguide/style-shadow-dom" href="/2.0/docs/devguide/style-shadow-dom">
+                  Style shadow DOM
+                </a>
+                                                        <a class="sidenav-content indent "
+                    name="/2.0/docs/devguide/custom-css-properties" href="/2.0/docs/devguide/custom-css-properties">
+                  Custom CSS properties
+                </a>
+                                                        <div class="sidenav-content sidenav-endheader"></div>
+                                                        <div class="sidenav-content sidenav-header">Events</div>
+                                                        <a class="sidenav-content indent "
+                    name="/2.0/docs/devguide/events" href="/2.0/docs/devguide/events">
+                  Handle and fire events
+                </a>
+                                                        <a class="sidenav-content indent "
+                    name="/2.0/docs/devguide/gesture-events" href="/2.0/docs/devguide/gesture-events">
+                  Gesture events
+                </a>
+                                                        <div class="sidenav-content sidenav-endheader"></div>
+                                                        <div class="sidenav-content sidenav-header">Data system</div>
+                                                        <a class="sidenav-content indent "
+                    name="/2.0/docs/devguide/data-system" href="/2.0/docs/devguide/data-system">
+                  Data system concepts
+                </a>
+                                                        <a class="sidenav-content indent "
+                    name="/2.0/docs/devguide/model-data" href="/2.0/docs/devguide/model-data">
+                  Work with object and array data
+                </a>
+                                                        <a class="sidenav-content indent "
+                    name="/2.0/docs/devguide/observers" href="/2.0/docs/devguide/observers">
+                  Observers and computed properties
+                </a>
+                                                        <a class="sidenav-content indent "
+                    name="/2.0/docs/devguide/data-binding" href="/2.0/docs/devguide/data-binding">
+                  Data binding
+                </a>
+                                                        <a class="sidenav-content indent "
+                    name="/2.0/docs/devguide/templates" href="/2.0/docs/devguide/templates">
+                  Helper elements
+                </a>
+                                                        <div class="sidenav-content sidenav-endheader"></div>
+                                                        <div class="sidenav-content sidenav-header">Browser support</div>
+                                                        <a class="sidenav-content indent "
+                    name="/2.0/docs/browsers" href="/2.0/docs/browsers">
+                  Overview
+                </a>
+                                                        <a class="sidenav-content indent "
+                    name="/2.0/docs/polyfills" href="/2.0/docs/polyfills">
+                  Polyfills
+                </a>
+                                                        <a class="sidenav-content indent "
+                    name="/2.0/docs/es6" href="/2.0/docs/es6">
+                  ES6
+                </a>
+                                                        <div class="sidenav-content sidenav-endheader"></div>
+                                                        <div class="sidenav-content sidenav-header">Tools</div>
+                                                        <a class="sidenav-content indent "
+                    name="/2.0/docs/tools/overview" href="/2.0/docs/tools/overview">
+                  Tools overview
+                </a>
+                                                        <a class="sidenav-content indent "
+                    name="/2.0/docs/tools/polymer-cli" href="/2.0/docs/tools/polymer-cli">
+                  Polymer CLI
+                </a>
+                                                        <a class="sidenav-content indent "
+                    name="/2.0/docs/tools/polymer-cli-commands" href="/2.0/docs/tools/polymer-cli-commands">
+                  CLI commands
+                </a>
+                                                        <a class="sidenav-content indent "
+                    name="/2.0/docs/tools/create-element-polymer-cli" href="/2.0/docs/tools/create-element-polymer-cli">
+                  Create an element project
+                </a>
+                                                        <a class="sidenav-content indent "
+                    name="/2.0/docs/tools/create-app-polymer-cli" href="/2.0/docs/tools/create-app-polymer-cli">
+                  Create an application project
+                </a>
+                                                        <a class="sidenav-content indent "
+                    name="/2.0/docs/tools/documentation" href="/2.0/docs/tools/documentation">
+                  Document your elements
+                </a>
+                                                        <a class="sidenav-content indent "
+                    name="/2.0/docs/tools/tests" href="/2.0/docs/tools/tests">
+                  Test your elements
+                </a>
+                                                        <a class="sidenav-content indent "
+                    name="/2.0/docs/tools/publish" href="/2.0/docs/tools/publish">
+                  Publish your elements
+                </a>
+                                                        <a class="sidenav-content indent "
+                    name="/2.0/docs/tools/services" href="/2.0/docs/tools/services">
+                  Web services
+                </a>
+                                                        <a class="sidenav-content indent "
+                    name="/2.0/docs/tools/polymer-json" href="/2.0/docs/tools/polymer-json">
+                  polymer.json specification
+                </a>
+                                                        <a class="sidenav-content indent "
+                    name="/2.0/docs/tools/node-support" href="/2.0/docs/tools/node-support">
+                  Node support
+                </a>
+                                                        <div class="sidenav-content sidenav-endheader"></div>
+                                                        <div class="sidenav-content sidenav-header">Build apps</div>
+                                                        <a class="sidenav-content indent "
+                    name="/2.0/docs/apps/" href="/2.0/docs/apps/">
+                  Overview
+                </a>
+                                                        <a class="sidenav-content indent "
+                    name="/2.0/docs/apps/templates" href="/2.0/docs/apps/templates">
+                  App templates
+                </a>
+                                                        <a class="sidenav-content indent "
+                    name="/2.0/docs/apps/app-layout" href="/2.0/docs/apps/app-layout">
+                  Responsive app layout
+                </a>
+                                                        <a class="sidenav-content indent "
+                    name="/2.0/docs/apps/routing" href="/2.0/docs/apps/routing">
+                  Routing
+                </a>
+                                                        <a class="sidenav-content indent "
+                    name="/2.0/docs/apps/localize" href="/2.0/docs/apps/localize">
+                  Localization
+                </a>
+                                                        <a class="sidenav-content indent "
+                    name="/2.0/docs/apps/app-storage" href="/2.0/docs/apps/app-storage">
+                  App storage
+                </a>
+                                                        <a class="sidenav-content indent "
+                    name="/2.0/docs/apps/service-worker" href="/2.0/docs/apps/service-worker">
+                  Service worker
+                </a>
+                                                        <a class="sidenav-content indent "
+                    name="/2.0/docs/apps/build-for-production" href="/2.0/docs/apps/build-for-production">
+                  Build for production
+                </a>
+                                                        <a class="sidenav-content indent "
+                    name="/2.0/docs/apps/serve" href="/2.0/docs/apps/serve">
+                  Serve your app
+                </a>
+                                                        <a class="sidenav-content indent "
+                    name="/2.0/docs/apps/prpl" href="/2.0/docs/apps/prpl">
+                  The PRPL pattern
+                </a>
+                                                        <a class="sidenav-content indent "
+                    name="/2.0/docs/apps/case-study" href="/2.0/docs/apps/case-study">
+                  Shop App Case Study
+                </a>
+                                                        <a class="sidenav-content indent "
+                    name="/2.0/docs/apps/news-case-study" href="/2.0/docs/apps/news-case-study">
+                  News App Case Study
+                </a>
+                                                        <div class="sidenav-content sidenav-endheader"></div>
+                                                        <div class="sidenav-content sidenav-header">Resources</div>
+                                                        <a class="sidenav-content indent "
+                    name="/2.0/docs/glossary" href="/2.0/docs/glossary">
+                  Glossary
+                </a>
+                                                        <a class="sidenav-content indent "
+                    name="/2.0/docs/devguide/settings" href="/2.0/docs/devguide/settings">
+                  Global settings
+                </a>
+                                                        <div class="sidenav-content sidenav-endheader"></div>
+                                    </div>
+              </nav>
+
+      <div class="content-container">
+                  <header id="header" data-version="2.0">
+            <p></p>
+            <h1>What&#39;s new in 2.0</h1>
+
+                          <a class="edit-on-github" target="_blank"
+                  href="https://github.com/Polymer/polymer-library-docs/edit/master/app/2.0/docs/about_20.md">
+                Edit on GitHub
+              </a>
+                      </header>
+          <div class="version-alert upgrade-alert">
+            <img src="/images/alerts/upgrade.svg" height="36px">
+            <p>
+              <strong>
+                The Polymer library is in maintenance mode. For new development, we recommend <a href="https://lit.dev">Lit</a>.
+              </strong>
+            </p>
+          </div>
+                    <div class="version-alert">
+          <img src="/images/alerts/info.svg">
+            <p>    
+              You're viewing an older version of the Polymer library documentation.
+              Please see <a href="/3.0/docs/devguide/feature-overview">Polymer 3.0</a> for the latest.
+            </p>
+          </div>
+                  
+        <main>
+          <style>
+  main {
+    position: relative;
+    background: white;
+    padding: 10px 40px;
+    font-size: 16px;
+    font-family: 'Roboto', 'Noto', sans-serif;
+    line-height: 24px;
+    font-weight: 300;
+    /* layout horizontal-reverse */
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-flex-direction: row-reverse;
+        -ms-flex-direction: row-reverse;
+            flex-direction: row-reverse;
+    -webkit-justify-content: flex-end;
+        -ms-flex-pack: end;
+            justify-content: flex-end;
+  }
+
+  @media (max-width: 1000px) {
+    main {
+      -webkit-flex-direction: column;
+          -ms-flex-direction: column;
+              flex-direction: column;
+      /* At < 1000px, the TOC floats to the top, so we can add back the right-padding. */
+      padding-right: 40px;
+    }
+  }
+
+  @media (max-width: 500px) {
+    main {
+      padding-left: 20px;
+      padding-right: 20px;
+    }
+  }
+
+  article {
+    min-width: 0;  /* For some reason, this is non-0 */
+    max-width: 800px;
+    padding-right: 20px;
+  }
+
+  .article-wrapper.right-nav {
+    width: calc(100% - 300px);  /* 300px is the width of the TOC */
+  }
+
+  .details-wrapper {
+    display: block;
+    position: relative;
+    overflow-x: hidden;
+    overflow-y: auto;
+    margin-top: 20px;
+    width: 300px;
+  }
+
+  .details-wrapper.fixed {
+    position: fixed;
+    right: 40px;  /* The <main> right padding */
+  }
+
+  .details-wrapper ul {
+    list-style-type: none;
+    font-size: 14px;
+    margin: 0;
+  }
+
+  .details-wrapper ul[data-depth="1"], .details-wrapper ul[data-depth="3"] {
+    padding: 0;
+    margin-top: 10px;
+  }
+
+  .details-wrapper ul[data-depth="1"] a, .details-wrapper ul[data-depth="3"] a {
+    color: black;
+    font-weight: 500;
+  }
+
+  .details-wrapper ul[data-depth="2"] {
+    font-weight: 300;
+    padding: 0 20px;
+  }
+
+  .details-wrapper ul[data-depth="2"] a {
+    font-weight: 300;
+  }
+
+  @media (max-width: 1000px) {
+    .details-wrapper {
+      padding: 0;
+      max-width: 100%;
+    }
+  }
+
+  details {
+    display: block;
+    will-change: transform;
+  }
+
+  @media (min-width: 1001px) {
+    details {
+      padding-left: 20px;
+      border-left: 1px solid black;
+    }
+  }
+
+  details summary {
+    font-weight: bold;
+    font-size: 15px;
+    line-height: 24px;
+  }
+
+  details summary::-webkit-details-marker {
+    display: none;
+  }
+
+  @media (max-width: 1000px) {
+    details summary::-webkit-details-marker {
+      display: inline-block;
+    }
+  }
+
+  pre {
+    background: white;
+    font-weight: 400;
+  }
+
+  h1 {
+    font-size: 40px;
+    font-weight: 300;
+    line-height: 48px;
+  }
+
+  h2 {
+    font-family: Helvetica, Arial, sans-serif;
+    font-weight: bold;
+    border-bottom: 1px solid #f50057;
+    margin: 20px 0;
+  }
+
+  h3 {
+    font-family: Helvetica, Arial, sans-serif;
+    font-weight: bold;
+    font-size: 24px;
+  }
+
+  @media (max-width: 500px) {
+    h3 {
+      font-size: 18px;
+    }
+  }
+
+  h4, p.caption {
+    font-size: 16px;
+    font-weight: 500;
+  }
+
+  p.caption {
+    margin-bottom: 0;
+  }
+
+  a > code {
+    color: #1e88e5 !important;
+  }
+
+  table {
+    border-collapse: collapse;
+  }
+
+  table th {
+    text-align: left;
+    padding: 12px 12px 12px 0px;
+
+  }
+
+  table td {
+    padding: 12px 12px 12px 0px;
+    border-top: 1px solid #cfd8dc;
+    /* blue-grey-100 */
+    vertical-align: top;
+  }
+
+  .alert {
+    padding: 10px 10px 10px 44px;  /* 34px from the icon + 10px left padding */
+    margin: 30px;
+    border-radius: 3px;
+    font-size: 15px;
+  }
+
+  @media (max-width: 767px) {
+    .alert {
+      margin: 0px;
+    }
+  }
+
+  .alert:before {
+    display: inline-block;  /* Hack to have the icon in a separate column than the text */
+    float: left;
+    margin-left: -34px;  /* the icon is 24px wide, + 10px padding */
+  }
+
+  .alert.alert-success, .alert.alert-tip {
+    background-color: #E8F5E9;
+    border: 1px solid #C8E6C9;
+  }
+
+  .alert.alert-success:before, .alert.alert-tip:before {
+    content: url(/images/alerts/tip.svg);
+  }
+
+  .alert.alert-info {
+    background-color: #E1F5FE;
+    border: 1px solid #B3E5FC;
+  }
+
+  .alert.alert-info:before {
+    content: url(/images/alerts/info.svg);
+  }
+
+  .alert.alert-error, .alert.alert-warning {
+    background-color: #FBE9E7;
+    border: 1px solid #FFCCBC;
+  }
+
+  .alert.alert-error:before, .alert.alert-warning:before {
+    content: url(/images/alerts/warning.svg);
+  }
+
+  /* Helpers to automagically lay out in a row and resize images */
+  .image-container {
+    width: 100%;
+    max-width: 100%;
+    display: -webkit-flex;
+    display: -ms-flexbox;
+    display: flex;
+  }
+
+  .image-container .image-wrapper {
+    -webkit-flex: 1;
+        -ms-flex: 1;
+            flex: 1;
+    margin: 0 10px;
+  }
+
+  .image-container img {
+    width: 100%;
+    height: auto;
+  }
+</style><div class="details-wrapper"><details id="toc"><summary>Contents</summary><ul data-depth="1"><li data-level="H2"><a href="#custom-elements-v1">Custom elements v1</a><ul data-depth="2"><li data-level="H3"><a href="#lifecycle-changes">Lifecycle changes</a></li><li data-level="H3"><a href="#type-extension">Type-extension elements</a></li></ul></li><li data-level="H2"><a href="#shadow-dom-v1">Shadow DOM v1</a></li><li data-level="H2"><a href="#data-system">Data system improvements</a><ul data-depth="2"><li data-level="H3"><a href="#dirty-checking-for-objects-and-arrays">Dirty checking for objects and arrays</a></li><li data-level="H3"><a href="#simpler-array-handling">Simpler array handling</a></li><li data-level="H3"><a href="#batched-data-changes">Batched data changes</a></li><li data-level="H3"><a href="#property-effect-order">Property effect order</a></li><li data-level="H3"><a href="#observer-changes">Observer changes</a></li><li data-level="H3"><a href="#miscellaneous-data-system-changes">Miscellaneous data system changes</a></li></ul></li><li data-level="H2"><a href="#polymer-1-compatibility-layer">Polymer 1 compatibility layer</a></li><li data-level="H2"><a href="#removed-methods-and-properties">Removed methods and properties</a></li><li data-level="H2"><a href="#browser-support-and-polyfills">Browser support and polyfills</a></li><li data-level="H2"><a href="#ecmascript-2015-a.k.a.es6">EcmaScript 2015 (a.k.a. ES6)</a></li><li data-level="H2"><a href="#installing">Install Polymer 2.0</a><ul data-depth="2"><li data-level="H3"><a href="#upgrading">Upgrade an existing project</a></li></ul></li><li data-level="H2"><a href="#elements">Polymer element availability</a></li></ul></details></div><div class="article-wrapper"><article>
+<p>Polymer 2.0 is designed to support the new custom elements v1 and shadow DOM v1 specifications being
+implemented by most major browser vendors, while providing a smooth migration path for Polymer
+1.x users.</p>
+<p>Polymer 2.0 also makes improvements in several areas:</p>
+<ul>
+<li>
+<p><strong>Improved interoperability.</strong> By removing the need to use Polymer.dom for DOM manipulation,
+Polymer 2.0 makes it easier to use Polymer components with other libraries and frameworks. In
+addition, the <a href="https://github.com/webcomponents/shadydom">shady DOM</a> code has been separated
+out into a reusable polyfill, instead of being integrated into Polymer.</p>
+</li>
+<li>
+<p><strong>Data system improvements.</strong> Polymer 2.0 includes targeted improvements to the data system.
+These changes make it  easier to reason about and debug the propagation of data through and
+between elements.</p>
+</li>
+<li>
+<p><strong>More standard.</strong> Polymer 2.0 uses standard ES6 classes and the standard custom elements v1
+methods for defining elements, instead of a Polymer factory method. You can mix in features
+using standard JavaScript (class expression mixins) instead of <code>Polymer</code> behaviors. (The
+<code>Polymer</code> factory method is still supported using a compatibility layer.)</p>
+</li>
+</ul>
+<p>Some tests currently fail on non-Chrome browsers; these will be addressed soon, but in the short
+term Chrome Canary is your best bet.</p>
+<p>Polymer 2.0 introduces a number of breaking changes—many of which are required by new custom
+elements v1 and shadow DOM v1 specifications. Expect to see more changes as this new version nears
+release.</p>
+<p>The following sections describes the major changes in Polymer 2.0. For details on upgrading elements
+to Polymer 2.0, see the <a href="upgrade">upgrade guide</a>.</p>
+<h2 id="custom-elements-v1" class="has-permalink">Custom elements v1</h2>
+<p>Polymer 2.0 elements target the custom elements v1 API, which makes several changes to the v0
+version of the spec used in Polymer 1.x. In particular:</p>
+<ul>
+<li>
+<p>The custom elements v1 spec defines elements using ES6 classes, instead of prototypes.</p>
+<p>Polymer 2.0 lets you use this native ES6 form by providing an ES6 base class (<code>Polymer.Element</code>)
+for your elements to extend. In addition, legacy elements using the <code>Polymer</code> factory method are
+supported with a Polymer 1.x compatibility layer.</p>
+</li>
+<li>
+<p>The new spec has some changes to the lifecycle callbacks. In particular, instead of a created
+callback it invokes the class constructor. The spec also imposes new restrictions on what can be
+done in the constructor (equivalent to the <code>created</code> callback in Polymer 1.x).</p>
+</li>
+<li>
+<p>In addition, although they are supported in the specification, Polymer 2.0 does not currently
+support type-extension elements (<code>is=</code>).</p>
+</li>
+<li>
+<p>Because of complications related to the new specification, the <code>disable-upgrade</code> feature is not
+supported in 2.x. It may be added later as a mixin or add-on.</p>
+</li>
+</ul>
+<p>The following sections describe these changes in more detail.</p>
+<p>For general information on the custom elements v1 specification, see <a href="https://developers.google.com/web/fundamentals/primers/customelements/?hl=en">Custom elements v1: reusable web components</a> on Web Fundamentals.</p>
+<h3 id="lifecycle-changes" id="lifecycle-changes" class="has-permalink">Lifecycle changes</h3>
+<p>When creating class-based elements, use the new native lifecycle methods (called &quot;custom element
+reactions&quot;). When creating legacy elements using the <code>Polymer</code> factory method, use the legacy Polymer
+callback names.</p>
+<table>
+  <tr>
+   <td><strong>Reaction/callback name</strong>
+   </td>
+   <td><strong>Notes</strong>
+   </td>
+  </tr>
+  <tr>
+   <td><code>constructor (</code>native<code>)</code>
+<p>
+<code>created</code> (legacy)
+   </td>
+   <td>The custom elements v1 spec forbids reading attributes, children, or parent information from
+   the DOM API in the <code>constructor</code> (<code>created</code> callback in the legacy API).
+   Likewise, attributes and children may not be added in the <code>constructor</code>.  Any such
+   work must be deferred (for example, until <code>connectedCallback</code>).
+<p>The legacy <code>created</code> callback is no longer called before default values in
+<code>properties</code> have been set.  As such, you should not rely on properties set in
+<code>created</code> from within <code>value</code> functions that define property defaults.</p>
+<p>
+However, you can now set <strong>any</strong> property defaults within the <code>created</code>
+callback (in 1.0 this was forbidden for observed properties) instead of using the <code>value</code>
+function in <code>properties</code>.
+   </td>
+  </tr>
+  <tr>
+   <td><code>connectedCallback (</code>native<code>)</code>
+<p>
+<code>attached</code> (legacy)
+   </td>
+   <td>Polymer 1.x deferred the <code>attached</code> callback until after first render, so elements
+   could measure themselves or their children.
+   </td>
+  </tr>
+  <tr>
+   <td><code>disconnectedCallback (</code>native<code>)</code>
+<p>
+<code>detached</code> (legacy)
+   </td>
+   <td>
+   </td>
+  </tr>
+  <tr>
+   <td><code>attributeChangedCallback (</code>native<code>)</code>
+<p>
+<code>attributeChanged</code> (legacy)
+   </td>
+   <td>Attributes must be <em>explicitly</em> registered to be observed.
+<p>
+For Polymer elements, only properties explicitly declared in the  <code>properties</code> object are
+tracked for attribute changes. (That is, changing the attribute value invokes the attribute changed
+callback, and causes Polymer to set the property value from the attribute.)
+<p>
+In custom elements v0, the <code>attributeChangedCallback</code> was generated for
+<strong>any</strong> attribute change.
+<p>
+In Polymer 1.x, attributes were deserialized for both explicitly declared properties and
+<em>implicitly declared properties</em>. For example, a property used in a binding or as the
+dependency of an observer, but not declared in <code>properties</code> can be considered implicitly
+declared.
+   </td>
+  </tr>
+  <tr>
+   <td><code>ready</code> (Polymer specific)
+   </td>
+   <td>Polymer no longer guarantees that the initial light DOM distribution is complete before ready
+   is called.
+   </td>
+  </tr>
+</table>
+<p>In addition to changes in the callbacks, note that the <code>lazyRegister</code> option has been removed and
+all meta-programming (parsing the template, creating accessors on the prototype, and so on) is
+deferred until the first instance of the element is created.</p>
+<h3 id="type-extension" id="type-extension" class="has-permalink">Type-extension elements</h3>
+<p>Polymer 2.0 doesn't support type-extension elements (for example, <code>&lt;input is=&quot;iron-input&quot;&gt;</code>).
+Type-extension support is still included in the custom elements v1 spec (as &quot;customized built-in
+elements&quot;), and scheduled for implementation in Chrome. However, since Apple has said it will not
+implement <code>is</code>, we will not be encouraging its use to avoid indefinite reliance on the custom
+elements polyfill. Instead, a wrapper custom element can surround a native element. For example:</p>
+<p><code>&lt;a is=&quot;my-anchor&quot;&gt;...&lt;/a&gt;</code></p>
+<p>Could become:</p>
+<pre><code><span class="hljs-tag">&lt;<span class="hljs-name">my-anchor</span>&gt;</span>
+  <span class="hljs-tag">&lt;<span class="hljs-name">a</span>&gt;</span>...<span class="hljs-tag">&lt;/<span class="hljs-name">a</span>&gt;</span>
+<span class="hljs-tag">&lt;/<span class="hljs-name">my-anchor</span>&gt;</span>
+</code></pre>
+<p>Users will need to change existing type-extension elements where necessary.</p>
+<p>All template type extensions provided by Polymer (i.e. <code>dom-if</code> and <code>dom-repeat</code>) now have a corresponding standard custom element
+that includes a <code>&lt;template&gt;</code> in its light DOM. For example:</p>
+<p>If in 1.x, code reads:</p>
+<pre><code>&lt;<span class="hljs-keyword">template</span> <span class="hljs-keyword">is</span>=<span class="hljs-string">"dom-bind"</span>&gt;...&lt;/<span class="hljs-keyword">template</span>&gt;
+</code></pre>
+<p>In 2.x, it becomes:</p>
+<pre><code><span class="hljs-tag">&lt;<span class="hljs-name">dom-bind</span>&gt;</span>
+  <span class="hljs-tag">&lt;<span class="hljs-name">template</span>&gt;</span>...<span class="hljs-tag">&lt;/<span class="hljs-name">template</span>&gt;</span>
+<span class="hljs-tag">&lt;/<span class="hljs-name">dom-bind</span>&gt;</span>
+</code></pre>
+<p>Polymer automatically wraps template type extensions used in Polymer element templates (i.e. inside a <code>dom-module</code>) during template
+processing. This means you can and should continue using <code>&lt;template is=&quot;&quot;&gt;</code> in templates nested
+inside a Polymer element, or another Polymer template, such as <code>dom-bind</code>.</p>
+<p><strong>Templates used in the main document, such as <code>index.html</code> must be manually wrapped.</strong></p>
+<p>The <code>custom-style</code> element has also been changed to a standard custom element that must wrap a
+<code>&lt;style&gt;</code> element. For example:</p>
+<pre><code><span class="hljs-tag">&lt;<span class="hljs-name">style</span> <span class="hljs-attr">is</span>=<span class="hljs-string">"custom-style"</span>&gt;</span><span class="undefined">...</span><span class="hljs-tag">&lt;/<span class="hljs-name">style</span>&gt;</span>
+</code></pre>
+<p>Becomes:</p>
+<pre><code><span class="hljs-tag">&lt;<span class="hljs-name">custom-style</span>&gt;</span>
+  <span class="hljs-tag">&lt;<span class="hljs-name">style</span>&gt;</span><span class="undefined">...</span><span class="hljs-tag">&lt;/<span class="hljs-name">style</span>&gt;</span>
+<span class="hljs-tag">&lt;/<span class="hljs-name">custom-style</span>&gt;</span>
+</code></pre>
+<p>References:</p>
+<ul>
+<li><a href="https://html.spec.whatwg.org/#custom-elements-customized-builtin-example">Creating a customized built-in element</a> in the WHATWG HTML specification.</li>
+<li><a href="https://github.com/w3c/webcomponents/issues/509#issuecomment-233419167">Apple's position on customized built-in elements</a>.</li>
+</ul>
+<h2 id="shadow-dom-v1" class="has-permalink">Shadow DOM v1</h2>
+<p>Polymer 2.0 supports shadow DOM v1. For Polymer users, the main differences in v1 involve replacing
+<code>&lt;content&gt;</code> elements with v1 <code>&lt;slot&gt;</code> element.</p>
+<p>The shady DOM shim that was part of Polymer 1.x has been factored out of Polymer and added to the
+<code>webcomponents-lite.js</code> polyfill bundle, along with the related shim for CSS Custom Properties.
+This new version of shady DOM  no longer exposes an alternative (<code>Polymer.dom</code>) API but instead
+patches the native DOM API, so 2.0 users can use the native DOM APIS directly.</p>
+<p>For hybrid elements, Polymer 2.0 includes a version the <code>Polymer.dom</code> API that forwards directly to
+the native API. For 2.0-only elements, <code>Polymer.dom</code> can be eliminated in favor of the native DOM
+APIs.</p>
+<p class="alert alert-info"><strong>Read more on Web Fundamentals</strong>. For an overview of shadow DOM, see <a href="https://developers.google.com/web/fundamentals/primers/shadowdom/?hl=en">Shadow DOM v1: self-contained web components</a> on Web Fundamentals.
+</p>
+<p>For a brief but comprehensive set of examples illustrating the shadow DOM v1 spec changes, see
+<a href="http://hayato.io/2016/shadowdomv1/">What's New in Shadow DOM v1 (by examples)</a> by Hayato Ito.</p>
+<h2 id="data-system" id="data-system" class="has-permalink">Data system improvements</h2>
+<p>Polymer 2.0 introduces a number of improvements in the data system:</p>
+<ul>
+<li>
+<p>Simpler array handling. Eliminates the <code>Polymer.Collection</code> abstraction and key-based paths for
+array items.</p>
+</li>
+<li>
+<p>Batched data changes, which can improve performance as well as correctness.</p>
+</li>
+<li>
+<p>Undefined dependency checks for observers, computed bindings and computed properties have been
+removed. These are all called once at initialization time.</p>
+</li>
+<li>
+<p>An optional element mixin that eliminates dirty checking for objects or arrays. This means that
+when you make an observable change to an object or array property, Polymer re-evaluates
+everything below that property (sub-properties, array items). This can be useful for
+applications that can't use the Polymer <code>set</code> and array mutation methods, and do not use
+immutable data patterns.</p>
+</li>
+<li>
+<p>Change in property effect order.</p>
+</li>
+<li>
+<p>Only properties listed explicitly in <code>properties</code> can be configured from an attribute.</p>
+</li>
+<li>
+<p>Element initialization (including template stamping and data system initialization) is deferred
+until the element is connected to the main document. (This is a result of the custom element
+v1 changes.)</p>
+</li>
+<li>
+<p>Several miscellaneous smaller changes.</p>
+</li>
+</ul>
+<p>The following sections describe these changes in more detail.</p>
+<h3 id="dirty-checking-for-objects-and-arrays" class="has-permalink">Dirty checking for objects and arrays</h3>
+<!-- TODO: move me to data system concepts doc, summarize briefly here. -->
+<p>Polymer 1.x uses a dirty-checking mechanism to prevent the data system from doing extra work.
+Polymer 2.x retains this mechanism by default, but lets elements opt out of dirty checking objects
+and arrays.</p>
+<p>With the default dirty-checking mechanism, the following code doesn't generate any property effects:</p>
+<pre><code><span class="hljs-keyword">this</span>.property.subproperty = <span class="hljs-string">'new value!'</span>;
+<span class="hljs-keyword">this</span>.notifyPath(<span class="hljs-string">'property'</span>);
+</code></pre>
+<p>Because <code>property</code> still points to the same object, the dirty check fails, and sub-property changes
+don't get propagated. Instead, you need to use the Polymer <code>set</code> or array mutation methods, or
+call <code>notifyPath</code> on the exact path that changed:</p>
+<pre><code><span class="hljs-keyword">this</span>.<span class="hljs-keyword">set</span>(<span class="hljs-string">'property.subproperty'</span>, <span class="hljs-string">'new value!'</span>);
+<span class="hljs-comment">// OR</span>
+<span class="hljs-keyword">this</span>.property.subproperty = <span class="hljs-string">'new value!'</span>;
+<span class="hljs-keyword">this</span>.notifyPath(<span class="hljs-string">'property.subproperty'</span>);
+</code></pre>
+<p>In general, the dirty-checking mechanism is more performant. It works for apps where one of
+the following is true:</p>
+<ul>
+<li>You use immutable data.</li>
+<li>You always use the Polymer data mutation methods to make granular changes.</li>
+</ul>
+<p>However, for apps that don't use immutable data and can't use the Polymer data methods, Polymer 2.0
+provides an optional <code>MutableData</code> mixin. The <code>MutableData</code> mixin eliminates the dirty check, so the code above would work as intended. This also lets you batch several changes
+before invoking property effects:</p>
+<p><code>this.property.arrayProperty.push({ name: 'Alice' });</code></p>
+<pre><code class="language-js"><span class="hljs-keyword">this</span>.property.stringProperty = <span class="hljs-string">'new value!'</span>;
+<span class="hljs-keyword">this</span>.property.counter++;
+<span class="hljs-keyword">this</span>.notifyPath(<span class="hljs-string">'property'</span>);
+</code></pre>
+<p>You can also use set or simply set a top-level property to invoke effects:</p>
+<pre><code><span class="hljs-keyword">this</span>.<span class="hljs-keyword">set</span>(<span class="hljs-string">'property'</span>, <span class="hljs-keyword">this</span>.property);
+<span class="hljs-comment">// or</span>
+<span class="hljs-keyword">this</span>.property = <span class="hljs-keyword">this</span>.property;
+</code></pre>
+<p>Using <code>set</code> to change a specific subproperty can often be the most efficient way to make changes.
+However, elements that use <code>MutableData</code> shouldn't need to use this API, making it
+more  compatible with alternate data-binding and state management libraries.</p>
+<p>Note that when you re-set a property at the top-level, all property effects for that property and
+its subproperties, array items, and so-on are re-run. Observers with wildcard paths (like <code>prop.*</code>)
+are only notified with the top-level change:</p>
+<pre><code class="language-js"><span class="hljs-comment">// 'property.*' observers fire with the path 'property'</span>
+<span class="hljs-keyword">this</span>.property.deep.path = <span class="hljs-string">'another new value'</span>;
+<span class="hljs-keyword">this</span>.notifyPath(<span class="hljs-string">'property'</span>);
+</code></pre>
+<p>Using <code>set</code> to set specific paths generates granular notifications:</p>
+<pre><code class="language-js"><span class="hljs-comment">// 'property.*' observers fire with the path 'property.deep.path'</span>
+<span class="hljs-keyword">this</span>.set(<span class="hljs-string">'property.deep.path'</span>, <span class="hljs-string">'new value'</span>);
+</code></pre>
+<h3 id="simpler-array-handling" class="has-permalink">Simpler array handling</h3>
+<p>The <code>Polymer.Collection</code> API and its associated key-based path and splice notification for arrays
+has been eliminated.</p>
+<p>There are several other benefits to this change:</p>
+<ul>
+<li>Arrays of primitive values are supported.</li>
+<li>Array items don't need to be unique.</li>
+</ul>
+<p>Since key paths have been eliminated, array splice notifications only include the <code>indexSplices</code>
+property, not <code>keySplices</code>.</p>
+<h3 id="batched-data-changes" class="has-permalink">Batched data changes</h3>
+<p>Propagation of data through the binding system is now batched, such that complex observers and
+computing functions run once with a set of coherent changes. There's two ways to create a set of
+coherent changes:</p>
+<ul>
+<li>
+<p>An element automatically creates a set of coherent changes when it initializes its properties.</p>
+</li>
+<li>
+<p>You can programmatically create a set of coherent changes using the new <code>setProperties</code> method.</p>
+</li>
+</ul>
+<pre><code><span class="hljs-selector-tag">this</span><span class="hljs-selector-class">.setProperties</span>({ <span class="hljs-attribute">item</span>: <span class="hljs-string">'Orange'</span>, count: <span class="hljs-number">12</span> });
+</code></pre>
+<p>Single property accessors still propagate data synchronously. For example, given an observer that
+observes two properties, <code>a</code> and <code>b</code>:</p>
+<pre><code><span class="hljs-comment">// observer fires twice</span>
+<span class="hljs-keyword">this</span>.a = <span class="hljs-number">10</span>;
+<span class="hljs-keyword">this</span>.b = <span class="hljs-number">20</span>;
+
+<span class="hljs-comment">// observer fires once</span>
+<span class="hljs-keyword">this</span>.setProperties({a: <span class="hljs-number">10</span>, b: <span class="hljs-number">20</span>});
+</code></pre>
+<h3 id="property-effect-order" class="has-permalink">Property effect order</h3>
+<p>In 2.0, observers fire before property-change notifications. The effect order in 2.0 is:</p>
+<ul>
+<li>Recompute computed properties.</li>
+<li>Propagate values to data bindings.</li>
+<li>Reflect properties to attributes.</li>
+<li>Run observers.</li>
+<li>Fire property-change notifications.</li>
+</ul>
+<p>In 1.x, observers fire last, after property-change notifications.</p>
+<h3 id="observer-changes" class="has-permalink">Observer changes</h3>
+<p>In 2.x, the checks preventing observers from firing with undefined dependencies are removed.</p>
+<p>Specifically:</p>
+<ul>
+<li>
+<p>Multi-property observers, computed properties, and computed bindings run once at initialization
+if <strong>any</strong> dependencies are defined, and for each change thereafter.</p>
+</li>
+<li>
+<p>The observer or computing functions may now receive <code>undefined</code> as an argument value, and
+needs to handle it correctly.</p>
+</li>
+</ul>
+<p>2.x also adds the ability to define observers and computed properties dynamically, on a per-instance
+basis. For details, see
+<a href="devguide/observers#dynamic-observers">Add observers and computed properties dynamically</a>.</p>
+<h3 id="miscellaneous-data-system-changes" class="has-permalink">Miscellaneous data system changes</h3>
+<ul>
+<li>
+<p>Setting/changing any function used in a computed binding causes the binding to re-compute its
+value using the new function and current property values. For example, given the binding:</p>
+<pre><code class="language-js">some-property=<span class="hljs-string">"{{_computeValue(a, b)}}"</span>
+</code></pre>
+<p>Changing the <code>_computeValue</code> <em>function</em> causes the binding to be re-evaluated, even if <code>a</code> and <code>b</code>
+remain the same:</p>
+<pre><code class="language-js">  <span class="hljs-keyword">this</span>._computeValue = <span class="hljs-function"><span class="hljs-keyword">function</span>(<span class="hljs-params">a, b</span>) </span>{ ... }
+</code></pre>
+</li>
+<li>
+<p>Property change notifications (<code><em>property</em>-changed</code> events) aren't fired when
+the value changes as a result of a binding from the host.</p>
+</li>
+</ul>
+<ul>
+<li>In order for a property to be deserialized from its attribute, it must be declared in the
+<code>properties</code> metadata object. In Polymer 1.x, deserialization is also done for
+properties that are <em>implicitly</em> declared (for example, by being included in a binding or
+as an observer dependency).</li>
+</ul>
+<h2 id="polymer-1-compatibility-layer" class="has-permalink">Polymer 1 compatibility layer</h2>
+<p>Polymer 2.0 retains the existing <code>polymer/polymer.html</code> import that current Polymer 1.0 users can
+continue to import. This import includes the legacy Polymer function for defining elements, and
+strives to provide a very minimally-breaking change for code written to the Polymer 1.0 API.</p>
+<p>For the most part, existing users upgrading to Polymer 2.0 will only need to adapt existing code to
+be compliant with the shadow DOM v1 API  related to content distribution and styling, as well as
+minor breaking changes introduced due to changes in the custom elements v1 API.</p>
+<h2 id="removed-methods-and-properties" class="has-permalink">Removed methods and properties</h2>
+<p>In keeping with a goal of reducing unnecessary code, the new ES6 base element, <code>Polymer.Element</code>,
+leaves out a number of methods and properties. The removed APIs fall into several categories:</p>
+<ul>
+<li>Simple sugaring for native DOM APIs. For example <code>fire</code> and <code>transform</code>.</li>
+<li>Rarely-used attributes and properties, like <code>attributeFollows</code> and <code>classFollows</code>.</li>
+<li>Methods and properties that don't belong on the instance. For example, in 1.x <code>importHref</code> was
+an instance method, but it doesn't do anything instance-specific, except for binding the
+callback.</li>
+</ul>
+<p>A comprehensive list of missing or moved APIs will be available after the API for  <code>Polymer.Element</code>
+is finalized.</p>
+<h2 id="browser-support-and-polyfills" class="has-permalink">Browser support and polyfills</h2>
+<p>When released, Polymer 2.0 should support the same set of browsers as Polymer 1.x—IE 11, Edge,
+Safari (9+), Chrome, Opera and Firefox.</p>
+<p>Polymer 2.0 has been developed alongside and tested with a new suite of v1-spec compatible polyfills
+for custom elements and shadow DOM. You can test Polymer 2.0 by using a <code>webcomponentsjs</code> version
+greater or equal to <code>1.0.0</code> , which is included as a bower dependency to Polymer 2.x.</p>
+<p>There are several ways to load the polyfills:</p>
+<ul>
+<li><code>webcomponents-lite.js</code> includes all of the polyfills necessary to run on any of the supported
+browsers.</li>
+<li><code>webcomponents-loader.js</code> performs a runtime feature-detection and loads just the required
+polyfills.</li>
+</ul>
+<p>Read more about the different ways and their tradeoffs:</p>
+<ul>
+<li><a href="https://github.com/webcomponents/webcomponentsjs/blob/master/README.md">webcomponentsjs on GitHub</a></li>
+</ul>
+<h2 id="ecmascript-2015-a.k.a.es6" class="has-permalink">EcmaScript 2015 (a.k.a. ES6)</h2>
+<p>Polymer 2.x and 2.x class-style elements are written using the next generation of the
+JavaScript standard, EcmaScript 2015 (more commonly known as ES6). This is required by the new
+custom element specification. If you're not familiar with ES6, it would be helpful to familiarize
+yourself with the basics of ES6 as used by Polymer. In particular, the following features are
+used widely in the code examples:</p>
+<ul>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes">ES6 classes</a></li>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Object_initializer#New_notations_in_ECMAScript_2015">Shorthand property and method names</a></li>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions">Arrow functions</a></li>
+<li><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals">Template literals</a></li>
+</ul>
+<p>There are a number of learning resources available on the web, including:</p>
+<ul>
+<li><a href="https://github.com/getify/You-Dont-Know-JS/blob/master/es6%20&amp;%20beyond/README.md#you-dont-know-js-es6--beyond">You Don't Know JS: ES6 and Beyond</a></li>
+</ul>
+<p>ES6 can be run without compilation in current Chrome, Safari 10, Safari Technology Preview, Firefox,
+and Edge.  Compilation is required to run Polymer 2.x in IE11 and Safari 9.</p>
+<p>The Polymer CLI and <code>polymer-build</code> library support transpiling ES6 to ES5 at build time. In
+addition, the <code>polymer serve</code> and <code>polymer test</code> commands transpile as runtime when required by the
+browser.</p>
+<p>For more information, see <a href="browsers#es6">Browser compatibility</a>.</p>
+<h2 id="installing" id="installing" class="has-permalink">Install Polymer 2.0</h2>
+<p>You can install the latest Polymer 2.x release using bower:</p>
+<pre><code>bower <span class="hljs-keyword">install</span> --save Polymer/polymer<span class="hljs-comment">#^2.0.0</span>
+</code></pre>
+<p>You can also use bower to install any of the available hybrid elements:</p>
+<pre><code><span class="hljs-keyword">bower </span>install --save PolymerElements/paper-<span class="hljs-keyword">button#^2.0.0
+</span></code></pre>
+<h3 id="upgrading" id="upgrading" class="has-permalink">Upgrade an existing project</h3>
+<p>See the <a href="upgrade">upgrade guide</a> for information on getting your code working with 2.0.</p>
+<h2 id="elements" id="elements" class="has-permalink">Polymer element availability</h2>
+<p>The team is in the process of updating the Polymer elements to use the new &quot;hybrid&quot; format compatible
+with both Polymer 1.7+ and 2.x.</p>
+<p>The following elements have been updated to support Polymer 2.0, or require no updates:</p>
+<ul>
+<li><a href="https://github.com/PolymerElements/app-layout">app-layout</a></li>
+<li><a href="https://github.com/PolymerElements/app-localize-behavior">app-localize-behavior</a></li>
+<li><a href="https://github.com/PolymerElements/app-pouchdb">app-pouchdb</a></li>
+<li><a href="https://github.com/PolymerElements/app-route">app-route</a></li>
+<li><a href="https://github.com/PolymerElements/app-storage">app-storage</a></li>
+<li><a href="https://github.com/PolymerElements/gold-zip-input">gold-zip-input</a></li>
+<li><a href="https://github.com/PolymerElements/iron-a11y-announcer">iron-a11y-announcer</a></li>
+<li><a href="https://github.com/PolymerElements/iron-a11y-keys">iron-a11y-keys</a></li>
+<li><a href="https://github.com/PolymerElements/iron-a11y-keys-behavior">iron-a11y-keys-behavior</a></li>
+<li><a href="https://github.com/PolymerElements/iron-ajax">iron-ajax</a></li>
+<li><a href="https://github.com/PolymerElements/iron-autogrow-textarea">iron-autogrow-textarea</a></li>
+<li><a href="https://github.com/PolymerElements/iron-behaviors">iron-behaviors</a></li>
+<li><a href="https://github.com/PolymerElements/iron-checked-element-behavior">iron-checked-element-behavior</a></li>
+<li><a href="https://github.com/PolymerElements/iron-collapse">iron-collapse</a></li>
+<li><a href="https://github.com/PolymerElements/iron-component-page">iron-component-page</a></li>
+<li><a href="https://github.com/PolymerElements/iron-demo-helpers">iron-demo-helpers</a></li>
+<li><a href="https://github.com/PolymerElements/iron-doc-viewer">iron-doc-viewer</a></li>
+<li><a href="https://github.com/PolymerElements/iron-dropdown">iron-dropdown</a></li>
+<li><a href="https://github.com/PolymerElements/iron-fit-behavior">iron-fit-behavior</a></li>
+<li><a href="https://github.com/PolymerElements/iron-flex-layout">iron-flex-layout</a></li>
+<li><a href="https://github.com/PolymerElements/iron-form-element-behavior">iron-form-element-behavior</a></li>
+<li><a href="https://github.com/PolymerElements/iron-icon">iron-icon</a></li>
+<li><a href="https://github.com/PolymerElements/iron-icons">iron-icons</a></li>
+<li><a href="https://github.com/PolymerElements/iron-iconset">iron-iconset</a></li>
+<li><a href="https://github.com/PolymerElements/iron-iconset-svg">iron-iconset-svg</a></li>
+<li><a href="https://github.com/PolymerElements/iron-image">iron-image</a></li>
+<li><a href="https://github.com/PolymerElements/iron-input">iron-input</a></li>
+<li><a href="https://github.com/PolymerElements/iron-jsonp-library">iron-jsonp-library</a></li>
+<li><a href="https://github.com/PolymerElements/iron-label">iron-label</a></li>
+<li><a href="https://github.com/PolymerElements/iron-list">iron-list</a></li>
+<li><a href="https://github.com/PolymerElements/iron-localstorage">iron-localstorage</a></li>
+<li><a href="https://github.com/PolymerElements/iron-location">iron-location</a></li>
+<li><a href="https://github.com/PolymerElements/iron-media-query">iron-media-query</a></li>
+<li><a href="https://github.com/PolymerElements/iron-menu-behavior">iron-menu-behavior</a></li>
+<li><a href="https://github.com/PolymerElements/iron-meta">iron-meta</a></li>
+<li><a href="https://github.com/PolymerElements/iron-overlay-behavior">iron-overlay-behavior</a></li>
+<li><a href="https://github.com/PolymerElements/iron-pages">iron-pages</a></li>
+<li><a href="https://github.com/PolymerElements/iron-range-behavior">iron-range-behavior</a></li>
+<li><a href="https://github.com/PolymerElements/iron-resizable-behavior">iron-resizable-behavior</a></li>
+<li><a href="https://github.com/PolymerElements/iron-scroll-target-behavior">iron-scroll-target-behavior</a></li>
+<li><a href="https://github.com/PolymerElements/iron-scroll-threshold">iron-scroll-threshold</a></li>
+<li><a href="https://github.com/PolymerElements/iron-selector">iron-selector</a></li>
+<li><a href="https://github.com/PolymerElements/iron-test-helpers">iron-test-helpers</a></li>
+<li><a href="https://github.com/PolymerElements/iron-validatable-behavior">iron-validatable-behavior</a></li>
+<li><a href="https://github.com/PolymerElements/iron-validator-behavior">iron-validator-behavior</a></li>
+<li><a href="https://github.com/PolymerElements/marked-element">marked-element</a></li>
+<li><a href="https://github.com/PolymerElements/neon-animation">neon-animation</a></li>
+<li><a href="https://github.com/PolymerElements/paper-badge">paper-badge</a></li>
+<li><a href="https://github.com/PolymerElements/paper-behaviors">paper-behaviors</a></li>
+<li><a href="https://github.com/PolymerElements/paper-button">paper-button</a></li>
+<li><a href="https://github.com/PolymerElements/paper-card">paper-card</a></li>
+<li><a href="https://github.com/PolymerElements/paper-checkbox">paper-checkbox</a></li>
+<li><a href="https://github.com/PolymerElements/paper-dialog">paper-dialog</a></li>
+<li><a href="https://github.com/PolymerElements/paper-dialog-behavior">paper-dialog-behavior</a></li>
+<li><a href="https://github.com/PolymerElements/paper-dialog-scrollable">paper-dialog-scrollable</a></li>
+<li><a href="https://github.com/PolymerElements/paper-drawer-panel">paper-drawer-panel</a></li>
+<li><a href="https://github.com/PolymerElements/paper-dropdown-menu">paper-dropdown-menu</a></li>
+<li><a href="https://github.com/PolymerElements/paper-fab">paper-fab</a></li>
+<li><a href="https://github.com/PolymerElements/paper-header-panel">paper-header-panel</a></li>
+<li><a href="https://github.com/PolymerElements/paper-icon-button">paper-icon-button</a></li>
+<li><a href="https://github.com/PolymerElements/paper-input">paper-input</a></li>
+<li><a href="https://github.com/PolymerElements/paper-item">paper-item</a></li>
+<li><a href="https://github.com/PolymerElements/paper-listbox">paper-listbox</a></li>
+<li><a href="https://github.com/PolymerElements/paper-material">paper-material</a></li>
+<li><a href="https://github.com/PolymerElements/paper-menu-button">paper-menu-button</a></li>
+<li><a href="https://github.com/PolymerElements/paper-progress">paper-progress</a></li>
+<li><a href="https://github.com/PolymerElements/paper-radio-button">paper-radio-button</a></li>
+<li><a href="https://github.com/PolymerElements/paper-radio-group">paper-radio-group</a></li>
+<li><a href="https://github.com/PolymerElements/paper-ripple">paper-ripple</a></li>
+<li><a href="https://github.com/PolymerElements/paper-scroll-header-panel">paper-scroll-header-panel</a></li>
+<li><a href="https://github.com/PolymerElements/paper-slider">paper-slider</a></li>
+<li><a href="https://github.com/PolymerElements/paper-spinner">paper-spinner</a></li>
+<li><a href="https://github.com/PolymerElements/paper-styles">paper-styles</a></li>
+<li><a href="https://github.com/PolymerElements/paper-swatch-picker">paper-swatch-picker</a></li>
+<li><a href="https://github.com/PolymerElements/paper-tabs">paper-tabs</a></li>
+<li><a href="https://github.com/PolymerElements/paper-toast">paper-toast</a></li>
+<li><a href="https://github.com/PolymerElements/paper-toggle-button">paper-toggle-button</a></li>
+<li><a href="https://github.com/PolymerElements/paper-toolbar">paper-toolbar</a></li>
+<li><a href="https://github.com/PolymerElements/paper-tooltip">paper-tooltip</a></li>
+<li><a href="https://github.com/PolymerElements/platinum-sw">platinum-sw</a></li>
+<li><a href="https://github.com/firebase/polymerfire">polymerfire</a></li>
+<li><a href="https://github.com/PolymerLabs/note-app-elements">polymerlabs/note-app-elements</a></li>
+<li><a href="https://github.com/PolymerElements/prism-element">prism-element</a></li>
+</ul>
+</article></div>
+        </main>
+      </div>
+    </div>
+  </pw-shell>
+  <pw-footer></pw-footer>
+  <script src="/js/app.js"></script>
+</body>
+</html>
