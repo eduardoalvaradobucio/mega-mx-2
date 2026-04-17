@@ -1,0 +1,1 @@
+"use strict";(self.__LOADABLE_LOADED_CHUNKS__=self.__LOADABLE_LOADED_CHUNKS__||[]).push([[5879],{65879:(_,s,A)=>{A.d(s,{useAtom:()=>D});const D=A(71111).useAtom}}]);
