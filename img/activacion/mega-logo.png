@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title></title>
+    <style>
+        body {
+            font-family: "Arial";
+        }
+    </style>
+    <script type="text/javascript">
+    window.awsWafCookieDomainList = [];
+    window.gokuProps = {
+"key":"AQIDAHjcYu/GjX+QlghicBgQ/7bFaQZ+m5FKCMDnO+vTbNg96AFto9cs2ECm/3mV+coxe3cgAAAAfjB8BgkqhkiG9w0BBwagbzBtAgEAMGgGCSqGSIb3DQEHATAeBglghkgBZQMEAS4wEQQMBAXExX39t3wTlzqqAgEQgDtrruesPTNuXzQDhee4wPk8jjyOHhILky83bR+NBCeVegSBToySjvm/5wYFZbSsMQCbfb2uD1fs6BPEYQ==",
+          "iv":"D57KzwFntAAAGyOG",
+          "context":"a9fR3+9ZlpRfM27ePtuEPcIlIzB+Yj/S4cH0kuGbXtEFGjmg9tXjBDK15utigI6UvXTI4XLaFMK7rPej4o5DWiHRMx7z34CJWEinheTA0DEy4DnK036BdWKgD+tm0olZ2XNI0pMkBZBxobTDThDpEadzgU9dPbUw2NUkQsREp46FVVo3MLC4WF82YpdV4rxsvnLsxHBPLJMfjgDGAxKJXsSSg4fgRUhsASsgs+/q4K2S29cVnpNHD9LzbnGDKRwLjAu6wL83hLgaRcUnd8XtetisZ+S2CttuRMnj6Gjxeokefa1bJ7/F+wPlgnKzihVXqTMQZQ+lsly/DqcmsAO3QT+j5qSHUD5U2u5A31j8FwqRiprudNJKtdkccc1Mab8Ke7W9dVioY0Et9ycgmZnESIkY3F4ISxGrxgB5F1uPs0ZfbSr/aph06qVmw4L0euVcIbtPyPF2JASU8s/qk9wf3x6MfNtMH0vuaIsWR9YzaoH3aVQ3B3b69+hClwDeMwegFsrYjjuqSe9JI5uLFiQ1GZLyp9k5vRtt6QfRG9UTuBLJ3+GyvFi3NC6gmLfA2xCLFZ4LHjq/8PclgpnbI7URjtvkrGcnGg1W8GR9PSpIWGY2A2QUuYalGYY6wSiYLhdhxGjhfziN64md1sGDwH2UiKcIeQTC/mwo8wjLukYIOXqSNW0MCPpL0hX8OmYwcWkhJq6Nvicqi7kfTnVBlnQckGStAHUqdRkCOLwv/PtIDT8jTE5XVnofOW991YlBbBlEx3mv20lXvUSadmRZLW0jOGThUta1nXry4MNk5LrtKL8dHtYGAioaQWut"
+};
+    </script>
+    <script src="https://01f1bada2b2d.c9222c18.us-east-1.token.awswaf.com/01f1bada2b2d/4d1e4a3bd23a/66029540664e/challenge.js"></script>
+</head>
+<body>
+    <div id="challenge-container"></div>
+    <script type="text/javascript">
+        AwsWafIntegration.saveReferrer();
+        AwsWafIntegration.checkForceRefresh().then((forceRefresh) => {
+            if (forceRefresh) {
+                AwsWafIntegration.forceRefreshToken().then(() => {
+                    window.location.reload(true);
+                });
+            } else {
+                AwsWafIntegration.getToken().then(() => {
+                    window.location.reload(true);
+                });
+            }
+        });
+    </script>
+    <noscript>
+        <h1>JavaScript is disabled</h1>
+        In order to continue, we need to verify that you're not a robot.
+        This requires JavaScript. Enable JavaScript and then reload the page.
+    </noscript>
+</body>
+</html>
