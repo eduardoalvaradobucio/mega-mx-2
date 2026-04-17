@@ -4,7 +4,6 @@
 
 
 
-
 <!DOCTYPE html>
 <html
   lang="en"
@@ -28,6 +27,7 @@
 
   
 
+
   <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/light-8db8ec9d843a6198.css" /><link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/light_high_contrast-1ebc8c2fbf646f62.css" /><link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/dark-5a2079a7af880b5d.css" /><link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/dark_high_contrast-f22f15c407d6eca1.css" /><link data-color-theme="light" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/light-8db8ec9d843a6198.css" /><link data-color-theme="light_high_contrast" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/light_high_contrast-1ebc8c2fbf646f62.css" /><link data-color-theme="light_colorblind" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/light_colorblind-2c630c094e7e58fe.css" /><link data-color-theme="light_colorblind_high_contrast" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/light_colorblind_high_contrast-1e74f08f26690427.css" /><link data-color-theme="light_tritanopia" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/light_tritanopia-a55e823d68b6636a.css" /><link data-color-theme="light_tritanopia_high_contrast" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/light_tritanopia_high_contrast-2a79786d0d9a72b7.css" /><link data-color-theme="dark" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/dark-5a2079a7af880b5d.css" /><link data-color-theme="dark_high_contrast" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/dark_high_contrast-f22f15c407d6eca1.css" /><link data-color-theme="dark_colorblind" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/dark_colorblind-f483db49f1126b90.css" /><link data-color-theme="dark_colorblind_high_contrast" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/dark_colorblind_high_contrast-666e5c9bc47065ef.css" /><link data-color-theme="dark_tritanopia" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/dark_tritanopia-1424433ddc9f2f2e.css" /><link data-color-theme="dark_tritanopia_high_contrast" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/dark_tritanopia_high_contrast-76544daae5228ed1.css" /><link data-color-theme="dark_dimmed" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/dark_dimmed-90ebacd7fa543c51.css" /><link data-color-theme="dark_dimmed_high_contrast" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/dark_dimmed_high_contrast-9ab7fa96747a4402.css" />
 
   <style type="text/css">
@@ -45,7 +45,7 @@
     <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/global-c9ae636e7affabfe.css" />
     <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/github-c94ab8d1f22049a8.css" />
   <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/repository-6ec84ae2261fecf8.css" />
-<link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/releases-8d1cff8087c530cf.css" />
+<link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/code-2d31826944fd3be8.css" />
 
   
 
@@ -102,10 +102,70 @@
 <script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/89960-387607d3b39aa528.js" defer="defer"></script>
 <script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/37869-a873e81f0fcb98e2.js" defer="defer"></script>
 <script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/68751-fe5cb40b5547c377.js" defer="defer"></script>
-<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/36505-d881e4fdaa1f52d2.js" defer="defer"></script>
-<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/33073-19b499126dc11486.js" defer="defer"></script>
+<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/7463-f34e26efc84a7578.js" defer="defer"></script>
+<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/15272-00d6ef52b0f88c77.js" defer="defer"></script>
+<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/41167-87d9e89a64094cdb.js" defer="defer"></script>
+<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/32769-329cba91f224b6ee.js" defer="defer"></script>
+<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/73449-646bf6ea1408fd50.js" defer="defer"></script>
+<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/70247-2fd8dae41a97f023.js" defer="defer"></script>
+<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/25164-961089be44fa9f85.js" defer="defer"></script>
+<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/62094-358c25913dde0efc.js" defer="defer"></script>
+<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/46903-65368220eba9c018.js" defer="defer"></script>
+<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/67985-33bb92236f6110af.js" defer="defer"></script>
+<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/84858-decdfcc8e316f78c.js" defer="defer"></script>
+<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/86849-5cc5e81ce5a91397.js" defer="defer"></script>
+<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/59046-2f294315d961019a.js" defer="defer"></script>
+<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/22110-bd3905ae268a0602.js" defer="defer"></script>
+<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/66554-cd62901902042cfd.js" defer="defer"></script>
+<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/40145-1c5666e94b907f22.js" defer="defer"></script>
+<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/46148-0e40187c0246d203.js" defer="defer"></script>
+<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/17894-e0128f369d75471b.js" defer="defer"></script>
+<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/43947-18e23171752897a9.js" defer="defer"></script>
+<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/23396-c7ca6930473d2d67.js" defer="defer"></script>
 <script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/63991-125a5c660965e63e.js" defer="defer"></script>
 <script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/59852-80edf21194f9d3f8.js" defer="defer"></script>
+<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/91894-06dea53adb37b53c.js" defer="defer"></script>
+<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/3624-e2fcb28c28b4d319.js" defer="defer"></script>
+<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/17513-e85ebc95a7d6e734.js" defer="defer"></script>
+<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/66231-e5fbc544a569ca6a.js" defer="defer"></script>
+<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/36600-4f87611db710da71.js" defer="defer"></script>
+<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/35644-841291392c65f0de.js" defer="defer"></script>
+<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/76241-6461c499bdd8e24d.js" defer="defer"></script>
+<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/18222-498ac30c45b2263a.js" defer="defer"></script>
+<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/96755-4b30aa134d425c76.js" defer="defer"></script>
+<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/78292-7192d7c00bd7b6f5.js" defer="defer"></script>
+<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/3809-6e5f4fd9f64fc4ce.js" defer="defer"></script>
+<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/54888-9b7097d2ff748a17.js" defer="defer"></script>
+<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/77440-4a1edb90d0d4865c.js" defer="defer"></script>
+<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/1097-b805267515cb2087.js" defer="defer"></script>
+<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/8987-5c9265a0508c59d9.js" defer="defer"></script>
+<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/60207-5a2b02b6befddfb0.js" defer="defer"></script>
+<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/15738-56227d4923724fa5.js" defer="defer"></script>
+<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/15151-684c0e47023be651.js" defer="defer"></script>
+<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/87894-8e50b51559b260e5.js" defer="defer"></script>
+<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/27282-8ffa814779f8aa96.js" defer="defer"></script>
+<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/95405-4fefb1bb5d3ae6a8.js" defer="defer"></script>
+<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/46009-3208ae13fb105807.js" defer="defer"></script>
+<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/16449-85f57dbbecbd2454.js" defer="defer"></script>
+<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/47948-d859825b3ea5ffee.js" defer="defer"></script>
+<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/75367-9df4a592321a18ed.js" defer="defer"></script>
+<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/32475-34be8bee17c828f1.js" defer="defer"></script>
+<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/97348-32c90922fc5b67ca.js" defer="defer"></script>
+<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/54259-eeab0834a995e9fa.js" defer="defer"></script>
+<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/42771-4ebf93dd4d342b28.js" defer="defer"></script>
+<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/17115-9a03a5e7f254678d.js" defer="defer"></script>
+<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/commits-b3dbae942c428d44.js" defer="defer"></script>
+<link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/primer-react-css.8a057b98cd8a150b.module.css" />
+<link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/76241.3097154e92bc0136.module.css" />
+<link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/78292.7cde2dd88c8a01db.module.css" />
+<link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/60207.29bc7bda4340f9d8.module.css" />
+<link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/47948.3b654984dc8ca45e.module.css" />
+<link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/54259.be22f7600b0a407d.module.css" />
+<link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/17115.4e2aad4454f5d928.module.css" />
+<link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/commits.18d8e2832e8dcf59.module.css" />
+
+  <script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/36505-d881e4fdaa1f52d2.js" defer="defer"></script>
+<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/33073-19b499126dc11486.js" defer="defer"></script>
 <script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/33684-93c00536afad2a9e.js" defer="defer"></script>
 <script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/22895-381c5e0210588619.js" defer="defer"></script>
 <script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/5289-9250cf167b7fe748.js" defer="defer"></script>
@@ -115,29 +175,29 @@
 <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/notifications-subscriptions-menu.bd6c994adeb63adb.module.css" />
 
 
-  <title>Release 3.31.0 - 2023.06.12 · zloirock/core-js · GitHub</title>
+  <title>History for CODE_OF_CONDUCT.md - facebook/react · GitHub</title>
 
 
 
-  <meta name="route-pattern" content="/:user_id/:repository/releases/tag/*name" data-turbo-transient>
-  <meta name="route-controller" content="releases" data-turbo-transient>
+  <meta name="route-pattern" content="/:user_id/:repository/commits(/*name)" data-turbo-transient>
+  <meta name="route-controller" content="commits" data-turbo-transient>
   <meta name="route-action" content="show" data-turbo-transient>
-  <meta name="fetch-nonce" content="v2:1c27e6fe-67b3-2513-dc50-89298d43cd4f">
+  <meta name="fetch-nonce" content="v2:fe15bf1a-2c38-4a80-cc4f-b6835052d5dd">
 
     
-  <meta name="current-catalog-service-hash" content="6f13f31f798a93a6b08d3be0727120e9af35851fac7b9c620d6cf9a70068c136">
+  <meta name="current-catalog-service-hash" content="f3abb0cc802f3d7b95fc8762b94bdcb13bf39634c40c357301c4aa1d67a256fb">
 
 
-  <meta name="request-id" content="E03E:69CE3:1E404F:299E34:69E2945D" data-pjax-transient="true"/><meta name="html-safe-nonce" content="4d5fe7cb485c613542301e6ce7841f88aac4c87eecd37b91a5d5646c31dd152b" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiJFMDNFOjY5Q0UzOjFFNDA0RjoyOTlFMzQ6NjlFMjk0NUQiLCJ2aXNpdG9yX2lkIjoiNDg5MTk4NjY3MTI1MTM5NDg2NCIsInJlZ2lvbl9lZGdlIjoiaWFkIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9" data-pjax-transient="true"/><meta name="visitor-hmac" content="8e4727559f0ff0370d3a094ea7082194f1194a24a6cb2d902368500a2b50a96c" data-pjax-transient="true"/>
+  <meta name="request-id" content="E049:3063FF:1E917A:29F71B:69E29467" data-pjax-transient="true"/><meta name="html-safe-nonce" content="4d5fe7cb485c613542301e6ce7841f88aac4c87eecd37b91a5d5646c31dd152b" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiJFMDQ5OjMwNjNGRjoxRTkxN0E6MjlGNzFCOjY5RTI5NDY3IiwidmlzaXRvcl9pZCI6IjQ4OTE5ODY2NzEyNTEzOTQ4NjQiLCJyZWdpb25fZWRnZSI6ImlhZCIsInJlZ2lvbl9yZW5kZXIiOiJpYWQifQ==" data-pjax-transient="true"/><meta name="visitor-hmac" content="83b3464c66f7c393791b0850dcebfe7c6021910d0a9dbaa50e3bd1c52d97d922" data-pjax-transient="true"/>
 
 
-    <meta name="hovercard-subject-tag" content="repository:11481338" data-turbo-transient>
+    <meta name="hovercard-subject-tag" content="repository:10270250" data-turbo-transient>
 
 
-  <meta name="github-keyboard-shortcuts" content="repository,copilot" data-turbo-transient="true" />
+  <meta name="github-keyboard-shortcuts" content="repository,commit-list,copilot" data-turbo-transient="true" />
   
 
-  <meta name="selected-link" value="repo_releases" data-turbo-transient>
+  <meta name="selected-link" value="/facebook/react/commits/17e2a15bea2df9232411a35c6d967fa18f6e8b25/CODE_OF_CONDUCT.md" data-turbo-transient>
   <link rel="assets" href="https://github.githubassets.com/">
 
     <meta name="google-site-verification" content="Apib7-x98H0j5cPqHWwSMm6dNU4GmODRoqxLiDzdx9I">
@@ -148,7 +208,7 @@
 
 
 
-  <meta name="analytics-location" content="/&lt;user-name&gt;/&lt;repo-name&gt;/releases/show" data-turbo-transient="true" />
+  <meta name="analytics-location" content="/&lt;user-name&gt;/&lt;repo-name&gt;/commits/show" data-turbo-transient="true" />
 
   
 
@@ -163,43 +223,16 @@
 
     
 
-      <meta name="description" content="Standard Library. Contribute to zloirock/core-js development by creating an account on GitHub.">
+      <meta name="description" content="The library for web and native user interfaces. Contribute to facebook/react development by creating an account on GitHub.">
 
       <link rel="search" type="application/opensearchdescription+xml" href="/opensearch.xml" title="GitHub">
 
     <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
     <meta property="fb:app_id" content="1401488693436528">
-    <meta name="apple-itunes-app" content="app-id=1477376905, app-argument=https://github.com/zloirock/core-js/releases/tag/v3.31.0" />
+    <meta name="apple-itunes-app" content="app-id=1477376905, app-argument=https://github.com/facebook/react/commits/17e2a15bea2df9232411a35c6d967fa18f6e8b25/CODE_OF_CONDUCT.md" />
 
-      <meta name="twitter:image" content="https://opengraph.githubassets.com/ef29d1cb9ee8d667baf76540cd374f5117a1bda52acb6f6f8885f915c09dafd8/zloirock/core-js/releases/tag/v3.31.0" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="Release 3.31.0 - 2023.06.12 · zloirock/core-js" /><meta name="twitter:description" content="Well-formed unicode strings proposal:
-
-Methods:
-
-String.prototype.isWellFormed method
-String.prototype.toWellFormed method
-
-
-Moved to stable ES, May 2023 TC39 meeting
-Added es. namespace modules, /..." /><meta name="twitter:creator" content="zloirock" />
-  <meta property="og:image" content="https://opengraph.githubassets.com/ef29d1cb9ee8d667baf76540cd374f5117a1bda52acb6f6f8885f915c09dafd8/zloirock/core-js/releases/tag/v3.31.0" /><meta property="og:image:alt" content="Well-formed unicode strings proposal:
-
-Methods:
-
-String.prototype.isWellFormed method
-String.prototype.toWellFormed method
-
-
-Moved to stable ES, May 2023 TC39 meeting
-Added es. namespace modules, /..." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="Release 3.31.0 - 2023.06.12 · zloirock/core-js" /><meta property="og:url" content="/zloirock/core-js/releases/tag/v3.31.0" /><meta property="og:description" content="Well-formed unicode strings proposal:
-
-Methods:
-
-String.prototype.isWellFormed method
-String.prototype.toWellFormed method
-
-
-Moved to stable ES, May 2023 TC39 meeting
-Added es. namespace modules, /..." />
+      <meta name="twitter:image" content="https://opengraph.githubassets.com/ea39630692a7bb2ee8c3d45ea18f150d655d4eb6511d1f45a819eca4f9b83583/facebook/react" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="History for CODE_OF_CONDUCT.md - facebook/react" /><meta name="twitter:description" content="The library for web and native user interfaces. Contribute to facebook/react development by creating an account on GitHub." />
+  <meta property="og:image" content="https://opengraph.githubassets.com/ea39630692a7bb2ee8c3d45ea18f150d655d4eb6511d1f45a819eca4f9b83583/facebook/react" /><meta property="og:image:alt" content="The library for web and native user interfaces. Contribute to facebook/react development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="History for CODE_OF_CONDUCT.md - facebook/react" /><meta property="og:url" content="https://github.com/facebook/react" /><meta property="og:description" content="The library for web and native user interfaces. Contribute to facebook/react development by creating an account on GitHub." />
   
 
 
@@ -219,9 +252,12 @@ Added es. namespace modules, /..." />
 
   <meta name="turbo-cache-control" content="no-preview" data-turbo-transient="">
 
-      <meta name="go-import" content="github.com/zloirock/core-js git https://github.com/zloirock/core-js.git">
+      <meta name="turbo-cache-control" content="no-cache" data-turbo-transient>
 
-  <meta name="octolytics-dimension-user_id" content="2213682" /><meta name="octolytics-dimension-user_login" content="zloirock" /><meta name="octolytics-dimension-repository_id" content="11481338" /><meta name="octolytics-dimension-repository_nwo" content="zloirock/core-js" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="11481338" /><meta name="octolytics-dimension-repository_network_root_nwo" content="zloirock/core-js" />
+
+  <meta name="go-import" content="github.com/facebook/react git https://github.com/facebook/react.git">
+
+  <meta name="octolytics-dimension-user_id" content="69631" /><meta name="octolytics-dimension-user_login" content="facebook" /><meta name="octolytics-dimension-repository_id" content="10270250" /><meta name="octolytics-dimension-repository_nwo" content="facebook/react" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="10270250" /><meta name="octolytics-dimension-repository_network_root_nwo" content="facebook/react" />
 
 
 
@@ -329,19 +365,19 @@ Added es. namespace modules, /..." />
 
       <div class="d-flex flex-1 flex-order-2 text-right d-lg-none gap-2 flex-justify-end">
           <a
-            href="/login?return_to=https%3A%2F%2Fgithub.com%2Fzloirock%2Fcore-js%2Freleases%2Ftag%2Fv3.31.0"
+            href="/login?return_to=https%3A%2F%2Fgithub.com%2Ffacebook%2Freact%2Fcommits%2F17e2a15bea2df9232411a35c6d967fa18f6e8b25%2FCODE_OF_CONDUCT.md"
             class="HeaderMenu-link HeaderMenu-button d-inline-flex f5 no-underline border color-border-default rounded-2 px-2 py-1 color-fg-inherit js-prevent-focus-on-mobile-nav"
-            data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/zloirock/core-js/releases/tag/v3.31.0&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="192ae584f9b30083e89abbfe706989f94211c5aaefe1d1ddb7e525a7d41a0964"
+            data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/facebook/react/commits/17e2a15bea2df9232411a35c6d967fa18f6e8b25/CODE_OF_CONDUCT.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="9e326d8bf6ee0bd93fa13bcd2bc57445abdadb3b5899d8997f1b82ee997f0cfb"
             data-analytics-event="{&quot;category&quot;:&quot;Marketing nav&quot;,&quot;action&quot;:&quot;click to Sign in&quot;,&quot;label&quot;:&quot;ref_page:Marketing;ref_cta:Sign in;ref_loc:Header&quot;}"
           >
             Sign in
           </a>
               <div class="AppHeader-appearanceSettings">
     <react-partial-anchor>
-      <button data-target="react-partial-anchor.anchor" id="icon-button-0b69f27e-3f07-429e-8472-ed53451964ba" aria-labelledby="tooltip-7a028cf7-c687-4519-9813-adfea2bf49e7" type="button" disabled="disabled" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium AppHeader-button HeaderMenu-link border cursor-wait">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-sliders Button-visual">
+      <button data-target="react-partial-anchor.anchor" id="icon-button-66b23c37-d8af-4372-bbc8-c303539908c4" aria-labelledby="tooltip-c1558365-3cc2-48c6-a23b-a4fcf75e37e8" type="button" disabled="disabled" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium AppHeader-button HeaderMenu-link border cursor-wait">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-sliders Button-visual">
     <path d="M15 2.75a.75.75 0 0 1-.75.75h-4a.75.75 0 0 1 0-1.5h4a.75.75 0 0 1 .75.75Zm-8.5.75v1.25a.75.75 0 0 0 1.5 0v-4a.75.75 0 0 0-1.5 0V2H1.75a.75.75 0 0 0 0 1.5H6.5Zm1.25 5.25a.75.75 0 0 0 0-1.5h-6a.75.75 0 0 0 0 1.5h6ZM15 8a.75.75 0 0 1-.75.75H11.5V10a.75.75 0 1 1-1.5 0V6a.75.75 0 0 1 1.5 0v1.25h2.75A.75.75 0 0 1 15 8Zm-9 5.25v-2a.75.75 0 0 0-1.5 0v1.25H1.75a.75.75 0 0 0 0 1.5H4.5v1.25a.75.75 0 0 0 1.5 0v-2Zm9 0a.75.75 0 0 1-.75.75h-6a.75.75 0 0 1 0-1.5h6a.75.75 0 0 1 .75.75Z"></path>
 </svg>
-</button><tool-tip id="tooltip-7a028cf7-c687-4519-9813-adfea2bf49e7" for="icon-button-0b69f27e-3f07-429e-8472-ed53451964ba" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Appearance settings</tool-tip>
+</button><tool-tip id="tooltip-c1558365-3cc2-48c6-a23b-a4fcf75e37e8" for="icon-button-66b23c37-d8af-4372-bbc8-c303539908c4" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Appearance settings</tool-tip>
 
       <template data-target="react-partial-anchor.template">
         <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/primer-react-css.8a057b98cd8a150b.module.css" />
@@ -389,7 +425,7 @@ Added es. namespace modules, /..." />
                 
 
 
-<qbsearch-input class="search-input" data-scope="repo:zloirock/core-js" data-custom-scopes-path="/search/custom_scopes" data-delete-custom-scopes-csrf="N_y3ep5qqY5X2Bs_4-qkbArgF-b1x3aFKzCQ_R6TkOxL3koLEN_OHoK0mbKpFcLY8WSJY2b1uaGSFDkyXGdGvg" data-max-custom-scopes="10" data-header-redesign-enabled="false" data-initial-value="" data-blackbird-suggestions-path="/search/suggestions" data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations" data-current-repository="zloirock/core-js" data-current-org="" data-current-owner="zloirock" data-logged-in="false" data-copilot-chat-enabled="false" data-nl-search-enabled="false" data-retain-scroll-position="true">
+<qbsearch-input class="search-input" data-scope="repo:facebook/react" data-custom-scopes-path="/search/custom_scopes" data-delete-custom-scopes-csrf="I9gotzvGDnxyfFwa0Gd5tZcvEyCddbpJnBKIdn-FtVjn3grU-ImOMmbiQxNxnbPKq8MQ1N90F9RbesP6gI_Kpg" data-max-custom-scopes="10" data-header-redesign-enabled="false" data-initial-value="" data-blackbird-suggestions-path="/search/suggestions" data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations" data-current-repository="facebook/react" data-current-org="facebook" data-current-owner="" data-logged-in="false" data-copilot-chat-enabled="false" data-nl-search-enabled="false" data-retain-scroll-position="true">
   <div
     class="search-input-container search-with-dialog position-relative d-flex flex-row flex-items-center tmp-mr-4 rounded"
     data-action="click:qbsearch-input#searchInputContainerClicked"
@@ -453,7 +489,7 @@ Added es. namespace modules, /..." />
           ></div>
           <div class="QueryBuilder-InputWrapper">
             <div aria-hidden="true" class="QueryBuilder-Sizer" data-target="query-builder.sizer"></div>
-            <input id="query-builder-test" name="query-builder-test" value="" autocomplete="off" type="text" role="combobox" spellcheck="false" aria-expanded="false" aria-describedby="validation-773c8331-f96a-40e1-8220-74c738b055a7" data-target="query-builder.input" data-action="
+            <input id="query-builder-test" name="query-builder-test" value="" autocomplete="off" type="text" role="combobox" spellcheck="false" aria-expanded="false" aria-describedby="validation-c87bd97e-920e-424c-a154-3325feaefc79" data-target="query-builder.input" data-action="
           input:query-builder#inputChange
           blur:query-builder#inputBlur
           keydown:query-builder#inputKeydown
@@ -694,7 +730,7 @@ Added es. namespace modules, /..." />
             ></ul>
 
         </div>
-      <div class="FormControl-inlineValidation" id="validation-773c8331-f96a-40e1-8220-74c738b055a7" hidden="hidden">
+      <div class="FormControl-inlineValidation" id="validation-c87bd97e-920e-424c-a154-3325feaefc79" hidden="hidden">
         <span class="FormControl-inlineValidation--visual">
           <svg aria-hidden="true" height="12" viewBox="0 0 12 12" version="1.1" width="12" data-view-component="true" class="octicon octicon-alert-fill">
     <path d="M4.855.708c.5-.896 1.79-.896 2.29 0l4.675 8.351a1.312 1.312 0 0 1-1.146 1.954H1.33A1.313 1.313 0 0 1 .183 9.058ZM7 7V3H5v4Zm-1 3a1 1 0 1 0 0-2 1 1 0 0 0 0 2Z"></path>
@@ -735,7 +771,7 @@ Added es. namespace modules, /..." />
   
 </div>
       <scrollable-region data-labelled-by="feedback-dialog-title">
-        <div data-view-component="true" class="Overlay-body">        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="code-search-feedback-form" data-turbo="false" action="/search/feedback" accept-charset="UTF-8" method="post"><input type="hidden" data-csrf="true" name="authenticity_token" value="9Y8x/eNH8ABFENAzmFTEgl87IEsZOE0q7RtHMkq9oEoC74wODY+sWYfYsbwjnu2F8eohQQWLar2TA70cCQEzKQ==" />
+        <div data-view-component="true" class="Overlay-body">        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="code-search-feedback-form" data-turbo="false" action="/search/feedback" accept-charset="UTF-8" method="post"><input type="hidden" data-csrf="true" name="authenticity_token" value="Raot33njNLtqdO6CGJEgGp+Augj1GR4Gj0ivB7fQuACyypAslyto4qi8jw2jWwkdMVG7AumqOZHxUFUp9GwrYw==" />
           <p>We read every piece of feedback, and take your input very seriously.</p>
           <textarea name="feedback" class="form-control width-full mb-2" style="height: 120px" id="feedback"></textarea>
           <input name="include_email" id="include_email" aria-label="Include my email address so I can be contacted" class="form-control mr-2" type="checkbox">
@@ -773,7 +809,7 @@ Added es. namespace modules, /..." />
         <div data-view-component="true" class="Overlay-body">        <div data-target="custom-scopes.customScopesModalDialogFlash"></div>
 
         <div hidden class="create-custom-scope-form" data-target="custom-scopes.createCustomScopeForm">
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="custom-scopes-dialog-form" data-turbo="false" action="/search/custom_scopes" accept-charset="UTF-8" method="post"><input type="hidden" data-csrf="true" name="authenticity_token" value="3QY25qkbAwxn9wZ0jyjWDdrojs/0nLdyBOF3q6LIWsM2v5oeDKheUhwz8Vru2gJYp3K6ZrkorbxgoO7k4eadfw==" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="custom-scopes-dialog-form" data-turbo="false" action="/search/custom_scopes" accept-charset="UTF-8" method="post"><input type="hidden" data-csrf="true" name="authenticity_token" value="pANZpnwOspfHcwzc8CbEX+UUza3FtBnQXz03WEe+D9hPuvVe2b3vyby3+/KR1BAKmI75BIgAAx47fK4XBJDIZA==" />
           <div data-target="custom-scopes.customScopesModalDialogFlash"></div>
 
           <input type="hidden" id="custom_scope_id" name="custom_scope_id" data-target="custom-scopes.customScopesIdField">
@@ -791,7 +827,7 @@ Added es. namespace modules, /..." />
                 placeholder="github-ruby"
                 required
                 maxlength="50">
-              <input type="hidden" data-csrf="true" value="KzwpxatBaf2nSUj8tZXhbXPmGfzN91f/kC7j7ThLE4fJHqsunk9jKm6263623UhFxJl07KOPYLcq2L598zXG8g==" />
+              <input type="hidden" data-csrf="true" value="OIm0OJuZaF+xzgIGhBLNdsyqszrfMtim9ZZZNK1qPNDaqzbTrpdiiHgxoYSHWmRee9XeKrFK7+5PYASkZhTppQ==" />
             </auto-check>
           </div>
 
@@ -833,30 +869,30 @@ Added es. namespace modules, /..." />
 
             <div class="position-relative HeaderMenu-link-wrap d-lg-inline-block">
               <a
-                href="/login?return_to=https%3A%2F%2Fgithub.com%2Fzloirock%2Fcore-js%2Freleases%2Ftag%2Fv3.31.0"
+                href="/login?return_to=https%3A%2F%2Fgithub.com%2Ffacebook%2Freact%2Fcommits%2F17e2a15bea2df9232411a35c6d967fa18f6e8b25%2FCODE_OF_CONDUCT.md"
                 class="HeaderMenu-link HeaderMenu-link--sign-in HeaderMenu-button flex-shrink-0 no-underline d-none d-lg-inline-flex border border-lg-0 rounded px-2 py-1"
                 style="margin-left: 12px;"
-                data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/zloirock/core-js/releases/tag/v3.31.0&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="192ae584f9b30083e89abbfe706989f94211c5aaefe1d1ddb7e525a7d41a0964"
+                data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/facebook/react/commits/17e2a15bea2df9232411a35c6d967fa18f6e8b25/CODE_OF_CONDUCT.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="9e326d8bf6ee0bd93fa13bcd2bc57445abdadb3b5899d8997f1b82ee997f0cfb"
                 data-analytics-event="{&quot;category&quot;:&quot;Marketing nav&quot;,&quot;action&quot;:&quot;click to go to homepage&quot;,&quot;label&quot;:&quot;ref_page:Marketing;ref_cta:Sign in;ref_loc:Header&quot;}"
               >
                 Sign in
               </a>
             </div>
 
-              <a href="/signup?ref_cta=Sign+up&amp;ref_loc=header+logged+out&amp;ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Freleases%2Fshow&amp;source=header-repo&amp;source_repo=zloirock%2Fcore-js"
+              <a href="/signup?ref_cta=Sign+up&amp;ref_loc=header+logged+out&amp;ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Fcommits%2Fshow&amp;source=header-repo&amp;source_repo=facebook%2Freact"
                 class="HeaderMenu-link HeaderMenu-link--sign-up HeaderMenu-button flex-shrink-0 d-flex d-lg-inline-flex no-underline border color-border-default rounded px-2 py-1"
-                data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/zloirock/core-js/releases/tag/v3.31.0&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="192ae584f9b30083e89abbfe706989f94211c5aaefe1d1ddb7e525a7d41a0964"
-                data-analytics-event="{&quot;category&quot;:&quot;Sign up&quot;,&quot;action&quot;:&quot;click to sign up for account&quot;,&quot;label&quot;:&quot;ref_page:/&lt;user-name&gt;/&lt;repo-name&gt;/releases/show;ref_cta:Sign up;ref_loc:header logged out&quot;}"
+                data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/facebook/react/commits/17e2a15bea2df9232411a35c6d967fa18f6e8b25/CODE_OF_CONDUCT.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="9e326d8bf6ee0bd93fa13bcd2bc57445abdadb3b5899d8997f1b82ee997f0cfb"
+                data-analytics-event="{&quot;category&quot;:&quot;Sign up&quot;,&quot;action&quot;:&quot;click to sign up for account&quot;,&quot;label&quot;:&quot;ref_page:/&lt;user-name&gt;/&lt;repo-name&gt;/commits/show;ref_cta:Sign up;ref_loc:header logged out&quot;}"
               >
                 Sign up
               </a>
 
                 <div class="AppHeader-appearanceSettings">
     <react-partial-anchor>
-      <button data-target="react-partial-anchor.anchor" id="icon-button-adb9c694-fdae-42ff-955f-1a30debbd7d0" aria-labelledby="tooltip-420f2bb2-0056-4f72-b9d5-395ccaa0dfd3" type="button" disabled="disabled" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium AppHeader-button HeaderMenu-link border cursor-wait">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-sliders Button-visual">
+      <button data-target="react-partial-anchor.anchor" id="icon-button-5b1953ce-fc5e-4a2a-9a89-bd9f9ee4a051" aria-labelledby="tooltip-5477236d-f918-4adc-8967-d1555b6c4046" type="button" disabled="disabled" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium AppHeader-button HeaderMenu-link border cursor-wait">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-sliders Button-visual">
     <path d="M15 2.75a.75.75 0 0 1-.75.75h-4a.75.75 0 0 1 0-1.5h4a.75.75 0 0 1 .75.75Zm-8.5.75v1.25a.75.75 0 0 0 1.5 0v-4a.75.75 0 0 0-1.5 0V2H1.75a.75.75 0 0 0 0 1.5H6.5Zm1.25 5.25a.75.75 0 0 0 0-1.5h-6a.75.75 0 0 0 0 1.5h6ZM15 8a.75.75 0 0 1-.75.75H11.5V10a.75.75 0 1 1-1.5 0V6a.75.75 0 0 1 1.5 0v1.25h2.75A.75.75 0 0 1 15 8Zm-9 5.25v-2a.75.75 0 0 0-1.5 0v1.25H1.75a.75.75 0 0 0 0 1.5H4.5v1.25a.75.75 0 0 0 1.5 0v-2Zm9 0a.75.75 0 0 1-.75.75h-6a.75.75 0 0 1 0-1.5h6a.75.75 0 0 1 .75.75Z"></path>
 </svg>
-</button><tool-tip id="tooltip-420f2bb2-0056-4f72-b9d5-395ccaa0dfd3" for="icon-button-adb9c694-fdae-42ff-955f-1a30debbd7d0" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Appearance settings</tool-tip>
+</button><tool-tip id="tooltip-5477236d-f918-4adc-8967-d1555b6c4046" for="icon-button-5b1953ce-fc5e-4a2a-9a89-bd9f9ee4a051" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Appearance settings</tool-tip>
 
       <template data-target="react-partial-anchor.template">
         <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/primer-react-css.8a057b98cd8a150b.module.css" />
@@ -894,10 +930,10 @@ Added es. namespace modules, /..." />
         <span class="js-stale-session-flash-signed-out" hidden>You signed out in another tab or window. <a class="Link--inTextBlock" href="">Reload</a> to refresh your session.</span>
         <span class="js-stale-session-flash-switched" hidden>You switched accounts on another tab or window. <a class="Link--inTextBlock" href="">Reload</a> to refresh your session.</span>
 
-    <button id="icon-button-ea006b72-8d92-4ec2-8f9b-db33ba766504" aria-labelledby="tooltip-88e159e7-c2d5-4f58-9b94-ad8640ea4bcf" type="button" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium flash-close js-flash-close">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x Button-visual">
+    <button id="icon-button-14679bbb-b669-4053-89d2-474a80a46255" aria-labelledby="tooltip-ab5ff95a-e1c3-4991-9d4c-12f22891a631" type="button" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium flash-close js-flash-close">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x Button-visual">
     <path d="M3.72 3.72a.75.75 0 0 1 1.06 0L8 6.94l3.22-3.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L9.06 8l3.22 3.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L8 9.06l-3.22 3.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L6.94 8 3.72 4.78a.75.75 0 0 1 0-1.06Z"></path>
 </svg>
-</button><tool-tip id="tooltip-88e159e7-c2d5-4f58-9b94-ad8640ea4bcf" for="icon-button-ea006b72-8d92-4ec2-8f9b-db33ba766504" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Dismiss alert</tool-tip>
+</button><tool-tip id="tooltip-ab5ff95a-e1c3-4991-9d4c-12f22891a631" for="icon-button-14679bbb-b669-4053-89d2-474a80a46255" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Dismiss alert</tool-tip>
 
 
   
@@ -955,7 +991,9 @@ Added es. namespace modules, /..." />
         <div itemscope itemtype="http://schema.org/SoftwareSourceCode" class="">
     <main id="js-repo-pjax-container" >
       
-  
+      
+    
+
     
 
 
@@ -977,12 +1015,12 @@ Added es. namespace modules, /..." />
 </svg>
     
     <span class="author flex-self-stretch" itemprop="author">
-      <a class="url fn" rel="author" data-hovercard-type="user" data-hovercard-url="/users/zloirock/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/zloirock">
-        zloirock
+      <a class="url fn" rel="author" data-hovercard-type="organization" data-hovercard-url="/orgs/facebook/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/facebook">
+        facebook
 </a>    </span>
     <span class="mx-1 flex-self-stretch color-fg-muted">/</span>
     <strong itemprop="name" class="mr-2 flex-self-stretch">
-      <a data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" href="/zloirock/core-js">core-js</a>
+      <a data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" href="/facebook/react">react</a>
     </strong>
 
     <span></span><span class="Label Label--secondary v-align-middle mr-1">Public</span>
@@ -994,50 +1032,31 @@ Added es. namespace modules, /..." />
         <div id="repository-details-container" class="flex-shrink-0" data-turbo-replace style="max-width: 70%;">
             <ul class="pagehead-actions flex-shrink-0 d-none d-md-inline" style="padding: 2px 0;">
     
-        <li>
-          <include-fragment src="/zloirock/core-js/sponsor_button" data-nonce="v2:1c27e6fe-67b3-2513-dc50-89298d43cd4f" data-view-component="true">
-  
-  <div data-show-on-forbidden-error hidden>
-    <div class="Box">
-  <div class="blankslate-container">
-    <div data-view-component="true" class="blankslate blankslate-spacious color-bg-default rounded-2">
-      
-
-      <h3 data-view-component="true" class="blankslate-heading">        Uh oh!
-</h3>
-      <p data-view-component="true" class="blankslate-description">        <p class="color-fg-muted my-2 mb-2 ws-normal">There was an error while loading. <a class="Link--inTextBlock" data-turbo="false" href="" aria-label="Please reload this page">Please reload this page</a>.</p>
-</p>
-
-</div>  </div>
-</div>  </div>
-</include-fragment>
-        </li>
-
       
 
   <li>
-            <a href="/login?return_to=%2Fzloirock%2Fcore-js" rel="nofollow" id="repository-details-watch-button" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;notification subscription menu watch&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/zloirock/core-js/releases/tag/v3.31.0&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="7b5c38b7bb9e9af1b71e0d7c9f14c56b35f731944179a1d2315cdca500d8efe6" aria-label="You must be signed in to change notification settings" data-view-component="true" class="btn-sm btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-bell mr-2 tmp-mr-2">
+            <a href="/login?return_to=%2Ffacebook%2Freact" rel="nofollow" id="repository-details-watch-button" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;notification subscription menu watch&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/facebook/react/commits/17e2a15bea2df9232411a35c6d967fa18f6e8b25/CODE_OF_CONDUCT.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="28127cd506d100dac0d9b1d9deaf85c14c9f6f418043d49ab6e847e4b878c45b" aria-label="You must be signed in to change notification settings" data-view-component="true" class="btn-sm btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-bell mr-2 tmp-mr-2">
     <path d="M8 16a2 2 0 0 0 1.985-1.75c.017-.137-.097-.25-.235-.25h-3.5c-.138 0-.252.113-.235.25A2 2 0 0 0 8 16ZM3 5a5 5 0 0 1 10 0v2.947c0 .05.015.098.042.139l1.703 2.555A1.519 1.519 0 0 1 13.482 13H2.518a1.516 1.516 0 0 1-1.263-2.36l1.703-2.554A.255.255 0 0 0 3 7.947Zm5-3.5A3.5 3.5 0 0 0 4.5 5v2.947c0 .346-.102.683-.294.97l-1.703 2.556a.017.017 0 0 0-.003.01l.001.006c0 .002.002.004.004.006l.006.004.007.001h10.964l.007-.001.006-.004.004-.006.001-.007a.017.017 0 0 0-.003-.01l-1.703-2.554a1.745 1.745 0 0 1-.294-.97V5A3.5 3.5 0 0 0 8 1.5Z"></path>
 </svg>Notifications
-</a>    <tool-tip id="tooltip-96759207-a6f5-4895-926f-8a01ba2cb605" for="repository-details-watch-button" popover="manual" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">You must be signed in to change notification settings</tool-tip>
+</a>    <tool-tip id="tooltip-7fb1f176-881f-4ecb-8a2d-848cd71d23c4" for="repository-details-watch-button" popover="manual" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">You must be signed in to change notification settings</tool-tip>
 
   </li>
 
   <li>
-          <a icon="repo-forked" id="fork-button" href="/login?return_to=%2Fzloirock%2Fcore-js" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;repo details fork button&quot;,&quot;repository_id&quot;:11481338,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/zloirock/core-js/releases/tag/v3.31.0&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="4809d50f6523d75958989b8875771fde6c0483c2e61d8c08bd3400c3247accb9" data-view-component="true" class="btn-sm btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2 tmp-mr-2">
+          <a icon="repo-forked" id="fork-button" href="/login?return_to=%2Ffacebook%2Freact" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;repo details fork button&quot;,&quot;repository_id&quot;:10270250,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/facebook/react/commits/17e2a15bea2df9232411a35c6d967fa18f6e8b25/CODE_OF_CONDUCT.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="f9f5487597c58005f29fa57e57127b92e3677b4bc005c8d4a46add0a948795df" data-view-component="true" class="btn-sm btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2 tmp-mr-2">
     <path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z"></path>
 </svg>Fork
-    <span id="repo-network-counter" data-pjax-replace="true" data-turbo-replace="true" title="1,697" data-view-component="true" class="Counter">1.7k</span>
+    <span id="repo-network-counter" data-pjax-replace="true" data-turbo-replace="true" title="50,967" data-view-component="true" class="Counter">51k</span>
 </a>
   </li>
 
   <li>
         <div data-view-component="true" class="BtnGroup d-flex">
-        <a href="/login?return_to=%2Fzloirock%2Fcore-js" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:11481338,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/zloirock/core-js/releases/tag/v3.31.0&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="dfc2c6c77311c93f091a9e7d2c2bd37cd93cd5f59f2fe842adf0cbddeb6b2617" aria-label="You must be signed in to star a repository" data-view-component="true" class="tooltipped tooltipped-sw btn-sm btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star v-align-text-bottom d-inline-block mr-2 tmp-mr-2">
+        <a href="/login?return_to=%2Ffacebook%2Freact" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:10270250,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/facebook/react/commits/17e2a15bea2df9232411a35c6d967fa18f6e8b25/CODE_OF_CONDUCT.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="8fafde8febd7e8348b3af601f96f7f2b57ca55edbb4c1365f815261b5d16348a" aria-label="You must be signed in to star a repository" data-view-component="true" class="tooltipped tooltipped-sw btn-sm btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star v-align-text-bottom d-inline-block mr-2 tmp-mr-2">
     <path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
 </svg><span data-view-component="true" class="d-inline">
           Star
-</span>          <span id="repo-stars-counter-star" aria-label="25485 users starred this repository" data-singular-suffix="user starred this repository" data-plural-suffix="users starred this repository" data-turbo-replace="true" title="25,485" data-view-component="true" class="Counter js-social-count">25.5k</span>
+</span>          <span id="repo-stars-counter-star" aria-label="244578 users starred this repository" data-singular-suffix="user starred this repository" data-plural-suffix="users starred this repository" data-turbo-replace="true" title="244,578" data-view-component="true" class="Counter js-social-count">245k</span>
 </a></div>
   </li>
 
@@ -1054,7 +1073,7 @@ Added es. namespace modules, /..." />
 
   <ul data-view-component="true" class="UnderlineNav-body list-style-none">
       <li data-view-component="true" class="d-inline-flex">
-  <a id="code-tab" href="/zloirock/core-js/tree/v3.31.0" data-tab-item="i0code-tab" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages repo_deployments repo_attestations /zloirock/core-js/tree/v3.31.0" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g c" data-command-id="repositories:go-to-code" data-react-nav="code-view" data-react-nav-anchor="code-view-repo-link" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Code&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" aria-current="page" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item selected">
+  <a id="code-tab" href="/facebook/react" data-tab-item="i0code-tab" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages repo_deployments repo_attestations /facebook/react" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g c" data-command-id="repositories:go-to-code" data-react-nav="code-view" data-react-nav-anchor="code-view-repo-link" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Code&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code UnderlineNav-octicon d-none d-sm-inline">
     <path d="m11.28 3.22 4.25 4.25a.75.75 0 0 1 0 1.06l-4.25 4.25a.749.749 0 0 1-1.275-.326.749.749 0 0 1 .215-.734L13.94 8l-3.72-3.72a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215Zm-6.56 0a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042L2.06 8l3.72 3.72a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L.47 8.53a.75.75 0 0 1 0-1.06Z"></path>
@@ -1066,43 +1085,31 @@ Added es. namespace modules, /..." />
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="issues-tab" href="/zloirock/core-js/issues" data-tab-item="i1issues-tab" data-selected-links="repo_issues repo_labels repo_milestones /zloirock/core-js/issues" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g i" data-command-id="repositories:go-to-issues" data-react-nav="issues-react" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Issues&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="issues-tab" href="/facebook/react/issues" data-tab-item="i1issues-tab" data-selected-links="repo_issues repo_labels repo_milestones /facebook/react/issues" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g i" data-command-id="repositories:go-to-issues" data-react-nav="issues-react" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Issues&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-issue-opened UnderlineNav-octicon d-none d-sm-inline">
     <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path><path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Z"></path>
 </svg>
         <span data-content="Issues">Issues</span>
-          <span id="issues-repo-tab-count" data-pjax-replace="" data-turbo-replace="" title="31" data-view-component="true" class="Counter">31</span>
+          <span id="issues-repo-tab-count" data-pjax-replace="" data-turbo-replace="" title="820" data-view-component="true" class="Counter">820</span>
 
 
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="pull-requests-tab" href="/zloirock/core-js/pulls" data-tab-item="i2pull-requests-tab" data-selected-links="repo_pulls checks /zloirock/core-js/pulls" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g p" data-command-id="repositories:go-to-pull-requests" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Pull requests&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="pull-requests-tab" href="/facebook/react/pulls" data-tab-item="i2pull-requests-tab" data-selected-links="repo_pulls checks /facebook/react/pulls" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g p" data-command-id="repositories:go-to-pull-requests" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Pull requests&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-git-pull-request UnderlineNav-octicon d-none d-sm-inline">
     <path d="M1.5 3.25a2.25 2.25 0 1 1 3 2.122v5.256a2.251 2.251 0 1 1-1.5 0V5.372A2.25 2.25 0 0 1 1.5 3.25Zm5.677-.177L9.573.677A.25.25 0 0 1 10 .854V2.5h1A2.5 2.5 0 0 1 13.5 5v5.628a2.251 2.251 0 1 1-1.5 0V5a1 1 0 0 0-1-1h-1v1.646a.25.25 0 0 1-.427.177L7.177 3.427a.25.25 0 0 1 0-.354ZM3.75 2.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm0 9.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm8.25.75a.75.75 0 1 0 1.5 0 .75.75 0 0 0-1.5 0Z"></path>
 </svg>
         <span data-content="Pull requests">Pull requests</span>
-          <span id="pull-requests-repo-tab-count" data-pjax-replace="" data-turbo-replace="" title="12" data-view-component="true" class="Counter">12</span>
+          <span id="pull-requests-repo-tab-count" data-pjax-replace="" data-turbo-replace="" title="416" data-view-component="true" class="Counter">416</span>
 
 
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="discussions-tab" href="/zloirock/core-js/discussions" data-tab-item="i3discussions-tab" data-selected-links="repo_discussions /zloirock/core-js/discussions" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g g" data-command-id="repositories:go-to-discussions" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Discussions&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
-    
-              <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-comment-discussion UnderlineNav-octicon d-none d-sm-inline">
-    <path d="M1.75 1h8.5c.966 0 1.75.784 1.75 1.75v5.5A1.75 1.75 0 0 1 10.25 10H7.061l-2.574 2.573A1.458 1.458 0 0 1 2 11.543V10h-.25A1.75 1.75 0 0 1 0 8.25v-5.5C0 1.784.784 1 1.75 1ZM1.5 2.75v5.5c0 .138.112.25.25.25h1a.75.75 0 0 1 .75.75v2.19l2.72-2.72a.749.749 0 0 1 .53-.22h3.5a.25.25 0 0 0 .25-.25v-5.5a.25.25 0 0 0-.25-.25h-8.5a.25.25 0 0 0-.25.25Zm13 2a.25.25 0 0 0-.25-.25h-.5a.75.75 0 0 1 0-1.5h.5c.966 0 1.75.784 1.75 1.75v5.5A1.75 1.75 0 0 1 14.25 12H14v1.543a1.458 1.458 0 0 1-2.487 1.03L9.22 12.28a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215l2.22 2.22v-2.19a.75.75 0 0 1 .75-.75h1a.25.25 0 0 0 .25-.25Z"></path>
-</svg>
-        <span data-content="Discussions">Discussions</span>
-          <span id="discussions-repo-tab-count" data-pjax-replace="" data-turbo-replace="" title="Not available" data-view-component="true" class="Counter"></span>
-
-
-    
-</a></li>
-      <li data-view-component="true" class="d-inline-flex">
-  <a id="actions-tab" href="/zloirock/core-js/actions" data-tab-item="i4actions-tab" data-selected-links="repo_actions /zloirock/core-js/actions" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g a" data-command-id="repositories:go-to-actions" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Actions&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="actions-tab" href="/facebook/react/actions" data-tab-item="i3actions-tab" data-selected-links="repo_actions /facebook/react/actions" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g a" data-command-id="repositories:go-to-actions" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Actions&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-play UnderlineNav-octicon d-none d-sm-inline">
     <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm4.879-2.773 4.264 2.559a.25.25 0 0 1 0 .428l-4.264 2.559A.25.25 0 0 1 6 10.559V5.442a.25.25 0 0 1 .379-.215Z"></path>
@@ -1114,19 +1121,31 @@ Added es. namespace modules, /..." />
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="security-and-quality-tab" href="/zloirock/core-js/security" data-tab-item="i5security-and-quality-tab" data-selected-links="security overview alerts policy token_scanning code_scanning /zloirock/core-js/security" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g s" data-command-id="repositories:go-to-security" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Security and quality&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="models-tab" href="/facebook/react/models" data-tab-item="i4models-tab" data-selected-links="repo_models repo_models_prompts repo_models_playground /facebook/react/models" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g m" data-command-id="repositories:go-to-models" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Models&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
-              <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-shield UnderlineNav-octicon d-none d-sm-inline">
-    <path d="M7.467.133a1.748 1.748 0 0 1 1.066 0l5.25 1.68A1.75 1.75 0 0 1 15 3.48V7c0 1.566-.32 3.182-1.303 4.682-.983 1.498-2.585 2.813-5.032 3.855a1.697 1.697 0 0 1-1.33 0c-2.447-1.042-4.049-2.357-5.032-3.855C1.32 10.182 1 8.566 1 7V3.48a1.75 1.75 0 0 1 1.217-1.667Zm.61 1.429a.25.25 0 0 0-.153 0l-5.25 1.68a.25.25 0 0 0-.174.238V7c0 1.358.275 2.666 1.057 3.86.784 1.194 2.121 2.34 4.366 3.297a.196.196 0 0 0 .154 0c2.245-.956 3.582-2.104 4.366-3.298C13.225 9.666 13.5 8.36 13.5 7V3.48a.251.251 0 0 0-.174-.237l-5.25-1.68ZM8.75 4.75v3a.75.75 0 0 1-1.5 0v-3a.75.75 0 0 1 1.5 0ZM9 10.5a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path>
+              <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-ai-model UnderlineNav-octicon d-none d-sm-inline">
+    <path d="M10.628 7.25a2.25 2.25 0 1 1 0 1.5H8.622a2.25 2.25 0 0 1-2.513 1.466L5.03 12.124a2.25 2.25 0 1 1-1.262-.814l1.035-1.832A2.245 2.245 0 0 1 4.25 8c0-.566.209-1.082.553-1.478L3.768 4.69a2.25 2.25 0 1 1 1.262-.814l1.079 1.908A2.25 2.25 0 0 1 8.622 7.25ZM2.5 2.5a.75.75 0 1 0 1.5 0 .75.75 0 0 0-1.5 0Zm4 4.75a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm6.25 0a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm-9.5 5.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Z"></path>
 </svg>
-        <span data-content="Security and quality">Security and quality</span>
-          <span id="security-and-quality-repo-tab-count" data-pjax-replace="" data-turbo-replace="" title="0" hidden="hidden" data-view-component="true" class="Counter">0</span>
+        <span data-content="Models">Models</span>
+          <span id="models-repo-tab-count" data-pjax-replace="" data-turbo-replace="" title="Not available" data-view-component="true" class="Counter"></span>
 
 
     
 </a></li>
       <li data-view-component="true" class="d-inline-flex">
-  <a id="insights-tab" href="/zloirock/core-js/pulse" data-tab-item="i6insights-tab" data-selected-links="repo_graphs repo_contributors dependency_graph dependabot_updates pulse people community /zloirock/core-js/pulse" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-command-id="repositories:go-to-insights" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Insights&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+  <a id="security-and-quality-tab" href="/facebook/react/security" data-tab-item="i5security-and-quality-tab" data-selected-links="security overview alerts policy token_scanning code_scanning /facebook/react/security" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g s" data-command-id="repositories:go-to-security" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Security and quality&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
+    
+              <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-shield UnderlineNav-octicon d-none d-sm-inline">
+    <path d="M7.467.133a1.748 1.748 0 0 1 1.066 0l5.25 1.68A1.75 1.75 0 0 1 15 3.48V7c0 1.566-.32 3.182-1.303 4.682-.983 1.498-2.585 2.813-5.032 3.855a1.697 1.697 0 0 1-1.33 0c-2.447-1.042-4.049-2.357-5.032-3.855C1.32 10.182 1 8.566 1 7V3.48a1.75 1.75 0 0 1 1.217-1.667Zm.61 1.429a.25.25 0 0 0-.153 0l-5.25 1.68a.25.25 0 0 0-.174.238V7c0 1.358.275 2.666 1.057 3.86.784 1.194 2.121 2.34 4.366 3.297a.196.196 0 0 0 .154 0c2.245-.956 3.582-2.104 4.366-3.298C13.225 9.666 13.5 8.36 13.5 7V3.48a.251.251 0 0 0-.174-.237l-5.25-1.68ZM8.75 4.75v3a.75.75 0 0 1-1.5 0v-3a.75.75 0 0 1 1.5 0ZM9 10.5a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path>
+</svg>
+        <span data-content="Security and quality">Security and quality</span>
+          <span id="security-and-quality-repo-tab-count" data-pjax-replace="" data-turbo-replace="" title="6" data-view-component="true" class="Counter">6</span>
+
+
+    
+</a></li>
+      <li data-view-component="true" class="d-inline-flex">
+  <a id="insights-tab" href="/facebook/react/pulse" data-tab-item="i6insights-tab" data-selected-links="repo_graphs repo_contributors dependency_graph dependabot_updates pulse people community /facebook/react/pulse" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-command-id="repositories:go-to-insights" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Insights&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-graph UnderlineNav-octicon d-none d-sm-inline">
     <path d="M1.5 1.75V13.5h13.75a.75.75 0 0 1 0 1.5H.75a.75.75 0 0 1-.75-.75V1.75a.75.75 0 0 1 1.5 0Zm14.28 2.53-5.25 5.25a.75.75 0 0 1-1.06 0L7 7.06 4.28 9.78a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042l3.25-3.25a.75.75 0 0 1 1.06 0L10 7.94l4.72-4.72a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042Z"></path>
@@ -1140,22 +1159,22 @@ Added es. namespace modules, /..." />
 </ul>
     <div style="visibility:hidden;" data-view-component="true" class="UnderlineNav-actions js-responsive-underlinenav-overflow position-absolute pr-3 tmp-pr-3 pr-md-4 tmp-pr-md-4 pr-lg-5 tmp-pr-lg-5 right-0">      <action-menu data-select-variant="none" data-view-component="true">
   <focus-group direction="vertical" mnemonics retain>
-    <button id="action-menu-e4634131-7172-4c5d-830f-de82e87dde2c-button" popovertarget="action-menu-e4634131-7172-4c5d-830f-de82e87dde2c-overlay" aria-controls="action-menu-e4634131-7172-4c5d-830f-de82e87dde2c-list" aria-haspopup="true" aria-labelledby="tooltip-8f171df6-cd52-4dd0-a3ea-a8489aedcfa2" type="button" data-view-component="true" class="Button Button--iconOnly Button--secondary Button--medium UnderlineNav-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal Button-visual">
+    <button id="action-menu-8f022209-86db-41f8-922f-fd2d21abcbfe-button" popovertarget="action-menu-8f022209-86db-41f8-922f-fd2d21abcbfe-overlay" aria-controls="action-menu-8f022209-86db-41f8-922f-fd2d21abcbfe-list" aria-haspopup="true" aria-labelledby="tooltip-99adc23f-020e-4a42-aaae-66c1414a7df6" type="button" data-view-component="true" class="Button Button--iconOnly Button--secondary Button--medium UnderlineNav-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal Button-visual">
     <path d="M8 9a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3ZM1.5 9a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Zm13 0a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path>
 </svg>
-</button><tool-tip id="tooltip-8f171df6-cd52-4dd0-a3ea-a8489aedcfa2" for="action-menu-e4634131-7172-4c5d-830f-de82e87dde2c-button" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Additional navigation options</tool-tip>
+</button><tool-tip id="tooltip-99adc23f-020e-4a42-aaae-66c1414a7df6" for="action-menu-8f022209-86db-41f8-922f-fd2d21abcbfe-button" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Additional navigation options</tool-tip>
 
 
-<anchored-position data-target="action-menu.overlay" id="action-menu-e4634131-7172-4c5d-830f-de82e87dde2c-overlay" anchor="action-menu-e4634131-7172-4c5d-830f-de82e87dde2c-button" align="start" side="outside-bottom" anchor-offset="normal" popover="auto" data-view-component="true">
+<anchored-position data-target="action-menu.overlay" id="action-menu-8f022209-86db-41f8-922f-fd2d21abcbfe-overlay" anchor="action-menu-8f022209-86db-41f8-922f-fd2d21abcbfe-button" align="start" side="outside-bottom" anchor-offset="normal" popover="auto" data-view-component="true">
   <div data-view-component="true" class="Overlay Overlay--size-auto">
     
       <div data-view-component="true" class="Overlay-body Overlay-body--paddingNone">          <action-list>
   <div data-view-component="true">
-    <ul aria-labelledby="action-menu-e4634131-7172-4c5d-830f-de82e87dde2c-button" id="action-menu-e4634131-7172-4c5d-830f-de82e87dde2c-list" role="menu" data-view-component="true" class="ActionListWrap--inset ActionListWrap">
+    <ul aria-labelledby="action-menu-8f022209-86db-41f8-922f-fd2d21abcbfe-button" id="action-menu-8f022209-86db-41f8-922f-fd2d21abcbfe-list" role="menu" data-view-component="true" class="ActionListWrap--inset ActionListWrap">
         <li hidden="hidden" data-menu-item="i0code-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
     
-    <a tabindex="-1" id="item-6572d835-0052-4448-b7a9-8f519dc6578b" href="/zloirock/core-js/tree/v3.31.0" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-9be691f5-8d88-4f6a-9337-95838a13ba3b" href="/facebook/react" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
     <path d="m11.28 3.22 4.25 4.25a.75.75 0 0 1 0 1.06l-4.25 4.25a.749.749 0 0 1-1.275-.326.749.749 0 0 1 .215-.734L13.94 8l-3.72-3.72a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215Zm-6.56 0a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042L2.06 8l3.72 3.72a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L.47 8.53a.75.75 0 0 1 0-1.06Z"></path>
@@ -1171,7 +1190,7 @@ Added es. namespace modules, /..." />
         <li hidden="hidden" data-menu-item="i1issues-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
     
-    <a tabindex="-1" id="item-af094e9a-c464-469c-81f7-277224e15ca8" href="/zloirock/core-js/issues" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-1e757be7-c51f-490a-ad6a-26ce94c60e17" href="/facebook/react/issues" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-issue-opened">
     <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path><path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Z"></path>
@@ -1187,7 +1206,7 @@ Added es. namespace modules, /..." />
         <li hidden="hidden" data-menu-item="i2pull-requests-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
     
-    <a tabindex="-1" id="item-5722820d-f55c-4052-b69d-53bcf2b655ab" href="/zloirock/core-js/pulls" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-fa95ed39-4db1-4ef8-92c3-617cbfe685d2" href="/facebook/react/pulls" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-git-pull-request">
     <path d="M1.5 3.25a2.25 2.25 0 1 1 3 2.122v5.256a2.251 2.251 0 1 1-1.5 0V5.372A2.25 2.25 0 0 1 1.5 3.25Zm5.677-.177L9.573.677A.25.25 0 0 1 10 .854V2.5h1A2.5 2.5 0 0 1 13.5 5v5.628a2.251 2.251 0 1 1-1.5 0V5a1 1 0 0 0-1-1h-1v1.646a.25.25 0 0 1-.427.177L7.177 3.427a.25.25 0 0 1 0-.354ZM3.75 2.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm0 9.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm8.25.75a.75.75 0 1 0 1.5 0 .75.75 0 0 0-1.5 0Z"></path>
@@ -1200,26 +1219,10 @@ Added es. namespace modules, /..." />
 </a>
   
 </li>
-        <li hidden="hidden" data-menu-item="i3discussions-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
+        <li hidden="hidden" data-menu-item="i3actions-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
     
-    <a tabindex="-1" id="item-381fada4-5891-4c33-b6be-593d3f4b5750" href="/zloirock/core-js/discussions" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
-        <span class="ActionListItem-visual ActionListItem-visual--leading">
-          <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-comment-discussion">
-    <path d="M1.75 1h8.5c.966 0 1.75.784 1.75 1.75v5.5A1.75 1.75 0 0 1 10.25 10H7.061l-2.574 2.573A1.458 1.458 0 0 1 2 11.543V10h-.25A1.75 1.75 0 0 1 0 8.25v-5.5C0 1.784.784 1 1.75 1ZM1.5 2.75v5.5c0 .138.112.25.25.25h1a.75.75 0 0 1 .75.75v2.19l2.72-2.72a.749.749 0 0 1 .53-.22h3.5a.25.25 0 0 0 .25-.25v-5.5a.25.25 0 0 0-.25-.25h-8.5a.25.25 0 0 0-.25.25Zm13 2a.25.25 0 0 0-.25-.25h-.5a.75.75 0 0 1 0-1.5h.5c.966 0 1.75.784 1.75 1.75v5.5A1.75 1.75 0 0 1 14.25 12H14v1.543a1.458 1.458 0 0 1-2.487 1.03L9.22 12.28a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215l2.22 2.22v-2.19a.75.75 0 0 1 .75-.75h1a.25.25 0 0 0 .25-.25Z"></path>
-</svg>
-        </span>
-      
-        <span data-view-component="true" class="ActionListItem-label">
-          Discussions
-</span>      
-</a>
-  
-</li>
-        <li hidden="hidden" data-menu-item="i4actions-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
-    
-    
-    <a tabindex="-1" id="item-be7025fe-0ef1-4837-ba20-2fe320ea3224" href="/zloirock/core-js/actions" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-f7c46402-f47f-4c4b-91b0-2ae27272eee3" href="/facebook/react/actions" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-play">
     <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm4.879-2.773 4.264 2.559a.25.25 0 0 1 0 .428l-4.264 2.559A.25.25 0 0 1 6 10.559V5.442a.25.25 0 0 1 .379-.215Z"></path>
@@ -1232,10 +1235,26 @@ Added es. namespace modules, /..." />
 </a>
   
 </li>
+        <li hidden="hidden" data-menu-item="i4models-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
+    
+    
+    <a tabindex="-1" id="item-7d864418-3204-4190-8850-744b685cb3be" href="/facebook/react/models" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+        <span class="ActionListItem-visual ActionListItem-visual--leading">
+          <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-ai-model">
+    <path d="M10.628 7.25a2.25 2.25 0 1 1 0 1.5H8.622a2.25 2.25 0 0 1-2.513 1.466L5.03 12.124a2.25 2.25 0 1 1-1.262-.814l1.035-1.832A2.245 2.245 0 0 1 4.25 8c0-.566.209-1.082.553-1.478L3.768 4.69a2.25 2.25 0 1 1 1.262-.814l1.079 1.908A2.25 2.25 0 0 1 8.622 7.25ZM2.5 2.5a.75.75 0 1 0 1.5 0 .75.75 0 0 0-1.5 0Zm4 4.75a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm6.25 0a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm-9.5 5.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Z"></path>
+</svg>
+        </span>
+      
+        <span data-view-component="true" class="ActionListItem-label">
+          Models
+</span>      
+</a>
+  
+</li>
         <li hidden="hidden" data-menu-item="i5security-and-quality-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
     
-    <a tabindex="-1" id="item-1200c5d0-e576-409a-bef4-6032f028d892" href="/zloirock/core-js/security" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-c96e3650-503f-473f-8c60-0103d09668a1" href="/facebook/react/security" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-shield">
     <path d="M7.467.133a1.748 1.748 0 0 1 1.066 0l5.25 1.68A1.75 1.75 0 0 1 15 3.48V7c0 1.566-.32 3.182-1.303 4.682-.983 1.498-2.585 2.813-5.032 3.855a1.697 1.697 0 0 1-1.33 0c-2.447-1.042-4.049-2.357-5.032-3.855C1.32 10.182 1 8.566 1 7V3.48a1.75 1.75 0 0 1 1.217-1.667Zm.61 1.429a.25.25 0 0 0-.153 0l-5.25 1.68a.25.25 0 0 0-.174.238V7c0 1.358.275 2.666 1.057 3.86.784 1.194 2.121 2.34 4.366 3.297a.196.196 0 0 0 .154 0c2.245-.956 3.582-2.104 4.366-3.298C13.225 9.666 13.5 8.36 13.5 7V3.48a.251.251 0 0 0-.174-.237l-5.25-1.68ZM8.75 4.75v3a.75.75 0 0 1-1.5 0v-3a.75.75 0 0 1 1.5 0ZM9 10.5a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path>
@@ -1251,7 +1270,7 @@ Added es. namespace modules, /..." />
         <li hidden="hidden" data-menu-item="i6insights-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
     
-    <a tabindex="-1" id="item-cf3159e7-5fa7-41a8-a22c-daab82027aa5" href="/zloirock/core-js/pulse" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-80d0a823-f51e-4ad5-a9b1-b0a20190cce3" href="/facebook/react/pulse" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-graph">
     <path d="M1.5 1.75V13.5h13.75a.75.75 0 0 1 0 1.5H.75a.75.75 0 0 1-.75-.75V1.75a.75.75 0 0 1 1.5 0Zm14.28 2.53-5.25 5.25a.75.75 0 0 1-1.06 0L7 7.06 4.28 9.78a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042l3.25-3.25a.75.75 0 0 1 1.06 0L10 7.94l4.72-4.72a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042Z"></path>
@@ -1287,382 +1306,37 @@ Added es. namespace modules, /..." />
 
     
       
-<div class="clearfix container-xl tmp-px-3 tmp-px-md-4 tmp-px-lg-5 tmp-mt-4">
-  <nav data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" aria-label="Breadcrumb" data-view-component="true" class="tmp-mb-5">
-  <ol>
-      <li data-view-component="true" class="breadcrumb-item "><a target="_self" href="/zloirock/core-js/releases" data-view-component="true" class="Link">Releases</a></li>
-      <li data-view-component="true" class="breadcrumb-item  breadcrumb-item-selected"><a target="_self" aria-current="page" href="/zloirock/core-js/releases/tag/v3.31.0" data-view-component="true" class="Link">v3.31.0</a></li>
-  </ol>
-</nav>
-<div class=""   data-hpc>
-  <div data-view-component="true" class="Box">
-  
-  <div data-view-component="true" class="Box-body">      <div class="d-flex flex-md-row flex-column">
-  <div class="d-flex flex-row flex-1 tmp-mb-3 wb-break-word">
-    <div class="flex-1" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame">
-        <h1 data-view-component="true" class="tmp-mr-3 d-inline">3.31.0 - 2023.06.12</h1>
-      <span>
-        
-          <div class="ml-2 d-none d-md-inline">
-              
-
-          </div>
-      </span>
-    </div>
-
-    <div class="tmp-mt-3 ml-2 d-md-none">
-      
-    </div>
-        <div class="ml-2 tmp-mt-3 d-md-none">
-          
-
-        </div>
-  </div>
-  <div class="d-flex tmp-mb-3" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame">
-                    <select-panel id="select-panel-fdc3c904-1c62-4877-988a-03fd1e87f1d6" anchor-align="start" anchor-side="outside-bottom" data-select-variant="single" data-fetch-strategy="eventually_local" data-open-on-load="false" data-view-component="true">
-  <dialog-helper>
-    <button id="select-panel-fdc3c904-1c62-4877-988a-03fd1e87f1d6-button" aria-controls="select-panel-fdc3c904-1c62-4877-988a-03fd1e87f1d6-dialog" aria-haspopup="dialog" aria-expanded="false" type="button" data-view-component="true" class="Button--secondary Button--small Button">  <span class="Button-content">
-    <span class="Button-label">Compare</span>
-      <span class="Button-visual Button-trailingVisual">
-          <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-triangle-down">
-    <path d="m4.427 7.427 3.396 3.396a.25.25 0 0 0 .354 0l3.396-3.396A.25.25 0 0 0 11.396 7H4.604a.25.25 0 0 0-.177.427Z"></path>
-</svg>
-      </span>
-  </span>
-</button>
-
-    <dialog id="select-panel-fdc3c904-1c62-4877-988a-03fd1e87f1d6-dialog" aria-labelledby="select-panel-fdc3c904-1c62-4877-988a-03fd1e87f1d6-dialog-title" data-target="select-panel.dialog" style="position: absolute;" data-view-component="true" class="Overlay Overlay-whenNarrow Overlay--size-small-portrait">
-      <div data-view-component="true" class="Overlay-header Overlay-header--divided">
-  <div class="Overlay-headerContentWrap">
-    <div class="Overlay-titleWrap">
-      <h1 class="Overlay-title " id="select-panel-fdc3c904-1c62-4877-988a-03fd1e87f1d6-dialog-title">
-        Choose a tag to compare
-      </h1>
-        
-    </div>
-    <div class="Overlay-actionWrap">
-      <button data-close-dialog-id="select-panel-fdc3c904-1c62-4877-988a-03fd1e87f1d6-dialog" aria-label="Close" aria-label="Close" type="button" data-view-component="true" class="close-button Overlay-closeButton"><svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
-    <path d="M3.72 3.72a.75.75 0 0 1 1.06 0L8 6.94l3.22-3.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L9.06 8l3.22 3.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L8 9.06l-3.22 3.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L6.94 8 3.72 4.78a.75.75 0 0 1 0-1.06Z"></path>
-</svg></button>
-    </div>
-  </div>
-  <div data-view-component="true" class="Overlay-headerFilter">            <div data-target="select-panel.bannerErrorElement" hidden>
-              <x-banner data-dismiss-scheme="none" data-view-component="true">
-  <div data-view-component="true" class="Banner flash Banner--error flash-error mb-2 tmp-mb-2">
-      <div class="Banner-visual">
-        <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-stop">
-    <path d="M4.47.22A.749.749 0 0 1 5 0h6c.199 0 .389.079.53.22l4.25 4.25c.141.14.22.331.22.53v6a.749.749 0 0 1-.22.53l-4.25 4.25A.749.749 0 0 1 11 16H5a.749.749 0 0 1-.53-.22L.22 11.53A.749.749 0 0 1 0 11V5c0-.199.079-.389.22-.53Zm.84 1.28L1.5 5.31v5.38l3.81 3.81h5.38l3.81-3.81V5.31L10.69 1.5ZM8 4a.75.75 0 0 1 .75.75v3.5a.75.75 0 0 1-1.5 0v-3.5A.75.75 0 0 1 8 4Zm0 8a1 1 0 1 1 0-2 1 1 0 0 1 0 2Z"></path>
-</svg>
-      </div>
-    <div data-view-component="true" class="Banner-message">
-      <p class="Banner-title" data-target="x-banner.titleText">
-                  <h2 class="f6 text-normal">Sorry, something went wrong.</h2>
-</p>
-</div></div></x-banner>            </div>
-            <remote-input aria-owns="select-panel-fdc3c904-1c62-4877-988a-03fd1e87f1d6-body" data-target="select-panel.remoteInput" data-view-component="true">
-                <primer-text-field class="FormControl width-full FormControl--fullWidth">
-      <label for="select-panel-fdc3c904-1c62-4877-988a-03fd1e87f1d6-filter" id="label-94498fb5-bb50-42bc-baac-204522399c91" class="sr-only FormControl-label position-absolute sr-only FormControl-label">
-        Filter
-</label>    
-  <div class="FormControl-input-wrap FormControl-input-wrap--leadingVisual">
-      <span class="FormControl-input-leadingVisualWrap">
-        <svg data-target="primer-text-field.leadingVisual" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-search FormControl-input-leadingVisual">
-    <path d="M10.68 11.74a6 6 0 0 1-7.922-8.982 6 6 0 0 1 8.982 7.922l3.04 3.04a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215ZM11.5 7a4.499 4.499 0 1 0-8.997 0A4.499 4.499 0 0 0 11.5 7Z"></path>
-</svg>
-          <span hidden="hidden" data-target="primer-text-field.leadingSpinner" data-view-component="true">
-  <svg style="box-sizing: content-box; color: var(--color-icon-primary);" width="16" height="16" viewBox="0 0 16 16" fill="none" aria-hidden="true" data-view-component="true" class="anim-rotate">
-    <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-opacity="0.25" stroke-width="2" vector-effect="non-scaling-stroke" fill="none"></circle>
-    <path d="M15 8a7.002 7.002 0 00-7-7" stroke="currentColor" stroke-width="2" stroke-linecap="round" vector-effect="non-scaling-stroke"></path>
-</svg>    <span class="sr-only">Loading</span>
-</span>
-      </span>
     
-      <input id="select-panel-fdc3c904-1c62-4877-988a-03fd1e87f1d6-filter" type="search" autofocus="autofocus" data-target="primer-text-field.inputElement select-panel.filterInputTextField" aria-describedby="validation-94498fb5-bb50-42bc-baac-204522399c91" class="form-control FormControl-input FormControl-medium" name="filter" />
-</div>
-      <div class="FormControl-inlineValidation" id="validation-94498fb5-bb50-42bc-baac-204522399c91" hidden="hidden">
-  <span class="FormControl-inlineValidation--visual" data-target="primer-text-field.validationSuccessIcon" hidden><svg aria-hidden="true" height="12" viewBox="0 0 12 12" version="1.1" width="12" data-view-component="true" class="octicon octicon-check-circle-fill">
-    <path d="M6 0a6 6 0 1 1 0 12A6 6 0 0 1 6 0Zm-.705 8.737L9.63 4.403 8.392 3.166 5.295 6.263l-1.7-1.702L2.356 5.8l2.938 2.938Z"></path>
-</svg></span>
-  <span class=" FormControl-inlineValidation--visual" data-target="primer-text-field.validationErrorIcon"><svg aria-hidden="true" height="12" viewBox="0 0 12 12" version="1.1" width="12" data-view-component="true" class="octicon octicon-alert-fill">
-    <path d="M4.855.708c.5-.896 1.79-.896 2.29 0l4.675 8.351a1.312 1.312 0 0 1-1.146 1.954H1.33A1.313 1.313 0 0 1 .183 9.058ZM7 7V3H5v4Zm-1 3a1 1 0 1 0 0-2 1 1 0 0 0 0 2Z"></path>
-</svg></span>
-  <span></span>
-</div>
-    
-</primer-text-field>
-</remote-input></div>
-</div>      <div data-view-component="true" class="Overlay-body p-0 tmp-p-0">
-        <focus-group direction="vertical" mnemonics retain>
-          <live-region data-target="select-panel.liveRegion"></live-region>
-          <div data-fetch-strategy="eventually_local" data-target="select-panel.list" data-view-component="true">
-            <div id="select-panel-fdc3c904-1c62-4877-988a-03fd1e87f1d6-body">
-                <include-fragment data-target="select-panel.includeFragment" loading="lazy" src="/zloirock/core-js/refs?tag_name=v3.31.0&amp;experimental=1" accept="text/fragment+html" data-nonce="v2:1c27e6fe-67b3-2513-dc50-89298d43cd4f" data-view-component="true">
+
+
+
+
+
+
+
+
+<react-app
+  app-name="commits"
+  initial-path="/facebook/react/commits/17e2a15bea2df9232411a35c6d967fa18f6e8b25/CODE_OF_CONDUCT.md"
+  style="display: block; min-height: calc(100vh - 64px);"
+  data-attempted-ssr="true"
+  data-ssr="true"
+  data-lazy="false"
+  data-alternate="false"
+  data-data-router-enabled="false"
+  data-react-profiling="false"
+>
   
-                  <div id="select-panel-fdc3c904-1c62-4877-988a-03fd1e87f1d6-list" aria-disabled="true" aria-busy="true" data-view-component="true" class="SelectPanel-loadingPanel mt-2 tmp-mt-2 mb-2 tmp-mb-2 d-flex flex-items-start flex-justify-center text-center">
-                    <div data-hide-on-error class="pt-2">
-                      <span data-target="select-panel.bodySpinner" data-view-component="true">
-  <svg aria-label="Loading content..." style="box-sizing: content-box; color: var(--color-icon-primary);" width="32" height="32" viewBox="0 0 16 16" fill="none" role="img" data-view-component="true" class="anim-rotate">
-    <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-opacity="0.25" stroke-width="2" vector-effect="non-scaling-stroke" fill="none"></circle>
-    <path d="M15 8a7.002 7.002 0 00-7-7" stroke="currentColor" stroke-width="2" stroke-linecap="round" vector-effect="non-scaling-stroke"></path>
-</svg></span>
-                    </div>
-                    <div data-show-on-error hidden data-target="select-panel.fragmentErrorElement">
-                        <div class="pt-2 pb-2">
-                          <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-alert color-fg-danger">
-    <path d="M6.457 1.047c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0 1 14.082 15H1.918a1.75 1.75 0 0 1-1.543-2.575Zm1.763.707a.25.25 0 0 0-.44 0L1.698 13.132a.25.25 0 0 0 .22.368h12.164a.25.25 0 0 0 .22-.368Zm.53 3.996v2.5a.75.75 0 0 1-1.5 0v-2.5a.75.75 0 0 1 1.5 0ZM9 11a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path>
-</svg>
-                          <h2 class="f5 mt-2">Sorry, something went wrong.</h2>
-                        </div>
-                    </div>
-</div>
-  <div data-show-on-forbidden-error hidden>
-    <div class="Box">
-  <div class="blankslate-container">
-    <div data-view-component="true" class="blankslate blankslate-spacious color-bg-default rounded-2">
-      
-
-      <h3 data-view-component="true" class="blankslate-heading">        Uh oh!
-</h3>
-      <p data-view-component="true" class="blankslate-description">        <p class="color-fg-muted my-2 mb-2 ws-normal">There was an error while loading. <a class="Link--inTextBlock" data-turbo="false" href="" aria-label="Please reload this page">Please reload this page</a>.</p>
-</p>
-
-</div>  </div>
-</div>  </div>
-</include-fragment>            </div>
-            <div data-target="select-panel.noResults" class="SelectPanel-emptyPanel" hidden>
-              <h2 class="v-align-middle m-3 f5">No results found</h2>
-            </div>
-</div>        </focus-group>
-</div>      <div data-view-component="true" class="Overlay-footer Overlay-footer--alignEnd Overlay-footer--divided">          <div class="text-center width-full">
-            <a href="/zloirock/core-js/tags">View all tags</a>
-          </div>
-</div>
-</dialog>  </dialog-helper>
-</select-panel>
-
-  </div>
-</div>
-
-  <div class="tmp-mb-3 tmp-pb-md-4 border-md-bottom" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame">
-    <div class="d-flex flex-row flex-wrap color-fg-muted flex-items-end">
-  <div class="tmp-mr-4 mb-2">
-      <img src="https://avatars.githubusercontent.com/u/2213682?s=40&amp;v=4" alt="@zloirock" size="20" height="20" width="20" data-view-component="true" class="avatar avatar-small circle" />
-      <a class="text-bold color-fg-muted" data-hovercard-type="user" data-hovercard-url="/users/zloirock/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/zloirock">zloirock</a>
-
-    released this
-
-      <relative-time class="no-wrap" prefix="" datetime="2023-06-11T19:55:14Z">
-        11 Jun 19:55
-      </relative-time>
-  </div>
-
-  
-        <div class="tmp-mr-4 mb-2">
-          &middot;
-          <a href="/zloirock/core-js/compare/v3.31.0...master">
-            2526 commits
-          </a>
-          to master
-          since this release
-        </div>
+  <script type="application/json" data-target="react-app.embeddedData">{"payload":{"commitGroups":[{"title":"Aug 8, 2022","commits":[{"oid":"17e2a15bea2df9232411a35c6d967fa18f6e8b25","url":"/facebook/react/commit/17e2a15bea2df9232411a35c6d967fa18f6e8b25","authoredDate":"2022-08-08T17:01:34.000+05:30","committedDate":"2022-08-08T07:31:34.000-04:00","shortMessage":"Added a comma to understand better the Readme file for the contributor and the viewer. (#24798)","shortMessageMarkdown":null,"shortMessageMarkdownLink":"\u003ca data-pjax=\"true\" title=\"Added a comma to understand better the Readme file for the contributor and the viewer. (#24798)\n\n* Small change for Readme file\r\n\r\nAdded a comma, for better understanding for the contributor and the viewer.\r\n\r\n* Update CODE_OF_CONDUCT.md\r\n\r\n* Updated, requested changes are done!\" class=\"color-fg-default\" href=\"/facebook/react/commit/17e2a15bea2df9232411a35c6d967fa18f6e8b25\"\u003eAdded a comma to understand better the Readme file for the contributor and the viewer. (\u003c/a\u003e\u003ca class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"1285901519\" data-permission-text=\"Title is private\" data-url=\"https://github.com/facebook/react/issues/24798\" data-hovercard-type=\"pull_request\" data-hovercard-url=\"/facebook/react/pull/24798/hovercard\" href=\"https://github.com/facebook/react/pull/24798\"\u003e#24798\u003c/a\u003e\u003ca data-pjax=\"true\" title=\"Added a comma to understand better the Readme file for the contributor and the viewer. (#24798)\n\n* Small change for Readme file\r\n\r\nAdded a comma, for better understanding for the contributor and the viewer.\r\n\r\n* Update CODE_OF_CONDUCT.md\r\n\r\n* Updated, requested changes are done!\" class=\"color-fg-default\" href=\"/facebook/react/commit/17e2a15bea2df9232411a35c6d967fa18f6e8b25\"\u003e)\u003c/a\u003e","bodyMessageHtml":"* Small change for Readme file\n\nAdded a comma, for better understanding for the contributor and the viewer.\n\n* Update CODE_OF_CONDUCT.md\n\n* Updated, requested changes are done!","authors":[{"login":"Krishnamohan-Yerrabilli","displayName":"Krishnamohan Yerrabilli","avatarUrl":"https://avatars.githubusercontent.com/u/58173938?v=4","path":"/Krishnamohan-Yerrabilli","profileName":"Krishnamohan Yerrabilli","isGitHub":false}],"committerAttribution":false,"committer":{"login":"web-flow","displayName":"GitHub","avatarUrl":"https://avatars.githubusercontent.com/u/19864447?v=4","path":"/web-flow","profileName":"GitHub Web Flow","isGitHub":true},"pusher":null,"pushedDate":null}]},{"title":"Apr 13, 2021","commits":[{"oid":"ea155e2267b3e4fd958d174f8f0e2b09b1c8ecf2","url":"/facebook/react/commit/ea155e2267b3e4fd958d174f8f0e2b09b1c8ecf2","authoredDate":"2021-04-13T16:33:31.000-07:00","committedDate":"2021-04-13T19:33:31.000-04:00","shortMessage":"Update code of conduct (#21251)","shortMessageMarkdown":null,"shortMessageMarkdownLink":"\u003ca data-pjax=\"true\" title=\"Update code of conduct (#21251)\n\nWe are updating our code of conduct to include activities outside the project.\r\n\r\nhttps://developers.facebook.com/blog/post/2021/04/12/facebook-open-source-ally/\" class=\"color-fg-default\" href=\"/facebook/react/commit/ea155e2267b3e4fd958d174f8f0e2b09b1c8ecf2\"\u003eUpdate code of conduct (\u003c/a\u003e\u003ca class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"857186039\" data-permission-text=\"Title is private\" data-url=\"https://github.com/facebook/react/issues/21251\" data-hovercard-type=\"pull_request\" data-hovercard-url=\"/facebook/react/pull/21251/hovercard\" href=\"https://github.com/facebook/react/pull/21251\"\u003e#21251\u003c/a\u003e\u003ca data-pjax=\"true\" title=\"Update code of conduct (#21251)\n\nWe are updating our code of conduct to include activities outside the project.\r\n\r\nhttps://developers.facebook.com/blog/post/2021/04/12/facebook-open-source-ally/\" class=\"color-fg-default\" href=\"/facebook/react/commit/ea155e2267b3e4fd958d174f8f0e2b09b1c8ecf2\"\u003e)\u003c/a\u003e","bodyMessageHtml":"We are updating our code of conduct to include activities outside the project.\n\n\u003ca href=\"https://developers.facebook.com/blog/post/2021/04/12/facebook-open-source-ally/\" rel=\"nofollow\"\u003ehttps://developers.facebook.com/blog/post/2021/04/12/facebook-open-source-ally/\u003c/a\u003e","authors":[{"login":"zpao","displayName":"Paul O’Shannessy","avatarUrl":"https://avatars.githubusercontent.com/u/8445?v=4","path":"/zpao","profileName":"Paul O’Shannessy","isGitHub":false}],"committerAttribution":false,"committer":{"login":"web-flow","displayName":"GitHub","avatarUrl":"https://avatars.githubusercontent.com/u/19864447?v=4","path":"/web-flow","profileName":"GitHub Web Flow","isGitHub":true},"pusher":null,"pushedDate":null}]},{"title":"Aug 29, 2019","commits":[{"oid":"2c1e6bf619e404fd1ac464eb35eff4c09b3861b3","url":"/facebook/react/commit/2c1e6bf619e404fd1ac464eb35eff4c09b3861b3","authoredDate":"2019-08-29T16:04:47.000-07:00","committedDate":"2019-08-29T16:04:47.000-07:00","shortMessage":"Adopt Contributor Covenant (#16613)","shortMessageMarkdown":null,"shortMessageMarkdownLink":"\u003ca data-pjax=\"true\" title=\"Adopt Contributor Covenant (#16613)\n\nIn order to foster healthy open source communities, we're adopting the\r\n[Contributor Covenant](https://www.contributor-covenant.org/). It has been\r\nbuilt by open source community members and represents a shared understanding of\r\nwhat is expected from a healthy community.\" class=\"color-fg-default\" href=\"/facebook/react/commit/2c1e6bf619e404fd1ac464eb35eff4c09b3861b3\"\u003eAdopt Contributor Covenant (\u003c/a\u003e\u003ca class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"487211617\" data-permission-text=\"Title is private\" data-url=\"https://github.com/facebook/react/issues/16613\" data-hovercard-type=\"pull_request\" data-hovercard-url=\"/facebook/react/pull/16613/hovercard\" href=\"https://github.com/facebook/react/pull/16613\"\u003e#16613\u003c/a\u003e\u003ca data-pjax=\"true\" title=\"Adopt Contributor Covenant (#16613)\n\nIn order to foster healthy open source communities, we're adopting the\r\n[Contributor Covenant](https://www.contributor-covenant.org/). It has been\r\nbuilt by open source community members and represents a shared understanding of\r\nwhat is expected from a healthy community.\" class=\"color-fg-default\" href=\"/facebook/react/commit/2c1e6bf619e404fd1ac464eb35eff4c09b3861b3\"\u003e)\u003c/a\u003e","bodyMessageHtml":"In order to foster healthy open source communities, we're adopting the\n[Contributor Covenant](\u003ca href=\"https://www.contributor-covenant.org/\" rel=\"nofollow\"\u003ehttps://www.contributor-covenant.org/\u003c/a\u003e). It has been\nbuilt by open source community members and represents a shared understanding of\nwhat is expected from a healthy community.","authors":[{"login":"zpao","displayName":"Paul O’Shannessy","avatarUrl":"https://avatars.githubusercontent.com/u/8445?v=4","path":"/zpao","profileName":"Paul O’Shannessy","isGitHub":false}],"committerAttribution":false,"committer":{"login":"web-flow","displayName":"GitHub","avatarUrl":"https://avatars.githubusercontent.com/u/19864447?v=4","path":"/web-flow","profileName":"GitHub Web Flow","isGitHub":true},"pusher":null,"pushedDate":null}]},{"title":"Jun 29, 2018","commits":[{"oid":"bf32a3d1958290b055dc4c34189308a9417a45e4","url":"/facebook/react/commit/bf32a3d1958290b055dc4c34189308a9417a45e4","authoredDate":"2018-06-29T14:27:24.000+02:00","committedDate":"2018-06-29T13:27:24.000+01:00","shortMessage":"Updated url to Code of Conduct page (#13126)","shortMessageMarkdown":null,"shortMessageMarkdownLink":"\u003ca data-pjax=\"true\" title=\"Updated url to Code of Conduct page (#13126)\n\nurl is not working. Did a search on code.fb.com that returned the page I've put in the commit.\" class=\"color-fg-default\" href=\"/facebook/react/commit/bf32a3d1958290b055dc4c34189308a9417a45e4\"\u003eUpdated url to Code of Conduct page (\u003c/a\u003e\u003ca class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"336973975\" data-permission-text=\"Title is private\" data-url=\"https://github.com/facebook/react/issues/13126\" data-hovercard-type=\"pull_request\" data-hovercard-url=\"/facebook/react/pull/13126/hovercard\" href=\"https://github.com/facebook/react/pull/13126\"\u003e#13126\u003c/a\u003e\u003ca data-pjax=\"true\" title=\"Updated url to Code of Conduct page (#13126)\n\nurl is not working. Did a search on code.fb.com that returned the page I've put in the commit.\" class=\"color-fg-default\" href=\"/facebook/react/commit/bf32a3d1958290b055dc4c34189308a9417a45e4\"\u003e)\u003c/a\u003e","bodyMessageHtml":"url is not working. Did a search on code.fb.com that returned the page I've put in the commit.","authors":[{"login":"Hilbrand","displayName":"Hilbrand Bouwkamp","avatarUrl":"https://avatars.githubusercontent.com/u/1272873?v=4","path":"/Hilbrand","profileName":"Hilbrand Bouwkamp","isGitHub":false}],"committerAttribution":true,"committer":{"login":"gaearon","displayName":"Dan Abramov","avatarUrl":"https://avatars.githubusercontent.com/u/810438?v=4","path":"/gaearon","profileName":"dan","isGitHub":false},"pusher":null,"pushedDate":null}]},{"title":"Nov 10, 2017","commits":[{"oid":"365c2db55eb43508dafa0a12aeb72bd36ccaf4a8","url":"/facebook/react/commit/365c2db55eb43508dafa0a12aeb72bd36ccaf4a8","authoredDate":"2017-11-10T12:17:36.000Z","committedDate":"2017-11-10T12:17:36.000Z","shortMessage":"Add `CODE_OF_CONDUCT.md` (#11512)","shortMessageMarkdown":null,"shortMessageMarkdownLink":"\u003ca data-pjax=\"true\" title=\"Add `CODE_OF_CONDUCT.md` (#11512)\n\n**what is the change?:**\r\nAdding a document linking to the Facebook Open Source Code of Conduct,\r\nfor visibility and to meet Github community standards.\r\n\r\n**why make this change?:**\r\nFacebook Open Source provides a Code of Conduct statement for all\r\nprojects to follow.\r\n\r\nReact already links to this Code of Conduct in the README, which is\r\ngreat!\r\n\r\nExposing the COC via a separate markdown file is a standard being\r\npromoted by Github via the Community Profile in order to meet their Open\r\nSource Guide's recommended community standards.\r\n\r\nAs you can see, adding this file will complete [React's Community Profile](https://github.com/facebook/react/community)\r\nchecklist and increase the visibility of our COC.\r\n\r\n**test plan:**\r\nViewing it on my branch -\r\n(Flarnie will insert screenshot)\r\n\r\n**issue:**\r\ninternal task t23481323\" class=\"color-fg-default\" href=\"/facebook/react/commit/365c2db55eb43508dafa0a12aeb72bd36ccaf4a8\"\u003eAdd\u003c/a\u003e \u003ccode\u003e\u003ca data-pjax=\"true\" title=\"Add `CODE_OF_CONDUCT.md` (#11512)\n\n**what is the change?:**\r\nAdding a document linking to the Facebook Open Source Code of Conduct,\r\nfor visibility and to meet Github community standards.\r\n\r\n**why make this change?:**\r\nFacebook Open Source provides a Code of Conduct statement for all\r\nprojects to follow.\r\n\r\nReact already links to this Code of Conduct in the README, which is\r\ngreat!\r\n\r\nExposing the COC via a separate markdown file is a standard being\r\npromoted by Github via the Community Profile in order to meet their Open\r\nSource Guide's recommended community standards.\r\n\r\nAs you can see, adding this file will complete [React's Community Profile](https://github.com/facebook/react/community)\r\nchecklist and increase the visibility of our COC.\r\n\r\n**test plan:**\r\nViewing it on my branch -\r\n(Flarnie will insert screenshot)\r\n\r\n**issue:**\r\ninternal task t23481323\" class=\"color-fg-default\" href=\"/facebook/react/commit/365c2db55eb43508dafa0a12aeb72bd36ccaf4a8\"\u003eCODE_OF_CONDUCT.md\u003c/a\u003e\u003c/code\u003e \u003ca data-pjax=\"true\" title=\"Add `CODE_OF_CONDUCT.md` (#11512)\n\n**what is the change?:**\r\nAdding a document linking to the Facebook Open Source Code of Conduct,\r\nfor visibility and to meet Github community standards.\r\n\r\n**why make this change?:**\r\nFacebook Open Source provides a Code of Conduct statement for all\r\nprojects to follow.\r\n\r\nReact already links to this Code of Conduct in the README, which is\r\ngreat!\r\n\r\nExposing the COC via a separate markdown file is a standard being\r\npromoted by Github via the Community Profile in order to meet their Open\r\nSource Guide's recommended community standards.\r\n\r\nAs you can see, adding this file will complete [React's Community Profile](https://github.com/facebook/react/community)\r\nchecklist and increase the visibility of our COC.\r\n\r\n**test plan:**\r\nViewing it on my branch -\r\n(Flarnie will insert screenshot)\r\n\r\n**issue:**\r\ninternal task t23481323\" class=\"color-fg-default\" href=\"/facebook/react/commit/365c2db55eb43508dafa0a12aeb72bd36ccaf4a8\"\u003e(\u003c/a\u003e\u003ca class=\"issue-link js-issue-link\" data-error-text=\"Failed to load title\" data-id=\"272896011\" data-permission-text=\"Title is private\" data-url=\"https://github.com/facebook/react/issues/11512\" data-hovercard-type=\"pull_request\" data-hovercard-url=\"/facebook/react/pull/11512/hovercard\" href=\"https://github.com/facebook/react/pull/11512\"\u003e#11512\u003c/a\u003e\u003ca data-pjax=\"true\" title=\"Add `CODE_OF_CONDUCT.md` (#11512)\n\n**what is the change?:**\r\nAdding a document linking to the Facebook Open Source Code of Conduct,\r\nfor visibility and to meet Github community standards.\r\n\r\n**why make this change?:**\r\nFacebook Open Source provides a Code of Conduct statement for all\r\nprojects to follow.\r\n\r\nReact already links to this Code of Conduct in the README, which is\r\ngreat!\r\n\r\nExposing the COC via a separate markdown file is a standard being\r\npromoted by Github via the Community Profile in order to meet their Open\r\nSource Guide's recommended community standards.\r\n\r\nAs you can see, adding this file will complete [React's Community Profile](https://github.com/facebook/react/community)\r\nchecklist and increase the visibility of our COC.\r\n\r\n**test plan:**\r\nViewing it on my branch -\r\n(Flarnie will insert screenshot)\r\n\r\n**issue:**\r\ninternal task t23481323\" class=\"color-fg-default\" href=\"/facebook/react/commit/365c2db55eb43508dafa0a12aeb72bd36ccaf4a8\"\u003e)\u003c/a\u003e","bodyMessageHtml":"**what is the change?:**\nAdding a document linking to the Facebook Open Source Code of Conduct,\nfor visibility and to meet Github community standards.\n\n**why make this change?:**\nFacebook Open Source provides a Code of Conduct statement for all\nprojects to follow.\n\nReact already links to this Code of Conduct in the README, which is\ngreat!\n\nExposing the COC via a separate markdown file is a standard being\npromoted by Github via the Community Profile in order to meet their Open\nSource Guide's recommended community standards.\n\nAs you can see, adding this file will complete [React's Community Profile](\u003ca href=\"https://github.com/facebook/react/community\"\u003ehttps://github.com/facebook/react/community\u003c/a\u003e)\nchecklist and increase the visibility of our COC.\n\n**test plan:**\nViewing it on my branch -\n(Flarnie will insert screenshot)\n\n**issue:**\ninternal task t23481323","authors":[{"login":"flarnie","displayName":"Flarnie Marchan","avatarUrl":"https://avatars.githubusercontent.com/u/1114467?v=4","path":"/flarnie","profileName":"Flarnie Marchan","isGitHub":false}],"committerAttribution":false,"committer":{"login":"web-flow","displayName":"GitHub","avatarUrl":"https://avatars.githubusercontent.com/u/19864447?v=4","path":"/web-flow","profileName":"GitHub Web Flow","isGitHub":true},"pusher":null,"pushedDate":null}]}],"currentCommit":{"oid":"17e2a15bea2df9232411a35c6d967fa18f6e8b25"},"filters":{"since":null,"until":null,"author":null,"newPath":null,"originalBranch":null,"currentBlobPath":"CODE_OF_CONDUCT.md","pagination":{"startCursor":"17e2a15bea2df9232411a35c6d967fa18f6e8b25 0","endCursor":"17e2a15bea2df9232411a35c6d967fa18f6e8b25 4","hasNextPage":false,"hasPreviousPage":false}},"metadata":{"browsingRenameHistory":null,"showProfileHelp":false,"deferredDataUrl":"/facebook/react/commits/deferred_commit_data/17e2a15bea2df9232411a35c6d967fa18f6e8b25?original_branch=17e2a15bea2df9232411a35c6d967fa18f6e8b25\u0026path=CODE_OF_CONDUCT.md","deferredContributorUrl":"/facebook/react/commits/deferred_commit_contributors","softNavToCommit":true},"repo":{"id":10270250,"defaultBranch":"main","name":"react","ownerLogin":"facebook","currentUserCanPush":false,"isFork":false,"isEmpty":false,"createdAt":"2013-05-24T16:15:54.000Z","ownerAvatar":"https://avatars.githubusercontent.com/u/69631?v=4","public":true,"private":false,"isOrgOwned":true},"refInfo":{"name":"17e2a15bea2df9232411a35c6d967fa18f6e8b25","listCacheKey":"v0:1776454900.0","refType":"tree","currentOid":"17e2a15bea2df9232411a35c6d967fa18f6e8b25"},"timedOutMessage":"","userNameDisplayConfiguration":"handle"},"title":"History for CODE_OF_CONDUCT.md - facebook/react","appPayload":{"helpUrl":"https://docs.github.com"}}</script>
+  <div data-target="react-app.reactRoot"><link rel="preload" as="image" href="https://avatars.githubusercontent.com/u/58173938?v=4&amp;size=32"/><link rel="preload" as="image" href="https://avatars.githubusercontent.com/u/8445?v=4&amp;size=32"/><link rel="preload" as="image" href="https://avatars.githubusercontent.com/u/1272873?v=4&amp;size=32"/><link rel="preload" as="image" href="https://avatars.githubusercontent.com/u/810438?v=4&amp;size=32"/><link rel="preload" as="image" href="https://avatars.githubusercontent.com/u/1114467?v=4&amp;size=32"/> <!-- --> <div style="--spacing:var(--spacing-normal)" class="prc-PageLayout-PageLayoutRoot--KH-d"><div class="prc-PageLayout-PageLayoutWrapper-2BhU2" data-width="xlarge"><header data-hidden="false" class="prc-PageLayout-Header-0of-R Layout-module__LayoutHeader__NutRS" style="--spacing:var(--spacing-none)"><div class="prc-PageLayout-HeaderContent-gdFfN" style="--spacing:var(--spacing-none)"><div class="d-flex flex-items-center flex-justify-between"><h1 class="f2 text-normal pb-2 prc-Heading-Heading-MtWFE" id="commits-pagehead">Commits</h1></div></div><div class="prc-PageLayout-HorizontalDivider-JLVqp prc-PageLayout-HeaderHorizontalDivider-odAHl" data-variant="line" style="--spacing-divider:var(--spacing-normal);--spacing:var(--spacing-none)"></div></header><div class="prc-PageLayout-PageLayoutContent-BneH9"><div class="prc-PageLayout-ContentWrapper-gR9eG" data-is-hidden="false"><div class="prc-PageLayout-Content-xWL-A" data-width="full" style="--spacing:var(--spacing-none)"><div><div class="tmp-mb-3 prc-Stack-Stack-UQ9k6" data-gap="condensed" data-direction="horizontal" data-align="stretch" data-wrap="nowrap" data-justify="space-between" data-padding="none"><div class="d-flex flex-items-center"><div class="d-flex flex-items-baseline flex-column flex-sm-row"><h2 class="sr-only prc-Heading-Heading-MtWFE">Breadcrumbs</h2><span class="fgColor-default no-wrap">History for</span><nav class="ml-1 prc-Breadcrumbs-BreadcrumbsBase-3Gb-B" aria-label="Breadcrumbs" data-overflow="wrap" data-variant="normal"><ol class="prc-Breadcrumbs-BreadcrumbsList-BKjpe"><li class="prc-Breadcrumbs-ItemWrapper-k0NLn"><a class="prc-Breadcrumbs-Item-jcraJ" href="/facebook/react/commits">react</a></li><li class="prc-Breadcrumbs-ItemWrapper-k0NLn"><a class="ListHeader-module__breadcrumbItem__j7KrS ListHeader-module__breadcrumbItemBold__QVOa9 prc-Breadcrumbs-Item-jcraJ selected" aria-current="page" href="/facebook/react/commits/17e2a15bea2df9232411a35c6d967fa18f6e8b25/CODE_OF_CONDUCT.md">CODE_OF_CONDUCT.md</a></li></ol></nav><div class="no-wrap"><span class="mr-2 ml-0 ml-sm-2 fgColor-default">on</span><a href="/facebook/react/tree/17e2a15bea2df9232411a35c6d967fa18f6e8b25" class="prc-BranchName-BranchName-CMTaU">17e2a15</a></div></div></div><div class="d-flex flex-column flex-sm-row gap-2"><h2 class="sr-only prc-Heading-Heading-MtWFE">User selector</h2><div><button type="button" data-testid="user-selector-button" aria-haspopup="true" aria-expanded="false" tabindex="0" class="prc-Button-ButtonBase-9n-Xk" data-loading="false" data-size="medium" data-variant="default" id="_R_7jl9b_"><span data-component="buttonContent" data-align="center" class="prc-Button-ButtonContent-Iohp5"><span data-component="text" class="prc-Button-Label-FWkx3"><div class="d-flex"><div class="mr-2"><svg aria-hidden="true" focusable="false" class="octicon octicon-people fgColor-muted" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M2 5.5a3.5 3.5 0 1 1 5.898 2.549 5.508 5.508 0 0 1 3.034 4.084.75.75 0 1 1-1.482.235 4 4 0 0 0-7.9 0 .75.75 0 0 1-1.482-.236A5.507 5.507 0 0 1 3.102 8.05 3.493 3.493 0 0 1 2 5.5ZM11 4a3.001 3.001 0 0 1 2.22 5.018 5.01 5.01 0 0 1 2.56 3.012.749.749 0 0 1-.885.954.752.752 0 0 1-.549-.514 3.507 3.507 0 0 0-2.522-2.372.75.75 0 0 1-.574-.73v-.352a.75.75 0 0 1 .416-.672A1.5 1.5 0 0 0 11 5.5.75.75 0 0 1 11 4Zm-5.5-.5a2 2 0 1 0-.001 3.999A2 2 0 0 0 5.5 3.5Z"></path></svg></div><div class="UserSelector-module__truncatedUserText__EmYes"><span>All users</span></div></div></span></span><span data-component="trailingAction" class="prc-Button-Visual-YNt2F prc-Button-VisualWrap-E4cnq"><svg aria-hidden="true" focusable="false" class="octicon octicon-triangle-down" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="m4.427 7.427 3.396 3.396a.25.25 0 0 0 .354 0l3.396-3.396A.25.25 0 0 0 11.396 7H4.604a.25.25 0 0 0-.177.427Z"></path></svg></span></button></div><!--$!--><template></template><button type="button" class="prc-Button-ButtonBase-9n-Xk" data-loading="false" data-size="medium" data-variant="default"><span data-component="buttonContent" data-align="center" class="prc-Button-ButtonContent-Iohp5"><span data-component="leadingVisual" class="prc-Button-Visual-YNt2F prc-Button-VisualWrap-E4cnq"><svg aria-hidden="true" focusable="false" class="octicon octicon-calendar fgColor-muted ListHeader-module__calendarIcon__WikEB" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"></path></svg></span><span data-component="text" class="prc-Button-Label-FWkx3">All time</span><span data-component="trailingVisual" class="prc-Button-Visual-YNt2F prc-Button-VisualWrap-E4cnq"><svg aria-hidden="true" focusable="false" class="octicon octicon-triangle-down" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="m4.427 7.427 3.396 3.396a.25.25 0 0 0 .354 0l3.396-3.396A.25.25 0 0 0 11.396 7H4.604a.25.25 0 0 0-.177.427Z"></path></svg></span></span></button><!--/$--></div></div><div class="tmp-mb-3" data-hpc="true"><h2 class="sr-only prc-Heading-Heading-MtWFE">Commit History</h2><div class="prc-Timeline-Timeline-awSoC" data-clip-sidebar="both"><div class="TimelineRow-module__timelineRowItem__feuol TimelineRow-module__top__wbFNk Timeline-Item prc-Timeline-TimelineItem-QwDVH"><div class="prc-Timeline-TimelineBadgeWrapper-SZw4k"><div class="TimelineRow-module__timelineRowBadge__YaFlf prc-Timeline-TimelineBadge-u0qSm"><svg aria-hidden="true" focusable="false" class="octicon octicon-git-commit" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M11.93 8.5a4.002 4.002 0 0 1-7.86 0H.75a.75.75 0 0 1 0-1.5h3.32a4.002 4.002 0 0 1 7.86 0h3.32a.75.75 0 0 1 0 1.5Zm-1.43-.75a2.5 2.5 0 1 0-5 0 2.5 2.5 0 0 0 5 0Z"></path></svg></div></div><div class="mt-0 prc-Timeline-TimelineBody-tjOtb"><h3 class="text-normal f5 py-1 prc-Heading-Heading-MtWFE" id="_R_1kpl9b_" data-testid="commit-group-title">Commits on Aug 8, 2022</h3><div class="color-bg-default position-relative border rounded-2 color-border-default mt-2 d-flex flex-column CommitGroup-module__panel__Pfvdu"><div id="_R_59kpl9b_-list-view-container" class="ListView-module__container__CfCNF"><ul class="ListView-module__ul__uMK30" aria-labelledby="_R_1kpl9b_" tabindex="-1" role="list" data-listview-component="items-list" data-density="default"><li id="_R_59kpl9b_-list-view-node-_R_7t9kpl9b_" class="ListItem-module__listItem__wBJcm CommitRow-module__ListItem_0__u0LMo" tabindex="-1" aria-label="More information available below." data-testid="commit-row-item" data-commit-link="/facebook/react/commit/17e2a15bea2df9232411a35c6d967fa18f6e8b25"><div class="Title-module__container__ZzhV_ CommitRow-module__ListItemTitle_0__cUhJS" data-listview-item-title-container="true"><h4 class="Title-module__heading__tHuYV CommitRow-module__ListItemTitle_0__cUhJS"><a class="Title-module__anchor__dBbYy Title-module__inline__YFTZT" href="/facebook/react/commit/17e2a15bea2df9232411a35c6d967fa18f6e8b25"><span>Added a comma to understand better the Readme file for the contributor and the viewer. (#24798)</span></a></h4><span class="Title-module__trailingBadgesContainer__INeSa"></span><button data-component="IconButton" type="button" data-testid="commit-row-show-description-button" aria-pressed="false" aria-expanded="false" class="prc-Button-ButtonBase-9n-Xk Button Button--iconOnly Button--invisible Button--small ml-1 prc-Button-IconButton-fyge7" data-loading="false" data-no-visuals="true" data-size="medium" data-variant="default" aria-describedby="show-description-17e2a15" aria-labelledby="show-description-17e2a15"><svg aria-hidden="true" focusable="false" class="octicon octicon-ellipsis" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M0 5.75C0 4.784.784 4 1.75 4h12.5c.966 0 1.75.784 1.75 1.75v4.5A1.75 1.75 0 0 1 14.25 12H1.75A1.75 1.75 0 0 1 0 10.25ZM12 7a1 1 0 1 0 0 2 1 1 0 0 0 0-2ZM7 8a1 1 0 1 0 2 0 1 1 0 0 0-2 0ZM4 7a1 1 0 1 0 0 2 1 1 0 0 0 0-2Z"></path></svg></button><span class="prc-TooltipV2-Tooltip-tLeuB" data-direction="s" aria-label="Show description for 17e2a15" role="tooltip" aria-hidden="true" id="show-description-17e2a15">Show description for 17e2a15</span></div><div class="px-1"></div><div class="MainContent-module__container__uXXH2"><div class="MainContent-module__inner__C80co"><div class="Description-module__container__hpqJz"><div class="CommitAttribution-module__CommitAttributionContainer__I_rfs"><div data-testid="author-avatar" class="AuthorAvatar-module__AuthorAvatarContainer__n0MVc"><a class="prc-Link-Link-9ZwDx" href="/Krishnamohan-Yerrabilli" data-testid="avatar-icon-link"><img data-component="Avatar" class="AuthorAvatar-module__authorAvatarImage__a3R8x prc-Avatar-Avatar-0xaUi" alt="Krishnamohan-Yerrabilli" width="16" height="16" style="--avatarSize-regular:16px" src="https://avatars.githubusercontent.com/u/58173938?v=4&amp;size=32" data-testid="github-avatar" aria-label="Krishnamohan-Yerrabilli"/></a><a class="AuthorAvatar-module__authorHoverableLink__MHTT8 prc-Link-Link-9ZwDx" href="/facebook/react/commits?author=Krishnamohan-Yerrabilli" aria-label="commits by Krishnamohan-Yerrabilli" style="--author-font-weight:var(--base-text-weight-normal);--author-font-color:var(--fgColor-muted)">Krishnamohan-Yerrabilli</a></div><span class="pl-1">authored</span><div class="LoadingSkeleton-module__skeleton__euqGn LoadingSkeleton-module__rounded__J10DA d-none d-sm-flex ml-1" style="width:60px"></div><div class="LoadingSkeleton-module__skeleton__euqGn LoadingSkeleton-module__rounded__J10DA d-none d-sm-flex ml-2" style="width:20px"></div><div class="d-none d-sm-flex"></div></div></div></div></div><div class="MetadataContainer-module__container__YDbLz"><div class="Metadata-module__metadata__ocr9n Metadata-module__secondary__RkFvd"></div><div class="Metadata-module__metadata__ocr9n Metadata-module__secondary__RkFvd CommitRow-module__ListItemMetadata_0__W4Kqf"><div class="LoadingSkeleton-module__skeleton__euqGn LoadingSkeleton-module__rounded__J10DA d-none d-sm-flex" style="width:62px"></div></div><div class="Metadata-module__metadata__ocr9n Metadata-module__primary__XCEO2 d-none d-sm-flex px-0 gap-2"><div class="d-flex"><span role="tooltip" aria-label="View commit details" id="_R_5rnt9kpl9b_" class="prc-Tooltip-Tooltip-JLsri prc-Tooltip-Tooltip--s-RbCQB tooltipped-s"><a type="button" sx="[object Object]" class="prc-Button-ButtonBase-9n-Xk" data-loading="false" data-no-visuals="true" data-size="small" data-variant="invisible" href="/facebook/react/commit/17e2a15bea2df9232411a35c6d967fa18f6e8b25" data-discover="true"><span data-component="buttonContent" data-align="center" class="prc-Button-ButtonContent-Iohp5"><span data-component="text" class="prc-Button-Label-FWkx3">17e2a15</span></span></a></span><div><button data-component="IconButton" type="button" class="prc-Button-ButtonBase-9n-Xk prc-Button-IconButton-fyge7" data-loading="false" data-no-visuals="true" data-size="small" data-variant="invisible" aria-labelledby="_R_9rnt9kpl9b_"><svg aria-hidden="true" focusable="false" class="octicon octicon-copy" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path></svg></button><span class="CopyToClipboardButton-module__tooltip__BhMvU prc-TooltipV2-Tooltip-tLeuB" data-direction="s" aria-label="Copy full SHA for 17e2a15" aria-hidden="true" id="_R_9rnt9kpl9b_">Copy full SHA for 17e2a15</span></div></div><span role="tooltip" aria-label="View code at this point" id="view-code-17e2a15" class="prc-Tooltip-Tooltip-JLsri prc-Tooltip-Tooltip--sw-FsNH8 tooltipped-sw"><a aria-labelledby="view-code-17e2a15" href="/facebook/react/blob/17e2a15bea2df9232411a35c6d967fa18f6e8b25/CODE_OF_CONDUCT.md" class="Button Button--iconOnly Button--invisible Button--small" data-testid="commit-row-view-code"><svg aria-hidden="true" focusable="false" class="octicon octicon-file-code" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M4 1.75C4 .784 4.784 0 5.75 0h5.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v8.586A1.75 1.75 0 0 1 14.25 15h-9a.75.75 0 0 1 0-1.5h9a.25.25 0 0 0 .25-.25V6h-2.75A1.75 1.75 0 0 1 10 4.25V1.5H5.75a.25.25 0 0 0-.25.25v2.5a.75.75 0 0 1-1.5 0Zm1.72 4.97a.75.75 0 0 1 1.06 0l2 2a.75.75 0 0 1 0 1.06l-2 2a.749.749 0 0 1-1.275-.326.749.749 0 0 1 .215-.734l1.47-1.47-1.47-1.47a.75.75 0 0 1 0-1.06ZM3.28 7.78 1.81 9.25l1.47 1.47a.751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018l-2-2a.75.75 0 0 1 0-1.06l2-2a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042Zm8.22-6.218V4.25c0 .138.112.25.25.25h2.688l-.011-.013-2.914-2.914-.013-.011Z"></path></svg></a></span><span role="tooltip" aria-label="Browse repository at this point" id="browse-repo-17e2a15" class="prc-Tooltip-Tooltip-JLsri prc-Tooltip-Tooltip--sw-FsNH8 tooltipped-sw"><a aria-labelledby="browse-repo-17e2a15" href="/facebook/react/tree/17e2a15bea2df9232411a35c6d967fa18f6e8b25" class="Button Button--iconOnly Button--invisible Button--small" data-testid="commit-row-browse-repo"><svg aria-hidden="true" focusable="false" class="octicon octicon-code" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="m11.28 3.22 4.25 4.25a.75.75 0 0 1 0 1.06l-4.25 4.25a.749.749 0 0 1-1.275-.326.749.749 0 0 1 .215-.734L13.94 8l-3.72-3.72a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215Zm-6.56 0a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042L2.06 8l3.72 3.72a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L.47 8.53a.75.75 0 0 1 0-1.06Z"></path></svg></a></span></div></div><!--$!--><template></template><!--/$--></li></ul></div></div></div></div><div class="TimelineRow-module__timelineRowItem__feuol Timeline-Item prc-Timeline-TimelineItem-QwDVH"><div class="prc-Timeline-TimelineBadgeWrapper-SZw4k"><div class="TimelineRow-module__timelineRowBadge__YaFlf prc-Timeline-TimelineBadge-u0qSm"><svg aria-hidden="true" focusable="false" class="octicon octicon-git-commit" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M11.93 8.5a4.002 4.002 0 0 1-7.86 0H.75a.75.75 0 0 1 0-1.5h3.32a4.002 4.002 0 0 1 7.86 0h3.32a.75.75 0 0 1 0 1.5Zm-1.43-.75a2.5 2.5 0 1 0-5 0 2.5 2.5 0 0 0 5 0Z"></path></svg></div></div><div class="mt-0 prc-Timeline-TimelineBody-tjOtb"><h3 class="text-normal f5 py-1 prc-Heading-Heading-MtWFE" id="_R_2kpl9b_" data-testid="commit-group-title">Commits on Apr 13, 2021</h3><div class="color-bg-default position-relative border rounded-2 color-border-default mt-2 d-flex flex-column CommitGroup-module__panel__Pfvdu"><div id="_R_5akpl9b_-list-view-container" class="ListView-module__container__CfCNF"><ul class="ListView-module__ul__uMK30" aria-labelledby="_R_2kpl9b_" tabindex="-1" role="list" data-listview-component="items-list" data-density="default"><li id="_R_5akpl9b_-list-view-node-_R_7takpl9b_" class="ListItem-module__listItem__wBJcm CommitRow-module__ListItem_0__u0LMo" tabindex="-1" aria-label="More information available below." data-testid="commit-row-item" data-commit-link="/facebook/react/commit/ea155e2267b3e4fd958d174f8f0e2b09b1c8ecf2"><div class="Title-module__container__ZzhV_ CommitRow-module__ListItemTitle_0__cUhJS" data-listview-item-title-container="true"><h4 class="Title-module__heading__tHuYV CommitRow-module__ListItemTitle_0__cUhJS"><a class="Title-module__anchor__dBbYy Title-module__inline__YFTZT" href="/facebook/react/commit/ea155e2267b3e4fd958d174f8f0e2b09b1c8ecf2"><span>Update code of conduct (#21251)</span></a></h4><span class="Title-module__trailingBadgesContainer__INeSa"></span><button data-component="IconButton" type="button" data-testid="commit-row-show-description-button" aria-pressed="false" aria-expanded="false" class="prc-Button-ButtonBase-9n-Xk Button Button--iconOnly Button--invisible Button--small ml-1 prc-Button-IconButton-fyge7" data-loading="false" data-no-visuals="true" data-size="medium" data-variant="default" aria-describedby="show-description-ea155e2" aria-labelledby="show-description-ea155e2"><svg aria-hidden="true" focusable="false" class="octicon octicon-ellipsis" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M0 5.75C0 4.784.784 4 1.75 4h12.5c.966 0 1.75.784 1.75 1.75v4.5A1.75 1.75 0 0 1 14.25 12H1.75A1.75 1.75 0 0 1 0 10.25ZM12 7a1 1 0 1 0 0 2 1 1 0 0 0 0-2ZM7 8a1 1 0 1 0 2 0 1 1 0 0 0-2 0ZM4 7a1 1 0 1 0 0 2 1 1 0 0 0 0-2Z"></path></svg></button><span class="prc-TooltipV2-Tooltip-tLeuB" data-direction="s" aria-label="Show description for ea155e2" role="tooltip" aria-hidden="true" id="show-description-ea155e2">Show description for ea155e2</span></div><div class="px-1"></div><div class="MainContent-module__container__uXXH2"><div class="MainContent-module__inner__C80co"><div class="Description-module__container__hpqJz"><div class="CommitAttribution-module__CommitAttributionContainer__I_rfs"><div data-testid="author-avatar" class="AuthorAvatar-module__AuthorAvatarContainer__n0MVc"><a class="prc-Link-Link-9ZwDx" href="/zpao" data-testid="avatar-icon-link"><img data-component="Avatar" class="AuthorAvatar-module__authorAvatarImage__a3R8x prc-Avatar-Avatar-0xaUi" alt="zpao" width="16" height="16" style="--avatarSize-regular:16px" src="https://avatars.githubusercontent.com/u/8445?v=4&amp;size=32" data-testid="github-avatar" aria-label="zpao"/></a><a class="AuthorAvatar-module__authorHoverableLink__MHTT8 prc-Link-Link-9ZwDx" href="/facebook/react/commits?author=zpao" aria-label="commits by zpao" style="--author-font-weight:var(--base-text-weight-normal);--author-font-color:var(--fgColor-muted)">zpao</a></div><span class="pl-1">authored</span><div class="LoadingSkeleton-module__skeleton__euqGn LoadingSkeleton-module__rounded__J10DA d-none d-sm-flex ml-1" style="width:60px"></div><div class="LoadingSkeleton-module__skeleton__euqGn LoadingSkeleton-module__rounded__J10DA d-none d-sm-flex ml-2" style="width:20px"></div><div class="d-none d-sm-flex"></div></div></div></div></div><div class="MetadataContainer-module__container__YDbLz"><div class="Metadata-module__metadata__ocr9n Metadata-module__secondary__RkFvd"></div><div class="Metadata-module__metadata__ocr9n Metadata-module__secondary__RkFvd CommitRow-module__ListItemMetadata_0__W4Kqf"><div class="LoadingSkeleton-module__skeleton__euqGn LoadingSkeleton-module__rounded__J10DA d-none d-sm-flex" style="width:62px"></div></div><div class="Metadata-module__metadata__ocr9n Metadata-module__primary__XCEO2 d-none d-sm-flex px-0 gap-2"><div class="d-flex"><span role="tooltip" aria-label="View commit details" id="_R_5rntakpl9b_" class="prc-Tooltip-Tooltip-JLsri prc-Tooltip-Tooltip--s-RbCQB tooltipped-s"><a type="button" sx="[object Object]" class="prc-Button-ButtonBase-9n-Xk" data-loading="false" data-no-visuals="true" data-size="small" data-variant="invisible" href="/facebook/react/commit/ea155e2267b3e4fd958d174f8f0e2b09b1c8ecf2" data-discover="true"><span data-component="buttonContent" data-align="center" class="prc-Button-ButtonContent-Iohp5"><span data-component="text" class="prc-Button-Label-FWkx3">ea155e2</span></span></a></span><div><button data-component="IconButton" type="button" class="prc-Button-ButtonBase-9n-Xk prc-Button-IconButton-fyge7" data-loading="false" data-no-visuals="true" data-size="small" data-variant="invisible" aria-labelledby="_R_9rntakpl9b_"><svg aria-hidden="true" focusable="false" class="octicon octicon-copy" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path></svg></button><span class="CopyToClipboardButton-module__tooltip__BhMvU prc-TooltipV2-Tooltip-tLeuB" data-direction="s" aria-label="Copy full SHA for ea155e2" aria-hidden="true" id="_R_9rntakpl9b_">Copy full SHA for ea155e2</span></div></div><span role="tooltip" aria-label="View code at this point" id="view-code-ea155e2" class="prc-Tooltip-Tooltip-JLsri prc-Tooltip-Tooltip--sw-FsNH8 tooltipped-sw"><a aria-labelledby="view-code-ea155e2" href="/facebook/react/blob/ea155e2267b3e4fd958d174f8f0e2b09b1c8ecf2/CODE_OF_CONDUCT.md" class="Button Button--iconOnly Button--invisible Button--small" data-testid="commit-row-view-code"><svg aria-hidden="true" focusable="false" class="octicon octicon-file-code" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M4 1.75C4 .784 4.784 0 5.75 0h5.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v8.586A1.75 1.75 0 0 1 14.25 15h-9a.75.75 0 0 1 0-1.5h9a.25.25 0 0 0 .25-.25V6h-2.75A1.75 1.75 0 0 1 10 4.25V1.5H5.75a.25.25 0 0 0-.25.25v2.5a.75.75 0 0 1-1.5 0Zm1.72 4.97a.75.75 0 0 1 1.06 0l2 2a.75.75 0 0 1 0 1.06l-2 2a.749.749 0 0 1-1.275-.326.749.749 0 0 1 .215-.734l1.47-1.47-1.47-1.47a.75.75 0 0 1 0-1.06ZM3.28 7.78 1.81 9.25l1.47 1.47a.751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018l-2-2a.75.75 0 0 1 0-1.06l2-2a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042Zm8.22-6.218V4.25c0 .138.112.25.25.25h2.688l-.011-.013-2.914-2.914-.013-.011Z"></path></svg></a></span><span role="tooltip" aria-label="Browse repository at this point" id="browse-repo-ea155e2" class="prc-Tooltip-Tooltip-JLsri prc-Tooltip-Tooltip--sw-FsNH8 tooltipped-sw"><a aria-labelledby="browse-repo-ea155e2" href="/facebook/react/tree/ea155e2267b3e4fd958d174f8f0e2b09b1c8ecf2" class="Button Button--iconOnly Button--invisible Button--small" data-testid="commit-row-browse-repo"><svg aria-hidden="true" focusable="false" class="octicon octicon-code" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="m11.28 3.22 4.25 4.25a.75.75 0 0 1 0 1.06l-4.25 4.25a.749.749 0 0 1-1.275-.326.749.749 0 0 1 .215-.734L13.94 8l-3.72-3.72a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215Zm-6.56 0a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042L2.06 8l3.72 3.72a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L.47 8.53a.75.75 0 0 1 0-1.06Z"></path></svg></a></span></div></div><!--$!--><template></template><!--/$--></li></ul></div></div></div></div><div class="TimelineRow-module__timelineRowItem__feuol Timeline-Item prc-Timeline-TimelineItem-QwDVH"><div class="prc-Timeline-TimelineBadgeWrapper-SZw4k"><div class="TimelineRow-module__timelineRowBadge__YaFlf prc-Timeline-TimelineBadge-u0qSm"><svg aria-hidden="true" focusable="false" class="octicon octicon-git-commit" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M11.93 8.5a4.002 4.002 0 0 1-7.86 0H.75a.75.75 0 0 1 0-1.5h3.32a4.002 4.002 0 0 1 7.86 0h3.32a.75.75 0 0 1 0 1.5Zm-1.43-.75a2.5 2.5 0 1 0-5 0 2.5 2.5 0 0 0 5 0Z"></path></svg></div></div><div class="mt-0 prc-Timeline-TimelineBody-tjOtb"><h3 class="text-normal f5 py-1 prc-Heading-Heading-MtWFE" id="_R_3kpl9b_" data-testid="commit-group-title">Commits on Aug 29, 2019</h3><div class="color-bg-default position-relative border rounded-2 color-border-default mt-2 d-flex flex-column CommitGroup-module__panel__Pfvdu"><div id="_R_5bkpl9b_-list-view-container" class="ListView-module__container__CfCNF"><ul class="ListView-module__ul__uMK30" aria-labelledby="_R_3kpl9b_" tabindex="-1" role="list" data-listview-component="items-list" data-density="default"><li id="_R_5bkpl9b_-list-view-node-_R_7tbkpl9b_" class="ListItem-module__listItem__wBJcm CommitRow-module__ListItem_0__u0LMo" tabindex="-1" aria-label="More information available below." data-testid="commit-row-item" data-commit-link="/facebook/react/commit/2c1e6bf619e404fd1ac464eb35eff4c09b3861b3"><div class="Title-module__container__ZzhV_ CommitRow-module__ListItemTitle_0__cUhJS" data-listview-item-title-container="true"><h4 class="Title-module__heading__tHuYV CommitRow-module__ListItemTitle_0__cUhJS"><a class="Title-module__anchor__dBbYy Title-module__inline__YFTZT" href="/facebook/react/commit/2c1e6bf619e404fd1ac464eb35eff4c09b3861b3"><span>Adopt Contributor Covenant (#16613)</span></a></h4><span class="Title-module__trailingBadgesContainer__INeSa"></span><button data-component="IconButton" type="button" data-testid="commit-row-show-description-button" aria-pressed="false" aria-expanded="false" class="prc-Button-ButtonBase-9n-Xk Button Button--iconOnly Button--invisible Button--small ml-1 prc-Button-IconButton-fyge7" data-loading="false" data-no-visuals="true" data-size="medium" data-variant="default" aria-describedby="show-description-2c1e6bf" aria-labelledby="show-description-2c1e6bf"><svg aria-hidden="true" focusable="false" class="octicon octicon-ellipsis" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M0 5.75C0 4.784.784 4 1.75 4h12.5c.966 0 1.75.784 1.75 1.75v4.5A1.75 1.75 0 0 1 14.25 12H1.75A1.75 1.75 0 0 1 0 10.25ZM12 7a1 1 0 1 0 0 2 1 1 0 0 0 0-2ZM7 8a1 1 0 1 0 2 0 1 1 0 0 0-2 0ZM4 7a1 1 0 1 0 0 2 1 1 0 0 0 0-2Z"></path></svg></button><span class="prc-TooltipV2-Tooltip-tLeuB" data-direction="s" aria-label="Show description for 2c1e6bf" role="tooltip" aria-hidden="true" id="show-description-2c1e6bf">Show description for 2c1e6bf</span></div><div class="px-1"></div><div class="MainContent-module__container__uXXH2"><div class="MainContent-module__inner__C80co"><div class="Description-module__container__hpqJz"><div class="CommitAttribution-module__CommitAttributionContainer__I_rfs"><div data-testid="author-avatar" class="AuthorAvatar-module__AuthorAvatarContainer__n0MVc"><a class="prc-Link-Link-9ZwDx" href="/zpao" data-testid="avatar-icon-link"><img data-component="Avatar" class="AuthorAvatar-module__authorAvatarImage__a3R8x prc-Avatar-Avatar-0xaUi" alt="zpao" width="16" height="16" style="--avatarSize-regular:16px" src="https://avatars.githubusercontent.com/u/8445?v=4&amp;size=32" data-testid="github-avatar" aria-label="zpao"/></a><a class="AuthorAvatar-module__authorHoverableLink__MHTT8 prc-Link-Link-9ZwDx" href="/facebook/react/commits?author=zpao" aria-label="commits by zpao" style="--author-font-weight:var(--base-text-weight-normal);--author-font-color:var(--fgColor-muted)">zpao</a></div><span class="pl-1">authored</span><div class="LoadingSkeleton-module__skeleton__euqGn LoadingSkeleton-module__rounded__J10DA d-none d-sm-flex ml-1" style="width:60px"></div><div class="LoadingSkeleton-module__skeleton__euqGn LoadingSkeleton-module__rounded__J10DA d-none d-sm-flex ml-2" style="width:20px"></div><div class="d-none d-sm-flex"></div></div></div></div></div><div class="MetadataContainer-module__container__YDbLz"><div class="Metadata-module__metadata__ocr9n Metadata-module__secondary__RkFvd"></div><div class="Metadata-module__metadata__ocr9n Metadata-module__secondary__RkFvd CommitRow-module__ListItemMetadata_0__W4Kqf"><div class="LoadingSkeleton-module__skeleton__euqGn LoadingSkeleton-module__rounded__J10DA d-none d-sm-flex" style="width:62px"></div></div><div class="Metadata-module__metadata__ocr9n Metadata-module__primary__XCEO2 d-none d-sm-flex px-0 gap-2"><div class="d-flex"><span role="tooltip" aria-label="View commit details" id="_R_5rntbkpl9b_" class="prc-Tooltip-Tooltip-JLsri prc-Tooltip-Tooltip--s-RbCQB tooltipped-s"><a type="button" sx="[object Object]" class="prc-Button-ButtonBase-9n-Xk" data-loading="false" data-no-visuals="true" data-size="small" data-variant="invisible" href="/facebook/react/commit/2c1e6bf619e404fd1ac464eb35eff4c09b3861b3" data-discover="true"><span data-component="buttonContent" data-align="center" class="prc-Button-ButtonContent-Iohp5"><span data-component="text" class="prc-Button-Label-FWkx3">2c1e6bf</span></span></a></span><div><button data-component="IconButton" type="button" class="prc-Button-ButtonBase-9n-Xk prc-Button-IconButton-fyge7" data-loading="false" data-no-visuals="true" data-size="small" data-variant="invisible" aria-labelledby="_R_9rntbkpl9b_"><svg aria-hidden="true" focusable="false" class="octicon octicon-copy" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path></svg></button><span class="CopyToClipboardButton-module__tooltip__BhMvU prc-TooltipV2-Tooltip-tLeuB" data-direction="s" aria-label="Copy full SHA for 2c1e6bf" aria-hidden="true" id="_R_9rntbkpl9b_">Copy full SHA for 2c1e6bf</span></div></div><span role="tooltip" aria-label="View code at this point" id="view-code-2c1e6bf" class="prc-Tooltip-Tooltip-JLsri prc-Tooltip-Tooltip--sw-FsNH8 tooltipped-sw"><a aria-labelledby="view-code-2c1e6bf" href="/facebook/react/blob/2c1e6bf619e404fd1ac464eb35eff4c09b3861b3/CODE_OF_CONDUCT.md" class="Button Button--iconOnly Button--invisible Button--small" data-testid="commit-row-view-code"><svg aria-hidden="true" focusable="false" class="octicon octicon-file-code" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M4 1.75C4 .784 4.784 0 5.75 0h5.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v8.586A1.75 1.75 0 0 1 14.25 15h-9a.75.75 0 0 1 0-1.5h9a.25.25 0 0 0 .25-.25V6h-2.75A1.75 1.75 0 0 1 10 4.25V1.5H5.75a.25.25 0 0 0-.25.25v2.5a.75.75 0 0 1-1.5 0Zm1.72 4.97a.75.75 0 0 1 1.06 0l2 2a.75.75 0 0 1 0 1.06l-2 2a.749.749 0 0 1-1.275-.326.749.749 0 0 1 .215-.734l1.47-1.47-1.47-1.47a.75.75 0 0 1 0-1.06ZM3.28 7.78 1.81 9.25l1.47 1.47a.751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018l-2-2a.75.75 0 0 1 0-1.06l2-2a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042Zm8.22-6.218V4.25c0 .138.112.25.25.25h2.688l-.011-.013-2.914-2.914-.013-.011Z"></path></svg></a></span><span role="tooltip" aria-label="Browse repository at this point" id="browse-repo-2c1e6bf" class="prc-Tooltip-Tooltip-JLsri prc-Tooltip-Tooltip--sw-FsNH8 tooltipped-sw"><a aria-labelledby="browse-repo-2c1e6bf" href="/facebook/react/tree/2c1e6bf619e404fd1ac464eb35eff4c09b3861b3" class="Button Button--iconOnly Button--invisible Button--small" data-testid="commit-row-browse-repo"><svg aria-hidden="true" focusable="false" class="octicon octicon-code" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="m11.28 3.22 4.25 4.25a.75.75 0 0 1 0 1.06l-4.25 4.25a.749.749 0 0 1-1.275-.326.749.749 0 0 1 .215-.734L13.94 8l-3.72-3.72a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215Zm-6.56 0a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042L2.06 8l3.72 3.72a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L.47 8.53a.75.75 0 0 1 0-1.06Z"></path></svg></a></span></div></div><!--$!--><template></template><!--/$--></li></ul></div></div></div></div><div class="TimelineRow-module__timelineRowItem__feuol Timeline-Item prc-Timeline-TimelineItem-QwDVH"><div class="prc-Timeline-TimelineBadgeWrapper-SZw4k"><div class="TimelineRow-module__timelineRowBadge__YaFlf prc-Timeline-TimelineBadge-u0qSm"><svg aria-hidden="true" focusable="false" class="octicon octicon-git-commit" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M11.93 8.5a4.002 4.002 0 0 1-7.86 0H.75a.75.75 0 0 1 0-1.5h3.32a4.002 4.002 0 0 1 7.86 0h3.32a.75.75 0 0 1 0 1.5Zm-1.43-.75a2.5 2.5 0 1 0-5 0 2.5 2.5 0 0 0 5 0Z"></path></svg></div></div><div class="mt-0 prc-Timeline-TimelineBody-tjOtb"><h3 class="text-normal f5 py-1 prc-Heading-Heading-MtWFE" id="_R_4kpl9b_" data-testid="commit-group-title">Commits on Jun 29, 2018</h3><div class="color-bg-default position-relative border rounded-2 color-border-default mt-2 d-flex flex-column CommitGroup-module__panel__Pfvdu"><div id="_R_5ckpl9b_-list-view-container" class="ListView-module__container__CfCNF"><ul class="ListView-module__ul__uMK30" aria-labelledby="_R_4kpl9b_" tabindex="-1" role="list" data-listview-component="items-list" data-density="default"><li id="_R_5ckpl9b_-list-view-node-_R_7tckpl9b_" class="ListItem-module__listItem__wBJcm CommitRow-module__ListItem_0__u0LMo" tabindex="-1" aria-label="More information available below." data-testid="commit-row-item" data-commit-link="/facebook/react/commit/bf32a3d1958290b055dc4c34189308a9417a45e4"><div class="Title-module__container__ZzhV_ CommitRow-module__ListItemTitle_0__cUhJS" data-listview-item-title-container="true"><h4 class="Title-module__heading__tHuYV CommitRow-module__ListItemTitle_0__cUhJS"><a class="Title-module__anchor__dBbYy Title-module__inline__YFTZT" href="/facebook/react/commit/bf32a3d1958290b055dc4c34189308a9417a45e4"><span>Updated url to Code of Conduct page (#13126)</span></a></h4><span class="Title-module__trailingBadgesContainer__INeSa"></span><button data-component="IconButton" type="button" data-testid="commit-row-show-description-button" aria-pressed="false" aria-expanded="false" class="prc-Button-ButtonBase-9n-Xk Button Button--iconOnly Button--invisible Button--small ml-1 prc-Button-IconButton-fyge7" data-loading="false" data-no-visuals="true" data-size="medium" data-variant="default" aria-describedby="show-description-bf32a3d" aria-labelledby="show-description-bf32a3d"><svg aria-hidden="true" focusable="false" class="octicon octicon-ellipsis" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M0 5.75C0 4.784.784 4 1.75 4h12.5c.966 0 1.75.784 1.75 1.75v4.5A1.75 1.75 0 0 1 14.25 12H1.75A1.75 1.75 0 0 1 0 10.25ZM12 7a1 1 0 1 0 0 2 1 1 0 0 0 0-2ZM7 8a1 1 0 1 0 2 0 1 1 0 0 0-2 0ZM4 7a1 1 0 1 0 0 2 1 1 0 0 0 0-2Z"></path></svg></button><span class="prc-TooltipV2-Tooltip-tLeuB" data-direction="s" aria-label="Show description for bf32a3d" role="tooltip" aria-hidden="true" id="show-description-bf32a3d">Show description for bf32a3d</span></div><div class="px-1"></div><div class="MainContent-module__container__uXXH2"><div class="MainContent-module__inner__C80co"><div class="Description-module__container__hpqJz"><div class="CommitAttribution-module__CommitAttributionContainer__I_rfs"><span data-variant="cascade" data-shape="circle" data-avatar-count="3" data-responsive="" class="pc-AvatarStack--variant pc-AvatarStack--shape pc-AvatarStack--three prc-AvatarStack-AvatarStack-vkIK2" style="--stackSize-narrow:20px;--stackSize-regular:20px;--stackSize-wide:20px"><div class="pc-AvatarStackBody prc-AvatarStack-AvatarStackBody-JFK4u" tabindex="0"> <img data-component="Avatar" class="pc-AvatarItem prc-AvatarStack-AvatarItem-70eW3 prc-Avatar-Avatar-0xaUi" alt="Hilbrand" width="16" height="16" style="--avatarSize-regular:16px" src="https://avatars.githubusercontent.com/u/1272873?v=4&amp;size=32" data-testid="commit-stack-avatar"/><img data-component="Avatar" class="pc-AvatarItem prc-AvatarStack-AvatarItem-70eW3 prc-Avatar-Avatar-0xaUi" alt="gaearon" width="16" height="16" style="--avatarSize-regular:16px" src="https://avatars.githubusercontent.com/u/810438?v=4&amp;size=32" data-testid="commit-stack-avatar"/></div></span><div data-testid="author-link" class="AuthorLink-module__authorLinkContainer__RsptC CommitAttribution-module__AuthorLink__DV7CP"><a class="AuthorLink-module__authorNameLink__ClG6W prc-Link-Link-9ZwDx" href="/facebook/react/commits?author=Hilbrand" aria-label="commits by Hilbrand" style="--author-font-weight:var(--base-text-weight-normal);--author-font-color:var(--fgColor-muted)">Hilbrand</a></div><span class="pl-1">authored and</span><div data-testid="author-link" class="AuthorLink-module__authorLinkContainer__RsptC CommitAttribution-module__AuthorLink__DV7CP"><a class="AuthorLink-module__authorNameLink__ClG6W prc-Link-Link-9ZwDx" href="/facebook/react/commits?author=gaearon" aria-label="commits by gaearon" style="--author-font-weight:var(--base-text-weight-normal);--author-font-color:var(--fgColor-muted)">gaearon</a></div><span class="pl-1">committed</span><div class="LoadingSkeleton-module__skeleton__euqGn LoadingSkeleton-module__rounded__J10DA d-none d-sm-flex ml-1" style="width:60px"></div><div class="LoadingSkeleton-module__skeleton__euqGn LoadingSkeleton-module__rounded__J10DA d-none d-sm-flex ml-2" style="width:20px"></div><div class="d-none d-sm-flex"></div></div></div></div></div><div class="MetadataContainer-module__container__YDbLz"><div class="Metadata-module__metadata__ocr9n Metadata-module__secondary__RkFvd"></div><div class="Metadata-module__metadata__ocr9n Metadata-module__secondary__RkFvd CommitRow-module__ListItemMetadata_0__W4Kqf"><div class="LoadingSkeleton-module__skeleton__euqGn LoadingSkeleton-module__rounded__J10DA d-none d-sm-flex" style="width:62px"></div></div><div class="Metadata-module__metadata__ocr9n Metadata-module__primary__XCEO2 d-none d-sm-flex px-0 gap-2"><div class="d-flex"><span role="tooltip" aria-label="View commit details" id="_R_5rntckpl9b_" class="prc-Tooltip-Tooltip-JLsri prc-Tooltip-Tooltip--s-RbCQB tooltipped-s"><a type="button" sx="[object Object]" class="prc-Button-ButtonBase-9n-Xk" data-loading="false" data-no-visuals="true" data-size="small" data-variant="invisible" href="/facebook/react/commit/bf32a3d1958290b055dc4c34189308a9417a45e4" data-discover="true"><span data-component="buttonContent" data-align="center" class="prc-Button-ButtonContent-Iohp5"><span data-component="text" class="prc-Button-Label-FWkx3">bf32a3d</span></span></a></span><div><button data-component="IconButton" type="button" class="prc-Button-ButtonBase-9n-Xk prc-Button-IconButton-fyge7" data-loading="false" data-no-visuals="true" data-size="small" data-variant="invisible" aria-labelledby="_R_9rntckpl9b_"><svg aria-hidden="true" focusable="false" class="octicon octicon-copy" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path></svg></button><span class="CopyToClipboardButton-module__tooltip__BhMvU prc-TooltipV2-Tooltip-tLeuB" data-direction="s" aria-label="Copy full SHA for bf32a3d" aria-hidden="true" id="_R_9rntckpl9b_">Copy full SHA for bf32a3d</span></div></div><span role="tooltip" aria-label="View code at this point" id="view-code-bf32a3d" class="prc-Tooltip-Tooltip-JLsri prc-Tooltip-Tooltip--sw-FsNH8 tooltipped-sw"><a aria-labelledby="view-code-bf32a3d" href="/facebook/react/blob/bf32a3d1958290b055dc4c34189308a9417a45e4/CODE_OF_CONDUCT.md" class="Button Button--iconOnly Button--invisible Button--small" data-testid="commit-row-view-code"><svg aria-hidden="true" focusable="false" class="octicon octicon-file-code" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M4 1.75C4 .784 4.784 0 5.75 0h5.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v8.586A1.75 1.75 0 0 1 14.25 15h-9a.75.75 0 0 1 0-1.5h9a.25.25 0 0 0 .25-.25V6h-2.75A1.75 1.75 0 0 1 10 4.25V1.5H5.75a.25.25 0 0 0-.25.25v2.5a.75.75 0 0 1-1.5 0Zm1.72 4.97a.75.75 0 0 1 1.06 0l2 2a.75.75 0 0 1 0 1.06l-2 2a.749.749 0 0 1-1.275-.326.749.749 0 0 1 .215-.734l1.47-1.47-1.47-1.47a.75.75 0 0 1 0-1.06ZM3.28 7.78 1.81 9.25l1.47 1.47a.751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018l-2-2a.75.75 0 0 1 0-1.06l2-2a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042Zm8.22-6.218V4.25c0 .138.112.25.25.25h2.688l-.011-.013-2.914-2.914-.013-.011Z"></path></svg></a></span><span role="tooltip" aria-label="Browse repository at this point" id="browse-repo-bf32a3d" class="prc-Tooltip-Tooltip-JLsri prc-Tooltip-Tooltip--sw-FsNH8 tooltipped-sw"><a aria-labelledby="browse-repo-bf32a3d" href="/facebook/react/tree/bf32a3d1958290b055dc4c34189308a9417a45e4" class="Button Button--iconOnly Button--invisible Button--small" data-testid="commit-row-browse-repo"><svg aria-hidden="true" focusable="false" class="octicon octicon-code" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="m11.28 3.22 4.25 4.25a.75.75 0 0 1 0 1.06l-4.25 4.25a.749.749 0 0 1-1.275-.326.749.749 0 0 1 .215-.734L13.94 8l-3.72-3.72a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215Zm-6.56 0a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042L2.06 8l3.72 3.72a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L.47 8.53a.75.75 0 0 1 0-1.06Z"></path></svg></a></span></div></div><!--$!--><template></template><!--/$--></li></ul></div></div></div></div><div class="TimelineRow-module__timelineRowItem__feuol Timeline-Item prc-Timeline-TimelineItem-QwDVH"><div class="prc-Timeline-TimelineBadgeWrapper-SZw4k"><div class="TimelineRow-module__timelineRowBadge__YaFlf prc-Timeline-TimelineBadge-u0qSm"><svg aria-hidden="true" focusable="false" class="octicon octicon-git-commit" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M11.93 8.5a4.002 4.002 0 0 1-7.86 0H.75a.75.75 0 0 1 0-1.5h3.32a4.002 4.002 0 0 1 7.86 0h3.32a.75.75 0 0 1 0 1.5Zm-1.43-.75a2.5 2.5 0 1 0-5 0 2.5 2.5 0 0 0 5 0Z"></path></svg></div></div><div class="mt-0 prc-Timeline-TimelineBody-tjOtb"><h3 class="text-normal f5 py-1 prc-Heading-Heading-MtWFE" id="_R_5kpl9b_" data-testid="commit-group-title">Commits on Nov 10, 2017</h3><div class="color-bg-default position-relative border rounded-2 color-border-default mt-2 d-flex flex-column CommitGroup-module__panel__Pfvdu"><div id="_R_5dkpl9b_-list-view-container" class="ListView-module__container__CfCNF"><ul class="ListView-module__ul__uMK30" aria-labelledby="_R_5kpl9b_" tabindex="-1" role="list" data-listview-component="items-list" data-density="default"><li id="_R_5dkpl9b_-list-view-node-_R_7tdkpl9b_" class="ListItem-module__listItem__wBJcm CommitRow-module__ListItem_0__u0LMo" tabindex="-1" aria-label="More information available below." data-testid="commit-row-item" data-commit-link="/facebook/react/commit/365c2db55eb43508dafa0a12aeb72bd36ccaf4a8"><div class="Title-module__container__ZzhV_ CommitRow-module__ListItemTitle_0__cUhJS" data-listview-item-title-container="true"><h4 class="Title-module__heading__tHuYV CommitRow-module__ListItemTitle_0__cUhJS"><a class="Title-module__anchor__dBbYy Title-module__inline__YFTZT" href="/facebook/react/commit/365c2db55eb43508dafa0a12aeb72bd36ccaf4a8"><span>Add `CODE_OF_CONDUCT.md` (#11512)</span></a></h4><span class="Title-module__trailingBadgesContainer__INeSa"></span><button data-component="IconButton" type="button" data-testid="commit-row-show-description-button" aria-pressed="false" aria-expanded="false" class="prc-Button-ButtonBase-9n-Xk Button Button--iconOnly Button--invisible Button--small ml-1 prc-Button-IconButton-fyge7" data-loading="false" data-no-visuals="true" data-size="medium" data-variant="default" aria-describedby="show-description-365c2db" aria-labelledby="show-description-365c2db"><svg aria-hidden="true" focusable="false" class="octicon octicon-ellipsis" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M0 5.75C0 4.784.784 4 1.75 4h12.5c.966 0 1.75.784 1.75 1.75v4.5A1.75 1.75 0 0 1 14.25 12H1.75A1.75 1.75 0 0 1 0 10.25ZM12 7a1 1 0 1 0 0 2 1 1 0 0 0 0-2ZM7 8a1 1 0 1 0 2 0 1 1 0 0 0-2 0ZM4 7a1 1 0 1 0 0 2 1 1 0 0 0 0-2Z"></path></svg></button><span class="prc-TooltipV2-Tooltip-tLeuB" data-direction="s" aria-label="Show description for 365c2db" role="tooltip" aria-hidden="true" id="show-description-365c2db">Show description for 365c2db</span></div><div class="px-1"></div><div class="MainContent-module__container__uXXH2"><div class="MainContent-module__inner__C80co"><div class="Description-module__container__hpqJz"><div class="CommitAttribution-module__CommitAttributionContainer__I_rfs"><div data-testid="author-avatar" class="AuthorAvatar-module__AuthorAvatarContainer__n0MVc"><a class="prc-Link-Link-9ZwDx" href="/flarnie" data-testid="avatar-icon-link"><img data-component="Avatar" class="AuthorAvatar-module__authorAvatarImage__a3R8x prc-Avatar-Avatar-0xaUi" alt="flarnie" width="16" height="16" style="--avatarSize-regular:16px" src="https://avatars.githubusercontent.com/u/1114467?v=4&amp;size=32" data-testid="github-avatar" aria-label="flarnie"/></a><a class="AuthorAvatar-module__authorHoverableLink__MHTT8 prc-Link-Link-9ZwDx" href="/facebook/react/commits?author=flarnie" aria-label="commits by flarnie" style="--author-font-weight:var(--base-text-weight-normal);--author-font-color:var(--fgColor-muted)">flarnie</a></div><span class="pl-1">authored</span><div class="LoadingSkeleton-module__skeleton__euqGn LoadingSkeleton-module__rounded__J10DA d-none d-sm-flex ml-1" style="width:60px"></div><div class="LoadingSkeleton-module__skeleton__euqGn LoadingSkeleton-module__rounded__J10DA d-none d-sm-flex ml-2" style="width:20px"></div><div class="d-none d-sm-flex"></div></div></div></div></div><div class="MetadataContainer-module__container__YDbLz"><div class="Metadata-module__metadata__ocr9n Metadata-module__secondary__RkFvd"></div><div class="Metadata-module__metadata__ocr9n Metadata-module__secondary__RkFvd CommitRow-module__ListItemMetadata_0__W4Kqf"><div class="LoadingSkeleton-module__skeleton__euqGn LoadingSkeleton-module__rounded__J10DA d-none d-sm-flex" style="width:62px"></div></div><div class="Metadata-module__metadata__ocr9n Metadata-module__primary__XCEO2 d-none d-sm-flex px-0 gap-2"><div class="d-flex"><span role="tooltip" aria-label="View commit details" id="_R_5rntdkpl9b_" class="prc-Tooltip-Tooltip-JLsri prc-Tooltip-Tooltip--s-RbCQB tooltipped-s"><a type="button" sx="[object Object]" class="prc-Button-ButtonBase-9n-Xk" data-loading="false" data-no-visuals="true" data-size="small" data-variant="invisible" href="/facebook/react/commit/365c2db55eb43508dafa0a12aeb72bd36ccaf4a8" data-discover="true"><span data-component="buttonContent" data-align="center" class="prc-Button-ButtonContent-Iohp5"><span data-component="text" class="prc-Button-Label-FWkx3">365c2db</span></span></a></span><div><button data-component="IconButton" type="button" class="prc-Button-ButtonBase-9n-Xk prc-Button-IconButton-fyge7" data-loading="false" data-no-visuals="true" data-size="small" data-variant="invisible" aria-labelledby="_R_9rntdkpl9b_"><svg aria-hidden="true" focusable="false" class="octicon octicon-copy" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path></svg></button><span class="CopyToClipboardButton-module__tooltip__BhMvU prc-TooltipV2-Tooltip-tLeuB" data-direction="s" aria-label="Copy full SHA for 365c2db" aria-hidden="true" id="_R_9rntdkpl9b_">Copy full SHA for 365c2db</span></div></div><span role="tooltip" aria-label="View code at this point" id="view-code-365c2db" class="prc-Tooltip-Tooltip-JLsri prc-Tooltip-Tooltip--sw-FsNH8 tooltipped-sw"><a aria-labelledby="view-code-365c2db" href="/facebook/react/blob/365c2db55eb43508dafa0a12aeb72bd36ccaf4a8/CODE_OF_CONDUCT.md" class="Button Button--iconOnly Button--invisible Button--small" data-testid="commit-row-view-code"><svg aria-hidden="true" focusable="false" class="octicon octicon-file-code" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M4 1.75C4 .784 4.784 0 5.75 0h5.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v8.586A1.75 1.75 0 0 1 14.25 15h-9a.75.75 0 0 1 0-1.5h9a.25.25 0 0 0 .25-.25V6h-2.75A1.75 1.75 0 0 1 10 4.25V1.5H5.75a.25.25 0 0 0-.25.25v2.5a.75.75 0 0 1-1.5 0Zm1.72 4.97a.75.75 0 0 1 1.06 0l2 2a.75.75 0 0 1 0 1.06l-2 2a.749.749 0 0 1-1.275-.326.749.749 0 0 1 .215-.734l1.47-1.47-1.47-1.47a.75.75 0 0 1 0-1.06ZM3.28 7.78 1.81 9.25l1.47 1.47a.751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018l-2-2a.75.75 0 0 1 0-1.06l2-2a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042Zm8.22-6.218V4.25c0 .138.112.25.25.25h2.688l-.011-.013-2.914-2.914-.013-.011Z"></path></svg></a></span><span role="tooltip" aria-label="Browse repository at this point" id="browse-repo-365c2db" class="prc-Tooltip-Tooltip-JLsri prc-Tooltip-Tooltip--sw-FsNH8 tooltipped-sw"><a aria-labelledby="browse-repo-365c2db" href="/facebook/react/tree/365c2db55eb43508dafa0a12aeb72bd36ccaf4a8" class="Button Button--iconOnly Button--invisible Button--small" data-testid="commit-row-browse-repo"><svg aria-hidden="true" focusable="false" class="octicon octicon-code" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="m11.28 3.22 4.25 4.25a.75.75 0 0 1 0 1.06l-4.25 4.25a.749.749 0 0 1-1.275-.326.749.749 0 0 1 .215-.734L13.94 8l-3.72-3.72a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215Zm-6.56 0a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042L2.06 8l3.72 3.72a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L.47 8.53a.75.75 0 0 1 0-1.06Z"></path></svg></a></span></div></div><!--$!--><template></template><!--/$--></li></ul></div></div></div></div><div class="TimelineRow-module__timelineRowItem__feuol Timeline-Item prc-Timeline-TimelineItem-QwDVH"><div class="prc-Timeline-TimelineBadgeWrapper-SZw4k"><div class="TimelineRow-module__timelineRowBadge__YaFlf prc-Timeline-TimelineBadge-u0qSm"><span class="prc-Spinner-Box-Y-ke-"><svg height="16px" width="16px" viewBox="0 0 16 16" fill="none" aria-hidden="true" aria-labelledby="_R_5spl9b_" class="prc-Spinner-SpinnerAnimation-tutJZ"><circle cx="8" cy="8" r="7" stroke="currentColor" stroke-opacity="0.25" stroke-width="2" vector-effect="non-scaling-stroke"></circle><path d="M15 8a7.002 7.002 0 00-7-7" stroke="currentColor" stroke-width="2" stroke-linecap="round" vector-effect="non-scaling-stroke"></path></svg><span class="prc-VisuallyHidden-VisuallyHidden-Q0qSB" id="_R_5spl9b_">Loading</span></span></div></div><div class="mt-0 prc-Timeline-TimelineBody-tjOtb"></div></div></div></div></div></div></div></div></div></div> <!-- --> <script type="application/json" id="__PRIMER_DATA__R_0___">{"resolvedServerColorMode":"day"}</script></div>
+</react-app>
 
 
-        <div class="tmp-mr-4 mb-2">
-          <a href="/zloirock/core-js/tree/v3.31.0" data-view-component="true" class="Link Link--muted"><span data-view-component="true" class="css-truncate css-truncate-target">
-              <svg aria-label="Tag" role="img" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-tag">
-    <path d="M1 7.775V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 0 1 0 2.474l-5.026 5.026a1.75 1.75 0 0 1-2.474 0l-6.25-6.25A1.752 1.752 0 0 1 1 7.775Zm1.5 0c0 .066.026.13.073.177l6.25 6.25a.25.25 0 0 0 .354 0l5.025-5.025a.25.25 0 0 0 0-.354l-6.25-6.25a.25.25 0 0 0-.177-.073H2.75a.25.25 0 0 0-.25.25ZM6 5a1 1 0 1 1 0 2 1 1 0 0 1 0-2Z"></path>
-</svg>
-              <span class="ml-1">
-                v3.31.0
-              </span>
-</span></a>          
-        </div>
-        <div class="tmp-mr-4 mb-2" style="position: relative; top: 1px;">
-          <a data-hovercard-type="commit" data-hovercard-url="/zloirock/core-js/commit/199c633ee517a496ce789498a76ad8eeeecfc3a0/hovercard" href="/zloirock/core-js/commit/199c633ee517a496ce789498a76ad8eeeecfc3a0" data-view-component="true" class="Link Link--muted"><svg aria-label="Commit" role="img" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-git-commit">
-    <path d="M11.93 8.5a4.002 4.002 0 0 1-7.86 0H.75a.75.75 0 0 1 0-1.5h3.32a4.002 4.002 0 0 1 7.86 0h3.32a.75.75 0 0 1 0 1.5Zm-1.43-.75a2.5 2.5 0 1 0-5 0 2.5 2.5 0 0 0 5 0Z"></path>
-</svg>
-              <code class="f5 ml-1">199c633</code></a>          
-        </div>
-
-</div>
-  </div>
-        <div data-pjax="true" data-test-selector="body-content" data-view-component="true" class="markdown-body tmp-my-3"><ul>
-<li><a href="https://github.com/tc39/proposal-is-usv-string">Well-formed unicode strings proposal</a>:
-<ul>
-<li>Methods:
-<ul>
-<li><code>String.prototype.isWellFormed</code> method</li>
-<li><code>String.prototype.toWellFormed</code> method</li>
-</ul>
-</li>
-<li>Moved to stable ES, <a href="https://github.com/tc39/notes/blob/main/meetings/2023-05/may-15.md#well-formed-unicode-strings-for-stage-4">May 2023 TC39 meeting</a></li>
-<li>Added <code>es.</code> namespace modules, <code>/es/</code> and <code>/stable/</code> namespaces entries</li>
-</ul>
-</li>
-<li><a href="https://github.com/tc39/proposal-array-grouping"><code>Array</code> grouping proposal</a>, <a href="https://github.com/tc39/notes/blob/main/meetings/2023-05/may-16.md#arrayprototypegroup-rename-for-web-compatibility">May 2023 TC39 meeting updates</a>:
-<ul>
-<li>Because of the <a href="https://github.com/tc39/proposal-array-grouping/issues/44" data-hovercard-type="issue" data-hovercard-url="/tc39/proposal-array-grouping/issues/44/hovercard">web compat issue</a>, <a href="https://github.com/tc39/proposal-array-grouping/pull/47" data-hovercard-type="pull_request" data-hovercard-url="/tc39/proposal-array-grouping/pull/47/hovercard">moved from prototype to static methods</a>. Added:
-<ul>
-<li><code>Object.groupBy</code> method</li>
-<li><code>Map.groupBy</code> method (with the actual semantic - with a minor difference it was present <a href="https://github.com/tc39/proposal-collection-methods">in the collections methods stage 1 proposal</a>)</li>
-</ul>
-</li>
-<li>Demoted to stage 2</li>
-</ul>
-</li>
-<li><a href="https://github.com/tc39/proposal-decorator-metadata">Decorator Metadata proposal</a>, <a href="https://github.com/tc39/notes/blob/main/meetings/2023-05/may-16.md#decorator-metadata-for-stage-3">May 2023 TC39 meeting updates</a>:
-<ul>
-<li>Moved to stage 3</li>
-<li>Added <code>Function.prototype[Symbol.metadata]</code> (<code>=== null</code>)</li>
-<li>Added <code>/actual/</code> entries</li>
-</ul>
-</li>
-<li><a href="https://github.com/tc39/proposal-iterator-helpers">Iterator Helpers stage 3 proposal</a>:
-<ul>
-<li>Changed <code>Symbol.iterator</code> fallback from callable check to <code>undefined</code> / <code>null</code> check, <a href="https://github.com/tc39/notes/blob/main/meetings/2023-05/may-16.md#iterator-helpers-should-symboliterator-fallback-be-a-callable-check-or-an-undefinednull-check">May 2023 TC39 meeting</a>, <a href="https://github.com/tc39/proposal-iterator-helpers/pull/272" data-hovercard-type="pull_request" data-hovercard-url="/tc39/proposal-iterator-helpers/pull/272/hovercard">proposal-iterator-helpers/272</a></li>
-<li>Removed <code>IsCallable</code> check on <code>NextMethod</code>, deferring errors to <code>Call</code> site, <a href="https://github.com/tc39/notes/blob/main/meetings/2023-05/may-16.md#iterator-helpers-should-malformed-iterators-fail-early-or-fail-only-when-iterated">May 2023 TC39 meeting</a>, <a href="https://github.com/tc39/proposal-iterator-helpers/pull/274" data-hovercard-type="pull_request" data-hovercard-url="/tc39/proposal-iterator-helpers/pull/274/hovercard">proposal-iterator-helpers/274</a></li>
-</ul>
-</li>
-<li>Added <a href="https://github.com/tc39/proposal-promise-with-resolvers"><code>Promise.withResolvers</code> stage 2 proposal</a>:
-<ul>
-<li><code>Promise.withResolvers</code> method</li>
-</ul>
-</li>
-<li><a href="https://github.com/tc39/proposal-symbol-predicates"><code>Symbol</code> predicates stage 2 proposal</a>:
-<ul>
-<li>The methods renamed to end with <code>Symbol</code>, <a href="https://github.com/tc39/notes/blob/main/meetings/2023-05/may-15.md#symbol-predicates">May 2023 TC39 meeting</a>:
-<ul>
-<li><code>Symbol.isRegistered</code> -&gt; <code>Symbol.isRegisteredSymbol</code> method</li>
-<li><code>Symbol.isWellKnown</code> -&gt; <code>Symbol.isWellKnownSymbol</code> method</li>
-</ul>
-</li>
-</ul>
-</li>
-<li>Added <code>value</code> argument of <code>URLSearchParams.prototype.{ has, delete }</code>, <a href="https://github.com/whatwg/url/pull/735" data-hovercard-type="pull_request" data-hovercard-url="/whatwg/url/pull/735/hovercard">url/735</a></li>
-<li>Fixed some cases of increasing buffer size in <code>ArrayBuffer.prototype.{ transfer, transferToFixedLength }</code> polyfills</li>
-<li>Fixed awaiting async <code>AsyncDisposableStack.prototype.adopt</code> callback, <a href="https://github.com/zloirock/core-js/issues/1258" data-hovercard-type="issue" data-hovercard-url="/zloirock/core-js/issues/1258/hovercard">#1258</a></li>
-<li>Fixed <code>URLSearchParams#size</code> in ES3 engines (IE8-)</li>
-<li>Added a workaround in <code>Object.{ entries, values }</code> for some IE versions bug with invisible integer keys on <code>null</code>-prototype objects</li>
-<li>Added TypeScript definitions to <code>core-js-compat</code>, <a href="https://github.com/zloirock/core-js/issues/1235" data-hovercard-type="pull_request" data-hovercard-url="/zloirock/core-js/pull/1235/hovercard">#1235</a>, thanks <a href="https://github.com/susnux"><strong>@susnux</strong></a></li>
-<li>Compat data improvements:
-<ul>
-<li><a href="https://github.com/tc39/proposal-set-methods"><code>Set.prototype.difference</code></a> that was missed in Bun because of <a href="https://github.com/oven-sh/bun/issues/2309" data-hovercard-type="issue" data-hovercard-url="/oven-sh/bun/issues/2309/hovercard">a bug</a> added in 0.6.0</li>
-<li><code>Array.prototype.{ group, groupToMap }</code> marked as no longer supported in WebKit runtimes because of the mentioned above web compat issue. For example, it's disabled from Bun 0.6.2</li>
-<li>Methods from the <a href="https://github.com/tc39/proposal-change-array-by-copy">change <code>Array</code> by copy proposal</a> marked as supported from FF115</li>
-<li><a href="https://github.com/tc39/proposal-array-from-async"><code>Array.fromAsync</code></a> marked as supported from FF115</li>
-<li><a href="https://url.spec.whatwg.org/#dom-url-canparse" rel="nofollow"><code>URL.canParse</code></a> marked as supported from FF115</li>
-<li><code>value</code> argument of <code>URLSearchParams.prototype.{ has, delete }</code> marked as supported from <a href="https://github.com/nodejs/node/pull/47885" data-hovercard-type="pull_request" data-hovercard-url="/nodejs/node/pull/47885/hovercard">NodeJS 20.2.0</a> and FF115</li>
-<li>Added Deno 1.34 compat data mapping</li>
-<li>Added Electron 26 compat data mapping</li>
-<li>Added Samsung Internet 22 compat data mapping</li>
-<li>Added Opera Android 75 and 76 compat data mapping</li>
-<li>Added Quest Browser 27 compat data mapping</li>
-</ul>
-</li>
-</ul></div>
-</div>
-  <div data-view-component="true" class="Box-footer">
-        <div class="tmp-mb-3">
-          <details-toggle>
-    <details open="open" data-target="details-toggle.detailsTarget" data-view-component="true">
-      <summary role="button" data-target="details-toggle.summaryTarget" data-action="click:details-toggle#toggle" aria-expanded="true" data-view-component="true">    <span class="d-inline-flex flex-items-center">
-      <span data-view-component="true" class="f3 text-bold ml-2 tmp-ml-2 mr-2 tmp-mr-2">Assets</span>
-      <span title="2" data-view-component="true" class="Counter">2</span>
-    </span>
-</summary>
-      <div data-view-component="true">      <include-fragment loading="lazy" src="https://github.com/zloirock/core-js/releases/expanded_assets/v3.31.0" data-nonce="v2:1c27e6fe-67b3-2513-dc50-89298d43cd4f" data-view-component="true">
-  
-        <span data-view-component="true">
-  <svg style="box-sizing: content-box; color: var(--color-icon-primary);" width="32" height="32" viewBox="0 0 16 16" fill="none" aria-hidden="true" data-view-component="true" class="anim-rotate">
-    <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-opacity="0.25" stroke-width="2" vector-effect="non-scaling-stroke" fill="none"></circle>
-    <path d="M15 8a7.002 7.002 0 00-7-7" stroke="currentColor" stroke-width="2" stroke-linecap="round" vector-effect="non-scaling-stroke"></path>
-</svg>    <span class="sr-only">Loading</span>
-</span>
-
-  <div data-show-on-forbidden-error hidden>
-    <div class="Box">
-  <div class="blankslate-container">
-    <div data-view-component="true" class="blankslate blankslate-spacious color-bg-default rounded-2">
-      
-
-      <h3 data-view-component="true" class="blankslate-heading">        Uh oh!
-</h3>
-      <p data-view-component="true" class="blankslate-description">        <p class="color-fg-muted my-2 mb-2 ws-normal">There was an error while loading. <a class="Link--inTextBlock" data-turbo="false" href="" aria-label="Please reload this page">Please reload this page</a>.</p>
-</p>
-
-</div>  </div>
-</div>  </div>
-</include-fragment></div>
-</details></details-toggle>
-
-        </div>
-
-
-          <div class="d-flex flex-row flex-wrap flex-justify-between js-comment">
-              <div data-view-component="true" class="comment-reactions js-reactions-container js-reaction-buttons-container social-reactions reactions-container has-reactions d-flex">
-  <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-pick-reaction" data-turbo="false" action="/zloirock/core-js/reactions" accept-charset="UTF-8" method="post"><input type="hidden" name="_method" value="put" autocomplete="off" /><input type="hidden" name="authenticity_token" value="0VzPOuM9ZJvToUaOGy28YqRXHNJDUorWAPFN_uuudNo-kINIQ3f7nO28apTEPVhHjCQgpXS9Cbkdma6nsEQADA" autocomplete="off" />
-    <input type="hidden" name="input[subjectId]" value="RE_kwDOAK8w-s4Gcjp9">
-    <div  class="js-comment-reactions-options d-flex flex-items-center flex-row flex-wrap">
-          <button name="input[content]" id="reactions--reaction_button_component-504f1f" value="THUMBS_UP react" data-button-index-position="0" data-reaction-label="+1" data-reaction-content="+1" aria-pressed="false" aria-label="thumbs up (16): zloirock, 07:49PM on June 11, 2023" type="submit" disabled="disabled" data-view-component="true" class="social-reaction-summary-item js-reaction-group-button tmp-mr-1 btn-link d-flex no-underline color-fg-muted flex-items-baseline">    <g-emoji alias="+1" fallback-src="https://github.githubassets.com/assets/1f44d-41cb66fe1e22.png" class="social-button-emoji">👍</g-emoji>
-            <span class="js-discussion-reaction-group-count">16</span>
-</button>  <tool-tip id="tooltip-09a9c487-3ff8-4d4b-9a7a-d64235780586" for="reactions--reaction_button_component-504f1f" popover="manual" data-direction="n" data-type="description" data-view-component="true" class="sr-only position-absolute">petamoriken, jynxio, xieyhn, hustcer, scc02, rodamaral, Berrones-Edwin, Elsie19, imaxing, ntnyq, and 6 more reacted with thumbs up emoji</tool-tip>
-          <button name="input[content]" id="reactions--reaction_button_component-a8c2a7" value="LAUGH react" data-button-index-position="2" data-reaction-label="Laugh" data-reaction-content="smile" aria-pressed="false" aria-label="laugh (2): zloirock, 07:49PM on June 11, 2023" type="submit" disabled="disabled" data-view-component="true" class="social-reaction-summary-item js-reaction-group-button tmp-mr-1 btn-link d-flex no-underline color-fg-muted flex-items-baseline">    <g-emoji alias="smile" fallback-src="https://github.githubassets.com/assets/1f604-7528822fb4c5.png" class="social-button-emoji">😄</g-emoji>
-            <span class="js-discussion-reaction-group-count">2</span>
-</button>  <tool-tip id="tooltip-b80178cf-db78-4dcd-9c51-01e4e337bdf1" for="reactions--reaction_button_component-a8c2a7" popover="manual" data-direction="n" data-type="description" data-view-component="true" class="sr-only position-absolute">Rudxain and Jmenache reacted with laugh emoji</tool-tip>
-          <button name="input[content]" id="reactions--reaction_button_component-de582a" value="HOORAY react" data-button-index-position="3" data-reaction-label="Hooray" data-reaction-content="tada" aria-pressed="false" aria-label="hooray (6): zloirock, 07:49PM on June 11, 2023" type="submit" disabled="disabled" data-view-component="true" class="social-reaction-summary-item js-reaction-group-button tmp-mr-1 btn-link d-flex no-underline color-fg-muted flex-items-baseline">    <g-emoji alias="tada" fallback-src="https://github.githubassets.com/assets/1f389-36899a2cb781.png" class="social-button-emoji">🎉</g-emoji>
-            <span class="js-discussion-reaction-group-count">6</span>
-</button>  <tool-tip id="tooltip-ff5b2eff-324c-4b1e-99df-2677c122db5e" for="reactions--reaction_button_component-de582a" popover="manual" data-direction="n" data-type="description" data-view-component="true" class="sr-only position-absolute">x-N0, versun, theoparis, hustcer, jd-solanki, and Jmenache reacted with hooray emoji</tool-tip>
-          <button name="input[content]" id="reactions--reaction_button_component-286c74" value="HEART react" data-button-index-position="5" data-reaction-label="Heart" data-reaction-content="heart" aria-pressed="false" aria-label="heart (14): zloirock, 07:49PM on June 11, 2023" type="submit" disabled="disabled" data-view-component="true" class="social-reaction-summary-item js-reaction-group-button tmp-mr-1 btn-link d-flex no-underline color-fg-muted flex-items-baseline">    <g-emoji alias="heart" fallback-src="https://github.githubassets.com/assets/2764-982dc91ea48a.png" class="social-button-emoji">❤️</g-emoji>
-            <span class="js-discussion-reaction-group-count">14</span>
-</button>  <tool-tip id="tooltip-87f7ad2e-3292-42cf-8c50-0d33907cd536" for="reactions--reaction_button_component-286c74" popover="manual" data-direction="n" data-type="description" data-view-component="true" class="sr-only position-absolute">abuaboud, theoparis, 2394425147, kxxt, hustcer, RyanZhiNie, jd-solanki, siranweb, HeySora, KKA11010, and 4 more reacted with heart emoji</tool-tip>
-          <button name="input[content]" id="reactions--reaction_button_component-6dbce0" value="ROCKET react" data-button-index-position="6" data-reaction-label="Rocket" data-reaction-content="rocket" aria-pressed="false" aria-label="rocket (5): zloirock, 07:49PM on June 11, 2023" type="submit" disabled="disabled" data-view-component="true" class="social-reaction-summary-item js-reaction-group-button tmp-mr-1 btn-link d-flex no-underline color-fg-muted flex-items-baseline">    <g-emoji alias="rocket" fallback-src="https://github.githubassets.com/assets/1f680-d0ef47fdb515.png" class="social-button-emoji">🚀</g-emoji>
-            <span class="js-discussion-reaction-group-count">5</span>
-</button>  <tool-tip id="tooltip-7c5ccf8e-0adb-4c25-97b8-2375643ab4d0" for="reactions--reaction_button_component-6dbce0" popover="manual" data-direction="n" data-type="description" data-view-component="true" class="sr-only position-absolute">jd-solanki, vivia1990, Jmenache, Rajdave69, and fza-wtag reacted with rocket emoji</tool-tip>
-      <div class="js-reactions-container">
-        <details class="dropdown details-reset details-overlay d-inline-block js-all-reactions-popover" hidden>
-          <summary aria-haspopup="true" data-view-component="true" class="Button--link Button--medium Button">  <span class="Button-content">
-    <span class="Button-label">All reactions</span>
-  </span>
-</summary>
-
-          <ul class="dropdown-menu dropdown-menu-se">
-              <li class="dropdown-item" aria-label="petamoriken, jynxio, xieyhn, hustcer, scc02, rodamaral, Berrones-Edwin, Elsie19, imaxing, ntnyq, and 6 more reacted with thumbs up emoji">
-                <g-emoji alias="+1" fallback-src="https://github.githubassets.com/assets/1f44d-41cb66fe1e22.png" class="social-button-emoji mr-2">👍</g-emoji>
-                  <span>16 reactions</span>
-              </li>
-              <li class="dropdown-item" aria-label="Rudxain and Jmenache reacted with laugh emoji">
-                <g-emoji alias="smile" fallback-src="https://github.githubassets.com/assets/1f604-7528822fb4c5.png" class="social-button-emoji mr-2">😄</g-emoji>
-                  <span>2 reactions</span>
-              </li>
-              <li class="dropdown-item" aria-label="x-N0, versun, theoparis, hustcer, jd-solanki, and Jmenache reacted with hooray emoji">
-                <g-emoji alias="tada" fallback-src="https://github.githubassets.com/assets/1f389-36899a2cb781.png" class="social-button-emoji mr-2">🎉</g-emoji>
-                  <span>6 reactions</span>
-              </li>
-              <li class="dropdown-item" aria-label="abuaboud, theoparis, 2394425147, kxxt, hustcer, RyanZhiNie, jd-solanki, siranweb, HeySora, KKA11010, and 4 more reacted with heart emoji">
-                <g-emoji alias="heart" fallback-src="https://github.githubassets.com/assets/2764-982dc91ea48a.png" class="social-button-emoji mr-2">❤️</g-emoji>
-                  <span>14 reactions</span>
-              </li>
-              <li class="dropdown-item" aria-label="jd-solanki, vivia1990, Jmenache, Rajdave69, and fza-wtag reacted with rocket emoji">
-                <g-emoji alias="rocket" fallback-src="https://github.githubassets.com/assets/1f680-d0ef47fdb515.png" class="social-button-emoji mr-2">🚀</g-emoji>
-                  <span>5 reactions</span>
-              </li>
-          </ul>
-        </details>
-      </div>
-    </div>
-</form>    <div data-view-component="true" class="color-fg-muted mt-1 tmp-mt-1">32 people reacted</div>
-</div>
-          </div>
-</div>
-</div></div>
-
-</div>
 
 
   </div>
 
 </turbo-frame>
-
 
     </main>
   </div>

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>161944 &ndash; stringProtoFuncRepeatCharacter will return `null` when it should not</title>
+    <title>Missing Bug ID</title>
 
       <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     
@@ -10,7 +10,7 @@
     <meta name="theme-color" content="hsl(203.6, 100%, 12%)" />
     
     <meta property="og:site_name" content="WebKit Bugzilla" />
-    <meta property="og:title" content="161944 &ndash; stringProtoFuncRepeatCharacter will return `null` when it should not">
+    <meta property="og:title" content="Missing Bug ID">
     <meta property="og:type" content="object">
 
     <meta name="twitter:site" content="@webkit">
@@ -21,12 +21,12 @@
     <link rel="stylesheet" href="https://www.apple.com/wss/fonts?families=SF+Pro,v1" type="text/css">
     <link rel="stylesheet" href="https://www.apple.com/wss/fonts?families=SF+Mono,v2" type="text/css">
 
-<link href="data/assets/43d4a6dcad17a1392fe18d7ffbf2e62b.css?1776291858" rel="stylesheet" type="text/css">
+<link href="data/assets/c1d2840c6c82d1c877636a0254cdf8ed.css?1776291852" rel="stylesheet" type="text/css">
 
 <link href="data/assets/aea344879ce443c24aa459038fb6af17.css?1776291852" rel="stylesheet" type="text/css">
 
     
-<script type="text/javascript" src="data/assets/a7c2f3a028f17a9aa60f56dc9d6e732d.js?1731713409"></script>
+<script type="text/javascript" src="data/assets/1b4e898422a669ab82b604a2c23edce5.js?1731713403"></script>
 
     <script type="text/javascript">
     <!--
@@ -84,29 +84,11 @@
                 version_required:
                     "You must select a Version for this bug."
             }
-              , api_token: ''
         };
 
-    if (history && history.replaceState) {
-      if(!document.location.href.match(/show_bug\.cgi/)) {
-        history.replaceState( null,
-                             "161944 – stringProtoFuncRepeatCharacter will return `null` when it should not",
-                             "show_bug.cgi?id=161944" );
-        document.title = "161944 – stringProtoFuncRepeatCharacter will return `null` when it should not";
-      }
-      if (document.location.href.match(/show_bug\.cgi\?.*list_id=/)) {
-        var href = document.location.href;
-        href = href.replace(/[\?&]+list_id=(\d+|cookie)/, '');
-        history.replaceState(null, "161944 – stringProtoFuncRepeatCharacter will return `null` when it should not", href);
-      }
-    }
-    YAHOO.util.Event.onDOMReady(function() {
-      initDirtyFieldTracking();
-
-    });
     // -->
     </script>
-<script type="text/javascript" src="data/assets/daf5e0fb6826e6a35280e622913f0c4a.js?1731713409"></script>
+<script type="text/javascript" src="data/assets/d41d8cd98f00b204e9800998ecf8427e.js?1731713405"></script>
 
 
     
@@ -119,12 +101,7 @@
   </head>
 
   <body 
-        class="bugs-webkit-org 
-                 bz_bug 
-                 bz_status_RESOLVED 
-                 bz_product_WebKit 
-                 bz_component_JavaScriptCore 
-                 bz_bug_161944 161944-&amp;ndash;-stringprotofuncrepeatcharacter-will-return-`null`-when-it-should-not yui-skin-sam">
+        class="bugs-webkit-org missing-bug-id yui-skin-sam">
 
 
   <div id="header">
@@ -143,7 +120,7 @@
 
 <!-- 
 
-        <div id="bug_title">Bug&nbsp;161944: stringProtoFuncRepeatCharacter will return `null` when it should not</div>
+        <div id="bug_title">Missing Bug ID</div>
 
 -->
 
@@ -156,7 +133,7 @@
     
       
       <li id="mini_login_container_top">
-  <button id="login_link_top" href="show_bug.cgi?id=161944&amp;GoAheadAndLogIn=1" onclick="document.getElementById('login-dialog').showModal()">Log In</button>
+  <button id="login_link_top" href="show_bug.cgi?id=161944%5C&amp;GoAheadAndLogIn=1" onclick="document.getElementById('login-dialog').showModal()">Log In</button>
   
   <dialog id="login-dialog">
   <div class="close">
@@ -165,14 +142,14 @@
 <span id="github_mini_login_top" class="bz_default_hidden mini_login_top"></span>
     <form method="post" action="https://bugs.webkit.org/github.cgi">
     <input type="hidden" name="github_secret" value="PjtQLGejfqBl0B97">
-    <input type="hidden" name="target_uri" value="https://bugs.webkit.org/show_bug.cgi?id=161944">
+    <input type="hidden" name="target_uri" value="https://bugs.webkit.org/show_bug.cgi?id=161944%5C">
     <button name="githubauth" value="Log in with GitHub" class="button github">
     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100"><path fill="currentColor" d="M39.9827068,2.06038715 C26.6986914,5.02206928 15.8101542,12.3827204 8.31884067,23.5325825 C-4.79095805,43.1755033 -2.17770913,69.5257633 14.5470839,86.3376647 C19.555811,91.3899459 27.1777871,96.2680106 32.9269346,98.140839 L33.5416202,98.3377883 C35.0307543,98.8014854 35.3836071,98.7742569 36.1347271,98.2821121 L36.4598332,98.0622568 C37.3310229,97.448652 37.3694578,97.0097509 37.3694578,92.304583 L37.3694578,87.1651935 L33.5366926,87.3829642 C29.0506155,87.600735 25.5662834,86.8167603 23.4756844,85.0310402 C22.778818,84.4571503 21.4646582,82.5715118 20.4773008,80.7539572 L19.8536874,79.5760386 C18.4740582,77.0427807 17.242091,75.5874553 14.4744392,73.1058792 L13.6695472,72.3890342 C12.8932319,71.6859889 12.9407045,71.5933044 13.6324468,71.0937126 C15.5052752,69.6999799 19.2944861,71.0501586 21.6899643,73.9247323 L22.7390371,75.1881495 C26.1616492,79.2523919 27.6940317,80.4168625 29.8781443,80.8933961 C32.0122976,81.3289376 33.9722341,81.154721 36.9339163,80.283638 C37.3259036,80.1529756 37.8485535,79.2383385 38.1098784,78.1930389 C38.3712031,77.1912935 39.0680696,75.6668983 39.6342734,74.8393695 L40.679573,73.3149743 L37.151687,72.6181078 C29.7474817,71.0937126 25.1742961,68.4369096 22.1690599,63.9072782 C19.3815944,59.72608 18.4669573,56.1110856 18.4234031,49.3601926 L18.4324675,48.1749454 C18.51876,42.850272 19.2446323,40.3337894 21.6049861,37.1593877 L22.2503793,36.3059336 C23.050648,35.2082945 23.1611069,34.7274879 22.9223171,34.0121113 L22.8659263,33.8549157 C22.2126141,32.2869662 22.3868307,25.6667358 23.083697,23.6632448 C23.649901,22.1824037 23.95478,21.921079 25.1307419,21.7904164 C27.0906787,21.5726457 30.7492273,22.835716 34.4513298,24.9263151 L37.6307827,26.7555895 L40.4182483,26.1022773 C44.3816758,25.1876401 56.2719582,25.2311943 59.8433984,26.1022773 L62.5437556,26.7991435 L65.0698962,25.2747485 C68.4235657,23.2712575 72.6918723,21.7033083 74.8260256,21.7033083 L75.3880613,21.7095181 C76.535526,21.7482235 76.6117457,22.02452 77.2215036,23.968124 C77.9207898,26.395058 78.0761866,30.6867545 77.5409306,33.027357 L77.4392744,33.4193742 C77.0908413,34.7259987 77.1779497,35.117986 78.1361408,36.3810563 C82.8835429,42.6528537 83.4061928,53.0622951 79.3992112,61.5989084 C76.698854,67.2173935 70.9932605,71.1372668 63.3277305,72.5745536 L59.6691819,73.2714201 L61.0193606,75.6668983 L62.4130932,78.1059306 L62.5437556,87.8185058 L62.7179722,97.5310809 L63.8068259,98.2279473 C64.7558478,98.8468746 65.0012471,98.8794498 66.8020229,98.2516071 L67.1169411,98.140839 C70.6012732,96.9648769 76.5681916,93.74187 79.8347527,91.2592835 C99.2599028,76.7121978 105.5317,50.6232629 94.7738257,28.9332968 C88.4584741,16.1719313 76.5246374,6.37224799 62.8486347,2.71369941 C56.8817163,1.14574994 45.6447461,0.797316839 39.9827068,2.06038715 Z"/></svg>Sign in with GitHub</button>
     </form>
   
   <p class="divider">or</p>
   
-  <form action="show_bug.cgi?id=161944" method="POST"
+  <form action="show_bug.cgi?id=161944%5C" method="POST"
         id="mini_login_top" class="mini_login dialog-grid">
         
     <input id="Bugzilla_login_top" required autofocus
@@ -182,7 +159,7 @@
            id="Bugzilla_password_top" required
            placeholder="Password">
     <input type="hidden" name="Bugzilla_login_token"
-           value="1776456796-4bZ5tG3Q7CZodOYG5vTIG6pduDWEhJT9RmnimWNWnf4">
+           value="1776456799-8Ptcs_efXHSC2b-UJK-c6tsM0zKKU-UOAuiW9fTO85M">
     <input type="submit" name="GoAheadAndLogIn" value="Log in"
             id="log_in_top">
                 
@@ -195,7 +172,7 @@
     
     &middot;
               
-    <a id="forgot_link_top" href="show_bug.cgi?id=161944&amp;GoAheadAndLogIn=1#forgot"
+    <a id="forgot_link_top" href="show_bug.cgi?id=161944%5C&amp;GoAheadAndLogIn=1#forgot"
        onclick="document.getElementById('mini_login_top').classList.toggle('bz_default_hidden');
                 document.getElementById('forgot_form_top').classList.toggle('bz_default_hidden');
                 return false;">Forgot Password</a>
@@ -210,7 +187,7 @@
       <input id="forgot_button_top" value="Reset Password" type="submit">
       <input type="hidden" name="a" value="reqpw">
       <input type="hidden" id="token_top" name="token"
-             value="1776456796-4GW8SdIsOkhlE6RZ1P3l5C79riynPEF-F06AyVzIqXk">
+             value="1776456799-vLAsyvRNwo8vzR0pwRG6admR4vwZkUzlOgBowv17cME">
     </form>
   
   </dialog>
@@ -241,1005 +218,17 @@
     <section>
 
 
-<script type="text/javascript">
-<!--
-
-//-->
-</script>
-
-<form name="changeform" id="changeform" method="post" action="process_bug.cgi">
-<div class="mobile-button-positioning mobile-hidden">
-  <div class="mobile-save-overlay">
-  <input type="submit" value="Save Changes" 
-         id="mobile-commit">
-  </div>
-</div>
-
-  <input type="hidden" name="delta_ts" value="2016-09-28 18:31:30">
-  <input type="hidden" name="id" value="161944">
-  <input type="hidden" name="token" value="1776456796-YpNzPfhY3X2KqZFrg6_SFpNUhV8H6_ZumCynriuzAwI">
-<div class="bz_short_desc_container edit_form">
-     <div id="bug-id-status">
-     <span class="bug-status status-resolved">RESOLVED
-          FIXED</span><a href="show_bug.cgi?id=161944" class="bug_id">161944</a>
-     </div>
-     <style>
-     a.bug_id::before {
-       content: "Bug ";
-       -webkit-user-select: none;
-       user-select: none;
-     }
-     </style>
-     <span id="summary_container" class="bz_default_hidden">
-      <span id="short_desc_nonedit_display">stringProtoFuncRepeatCharacter will return `null` when it should not <pre id="commit-urls">https://bugs.webkit.org/show_bug.cgi?id=161944</pre></span>
-     </span>
-    <div id="summary_input"><span class="field_label "
-    id="field_label_short_desc">
-
-
-  <a 
-      title="The bug summary is a short sentence which succinctly describes what the bug is about."
-      class="field_help_link field-label"
-      href="page.cgi?id=fields.html#short_desc"
-  >Summary</a>
-
-</span>stringProtoFuncRepeatCharacter will return `null` when it should not
-    </div>
-  </div>
-  <script type="text/javascript"> 
-    const container = document.getElementById('summary_container')
-    const input = document.getElementById('summary_input');
-    const editButton = document.getElementById('summary_edit_action');
-    
-    container.classList.remove('bz_default_hidden');
-    input.classList.add('bz_default_hidden');
-    editButton.addEventListener('click', () => {
-      container.classList.toggle('bz_default_hidden');
-      input.classList.toggle('bz_default_hidden');
-      document.querySelectorAll('.mobile-hidden').forEach(element => {
-        element.classList.toggle('mobile-hidden');
-      });
-    });
-    
-    function selectText(node) {    
-        if (document.body.createTextRange) {
-            const range = document.body.createTextRange();
-            range.moveToElementText(node);
-            range.select();
-        } else if (window.getSelection) {
-            const selection = window.getSelection();
-            const range = document.createRange();
-            range.selectNodeContents(node);
-            selection.removeAllRanges();
-            selection.addRange(range);
-        }
-    }
-    
-    let copyCommitlogElement = document.getElementById('copy-commitlog');
-    copyCommitlogElement.addEventListener('click', (e) => {
-      e.preventDefault();
-      let text = document.getElementById('short_desc').value + "\n" + document.getElementById('commit-urls').textContent;
-      navigator.clipboard.writeText(text).then(function() {
-        copyCommitlogElement.classList.add('clicked');
-        setTimeout(function () {
-          copyCommitlogElement.classList.remove('clicked');  
-        }, 3000);
-      });
-    });
-    
-    // Add Radar URL
-    document.addEventListener('DOMContentLoaded', () => {
-      document.querySelectorAll('#comments .bz_comment').forEach((comment) => {
-          let email = comment.querySelector('.bz_comment_user .email');
-          if (email && email.getAttribute('href') != 'mailto:webkit-bug-importer@group.apple.com')
-            return;
-          let commentText = comment.querySelector('.bz_comment_text');
-          let rdar = commentText.textContent.match(/rdar:\/\/.*?\d+/)
-          let commit_urls = document.getElementById('commit-urls');
-          if (rdar?.length > 0)
-            commit_urls.innerHTML += "\n" + rdar.toString().replace('/problem','');
-      });
-    });
-    
-  </script>
-  
-  <section class="comments-section">
-    
-    
-    <div id="comments"><script src="js/comments.js?1776291701" type="text/javascript"></script>
-
-<script type="text/javascript">
-<!--
-  /* Adds the reply text to the 'comment' textarea */
-  function replyToComment(id, real_id, name) {
-      var prefix = "(In reply to " + name + " from comment #" + id + ")\n";
-      var replytext = "";
-        /* pre id="comment_name_N" */
-        var text_elem = document.getElementById('comment_text_'+id);
-        var text = getText(text_elem);
-        replytext = prefix + wrapReplyText(text);
-
-
-      /* <textarea id="comment"> */
-      var textarea = document.getElementById('comment');
-      if (textarea.value != replytext) {
-          textarea.value += replytext;
-      }
-
-      textarea.focus();
-  } 
-//-->
-</script>
-
-
-<!-- This auto-sizes the comments and positions the collapse/expand links 
-     to the right. -->
-<div class="bz_comment_table">
-<div id="c0" class="bz_comment bz_first_comment">
-
-      <div class="bz_first_comment_head">
-        <div class="bz_comment_user">
-          <span class="vcard"><span class="fn">Saam Barati</span>
-</span>
-          
-          
-          <span class="bz_comment_user_images">
-          </span>
-
-        </div>
-
-
-        <div class="bz_comment_meta">
-          <a href="show_bug.cgi?id=161944#c0">Reported</a>
-          <span class="bz_comment_time torelativedatetime" data-ts="2016-09-13 19:49:37">2016-09-13 19:49:37 PDT</span>
-          
-        </div>
-
-      </div>
-
-
-
-
-<div class="bz_comment_text">It doesn't properly detect when an int is in double form.
-However, there is also a deeper problem, where it looks like numbers are being polluted into double form instead
-of staying in integer form, even though there is only one comparison on that number that needs it in double form.
-I'm looking at String.prototype.padStart. the &#64;toLength builtin will cause the pollution.
-
-See this example:
-```
-
-function logLinesWithContext(n, context) {
-    let start = n - context;
-    let end = n + context;
-    for (let x = start; x &lt;= end; ++x) {
-        let number = x.toString().padStart(3);
-        // WHAT?!
-        if (parseInt(number) != x)
-            print(number);
-    }
-}
-
-let numbers = [
-    19,19,19,19,19,19,19,20,20,20,20,20,20,20,11,11,11,11,11,11,11,20,20,20,20,
-    20,20,20,15,15,15,15,15,15,15,21,21,21,21,21,21,21,19,19,19,19,19,19,19,20,
-    20,20,20,20,20,20,20,20,20,20,20,20,20,21,21,21,21,21,21,21,24,24,24,24,24,
-    24,24,25,25,25,25,25,25,25,11,11,11,11,11,11,11,25,25,25,25,25,25,25,15,15,
-    15,15,15,15,15,25,25,25,25,25,25,25,7,7,7,7,7,7,7,26,26,26,26,26,26,26,24,
-    24,24,24,24,24,24,25,25,25,25,25,25,25,11,11,11,11,11,11,11,25,25,25,25,25,
-    25,25,26,26,26,26,26,26,26,24,24,24,24,24,24,24,25,25,25,25,25,25,25,11,11,
-    11,11,11,11,11,12,12,12,12,12,12,12,25,25,25,25,25,25,25,15,15,15,15,15,15,
-    15,16,16,16,16,16,16,16,25,25,25,25,25,25,25,7,7,7,7,7,7,7,8,8,8,8,8,8,8,
-    26,26,26,26,26,26,26,24,24,24,24,24,24,24,25,25,25,25,25,25,25,11,11,11,11,
-    11,11,11,12,12,12,12,12,12,12,25,25,25,25,25,25,25,15,15,15,15,15,15,15,16,
-    16,16,16,16,16,16,25,25,25,25,25,25,25,7,7,7,7,7,7,7,8,8,8,8,8,8,8,26,26,
-    26,26,26,26,26,29,29,29,29,29,29,29,30,30,30,30,30,30,30,35,35,35,35,35,35,
-    35,29,29,29,29,29,29,29,30,30,30,30,30,30,30,11,11,11,11,11,11,11,33,33,33,
-    33,33,33,33,35,35,35,35,35,35,35,39,39,39,39,39,39,39,40,40,40,40,40,40,40,
-    11,11,11,11,11,11,11,40,40,40,40,40,40,40,40,40,40,40,40,40,40,15,15,15,15,
-    15,15,15,41,41,41,41,41,41,41,39,39,39,39,39,39,39,40,40,40,40,40,40,40,40,
-    40,40,40,40,40,40,40,40,40,40,40,40,40,41,41,41,41,41,41,41,45,45,45,45,45,
-    45,45,46,46,46,46,46,46,46,11,11,11,11,11,11,11,46,46,46,46,46,46,46,15,15,
-];
-for (let n of numbers)
-    logLinesWithContext(n, 3);
-```
-It will start printing things because the result string is not an integer.</div>
-    </div>
-    
-    
-
-        
-        
-        <script src="js/status-bubble.js?1776291701"></script>
-<script type="text/javascript">
-<!--
-window.addEventListener('message', handleStatusBubbleMessage, false);
-
-function toggle_display(link) {
-    var table = document.getElementById("attachment_table");
-    var view_all = document.getElementById("view_all");
-    var hide_obsolete_url_parameter = "&hide_obsolete=1";
-    // Store current height for scrolling later
-    var originalHeight = table.offsetHeight;
-    var rows = YAHOO.util.Dom.getElementsByClassName(
-        'bz_tr_obsolete', 'tr', table);
-
-    for (var i = 0; i < rows.length; i++) {
-        bz_toggleClass(rows[i], 'bz_default_hidden');
-    }
-
-    if (YAHOO.util.Dom.hasClass(rows[0], 'bz_default_hidden')) {
-        link.innerHTML = "Show Obsolete";
-        view_all.href = view_all.href + hide_obsolete_url_parameter 
-    }
-    else {
-        link.innerHTML = "Hide Obsolete";
-        view_all.href = view_all.href.replace(hide_obsolete_url_parameter,"");
-    }
-
-    var newHeight = table.offsetHeight;
-    // This scrolling makes the window appear to not move at all.
-    window.scrollBy(0, newHeight - originalHeight);
-
-    return false;
-}
-//-->
-</script>
-
-<table id="attachment_table">
-  <tr id="a0">
-    <th colspan="3" class="left">
-      Attachments
-    </th>
-  </tr>
-
-
-      <tr id="a1" class="bz_contenttype_text_plain bz_patch bz_tr_obsolete bz_default_hidden">
-        <td class="attachment-details">
-            <a href="attachment.cgi?id=290133"
-               title="View the content of the attachment">
-          <b><span class="bz_obsolete">patch</span></b></a>
-
-          <span class="bz_attach_extra_info">
-              (5.63 KB,
-                patch)
-
-            <br>
-            <a href="#attach_290133"
-               title="Go to the comment associated with the attachment">2016-09-28 16:21 PDT</a>,
-
-            <span class="vcard"><span class="fn">Saam Barati</span>
-</span>
-          </span>
-        </td>
-
-          <td class="bz_attach_flags attachment-flags">
-                  <span title="Yusuke Suzuki">ysuzuki</span>:
-                review+
-                <br>
-          </td>
-
-        <td class="attachment-controls">
-            <div class="controls">
-<a href="attachment.cgi?id=290133&amp;action=edit">Details</a><a href="attachment.cgi?id=290133&amp;action=prettypatch">Formatted Diff</a><a href="attachment.cgi?id=290133&amp;action=diff">Diff</a>
-              </div>
-          <div class="statusBubble">
-            <iframe src="https://ews.webkit.org/status-bubble/290133/"
-                    style="width: 0px; height: 8rem;" scrolling="no" onload="handleStatusBubbleLoad(this)">
-            </iframe>
-          </div>
-
-        </td>
-      </tr>
-      <tr id="a2" class="bz_contenttype_text_plain bz_patch patch-highlight">
-        <td class="attachment-details">
-            <a href="attachment.cgi?id=290145"
-               title="View the content of the attachment">
-          <b>patch</b></a>
-
-          <span class="bz_attach_extra_info">
-              (6.57 KB,
-                patch)
-
-            <br>
-            <a href="#attach_290145"
-               title="Go to the comment associated with the attachment">2016-09-28 17:01 PDT</a>,
-
-            <span class="vcard"><span class="fn">Saam Barati</span>
-</span>
-          </span>
-        </td>
-
-          <td class="bz_attach_flags attachment-flags">
-              <em>no flags</em>
-          </td>
-
-        <td class="attachment-controls">
-            <div class="controls">
-<a href="attachment.cgi?id=290145&amp;action=edit">Details</a><a href="attachment.cgi?id=290145&amp;action=prettypatch">Formatted Diff</a><a href="attachment.cgi?id=290145&amp;action=diff">Diff</a>
-              </div>
-          <div class="statusBubble">
-            <iframe src="https://ews.webkit.org/status-bubble/290145/"
-                    style="width: 0px; height: 8rem;" scrolling="no" onload="handleStatusBubbleLoad(this)">
-            </iframe>
-          </div>
-
-        </td>
-      </tr>
-
-  <tr class="bz_attach_footer">
-    <td colspan="3">
-        <span class="bz_attach_view_hide">
-            <a href="#a0" onclick="return toggle_display(this);">Show
-              Obsolete</a> (1)
-            <a id="view_all" class="small button" href="attachment.cgi?bugid=161944&amp;action=viewall&amp;hide_obsolete=1">View All</a>
-        </span>
-        <a class="small button" href="attachment.cgi?bugid=161944&amp;action=enter">Add attachment</a>
-        <em>proposed patch, testcase, etc.</em>
-    </td>
-  </tr>
-</table>
-        
-        
-        
-          
-    
-
-
-    <div id="c1" class="bz_comment">
-
-      <div class="bz_comment_head">
-        <div class="bz_comment_user">
-          <span class="vcard"><span class="fn">Saam Barati</span>
-</span>
-          
-          
-          <span class="bz_comment_user_images">
-          </span>
-
-        </div>
-
-
-        <div class="bz_comment_meta">
-          <a href="show_bug.cgi?id=161944#c1">Comment 1</a>
-          <span class="bz_comment_time torelativedatetime" data-ts="2016-09-13 19:50:29">2016-09-13 19:50:29 PDT</span>
-          
-        </div>
-
-      </div>
-
-
-
-
-<div class="bz_comment_text">The bug also goes away when &#64;toLength is not inlined into padStart.</div>
-    </div>
-    
-
-
-    <div id="c2" class="bz_comment">
-
-      <div class="bz_comment_head">
-        <div class="bz_comment_user">
-          <span class="vcard"><span class="fn">Saam Barati</span>
-</span>
-          
-          
-          <span class="bz_comment_user_images">
-          </span>
-
-        </div>
-
-
-        <div class="bz_comment_meta">
-          <a href="show_bug.cgi?id=161944#c2">Comment 2</a>
-          <span class="bz_comment_time torelativedatetime" data-ts="2016-09-28 16:21:38">2016-09-28 16:21:38 PDT</span>
-          
-        </div>
-
-      </div>
-
-
-
-
-<div class="bz_comment_text">Created <span class="bz_obsolete"><a href="attachment.cgi?id=290133&amp;action=diff" name="attach_290133" title="patch">attachment 290133</a> <a href="attachment.cgi?id=290133&amp;action=edit" title="patch">[details]</a></span>
-patch</div>
-    </div>
-    
-
-
-    <div id="c3" class="bz_comment">
-
-      <div class="bz_comment_head">
-        <div class="bz_comment_user">
-          <span class="vcard"><span class="fn">Yusuke Suzuki</span>
-</span>
-          
-          
-          <span class="bz_comment_user_images">
-          </span>
-
-        </div>
-
-
-        <div class="bz_comment_meta">
-          <a href="show_bug.cgi?id=161944#c3">Comment 3</a>
-          <span class="bz_comment_time torelativedatetime" data-ts="2016-09-28 16:29:21">2016-09-28 16:29:21 PDT</span>
-          
-        </div>
-
-      </div>
-
-
-
-
-<div class="bz_comment_text">Comment on <span class="bz_obsolete"><a href="attachment.cgi?id=290133&amp;action=diff" name="attach_290133" title="patch">attachment 290133</a> <a href="attachment.cgi?id=290133&amp;action=edit" title="patch">[details]</a></span>
-patch
-
-r=me</div>
-    </div>
-    
-
-
-    <div id="c4" class="bz_comment">
-
-      <div class="bz_comment_head">
-        <div class="bz_comment_user">
-          <span class="vcard"><span class="fn">Saam Barati</span>
-</span>
-          
-          
-          <span class="bz_comment_user_images">
-          </span>
-
-        </div>
-
-
-        <div class="bz_comment_meta">
-          <a href="show_bug.cgi?id=161944#c4">Comment 4</a>
-          <span class="bz_comment_time torelativedatetime" data-ts="2016-09-28 17:01:49">2016-09-28 17:01:49 PDT</span>
-          
-        </div>
-
-      </div>
-
-
-
-
-<div class="bz_comment_text">Created <span class=""><a href="attachment.cgi?id=290145&amp;action=diff" name="attach_290145" title="patch">attachment 290145</a> <a href="attachment.cgi?id=290145&amp;action=edit" title="patch">[details]</a></span>
-patch
-
-take 2. I removed the caller that expected the null result value and instead made protoFuncRepeatCharacter throw OOM when it will construct too long of a string.</div>
-    </div>
-    
-
-
-    <div id="c5" class="bz_comment">
-
-      <div class="bz_comment_head">
-        <div class="bz_comment_user">
-          <span class="vcard"><span class="fn">Yusuke Suzuki</span>
-</span>
-          
-          
-          <span class="bz_comment_user_images">
-          </span>
-
-        </div>
-
-
-        <div class="bz_comment_meta">
-          <a href="show_bug.cgi?id=161944#c5">Comment 5</a>
-          <span class="bz_comment_time torelativedatetime" data-ts="2016-09-28 17:04:52">2016-09-28 17:04:52 PDT</span>
-          
-        </div>
-
-      </div>
-
-
-
-
-<div class="bz_comment_text">Comment on <span class=""><a href="attachment.cgi?id=290145&amp;action=diff" name="attach_290145" title="patch">attachment 290145</a> <a href="attachment.cgi?id=290145&amp;action=edit" title="patch">[details]</a></span>
-patch
-
-r=me</div>
-    </div>
-    
-
-
-    <div id="c6" class="bz_comment">
-
-      <div class="bz_comment_head">
-        <div class="bz_comment_user">
-          <span class="vcard"><span class="fn">WebKit Commit Bot</span>
-</span>
-          
-          
-          <span class="bz_comment_user_images">
-          </span>
-
-        </div>
-
-
-        <div class="bz_comment_meta">
-          <a href="show_bug.cgi?id=161944#c6">Comment 6</a>
-          <span class="bz_comment_time torelativedatetime" data-ts="2016-09-28 18:31:25">2016-09-28 18:31:25 PDT</span>
-          
-        </div>
-
-      </div>
-
-
-
-
-<div class="bz_comment_text">Comment on <span class=""><a href="attachment.cgi?id=290145&amp;action=diff" name="attach_290145" title="patch">attachment 290145</a> <a href="attachment.cgi?id=290145&amp;action=edit" title="patch">[details]</a></span>
-patch
-
-Clearing flags on attachment: 290145
-
-Committed <a href="https://commits.webkit.org/r206573">r206573</a>: &lt;<a rel="nofollow" href="http://trac.webkit.org/changeset/206573">http://trac.webkit.org/changeset/206573</a>&gt;</div>
-    </div>
-    
-
-
-    <div id="c7" class="bz_comment">
-
-      <div class="bz_comment_head">
-        <div class="bz_comment_user">
-          <span class="vcard"><span class="fn">WebKit Commit Bot</span>
-</span>
-          
-          
-          <span class="bz_comment_user_images">
-          </span>
-
-        </div>
-
-
-        <div class="bz_comment_meta">
-          <a href="show_bug.cgi?id=161944#c7">Comment 7</a>
-          <span class="bz_comment_time torelativedatetime" data-ts="2016-09-28 18:31:30">2016-09-28 18:31:30 PDT</span>
-          
-        </div>
-
-      </div>
-
-
-
-
-<div class="bz_comment_text">All reviewed patches have been landed.  Closing bug.</div>
-    </div>
-    
-
-  <div id="add_comment" class="bz_section_additional_comments">
-    <fieldset class="note">
-      <legend>Note</legend>
-      You need to
-      <a href="show_bug.cgi?id=161944&amp;GoAheadAndLogIn=1">log in</a>
-      before you can comment on or make changes to this bug.
-    </fieldset>
-  </div>
-
-
-  
-
-</div>
-    </div>
-    
-  </section>
-  <aside id="bug_details" class="edit_form mobile-hidden">
-
-    <div class="section-status"><div id="status"><div class="field-container"><th class="field_label "
-    id="field_label_bug_status">
-
-
-  <a 
-      title="A bug may be in any of a number of states."
-      class="field_help_link field-label"
-      href="page.cgi?id=fields.html#bug_status"
-  >Status</a>
-
-</th>
-  <span class="field_value "
-      id="field_container_bug_status" >RESOLVED
-
-</span>
-</div>
-
-    <noscript><br>resolved&nbsp;as&nbsp;</noscript>
-
-  <span id="resolution_settings"><div class="field-container"><th class="field_label "
-    id="field_label_resolution">
-
-
-  <a 
-      title="If a bug is in a resolved state, then one of these reasons will be given for its resolution."
-      class="field_help_link field-label"
-      href="page.cgi?id=fields.html#resolution"
-  >Resolution</a>
-
-</th>
-  <span class="field_value "
-      id="field_container_resolution" >FIXED
-
-</span>
-</div>
-  </span>
+<div id="error_msg" class="throw_error">
+      You must enter a valid bug number!
 
 </div>
 
-<script type="text/javascript">
-  var close_status_array = [
-      'RESOLVED'
-  ];
-  YAHOO.util.Dom.removeClass('dup_id_discoverable', 'bz_default_hidden');
-  hideEditableField( "dup_id_container", "dup_id", 'dup_id_edit_action',
-                     'dup_id', '' )
-  showHideStatusItems( "",  ['',
-                             'RESOLVED']);
-  YAHOO.util.Event.addListener( 'bug_status', "change", showHideStatusItems,
-                                ['',
-                                 'RESOLVED']);
-  YAHOO.util.Event.addListener( 'resolution', "change", showDuplicateItem);
-  YAHOO.util.Event.addListener( 'dup_id_discoverable_action',
-                                'click',
-                                setResolutionToDuplicate,
-                                'RESOLVED');
-  YAHOO.util.Event.addListener( window, 'load',  showHideStatusItems,
-                              ['',
-                               'RESOLVED'] );
+<p id="post_err_msg">
+  Please press <b>Back</b> and try again.
+</p>
 
-</script>
-  </div>
-    
-    <div class="section-priority">
-      <span class="severity"><div class="field-container"><th class="field_label "
-    id="field_label_priority">
 
-
-  <a 
-      title="Engineers prioritize their bugs using this field."
-      class="field_help_link field-label"
-      href="page.cgi?id=fields.html#priority"
-  >Priority</a>
-
-</th>
-  <span class="field_value "
-      id="field_container_priority" >P2
-
-</span>
-</div>
-       <div class="field-container"><th class="field_label "
-    id="field_label_bug_severity">
-
-
-  <a 
-      title="How severe the bug is, or whether it's an enhancement."
-      class="field_help_link field-label"
-      href="page.cgi?id=fields.html#bug_severity"
-  >Severity</a>
-
-</th>
-  <span class="field_value "
-      id="field_container_bug_severity" >Normal
-
-</span>
-</div>
-      </span>
-    </div>
-
-    <div class="section-classification bz_default_hidden"><div class="field-container"><th class="field_label "
-    id="field_label_classification">
-
-
-  <a 
-      title="Bugs are categorised into Classifications, Products and Components. classifications is the top-level categorisation."
-      class="field_help_link field-label"
-      href="page.cgi?id=fields.html#classification"
-  >Classification</a>
-
-</th>
-  <span class="field_value "
-      id="field_container_classification" >Unclassified
-
-</span>
-</div>
-    </div>
-    <div class="section-version">
-<th class="field_label "
-    id="field_label_version">
-
-
-  <a 
-      title="The version field defines the version of the software the bug was found in."
-      class="field_help_link field-label"
-      href="page.cgi?id=fields.html#version"
-  >Version</a>
-
-</th>
-<td>WebKit Nightly Build
-  </td>
-
-    </div>
-        
-    
-        
-    <div class="section-platform"><div class="field-container"><th class="field_label "
-    id="field_label_rep_platform">
-
-
-  <a 
-      title="The hardware platform the bug was observed on. Note: When searching, selecting the option &quot;All&quot; only finds bugs whose value for this field is literally the word &quot;All&quot;."
-      class="field_help_link field-label"
-      href="page.cgi?id=fields.html#rep_platform"
-  >Hardware</a>
-
-</th>
-  <span class="field_value "
-      id="field_container_rep_platform" >Unspecified
-
-</span>
-</div>
-        <div class="field-container"><th class="field_label "
-    id="field_label_op_sys">
-
-
-  <a 
-      title="The operating system the bug was observed on. Note: When searching, selecting the option &quot;All&quot; only finds bugs whose value for this field is literally the word &quot;All&quot;."
-      class="field_help_link field-label"
-      href="page.cgi?id=fields.html#op_sys"
-  >OS</a>
-
-</th>
-  <span class="field_value "
-      id="field_container_op_sys" >Unspecified
-
-</span>
-</div>
-    </div>
-
-    
-    
-    
-    <div class="section-product"><div class="field-container"><th class="field_label "
-    id="field_label_product">
-
-
-  <a 
-      title="Bugs are categorised into Products and Components."
-      class="field_help_link field-label"
-      href="describecomponents.cgi"
-  >Product</a>
-
-</th>
-  <span class="field_value "
-      id="field_container_product" >WebKit
-
-</span>
-</div>
-    </div>
-        
-    
-    
-    <div class="section-component"><div class="field-container"><th class="field_label "
-    id="field_label_component">
-
-
-  <a 
-      title="Components are second-level categories; each belongs to a particular Product. Select a Product to narrow down this list."
-      class="field_help_link field-label"
-      href="describecomponents.cgi?product=WebKit"
-  >Component</a>
-
-</th>
-  <span class="field_value "
-      id="field_container_component" >JavaScriptCore
-
-</span>
-</div>
-    </div>
-    
-        <div class="section-people"><th class="field_label "
-    id="field_label_assigned_to">
-
-
-  <a 
-      title="The person in charge of resolving the bug."
-      class="field_help_link field-label"
-      href="page.cgi?id=fields.html#assigned_to"
-  >Assignee</a>
-
-</th>
-      <div><span class="vcard"><span class="fn">Saam Barati</span>
-</span>
-      </div>
-    </div>
-
-
-    <script type="text/javascript">
-      assignToDefaultOnChange(['product'],
-        'webkit-unassigned\x40lists.webkit.org',
-        '');
-    </script>
-    
-    <div class="section-reported">
-    <label class="field_label">
-      Reported
-    </label>
-    <div>2016-09-13 19:49 PDT
-    </div>
-  </div>
-  
-  <div class="section-modified">
-    <label class="field_label">
-      Modified
-    </label>
-    <div>2016-09-28 18:31 PDT
-      <a href="show_activity.cgi?id=161944" class="button small">History</a>
-    </div>
-  
-  </div>
-    <div class="section-cclist">
-      <label  class="field_label"  accesskey="a">
-        CC List
-      </label>
-      <div>
-        <div>13 
-          users
-          <span id="cc_edit_area_showhide_container" class="bz_default_hidden">
-            <a href="#" id="cc_edit_area_showhide" class="button small">Show</a>
-          </span>
-        </div>
-        <div id="cc_edit_area">
-            <select id="cc" multiple="multiple" size="5" >
-                <option value="benjamin">benjamin</option>
-                <option value="commit-queue">commit-queue</option>
-                <option value="fpizlo">fpizlo</option>
-                <option value="ggaren">ggaren</option>
-                <option value="gskachkov">gskachkov</option>
-                <option value="jfbastien">jfbastien</option>
-                <option value="joepeck">joepeck</option>
-                <option value="keith_miller">keith_miller</option>
-                <option value="mark.lam">mark.lam</option>
-                <option value="msaboff">msaboff</option>
-                <option value="oliver">oliver</option>
-                <option value="ticaiolima">ticaiolima</option>
-                <option value="ysuzuki">ysuzuki</option>
-            </select>
-        </div>
-          <script type="text/javascript">
-            hideEditableField( 'cc_edit_area_showhide_container', 
-                               'cc_edit_area', 
-                               'cc_edit_area_showhide', 
-                               '', 
-                               '');  
-          </script>
-      </div>
-    </div>
-        <div class="section-url"><th class="field_label "
-    id="field_label_bug_file_loc">
-
-
-  <a 
-      title="Bugs can have a URL associated with them - for example, a pointer to a web site where the problem is seen."
-      class="field_help_link field-label"
-      href="page.cgi?id=fields.html#bug_file_loc"
-  >URL</a>
-
-</th>
-    <div>
-      <div id="bz_url_input_area"><td>  
-  </td>
-      </div>
-    </div>
-  </div>
-
-
-    <div class="section-keywords"><div class="field-container"><th class="field_label "
-    id="field_label_keywords">
-
-
-  <a 
-      title="You can add keywords from a defined list to bugs, in order to easily identify and group them."
-      class="field_help_link field-label"
-      href="describekeywords.cgi"
-  >Keywords</a>
-
-</th>
-  <span class="field_value "
-      id="field_container_keywords" >
-
-</span>
-</div>
-    </div>
-    
-    
-    <div class="section-dependson"><th class="field_label "
-    id="field_label_dependson">
-
-
-  <a 
-      title="The bugs listed here must be resolved before this bug can be resolved."
-      class="field_help_link field-label"
-      href="page.cgi?id=fields.html#dependson"
-  >Depends on</a>
-
-</th>
-
-  <div class="dependencies-block">
-    <span id="dependson_input_area">
-    </span>
-
-  </div>
-  </div>
-  
-  <div class="section-blocks"><th class="field_label "
-    id="field_label_blocked">
-
-
-  <a 
-      title="This bug must be resolved before the bugs listed in this field can be resolved."
-      class="field_help_link field-label"
-      href="page.cgi?id=fields.html#blocked"
-  >Blocks</a>
-
-</th>
-
-  <div class="dependencies-block">
-    <span id="blocked_input_area">
-    </span>
-
-  </div>
-  </div>
-    <div class="section-see-also"><div class="field-container"><th class="field_label "
-    id="field_label_see_also">
-
-
-  <a 
-      title="This allows you to refer to bugs in other installations. You can enter a URL to a bug in the 'Add Bug URLs' field to note that that bug is related to this one. You can enter multiple URLs at once by separating them with whitespace. You should normally use this field to refer to bugs in other installations. For bugs in this installation, it is better to use the Depends on and Blocks fields."
-      class="field_help_link field-label"
-      href="page.cgi?id=fields.html#see_also"
-  >See Also</a>
-
-</th>
-  <span class="field_value "
-      id="field_container_see_also" >
-
-</span>
-</div>
-    </div> 
-    
-    
-    
-    <div class="section-aliases"><th class="field_label "
-    id="field_label_alias">
-
-
-  <a 
-      title="A short, unique name assigned to a bug in order to assist with looking it up and referring to it in other places in Bugzilla."
-      class="field_help_link field-label"
-      href="page.cgi?id=fields.html#alias"
-  >Alias</a>
-
-</th>
-    <div>
-        <span class="none">None</span>
-    </div>
-  </div>
-   
-  </aside>
-
-</form>
-
-<hr>
-<ul class="related_actions">
-    <li><a href="#" class="button small">Top of Page </a></li>
-    <li><a href="show_bug.cgi?format=multiple&amp;id=161944" class="button small">Format For Printing</a></li>
-    <li><a href="show_bug.cgi?ctype=xml&amp;id=161944" class="button small">XML</a></li>
-    <li><a href="enter_bug.cgi?cloned_bug_id=161944" class="button small">Clone This Bug</a></li>
-    
-    </ul>
-
-<br>
+            
 </section>
     </main>
 
