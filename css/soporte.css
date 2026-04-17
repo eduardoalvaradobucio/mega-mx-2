@@ -1,0 +1,7 @@
+@media screen and (max-width: 480px){
+	.content-image img{max-width: 150px; display: inline-block; width: 100%;}
+}
+
+@media screen and (max-width: 460px){
+	.content-image img{max-width: 130px; display: inline-block; width: 100%;}
+}

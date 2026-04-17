@@ -1,0 +1,33 @@
+/*@font-face {
+	font-family: DIN;
+	src:url(../fuentes/din.eot);
+}
+@font-face {
+	font-family: DIN_Bold;
+	src:url(../fuentes/din_bold.eot);
+}*/
+
+@font-face {
+	font-family: DIN;
+	src:url("_tMhxyW6i8lbI7YsUdFlGA.eot");
+}
+@font-face {
+	font-family: DIN_Bold;
+	src:url("_tMhxyW6i8lbI7YsUdFlGA.eot");
+}
+
+.alt_font {
+	FONT-FAMILY: "DIN", "Lucida-grande", sans-serif
+}
+.alt_font_book {
+	FONT-FAMILY: "DIN", "Lucida-grande", sans-serif
+}
+.alt_font_medium {
+	FONT-FAMILY: "DIN", "Lucida-grande", sans-serif
+}
+.alt_font_bold {
+	FONT-FAMILY: "DIN_Bold", "Lucida-grande", sans-serif
+}
+.submenu_option {
+	DISPLAY: inline; MARGIN-LEFT: 5px
+}

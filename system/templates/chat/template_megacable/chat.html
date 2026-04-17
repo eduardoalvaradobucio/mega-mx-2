@@ -1,0 +1,333 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<link rel="stylesheet" type="text/css" href="chat/css/reset.css">
+		<link rel="stylesheet" type="text/css" href="libs/css/tipsy.css">
+		<link rel="stylesheet/less" type="text/css" href="chat/less/chat-main.less">
+		<link rel="stylesheet/less" type="text/css" href="chat/less/chat-mobile.less">
+		<script src="../../../web/common/less-1.1.5.min.js"></script>
+		<script type="text/javascript" src="../../../web/common/strophejs-1.0.1/strophe.js"></script>
+		<script type="text/javascript" src="../../../web/common/live-10.0.0/eGainStrophe.js"></script>
+		<script type="text/javascript" src="eGainLiveConfig.js"></script>
+		<script type="text/javascript" src="eGainLiveChatInteg.js"></script>
+		<script type="text/javascript" src="../../../web/common/dateformat-1.2.3/dateformat.js"></script>
+
+		<!-- Libs -->
+		<script src="../../../web/common/jquery-1.7/jquery.min.js"></script>
+		<script src="../../../web/common/jquery-1.7/jquery.raty.min.js"></script>
+		<script src="../../../web/common/jquery-1.7/jquery.tipsy.js"></script>
+		<script src="../../../web/common/underscore-min.js"></script>
+		<script src="../../../web/common/md5.js"></script>
+		<script src="../../../web/common/backbone-min.js"></script>
+		<script src="../../../web/common/jquery.tinyscrollbar.min.js"></script>
+		<script type="text/javascript" src="ckeditor/ckeditor.js"></script>
+		<meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=2.0;user-scalable=1.0;">
+		<meta name="viewport" content="user-scalable=YES" />
+	</head>
+<body>
+
+	<div id="eg-chat-global-wrap">
+		<div id="eg-chat-header">
+			<div class="wrap">
+				<div class="heading">
+					<div class="chatbubble">
+						<img src="chat/img/logo_home.png"/>
+					</div>
+					<a class="closechat" href="#"></a>
+				</div>
+
+				<div class="clear"></div>
+			</div>
+		</div>
+		<div id="eg-chat-sidebar"><div class="sideFrameDiv"></div></div>
+		<div class="eGainHeaderContainer">
+		</div>
+		<div id="eg-chat-content"></div>
+	</div>
+
+	<script>
+
+        if(typeof console == "undefined") {
+
+            console = {'log':function(){}};
+        }
+
+    </script>
+
+	<!--- Templates -->
+	<script type="text/template" id="tpl-stream">
+        <div class="shadow"></div>
+
+        <div class="header"></div>
+
+        <div class="window-view">
+			<div class="scrollbar"><div class="track"><div class="thumb"><div class="end"></div></div></div></div>
+			<div class="viewport">
+				<div class="overview">
+            <ul></ul>
+        </div>
+			</div>
+        </div>
+
+        <div class="queue-status"></div>
+        <div class="notice"></div>
+
+    </script>
+
+	<script type="text/template" id="tpl-video">
+        <div class="flash-wrap">
+
+        </div>
+        <div class="flash-controls">
+            <a class="pause-video" href="#" title='<%= L10N_PAUSE_VIDEO %>'> &nbsp;&nbsp;&nbsp;</a>
+            <a class="resume-video" href="#" title='<%= L10N_RESUME_VIDEO %>'> &nbsp;&nbsp;&nbsp;</a>
+        </div>
+    </script>
+	<script type="text/template" id="tpl-editor">
+        <form>
+			<div>
+				<textarea id="editor" name="editor"></textarea>
+			</div>
+			<div id='typing_status'>&nbsp;</div>
+            <div class="submit-section">
+				<div class="footer">
+					<span class='powered_by'><%= L10N_POWERED_BY %></span> <span class='brand'><%= L10N_BRAND %></span>
+				</div>
+				<div class="submit-wrap">
+					<input type="button" value="<%= L10N_SUBMIT %>" id="submit" />
+				</div>
+			</div>
+
+        </form>
+    </script>
+
+	<script type="text/template" id="tpl-utilities">
+        <div class="buttons" id="toolbar">
+			<% if(showVideo) { %>
+			<a class="video" id="videoBt" href="#" title="<%= L10N_VIDEO_CHAT %>"><%= L10N_VIDEO %></a>
+			<% } %>
+
+			<% if(showAudio) { %>
+			<a class="audio inactive" id="audioBt" href="#"><%= L10N_AUDIO %></a>
+			<% } %>
+
+			<% if(showFaq) { %>
+                <a href="#" class="faq js-faq" title="<%= L10N_KNOWLEDGE_BASE_BUTTON %>"><%= L10N_KNOWLEDGE_BASE_BUTTON %></a>
+            <% } %>
+
+            <% if(showChangeFont) { %>
+			<a class="fontSizeBox">
+				<div href="#" class="increase-font" fontSeq="0" title="<%=L10N_INCREASE_FONT_SIZE%>"  width="100%" height="100%"></div>
+            	<div class="fontDivider"></div>
+				<div href="#" class="decrease-font" fontSeq="0" title="<%=L10N_DECREASE_FONT_SIZE%>"  width="50%" height="50%"></div>
+				<%=L10N_FONT%>
+			</a>
+            <% } %>
+
+			<% if(showSaveTranscript) { %>
+                <a href="#" class="save js-save" title="<%= L10N_SAVE_TRANSCRIPT_BUTTON %>"><%= L10N_SAVE_TRANSCRIPT %></a>
+            <% } %>
+
+            <% if(showDivider) { %>
+            	<a class="divider"/>
+            <% } %>
+
+            <% if(showPrintTranscript) { %>
+            <a href="#"
+                class="print-transcript js-print" title="<%= L10N_PRINT_TRANSCRIPT_BUTTON%>"><%= L10N_PRINT %></a>
+            <% } %>
+            <div class="clear"></div>
+        </div>
+			<div class="close"></div>
+    </script>
+
+	<script type="text/template" id="tpl-wrap">
+        <div class="video"></div>
+        <div class="box"></div>
+    </script>
+
+	<script type="text/template" id="tpl-message">
+        <div class="author"></div>
+
+        <div class="bubble">
+            <div class="arrow-wrap"><div class="arrow"></div></div>
+            <div class="body">
+
+                <% if(temporary) { %>
+
+                    <%= typing_message.replace('{0}',author) %>
+
+                <% } else { %>
+
+                <%= message.get('body') %>
+
+                <% }  %>
+            </div>
+        </div>
+
+        <div class="bottom">
+            <% if(temporary) { %>
+
+                <!--<%= typing_message.replace('{0}',author) %>-->
+
+            <% } else {%>
+
+              <b><%= message.get('author') %></b>
+
+                    &bull; <%= message.get('time') %>
+            <% } %>
+        </div>
+    </script>
+
+	<script type="text/template" id="tpl-survey">
+		<div class="box"></div>
+        <div class="header">
+            <%= L10N_SURVEY_INTRO%>
+        </div>
+        <form>
+            <div class="form-fields">
+				<div class="scrollbar"><div class="track"><div class="thumb"><div class="end"></div></div></div></div>
+				<div class="viewport">
+					<div class="overview">
+				<div class="input-wrap-sub">
+				   <label for="name"><%= L10N_SURVEY_Q1 %></label>
+					<div id="answerability" class="rating-stars"></div>
+				</div>
+				<div class="input-wrap-sub">
+					<label> <%= L10N_SURVEY_Q2 %></label>
+					<div id="promptness" class="rating-stars"></div>
+				</div>
+				<div class="input-wrap-sub">
+					<label for="phone"><%= L10N_SURVEY_Q3 %></label>
+					<div id="would-suggest" class="rating-stars"></div>
+				</div>
+				<div class="input-wrap-sub" data-input-name="question">
+					<textarea 
+					name="question" rows="4" class="question" id="surveyText"><%= L10N_SURVEY_ADDITIONAL %></textarea>
+				</div>
+			</div>
+				</div>
+			</div>
+            <div class="submit-section">
+				<div class="footer">
+					<span class='powered_by'><%= L10N_POWERED_BY %></span> <span class='brand'><%= L10N_BRAND %></span>
+				</div>
+				<div class="submit-wrap">
+					<input type="submit" value="<%= L10N_SUBMIT %>"/>
+					<div class="clear"></div>
+				</div>
+			</div>
+        </form>
+    </script>
+
+	<script type="text/template" id="tpl-thanks">
+		<div class="box"></div>
+		<div class="thanksBox">
+			<div class="scrollbar"><div class="track"><div class="thumb"><div class="end"></div></div></div></div>
+			<div class="viewport">
+				<div class="overview">
+       				<div class="thanks"></div>
+       				<div class="thanks-text"><span><%= L10N_THANKS %></span></div>
+				</div>
+			</div>
+		</div>
+        <form>
+            <div class="submit-section">
+				<div class="footer">
+					<span class='powered_by'><%= L10N_POWERED_BY %></span> <span class='brand'><%= L10N_BRAND %></span>
+				</div>
+				<div class="submit-wrap">
+					<input type="submit" value="<%= L10N_CLOSE_WIN %>"/>
+					<div class="clear"></div>
+				</div>
+			</div>
+        </form>
+    </script>
+
+	<script type="text/template" id="tpl-login">
+        <form>
+			<div class="form-fields">
+				<div class="scrollbar"><div class="track"><div class="thumb"><div class="end"></div></div></div></div>
+				<div class="viewport">
+					<div class="overview">
+            <% for(var i = 0; i < param.length; i++) { %>
+                <div class="input-wrap" data-input-name="<%= param[i].attributeName %>">
+
+					<label><%= window[param[i].paramName] %></label>
+					<div class="errors" error-input-name="<%= param[i].attributeName %>"></div>
+
+					<div class="input-wrap-sub">
+						<% if(param[i].fieldType == '1') { %>
+
+							<input name="<%= param[i].attributeName %>"
+									type="text"
+									value=""/>
+
+
+						<% } else if(param[i].fieldType == '2') { %>
+
+							<textarea name="<%= param[i].attributeName %>" rows="4"
+										class="question"></textarea>
+
+						<% } else if(param[i].fieldType == '3') { %>
+
+							<select name="<%= param[i].attributeName %>" id=<%= param[i].attributeName %>>
+
+							</select>
+						<% } %>
+						<div class="checkmark"></div>
+						<div class="errormark"></div>
+					</div>
+            	</div>
+
+            <% } %>
+					</div>
+				</div>
+			</div>
+            <div class="submit-section">
+				<div class="footer">
+					<span class='powered_by'><%= L10N_POWERED_BY %></span> <span class='brand'><%= L10N_BRAND %></span>
+				</div>
+				<div class="submit-wrap">
+					<input type="submit" value="<%= L10N_START_CHAT_BUTTON %>"/>
+					<div class="clear"></div>
+				</div>
+			</div>
+            <div class="clear"></div>
+        </form>
+    </script>
+
+	<form name="saveAsForm" action="../../../web/view/live/utilities/saveas.jsp" method="POST" target="saveastarget">
+		<input type="hidden" name="content"/>
+		<input type="hidden" name="sysdate"/>
+	</form>
+
+	<form name="formAttachment"  method="POST" target="attachmenttarget">
+		<input type="hidden" name="sid"/>
+		<input type="hidden" name="setCacheHeaders"/>
+	</form>
+	<!--[if IE]>
+	<bgsound id="iesound" src='' hidden='true' autostart='false' type='audio/wav' loop='false' style=""/>
+	<![endif]-->
+	<audio id="html5sound" />
+
+	<!-- Chat Scripts -->
+	<script src="chat/js/core.js"></script>
+	<script src="chat/js/video.js"></script>
+	<script src="chat/js/header.js"></script>
+	<script src="chat/js/connection.js"></script>
+	<script src="chat/js/session.js"></script>
+
+	<script src="chat/js/messenger.js"></script>
+	<script src="chat/js/login.js"></script>
+	<script src="chat/js/transcript.js"></script>
+	<script src="chat/js/chat.js"></script>
+	<script src="chat/js/editor.js"></script>
+	<script src="chat/js/audio.js"></script>
+	<script src="chat/js/survey.js"></script>
+	<script src="chat/js/thanks.js"></script>
+	<script src="chat/js/validator.js"></script>
+	<script src="chat/js/utils.js"></script>
+
+</body>
+</html>
