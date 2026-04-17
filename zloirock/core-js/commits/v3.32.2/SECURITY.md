@@ -4,7 +4,6 @@
 
 
 
-
 <!DOCTYPE html>
 <html
   lang="en"
@@ -28,6 +27,7 @@
 
   
 
+
   <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/light-8db8ec9d843a6198.css" /><link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/light_high_contrast-1ebc8c2fbf646f62.css" /><link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/dark-5a2079a7af880b5d.css" /><link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/dark_high_contrast-f22f15c407d6eca1.css" /><link data-color-theme="light" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/light-8db8ec9d843a6198.css" /><link data-color-theme="light_high_contrast" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/light_high_contrast-1ebc8c2fbf646f62.css" /><link data-color-theme="light_colorblind" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/light_colorblind-2c630c094e7e58fe.css" /><link data-color-theme="light_colorblind_high_contrast" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/light_colorblind_high_contrast-1e74f08f26690427.css" /><link data-color-theme="light_tritanopia" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/light_tritanopia-a55e823d68b6636a.css" /><link data-color-theme="light_tritanopia_high_contrast" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/light_tritanopia_high_contrast-2a79786d0d9a72b7.css" /><link data-color-theme="dark" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/dark-5a2079a7af880b5d.css" /><link data-color-theme="dark_high_contrast" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/dark_high_contrast-f22f15c407d6eca1.css" /><link data-color-theme="dark_colorblind" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/dark_colorblind-f483db49f1126b90.css" /><link data-color-theme="dark_colorblind_high_contrast" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/dark_colorblind_high_contrast-666e5c9bc47065ef.css" /><link data-color-theme="dark_tritanopia" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/dark_tritanopia-1424433ddc9f2f2e.css" /><link data-color-theme="dark_tritanopia_high_contrast" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/dark_tritanopia_high_contrast-76544daae5228ed1.css" /><link data-color-theme="dark_dimmed" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/dark_dimmed-90ebacd7fa543c51.css" /><link data-color-theme="dark_dimmed_high_contrast" crossorigin="anonymous" media="all" rel="stylesheet" data-href="https://github.githubassets.com/assets/dark_dimmed_high_contrast-9ab7fa96747a4402.css" />
 
   <style type="text/css">
@@ -45,7 +45,7 @@
     <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/global-c9ae636e7affabfe.css" />
     <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/github-c94ab8d1f22049a8.css" />
   <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/repository-6ec84ae2261fecf8.css" />
-<link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/releases-8d1cff8087c530cf.css" />
+<link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/code-2d31826944fd3be8.css" />
 
   
 
@@ -102,10 +102,70 @@
 <script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/89960-387607d3b39aa528.js" defer="defer"></script>
 <script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/37869-a873e81f0fcb98e2.js" defer="defer"></script>
 <script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/68751-fe5cb40b5547c377.js" defer="defer"></script>
-<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/36505-d881e4fdaa1f52d2.js" defer="defer"></script>
-<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/33073-19b499126dc11486.js" defer="defer"></script>
+<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/7463-f34e26efc84a7578.js" defer="defer"></script>
+<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/15272-00d6ef52b0f88c77.js" defer="defer"></script>
+<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/41167-87d9e89a64094cdb.js" defer="defer"></script>
+<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/32769-329cba91f224b6ee.js" defer="defer"></script>
+<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/73449-646bf6ea1408fd50.js" defer="defer"></script>
+<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/70247-2fd8dae41a97f023.js" defer="defer"></script>
+<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/25164-961089be44fa9f85.js" defer="defer"></script>
+<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/62094-358c25913dde0efc.js" defer="defer"></script>
+<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/46903-65368220eba9c018.js" defer="defer"></script>
+<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/67985-33bb92236f6110af.js" defer="defer"></script>
+<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/84858-decdfcc8e316f78c.js" defer="defer"></script>
+<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/86849-5cc5e81ce5a91397.js" defer="defer"></script>
+<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/59046-2f294315d961019a.js" defer="defer"></script>
+<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/22110-bd3905ae268a0602.js" defer="defer"></script>
+<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/66554-cd62901902042cfd.js" defer="defer"></script>
+<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/40145-1c5666e94b907f22.js" defer="defer"></script>
+<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/46148-0e40187c0246d203.js" defer="defer"></script>
+<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/17894-e0128f369d75471b.js" defer="defer"></script>
+<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/43947-18e23171752897a9.js" defer="defer"></script>
+<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/23396-c7ca6930473d2d67.js" defer="defer"></script>
 <script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/63991-125a5c660965e63e.js" defer="defer"></script>
 <script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/59852-80edf21194f9d3f8.js" defer="defer"></script>
+<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/91894-06dea53adb37b53c.js" defer="defer"></script>
+<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/3624-e2fcb28c28b4d319.js" defer="defer"></script>
+<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/17513-e85ebc95a7d6e734.js" defer="defer"></script>
+<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/66231-e5fbc544a569ca6a.js" defer="defer"></script>
+<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/36600-4f87611db710da71.js" defer="defer"></script>
+<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/35644-841291392c65f0de.js" defer="defer"></script>
+<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/76241-6461c499bdd8e24d.js" defer="defer"></script>
+<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/18222-498ac30c45b2263a.js" defer="defer"></script>
+<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/96755-4b30aa134d425c76.js" defer="defer"></script>
+<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/78292-7192d7c00bd7b6f5.js" defer="defer"></script>
+<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/3809-6e5f4fd9f64fc4ce.js" defer="defer"></script>
+<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/54888-9b7097d2ff748a17.js" defer="defer"></script>
+<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/77440-4a1edb90d0d4865c.js" defer="defer"></script>
+<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/1097-b805267515cb2087.js" defer="defer"></script>
+<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/8987-5c9265a0508c59d9.js" defer="defer"></script>
+<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/60207-5a2b02b6befddfb0.js" defer="defer"></script>
+<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/15738-56227d4923724fa5.js" defer="defer"></script>
+<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/15151-684c0e47023be651.js" defer="defer"></script>
+<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/87894-8e50b51559b260e5.js" defer="defer"></script>
+<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/27282-8ffa814779f8aa96.js" defer="defer"></script>
+<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/95405-4fefb1bb5d3ae6a8.js" defer="defer"></script>
+<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/46009-3208ae13fb105807.js" defer="defer"></script>
+<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/16449-85f57dbbecbd2454.js" defer="defer"></script>
+<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/47948-d859825b3ea5ffee.js" defer="defer"></script>
+<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/75367-9df4a592321a18ed.js" defer="defer"></script>
+<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/32475-34be8bee17c828f1.js" defer="defer"></script>
+<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/97348-32c90922fc5b67ca.js" defer="defer"></script>
+<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/54259-eeab0834a995e9fa.js" defer="defer"></script>
+<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/42771-4ebf93dd4d342b28.js" defer="defer"></script>
+<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/17115-9a03a5e7f254678d.js" defer="defer"></script>
+<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/commits-b3dbae942c428d44.js" defer="defer"></script>
+<link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/primer-react-css.8a057b98cd8a150b.module.css" />
+<link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/76241.3097154e92bc0136.module.css" />
+<link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/78292.7cde2dd88c8a01db.module.css" />
+<link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/60207.29bc7bda4340f9d8.module.css" />
+<link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/47948.3b654984dc8ca45e.module.css" />
+<link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/54259.be22f7600b0a407d.module.css" />
+<link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/17115.4e2aad4454f5d928.module.css" />
+<link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/commits.18d8e2832e8dcf59.module.css" />
+
+  <script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/36505-d881e4fdaa1f52d2.js" defer="defer"></script>
+<script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/33073-19b499126dc11486.js" defer="defer"></script>
 <script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/33684-93c00536afad2a9e.js" defer="defer"></script>
 <script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/22895-381c5e0210588619.js" defer="defer"></script>
 <script crossorigin="anonymous" type="application/javascript" src="https://github.githubassets.com/assets/5289-9250cf167b7fe748.js" defer="defer"></script>
@@ -115,29 +175,29 @@
 <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/notifications-subscriptions-menu.bd6c994adeb63adb.module.css" />
 
 
-  <title>Release 3.49.0 - 2026.03.16 · zloirock/core-js · GitHub</title>
+  <title>History for SECURITY.md - zloirock/core-js · GitHub</title>
 
 
 
-  <meta name="route-pattern" content="/:user_id/:repository/releases/tag/*name" data-turbo-transient>
-  <meta name="route-controller" content="releases" data-turbo-transient>
+  <meta name="route-pattern" content="/:user_id/:repository/commits(/*name)" data-turbo-transient>
+  <meta name="route-controller" content="commits" data-turbo-transient>
   <meta name="route-action" content="show" data-turbo-transient>
-  <meta name="fetch-nonce" content="v2:ead548d2-d238-8819-6794-8360eb938cae">
+  <meta name="fetch-nonce" content="v2:da8ea748-c3d1-390a-a93b-ca27bcfa7934">
 
     
-  <meta name="current-catalog-service-hash" content="6f13f31f798a93a6b08d3be0727120e9af35851fac7b9c620d6cf9a70068c136">
+  <meta name="current-catalog-service-hash" content="f3abb0cc802f3d7b95fc8762b94bdcb13bf39634c40c357301c4aa1d67a256fb">
 
 
-  <meta name="request-id" content="E048:37A2F:1D4143:287215:69E293F5" data-pjax-transient="true"/><meta name="html-safe-nonce" content="4d5fe7cb485c613542301e6ce7841f88aac4c87eecd37b91a5d5646c31dd152b" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiJFMDQ4OjM3QTJGOjFENDE0MzoyODcyMTU6NjlFMjkzRjUiLCJ2aXNpdG9yX2lkIjoiNDg5MTk4NjY3MTI1MTM5NDg2NCIsInJlZ2lvbl9lZGdlIjoiaWFkIiwicmVnaW9uX3JlbmRlciI6ImlhZCJ9" data-pjax-transient="true"/><meta name="visitor-hmac" content="483bafea79655c259bf73182dc94530bda8ef49bee763fa3a87c962e5f17e32c" data-pjax-transient="true"/>
+  <meta name="request-id" content="E042:2A4D8D:1DE387:29ACE5:69E293E8" data-pjax-transient="true"/><meta name="html-safe-nonce" content="4d5fe7cb485c613542301e6ce7841f88aac4c87eecd37b91a5d5646c31dd152b" data-pjax-transient="true"/><meta name="visitor-payload" content="eyJyZWZlcnJlciI6IiIsInJlcXVlc3RfaWQiOiJFMDQyOjJBNEQ4RDoxREUzODc6MjlBQ0U1OjY5RTI5M0U4IiwidmlzaXRvcl9pZCI6IjQ4OTE5ODY2NzEyNTEzOTQ4NjQiLCJyZWdpb25fZWRnZSI6ImlhZCIsInJlZ2lvbl9yZW5kZXIiOiJpYWQifQ==" data-pjax-transient="true"/><meta name="visitor-hmac" content="da5abb7362c532649f321666c5e7c28822a8ab21da885ba2c9a4be78bd2f6bb2" data-pjax-transient="true"/>
 
 
     <meta name="hovercard-subject-tag" content="repository:11481338" data-turbo-transient>
 
 
-  <meta name="github-keyboard-shortcuts" content="repository,copilot" data-turbo-transient="true" />
+  <meta name="github-keyboard-shortcuts" content="repository,commit-list,copilot" data-turbo-transient="true" />
   
 
-  <meta name="selected-link" value="repo_releases" data-turbo-transient>
+  <meta name="selected-link" value="/zloirock/core-js/commits/v3.32.2/SECURITY.md" data-turbo-transient>
   <link rel="assets" href="https://github.githubassets.com/">
 
     <meta name="google-site-verification" content="Apib7-x98H0j5cPqHWwSMm6dNU4GmODRoqxLiDzdx9I">
@@ -148,7 +208,7 @@
 
 
 
-  <meta name="analytics-location" content="/&lt;user-name&gt;/&lt;repo-name&gt;/releases/show" data-turbo-transient="true" />
+  <meta name="analytics-location" content="/&lt;user-name&gt;/&lt;repo-name&gt;/commits/show" data-turbo-transient="true" />
 
   
 
@@ -169,31 +229,10 @@
 
     <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
     <meta property="fb:app_id" content="1401488693436528">
-    <meta name="apple-itunes-app" content="app-id=1477376905, app-argument=https://github.com/zloirock/core-js/releases/tag/v3.49.0" />
+    <meta name="apple-itunes-app" content="app-id=1477376905, app-argument=https://github.com/zloirock/core-js/commits/v3.32.2/SECURITY.md" />
 
-      <meta name="twitter:image" content="https://opengraph.githubassets.com/07ec2daa4be7438d651bafc2fcd88bf5ab301e2e1e74f7e6023d5b741d47fe24/zloirock/core-js/releases/tag/v3.49.0" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="Release 3.49.0 - 2026.03.16 · zloirock/core-js" /><meta name="twitter:description" content="Changes v3.48.0...v3.49.0 (373 commits)
-Iterator.range updated following the actual spec version
-
-Throw a RangeError on NaN start / end / step
-Allow null as optionOrStep
-
-
-Improved accuracy of Math..." /><meta name="twitter:creator" content="zloirock" />
-  <meta property="og:image" content="https://opengraph.githubassets.com/07ec2daa4be7438d651bafc2fcd88bf5ab301e2e1e74f7e6023d5b741d47fe24/zloirock/core-js/releases/tag/v3.49.0" /><meta property="og:image:alt" content="Changes v3.48.0...v3.49.0 (373 commits)
-Iterator.range updated following the actual spec version
-
-Throw a RangeError on NaN start / end / step
-Allow null as optionOrStep
-
-
-Improved accuracy of Math..." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="Release 3.49.0 - 2026.03.16 · zloirock/core-js" /><meta property="og:url" content="/zloirock/core-js/releases/tag/v3.49.0" /><meta property="og:description" content="Changes v3.48.0...v3.49.0 (373 commits)
-Iterator.range updated following the actual spec version
-
-Throw a RangeError on NaN start / end / step
-Allow null as optionOrStep
-
-
-Improved accuracy of Math..." />
+      <meta name="twitter:image" content="https://repository-images.githubusercontent.com/11481338/9f911778-bd91-488c-ac30-c4cb061b11c1" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="History for SECURITY.md - zloirock/core-js" /><meta name="twitter:description" content="Standard Library. Contribute to zloirock/core-js development by creating an account on GitHub." />
+  <meta property="og:image" content="https://repository-images.githubusercontent.com/11481338/9f911778-bd91-488c-ac30-c4cb061b11c1" /><meta property="og:image:alt" content="Standard Library. Contribute to zloirock/core-js development by creating an account on GitHub." /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="History for SECURITY.md - zloirock/core-js" /><meta property="og:url" content="https://github.com/zloirock/core-js" /><meta property="og:description" content="Standard Library. Contribute to zloirock/core-js development by creating an account on GitHub." />
   
 
 
@@ -213,7 +252,10 @@ Improved accuracy of Math..." />
 
   <meta name="turbo-cache-control" content="no-preview" data-turbo-transient="">
 
-      <meta name="go-import" content="github.com/zloirock/core-js git https://github.com/zloirock/core-js.git">
+      <meta name="turbo-cache-control" content="no-cache" data-turbo-transient>
+
+
+  <meta name="go-import" content="github.com/zloirock/core-js git https://github.com/zloirock/core-js.git">
 
   <meta name="octolytics-dimension-user_id" content="2213682" /><meta name="octolytics-dimension-user_login" content="zloirock" /><meta name="octolytics-dimension-repository_id" content="11481338" /><meta name="octolytics-dimension-repository_nwo" content="zloirock/core-js" /><meta name="octolytics-dimension-repository_public" content="true" /><meta name="octolytics-dimension-repository_is_fork" content="false" /><meta name="octolytics-dimension-repository_network_root_id" content="11481338" /><meta name="octolytics-dimension-repository_network_root_nwo" content="zloirock/core-js" />
 
@@ -323,19 +365,19 @@ Improved accuracy of Math..." />
 
       <div class="d-flex flex-1 flex-order-2 text-right d-lg-none gap-2 flex-justify-end">
           <a
-            href="/login?return_to=https%3A%2F%2Fgithub.com%2Fzloirock%2Fcore-js%2Freleases%2Ftag%2Fv3.49.0"
+            href="/login?return_to=https%3A%2F%2Fgithub.com%2Fzloirock%2Fcore-js%2Fcommits%2Fv3.32.2%2FSECURITY.md"
             class="HeaderMenu-link HeaderMenu-button d-inline-flex f5 no-underline border color-border-default rounded-2 px-2 py-1 color-fg-inherit js-prevent-focus-on-mobile-nav"
-            data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/zloirock/core-js/releases/tag/v3.49.0&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="ba93f8ec29146abac4ae8fe06f4c499f6cf75ea74a275a0cc14d43e4b411b042"
+            data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/zloirock/core-js/commits/v3.32.2/SECURITY.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="cc95be58839bd659856907fbc5a65103703e6ead97e4111067798ca23b75ed27"
             data-analytics-event="{&quot;category&quot;:&quot;Marketing nav&quot;,&quot;action&quot;:&quot;click to Sign in&quot;,&quot;label&quot;:&quot;ref_page:Marketing;ref_cta:Sign in;ref_loc:Header&quot;}"
           >
             Sign in
           </a>
               <div class="AppHeader-appearanceSettings">
     <react-partial-anchor>
-      <button data-target="react-partial-anchor.anchor" id="icon-button-ed956c97-7909-4f7a-b3b6-ea16d2517ee3" aria-labelledby="tooltip-990863e6-826e-43e4-ba43-3274392fd705" type="button" disabled="disabled" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium AppHeader-button HeaderMenu-link border cursor-wait">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-sliders Button-visual">
+      <button data-target="react-partial-anchor.anchor" id="icon-button-af93bbed-afac-4867-97a8-cfd1bd73c184" aria-labelledby="tooltip-b73afa97-84dd-497e-be21-9cb62f19b5c9" type="button" disabled="disabled" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium AppHeader-button HeaderMenu-link border cursor-wait">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-sliders Button-visual">
     <path d="M15 2.75a.75.75 0 0 1-.75.75h-4a.75.75 0 0 1 0-1.5h4a.75.75 0 0 1 .75.75Zm-8.5.75v1.25a.75.75 0 0 0 1.5 0v-4a.75.75 0 0 0-1.5 0V2H1.75a.75.75 0 0 0 0 1.5H6.5Zm1.25 5.25a.75.75 0 0 0 0-1.5h-6a.75.75 0 0 0 0 1.5h6ZM15 8a.75.75 0 0 1-.75.75H11.5V10a.75.75 0 1 1-1.5 0V6a.75.75 0 0 1 1.5 0v1.25h2.75A.75.75 0 0 1 15 8Zm-9 5.25v-2a.75.75 0 0 0-1.5 0v1.25H1.75a.75.75 0 0 0 0 1.5H4.5v1.25a.75.75 0 0 0 1.5 0v-2Zm9 0a.75.75 0 0 1-.75.75h-6a.75.75 0 0 1 0-1.5h6a.75.75 0 0 1 .75.75Z"></path>
 </svg>
-</button><tool-tip id="tooltip-990863e6-826e-43e4-ba43-3274392fd705" for="icon-button-ed956c97-7909-4f7a-b3b6-ea16d2517ee3" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Appearance settings</tool-tip>
+</button><tool-tip id="tooltip-b73afa97-84dd-497e-be21-9cb62f19b5c9" for="icon-button-af93bbed-afac-4867-97a8-cfd1bd73c184" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Appearance settings</tool-tip>
 
       <template data-target="react-partial-anchor.template">
         <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/primer-react-css.8a057b98cd8a150b.module.css" />
@@ -383,7 +425,7 @@ Improved accuracy of Math..." />
                 
 
 
-<qbsearch-input class="search-input" data-scope="repo:zloirock/core-js" data-custom-scopes-path="/search/custom_scopes" data-delete-custom-scopes-csrf="MrlP_1pGddac1VEUJj5QGBQkyjaaHwtipYrQ6mO9nM2_7J0rXzGdRDAy_WhxB61UlQGgv6YwgW8N33i_cK8mug" data-max-custom-scopes="10" data-header-redesign-enabled="false" data-initial-value="" data-blackbird-suggestions-path="/search/suggestions" data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations" data-current-repository="zloirock/core-js" data-current-org="" data-current-owner="zloirock" data-logged-in="false" data-copilot-chat-enabled="false" data-nl-search-enabled="false" data-retain-scroll-position="true">
+<qbsearch-input class="search-input" data-scope="repo:zloirock/core-js" data-custom-scopes-path="/search/custom_scopes" data-delete-custom-scopes-csrf="M8eA0t6qn4BEXCnqFPJw07ZyHE_mBMygSR_ksFQqn7UnYtjddpmLlZHYPPN7VeHOn1OxluwrYcHA5xouhYok0A" data-max-custom-scopes="10" data-header-redesign-enabled="false" data-initial-value="" data-blackbird-suggestions-path="/search/suggestions" data-jump-to-suggestions-path="/_graphql/GetSuggestedNavigationDestinations" data-current-repository="zloirock/core-js" data-current-org="" data-current-owner="zloirock" data-logged-in="false" data-copilot-chat-enabled="false" data-nl-search-enabled="false" data-retain-scroll-position="true">
   <div
     class="search-input-container search-with-dialog position-relative d-flex flex-row flex-items-center tmp-mr-4 rounded"
     data-action="click:qbsearch-input#searchInputContainerClicked"
@@ -447,7 +489,7 @@ Improved accuracy of Math..." />
           ></div>
           <div class="QueryBuilder-InputWrapper">
             <div aria-hidden="true" class="QueryBuilder-Sizer" data-target="query-builder.sizer"></div>
-            <input id="query-builder-test" name="query-builder-test" value="" autocomplete="off" type="text" role="combobox" spellcheck="false" aria-expanded="false" aria-describedby="validation-37c3f5b8-1fd0-4f1a-b27b-c245567f8737" data-target="query-builder.input" data-action="
+            <input id="query-builder-test" name="query-builder-test" value="" autocomplete="off" type="text" role="combobox" spellcheck="false" aria-expanded="false" aria-describedby="validation-c72eac95-0a83-4816-b1c9-0047d57e0d88" data-target="query-builder.input" data-action="
           input:query-builder#inputChange
           blur:query-builder#inputBlur
           keydown:query-builder#inputKeydown
@@ -688,7 +730,7 @@ Improved accuracy of Math..." />
             ></ul>
 
         </div>
-      <div class="FormControl-inlineValidation" id="validation-37c3f5b8-1fd0-4f1a-b27b-c245567f8737" hidden="hidden">
+      <div class="FormControl-inlineValidation" id="validation-c72eac95-0a83-4816-b1c9-0047d57e0d88" hidden="hidden">
         <span class="FormControl-inlineValidation--visual">
           <svg aria-hidden="true" height="12" viewBox="0 0 12 12" version="1.1" width="12" data-view-component="true" class="octicon octicon-alert-fill">
     <path d="M4.855.708c.5-.896 1.79-.896 2.29 0l4.675 8.351a1.312 1.312 0 0 1-1.146 1.954H1.33A1.313 1.313 0 0 1 .183 9.058ZM7 7V3H5v4Zm-1 3a1 1 0 1 0 0-2 1 1 0 0 0 0 2Z"></path>
@@ -729,7 +771,7 @@ Improved accuracy of Math..." />
   
 </div>
       <scrollable-region data-labelled-by="feedback-dialog-title">
-        <div data-view-component="true" class="Overlay-body">        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="code-search-feedback-form" data-turbo="false" action="/search/feedback" accept-charset="UTF-8" method="post"><input type="hidden" data-csrf="true" name="authenticity_token" value="GY+fpIRHHR7o4OyrC48Br8YzXty+bxbDTicZXOYK+7bu7yJXao9BRyoojSSwRSioaOJf1qLcMVQwP+NypbZo1Q==" />
+        <div data-view-component="true" class="Overlay-body">        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="code-search-feedback-form" data-turbo="false" action="/search/feedback" accept-charset="UTF-8" method="post"><input type="hidden" data-csrf="true" name="authenticity_token" value="CoeYl1LKyaTJA55MyTjEO0JJutMr8WK8syZ4zRs5rRf95yVkvAKV/QvL/8Ny8u087Ji72TdCRSvNPoLjWIU+dA==" />
           <p>We read every piece of feedback, and take your input very seriously.</p>
           <textarea name="feedback" class="form-control width-full mb-2" style="height: 120px" id="feedback"></textarea>
           <input name="include_email" id="include_email" aria-label="Include my email address so I can be contacted" class="form-control mr-2" type="checkbox">
@@ -767,7 +809,7 @@ Improved accuracy of Math..." />
         <div data-view-component="true" class="Overlay-body">        <div data-target="custom-scopes.customScopesModalDialogFlash"></div>
 
         <div hidden class="create-custom-scope-form" data-target="custom-scopes.createCustomScopeForm">
-        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="custom-scopes-dialog-form" data-turbo="false" action="/search/custom_scopes" accept-charset="UTF-8" method="post"><input type="hidden" data-csrf="true" name="authenticity_token" value="XDbFUsBqXV3cd4xKNuHmJSeMJ3jk2/8Hr4wWkPsx1GC3j2mqZdkAA6eze2RXEzJwWhYT0alv5cnLzY/fuB8T3A==" />
+        <!-- '"` --><!-- </textarea></xmp> --></option></form><form id="custom-scopes-dialog-form" data-turbo="false" action="/search/custom_scopes" accept-charset="UTF-8" method="post"><input type="hidden" data-csrf="true" name="authenticity_token" value="9vcw90J+buemneFNpqp1tnJbf/hf8iZM5VV7jNvuLh4dTpwP580zud1ZFmPHWKHjD8FLURJGPIKBFOLDmMDpog==" />
           <div data-target="custom-scopes.customScopesModalDialogFlash"></div>
 
           <input type="hidden" id="custom_scope_id" name="custom_scope_id" data-target="custom-scopes.customScopesIdField">
@@ -785,7 +827,7 @@ Improved accuracy of Math..." />
                 placeholder="github-ruby"
                 required
                 maxlength="50">
-              <input type="hidden" data-csrf="true" value="kPniGtL9EG03Q+OImzFbCYPeyZhC+W0We28/csjuuSFy22Dx5/Mauv68QAqYefIhNKGkiCyBWl7BmWLiA5BsVA==" />
+              <input type="hidden" data-csrf="true" value="yX4FhJU/zW9LEtmqmo/Bm+e64AcZ737Ffwlx/Q7pxO8rXIdvoDHHuILteiiZx2izUMWNF3eXSY3F/yxtxZcRmg==" />
             </auto-check>
           </div>
 
@@ -827,30 +869,30 @@ Improved accuracy of Math..." />
 
             <div class="position-relative HeaderMenu-link-wrap d-lg-inline-block">
               <a
-                href="/login?return_to=https%3A%2F%2Fgithub.com%2Fzloirock%2Fcore-js%2Freleases%2Ftag%2Fv3.49.0"
+                href="/login?return_to=https%3A%2F%2Fgithub.com%2Fzloirock%2Fcore-js%2Fcommits%2Fv3.32.2%2FSECURITY.md"
                 class="HeaderMenu-link HeaderMenu-link--sign-in HeaderMenu-button flex-shrink-0 no-underline d-none d-lg-inline-flex border border-lg-0 rounded px-2 py-1"
                 style="margin-left: 12px;"
-                data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/zloirock/core-js/releases/tag/v3.49.0&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="ba93f8ec29146abac4ae8fe06f4c499f6cf75ea74a275a0cc14d43e4b411b042"
+                data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/zloirock/core-js/commits/v3.32.2/SECURITY.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="cc95be58839bd659856907fbc5a65103703e6ead97e4111067798ca23b75ed27"
                 data-analytics-event="{&quot;category&quot;:&quot;Marketing nav&quot;,&quot;action&quot;:&quot;click to go to homepage&quot;,&quot;label&quot;:&quot;ref_page:Marketing;ref_cta:Sign in;ref_loc:Header&quot;}"
               >
                 Sign in
               </a>
             </div>
 
-              <a href="/signup?ref_cta=Sign+up&amp;ref_loc=header+logged+out&amp;ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Freleases%2Fshow&amp;source=header-repo&amp;source_repo=zloirock%2Fcore-js"
+              <a href="/signup?ref_cta=Sign+up&amp;ref_loc=header+logged+out&amp;ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Fcommits%2Fshow&amp;source=header-repo&amp;source_repo=zloirock%2Fcore-js"
                 class="HeaderMenu-link HeaderMenu-link--sign-up HeaderMenu-button flex-shrink-0 d-flex d-lg-inline-flex no-underline border color-border-default rounded px-2 py-1"
-                data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/zloirock/core-js/releases/tag/v3.49.0&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="ba93f8ec29146abac4ae8fe06f4c499f6cf75ea74a275a0cc14d43e4b411b042"
-                data-analytics-event="{&quot;category&quot;:&quot;Sign up&quot;,&quot;action&quot;:&quot;click to sign up for account&quot;,&quot;label&quot;:&quot;ref_page:/&lt;user-name&gt;/&lt;repo-name&gt;/releases/show;ref_cta:Sign up;ref_loc:header logged out&quot;}"
+                data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;site header menu&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;SIGN_UP&quot;,&quot;originating_url&quot;:&quot;https://github.com/zloirock/core-js/commits/v3.32.2/SECURITY.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="cc95be58839bd659856907fbc5a65103703e6ead97e4111067798ca23b75ed27"
+                data-analytics-event="{&quot;category&quot;:&quot;Sign up&quot;,&quot;action&quot;:&quot;click to sign up for account&quot;,&quot;label&quot;:&quot;ref_page:/&lt;user-name&gt;/&lt;repo-name&gt;/commits/show;ref_cta:Sign up;ref_loc:header logged out&quot;}"
               >
                 Sign up
               </a>
 
                 <div class="AppHeader-appearanceSettings">
     <react-partial-anchor>
-      <button data-target="react-partial-anchor.anchor" id="icon-button-16d1d2b2-a505-49a3-bb6a-d8f06c9b503d" aria-labelledby="tooltip-9182cb03-4d12-4ace-951e-147e87d92175" type="button" disabled="disabled" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium AppHeader-button HeaderMenu-link border cursor-wait">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-sliders Button-visual">
+      <button data-target="react-partial-anchor.anchor" id="icon-button-bb58f9b0-b781-43ad-90c3-c6a5b3ec85b5" aria-labelledby="tooltip-e8fa02c2-ecc1-4646-91a1-7b26744ad8a2" type="button" disabled="disabled" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium AppHeader-button HeaderMenu-link border cursor-wait">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-sliders Button-visual">
     <path d="M15 2.75a.75.75 0 0 1-.75.75h-4a.75.75 0 0 1 0-1.5h4a.75.75 0 0 1 .75.75Zm-8.5.75v1.25a.75.75 0 0 0 1.5 0v-4a.75.75 0 0 0-1.5 0V2H1.75a.75.75 0 0 0 0 1.5H6.5Zm1.25 5.25a.75.75 0 0 0 0-1.5h-6a.75.75 0 0 0 0 1.5h6ZM15 8a.75.75 0 0 1-.75.75H11.5V10a.75.75 0 1 1-1.5 0V6a.75.75 0 0 1 1.5 0v1.25h2.75A.75.75 0 0 1 15 8Zm-9 5.25v-2a.75.75 0 0 0-1.5 0v1.25H1.75a.75.75 0 0 0 0 1.5H4.5v1.25a.75.75 0 0 0 1.5 0v-2Zm9 0a.75.75 0 0 1-.75.75h-6a.75.75 0 0 1 0-1.5h6a.75.75 0 0 1 .75.75Z"></path>
 </svg>
-</button><tool-tip id="tooltip-9182cb03-4d12-4ace-951e-147e87d92175" for="icon-button-16d1d2b2-a505-49a3-bb6a-d8f06c9b503d" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Appearance settings</tool-tip>
+</button><tool-tip id="tooltip-e8fa02c2-ecc1-4646-91a1-7b26744ad8a2" for="icon-button-bb58f9b0-b781-43ad-90c3-c6a5b3ec85b5" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Appearance settings</tool-tip>
 
       <template data-target="react-partial-anchor.template">
         <link crossorigin="anonymous" media="all" rel="stylesheet" href="https://github.githubassets.com/assets/primer-react-css.8a057b98cd8a150b.module.css" />
@@ -888,10 +930,10 @@ Improved accuracy of Math..." />
         <span class="js-stale-session-flash-signed-out" hidden>You signed out in another tab or window. <a class="Link--inTextBlock" href="">Reload</a> to refresh your session.</span>
         <span class="js-stale-session-flash-switched" hidden>You switched accounts on another tab or window. <a class="Link--inTextBlock" href="">Reload</a> to refresh your session.</span>
 
-    <button id="icon-button-7f7b6798-08ea-4d59-8827-15cea96deb7d" aria-labelledby="tooltip-e1c943f1-c5b0-46c7-860c-e5b3319c96c2" type="button" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium flash-close js-flash-close">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x Button-visual">
+    <button id="icon-button-1df00193-8234-4ae2-adba-70349c4bd579" aria-labelledby="tooltip-3d625648-3237-4e35-af26-94e10d193efc" type="button" data-view-component="true" class="Button Button--iconOnly Button--invisible Button--medium flash-close js-flash-close">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x Button-visual">
     <path d="M3.72 3.72a.75.75 0 0 1 1.06 0L8 6.94l3.22-3.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L9.06 8l3.22 3.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L8 9.06l-3.22 3.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L6.94 8 3.72 4.78a.75.75 0 0 1 0-1.06Z"></path>
 </svg>
-</button><tool-tip id="tooltip-e1c943f1-c5b0-46c7-860c-e5b3319c96c2" for="icon-button-7f7b6798-08ea-4d59-8827-15cea96deb7d" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Dismiss alert</tool-tip>
+</button><tool-tip id="tooltip-3d625648-3237-4e35-af26-94e10d193efc" for="icon-button-1df00193-8234-4ae2-adba-70349c4bd579" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Dismiss alert</tool-tip>
 
 
   
@@ -949,8 +991,7 @@ Improved accuracy of Math..." />
         <div itemscope itemtype="http://schema.org/SoftwareSourceCode" class="">
     <main id="js-repo-pjax-container" >
       
-  
-    
+      
 
 
 
@@ -989,7 +1030,7 @@ Improved accuracy of Math..." />
             <ul class="pagehead-actions flex-shrink-0 d-none d-md-inline" style="padding: 2px 0;">
     
         <li>
-          <include-fragment src="/zloirock/core-js/sponsor_button" data-nonce="v2:ead548d2-d238-8819-6794-8360eb938cae" data-view-component="true">
+          <include-fragment src="/zloirock/core-js/sponsor_button" data-nonce="v2:da8ea748-c3d1-390a-a93b-ca27bcfa7934" data-view-component="true">
   
   <div data-show-on-forbidden-error hidden>
     <div class="Box">
@@ -1010,15 +1051,15 @@ Improved accuracy of Math..." />
       
 
   <li>
-            <a href="/login?return_to=%2Fzloirock%2Fcore-js" rel="nofollow" id="repository-details-watch-button" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;notification subscription menu watch&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/zloirock/core-js/releases/tag/v3.49.0&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="0b26ac110c56c723b1c388d2759c9a680e06293ee119803c8b1d5783651c0546" aria-label="You must be signed in to change notification settings" data-view-component="true" class="btn-sm btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-bell mr-2 tmp-mr-2">
+            <a href="/login?return_to=%2Fzloirock%2Fcore-js" rel="nofollow" id="repository-details-watch-button" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;notification subscription menu watch&quot;,&quot;repository_id&quot;:null,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/zloirock/core-js/commits/v3.32.2/SECURITY.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="e4667fe51442bf2fcb3204a0ca65912801fdb6438617d45109547df33f6ba09e" aria-label="You must be signed in to change notification settings" data-view-component="true" class="btn-sm btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-bell mr-2 tmp-mr-2">
     <path d="M8 16a2 2 0 0 0 1.985-1.75c.017-.137-.097-.25-.235-.25h-3.5c-.138 0-.252.113-.235.25A2 2 0 0 0 8 16ZM3 5a5 5 0 0 1 10 0v2.947c0 .05.015.098.042.139l1.703 2.555A1.519 1.519 0 0 1 13.482 13H2.518a1.516 1.516 0 0 1-1.263-2.36l1.703-2.554A.255.255 0 0 0 3 7.947Zm5-3.5A3.5 3.5 0 0 0 4.5 5v2.947c0 .346-.102.683-.294.97l-1.703 2.556a.017.017 0 0 0-.003.01l.001.006c0 .002.002.004.004.006l.006.004.007.001h10.964l.007-.001.006-.004.004-.006.001-.007a.017.017 0 0 0-.003-.01l-1.703-2.554a1.745 1.745 0 0 1-.294-.97V5A3.5 3.5 0 0 0 8 1.5Z"></path>
 </svg>Notifications
-</a>    <tool-tip id="tooltip-97e9997b-555d-483b-a064-81ed035589e0" for="repository-details-watch-button" popover="manual" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">You must be signed in to change notification settings</tool-tip>
+</a>    <tool-tip id="tooltip-7de78d8e-e23b-4a44-b98d-f655b4b711c6" for="repository-details-watch-button" popover="manual" data-direction="s" data-type="description" data-view-component="true" class="sr-only position-absolute">You must be signed in to change notification settings</tool-tip>
 
   </li>
 
   <li>
-          <a icon="repo-forked" id="fork-button" href="/login?return_to=%2Fzloirock%2Fcore-js" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;repo details fork button&quot;,&quot;repository_id&quot;:11481338,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/zloirock/core-js/releases/tag/v3.49.0&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="bf548a946317385719b51f9e0fd121787dc75db9a524684ac37785d552a1dd24" data-view-component="true" class="btn-sm btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2 tmp-mr-2">
+          <a icon="repo-forked" id="fork-button" href="/login?return_to=%2Fzloirock%2Fcore-js" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;repo details fork button&quot;,&quot;repository_id&quot;:11481338,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/zloirock/core-js/commits/v3.32.2/SECURITY.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="f0e7118f3633a53da8142e080f17452b685f9519d12e78cf57fe4768fcf26260" data-view-component="true" class="btn-sm btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2 tmp-mr-2">
     <path d="M5 5.372v.878c0 .414.336.75.75.75h4.5a.75.75 0 0 0 .75-.75v-.878a2.25 2.25 0 1 1 1.5 0v.878a2.25 2.25 0 0 1-2.25 2.25h-1.5v2.128a2.251 2.251 0 1 1-1.5 0V8.5h-1.5A2.25 2.25 0 0 1 3.5 6.25v-.878a2.25 2.25 0 1 1 1.5 0ZM5 3.25a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Zm6.75.75a.75.75 0 1 0 0-1.5.75.75 0 0 0 0 1.5Zm-3 8.75a.75.75 0 1 0-1.5 0 .75.75 0 0 0 1.5 0Z"></path>
 </svg>Fork
     <span id="repo-network-counter" data-pjax-replace="true" data-turbo-replace="true" title="1,697" data-view-component="true" class="Counter">1.7k</span>
@@ -1027,7 +1068,7 @@ Improved accuracy of Math..." />
 
   <li>
         <div data-view-component="true" class="BtnGroup d-flex">
-        <a href="/login?return_to=%2Fzloirock%2Fcore-js" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:11481338,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/zloirock/core-js/releases/tag/v3.49.0&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="9a2e2591b836692bd10bc83e5189ff0419a4653e48db02321b188fd32ac3873e" aria-label="You must be signed in to star a repository" data-view-component="true" class="tooltipped tooltipped-sw btn-sm btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star v-align-text-bottom d-inline-block mr-2 tmp-mr-2">
+        <a href="/login?return_to=%2Fzloirock%2Fcore-js" rel="nofollow" data-hydro-click="{&quot;event_type&quot;:&quot;authentication.click&quot;,&quot;payload&quot;:{&quot;location_in_page&quot;:&quot;star button&quot;,&quot;repository_id&quot;:11481338,&quot;auth_type&quot;:&quot;LOG_IN&quot;,&quot;originating_url&quot;:&quot;https://github.com/zloirock/core-js/commits/v3.32.2/SECURITY.md&quot;,&quot;user_id&quot;:null}}" data-hydro-click-hmac="df7ed7f298f23cc8c1033005ad00035e4cce76b03ce15ad17e46be5db2f161b4" aria-label="You must be signed in to star a repository" data-view-component="true" class="tooltipped tooltipped-sw btn-sm btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star v-align-text-bottom d-inline-block mr-2 tmp-mr-2">
     <path d="M8 .25a.75.75 0 0 1 .673.418l1.882 3.815 4.21.612a.75.75 0 0 1 .416 1.279l-3.046 2.97.719 4.192a.751.751 0 0 1-1.088.791L8 12.347l-3.766 1.98a.75.75 0 0 1-1.088-.79l.72-4.194L.818 6.374a.75.75 0 0 1 .416-1.28l4.21-.611L7.327.668A.75.75 0 0 1 8 .25Zm0 2.445L6.615 5.5a.75.75 0 0 1-.564.41l-3.097.45 2.24 2.184a.75.75 0 0 1 .216.664l-.528 3.084 2.769-1.456a.75.75 0 0 1 .698 0l2.77 1.456-.53-3.084a.75.75 0 0 1 .216-.664l2.24-2.183-3.096-.45a.75.75 0 0 1-.564-.41L8 2.694Z"></path>
 </svg><span data-view-component="true" class="d-inline">
           Star
@@ -1048,7 +1089,7 @@ Improved accuracy of Math..." />
 
   <ul data-view-component="true" class="UnderlineNav-body list-style-none">
       <li data-view-component="true" class="d-inline-flex">
-  <a id="code-tab" href="/zloirock/core-js/tree/v3.49.0" data-tab-item="i0code-tab" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages repo_deployments repo_attestations /zloirock/core-js/tree/v3.49.0" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g c" data-command-id="repositories:go-to-code" data-react-nav="code-view" data-react-nav-anchor="code-view-repo-link" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Code&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" aria-current="page" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item selected">
+  <a id="code-tab" href="/zloirock/core-js/tree/v3.32.2" data-tab-item="i0code-tab" data-selected-links="repo_source repo_downloads repo_commits repo_releases repo_tags repo_branches repo_packages repo_deployments repo_attestations /zloirock/core-js/tree/v3.32.2" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" data-hotkey="g c" data-command-id="repositories:go-to-code" data-react-nav="code-view" data-react-nav-anchor="code-view-repo-link" data-analytics-event="{&quot;category&quot;:&quot;Underline navbar&quot;,&quot;action&quot;:&quot;Click tab&quot;,&quot;label&quot;:&quot;Code&quot;,&quot;target&quot;:&quot;UNDERLINE_NAV.TAB&quot;}" data-view-component="true" class="UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item">
     
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code UnderlineNav-octicon d-none d-sm-inline">
     <path d="m11.28 3.22 4.25 4.25a.75.75 0 0 1 0 1.06l-4.25 4.25a.749.749 0 0 1-1.275-.326.749.749 0 0 1 .215-.734L13.94 8l-3.72-3.72a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215Zm-6.56 0a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042L2.06 8l3.72 3.72a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L.47 8.53a.75.75 0 0 1 0-1.06Z"></path>
@@ -1134,22 +1175,22 @@ Improved accuracy of Math..." />
 </ul>
     <div style="visibility:hidden;" data-view-component="true" class="UnderlineNav-actions js-responsive-underlinenav-overflow position-absolute pr-3 tmp-pr-3 pr-md-4 tmp-pr-md-4 pr-lg-5 tmp-pr-lg-5 right-0">      <action-menu data-select-variant="none" data-view-component="true">
   <focus-group direction="vertical" mnemonics retain>
-    <button id="action-menu-c1195cef-802a-4198-900b-5c9a23080929-button" popovertarget="action-menu-c1195cef-802a-4198-900b-5c9a23080929-overlay" aria-controls="action-menu-c1195cef-802a-4198-900b-5c9a23080929-list" aria-haspopup="true" aria-labelledby="tooltip-a4a8013b-b59b-480f-9391-322e982da3f4" type="button" data-view-component="true" class="Button Button--iconOnly Button--secondary Button--medium UnderlineNav-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal Button-visual">
+    <button id="action-menu-3a584f8a-48e5-4543-a6f6-d8f8e33c83a0-button" popovertarget="action-menu-3a584f8a-48e5-4543-a6f6-d8f8e33c83a0-overlay" aria-controls="action-menu-3a584f8a-48e5-4543-a6f6-d8f8e33c83a0-list" aria-haspopup="true" aria-labelledby="tooltip-0dc5ac25-b830-40ed-9ed0-4ed3af2f223b" type="button" data-view-component="true" class="Button Button--iconOnly Button--secondary Button--medium UnderlineNav-item">  <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-kebab-horizontal Button-visual">
     <path d="M8 9a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3ZM1.5 9a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Zm13 0a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path>
 </svg>
-</button><tool-tip id="tooltip-a4a8013b-b59b-480f-9391-322e982da3f4" for="action-menu-c1195cef-802a-4198-900b-5c9a23080929-button" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Additional navigation options</tool-tip>
+</button><tool-tip id="tooltip-0dc5ac25-b830-40ed-9ed0-4ed3af2f223b" for="action-menu-3a584f8a-48e5-4543-a6f6-d8f8e33c83a0-button" popover="manual" data-direction="s" data-type="label" data-view-component="true" class="sr-only position-absolute">Additional navigation options</tool-tip>
 
 
-<anchored-position data-target="action-menu.overlay" id="action-menu-c1195cef-802a-4198-900b-5c9a23080929-overlay" anchor="action-menu-c1195cef-802a-4198-900b-5c9a23080929-button" align="start" side="outside-bottom" anchor-offset="normal" popover="auto" data-view-component="true">
+<anchored-position data-target="action-menu.overlay" id="action-menu-3a584f8a-48e5-4543-a6f6-d8f8e33c83a0-overlay" anchor="action-menu-3a584f8a-48e5-4543-a6f6-d8f8e33c83a0-button" align="start" side="outside-bottom" anchor-offset="normal" popover="auto" data-view-component="true">
   <div data-view-component="true" class="Overlay Overlay--size-auto">
     
       <div data-view-component="true" class="Overlay-body Overlay-body--paddingNone">          <action-list>
   <div data-view-component="true">
-    <ul aria-labelledby="action-menu-c1195cef-802a-4198-900b-5c9a23080929-button" id="action-menu-c1195cef-802a-4198-900b-5c9a23080929-list" role="menu" data-view-component="true" class="ActionListWrap--inset ActionListWrap">
+    <ul aria-labelledby="action-menu-3a584f8a-48e5-4543-a6f6-d8f8e33c83a0-button" id="action-menu-3a584f8a-48e5-4543-a6f6-d8f8e33c83a0-list" role="menu" data-view-component="true" class="ActionListWrap--inset ActionListWrap">
         <li hidden="hidden" data-menu-item="i0code-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
     
-    <a tabindex="-1" id="item-23e9972f-d26a-42fa-8863-47b81931bc13" href="/zloirock/core-js/tree/v3.49.0" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-0de455bd-289a-4734-9006-da8cec9446a0" href="/zloirock/core-js/tree/v3.32.2" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
     <path d="m11.28 3.22 4.25 4.25a.75.75 0 0 1 0 1.06l-4.25 4.25a.749.749 0 0 1-1.275-.326.749.749 0 0 1 .215-.734L13.94 8l-3.72-3.72a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215Zm-6.56 0a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042L2.06 8l3.72 3.72a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L.47 8.53a.75.75 0 0 1 0-1.06Z"></path>
@@ -1165,7 +1206,7 @@ Improved accuracy of Math..." />
         <li hidden="hidden" data-menu-item="i1issues-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
     
-    <a tabindex="-1" id="item-c8dd6458-3420-4b2f-a850-d381ecf4d829" href="/zloirock/core-js/issues" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-5f62e895-9910-493f-ab02-dcb9adba1356" href="/zloirock/core-js/issues" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-issue-opened">
     <path d="M8 9.5a1.5 1.5 0 1 0 0-3 1.5 1.5 0 0 0 0 3Z"></path><path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Z"></path>
@@ -1181,7 +1222,7 @@ Improved accuracy of Math..." />
         <li hidden="hidden" data-menu-item="i2pull-requests-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
     
-    <a tabindex="-1" id="item-05bd6f3b-bac6-4324-9c77-7147f9f4c206" href="/zloirock/core-js/pulls" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-3762d8ee-7968-4148-816b-ccdee3775573" href="/zloirock/core-js/pulls" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-git-pull-request">
     <path d="M1.5 3.25a2.25 2.25 0 1 1 3 2.122v5.256a2.251 2.251 0 1 1-1.5 0V5.372A2.25 2.25 0 0 1 1.5 3.25Zm5.677-.177L9.573.677A.25.25 0 0 1 10 .854V2.5h1A2.5 2.5 0 0 1 13.5 5v5.628a2.251 2.251 0 1 1-1.5 0V5a1 1 0 0 0-1-1h-1v1.646a.25.25 0 0 1-.427.177L7.177 3.427a.25.25 0 0 1 0-.354ZM3.75 2.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm0 9.5a.75.75 0 1 0 0 1.5.75.75 0 0 0 0-1.5Zm8.25.75a.75.75 0 1 0 1.5 0 .75.75 0 0 0-1.5 0Z"></path>
@@ -1197,7 +1238,7 @@ Improved accuracy of Math..." />
         <li hidden="hidden" data-menu-item="i3discussions-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
     
-    <a tabindex="-1" id="item-fc6eb118-85c7-4f6c-bd58-1782d4c760dd" href="/zloirock/core-js/discussions" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-067eccaf-f849-4054-8aef-3436bf92359d" href="/zloirock/core-js/discussions" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-comment-discussion">
     <path d="M1.75 1h8.5c.966 0 1.75.784 1.75 1.75v5.5A1.75 1.75 0 0 1 10.25 10H7.061l-2.574 2.573A1.458 1.458 0 0 1 2 11.543V10h-.25A1.75 1.75 0 0 1 0 8.25v-5.5C0 1.784.784 1 1.75 1ZM1.5 2.75v5.5c0 .138.112.25.25.25h1a.75.75 0 0 1 .75.75v2.19l2.72-2.72a.749.749 0 0 1 .53-.22h3.5a.25.25 0 0 0 .25-.25v-5.5a.25.25 0 0 0-.25-.25h-8.5a.25.25 0 0 0-.25.25Zm13 2a.25.25 0 0 0-.25-.25h-.5a.75.75 0 0 1 0-1.5h.5c.966 0 1.75.784 1.75 1.75v5.5A1.75 1.75 0 0 1 14.25 12H14v1.543a1.458 1.458 0 0 1-2.487 1.03L9.22 12.28a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215l2.22 2.22v-2.19a.75.75 0 0 1 .75-.75h1a.25.25 0 0 0 .25-.25Z"></path>
@@ -1213,7 +1254,7 @@ Improved accuracy of Math..." />
         <li hidden="hidden" data-menu-item="i4actions-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
     
-    <a tabindex="-1" id="item-acb42e7c-0b70-4c7c-bfb0-6e132b06a81e" href="/zloirock/core-js/actions" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-e1261c15-1285-4903-af74-28ec447219d6" href="/zloirock/core-js/actions" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-play">
     <path d="M8 0a8 8 0 1 1 0 16A8 8 0 0 1 8 0ZM1.5 8a6.5 6.5 0 1 0 13 0 6.5 6.5 0 0 0-13 0Zm4.879-2.773 4.264 2.559a.25.25 0 0 1 0 .428l-4.264 2.559A.25.25 0 0 1 6 10.559V5.442a.25.25 0 0 1 .379-.215Z"></path>
@@ -1229,7 +1270,7 @@ Improved accuracy of Math..." />
         <li hidden="hidden" data-menu-item="i5security-and-quality-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
     
-    <a tabindex="-1" id="item-21d84203-80c8-4f17-b820-7e7cbf97166b" href="/zloirock/core-js/security" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-0dc72b68-e3b5-45e9-ae02-bbbd4de84f08" href="/zloirock/core-js/security" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-shield">
     <path d="M7.467.133a1.748 1.748 0 0 1 1.066 0l5.25 1.68A1.75 1.75 0 0 1 15 3.48V7c0 1.566-.32 3.182-1.303 4.682-.983 1.498-2.585 2.813-5.032 3.855a1.697 1.697 0 0 1-1.33 0c-2.447-1.042-4.049-2.357-5.032-3.855C1.32 10.182 1 8.566 1 7V3.48a1.75 1.75 0 0 1 1.217-1.667Zm.61 1.429a.25.25 0 0 0-.153 0l-5.25 1.68a.25.25 0 0 0-.174.238V7c0 1.358.275 2.666 1.057 3.86.784 1.194 2.121 2.34 4.366 3.297a.196.196 0 0 0 .154 0c2.245-.956 3.582-2.104 4.366-3.298C13.225 9.666 13.5 8.36 13.5 7V3.48a.251.251 0 0 0-.174-.237l-5.25-1.68ZM8.75 4.75v3a.75.75 0 0 1-1.5 0v-3a.75.75 0 0 1 1.5 0ZM9 10.5a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path>
@@ -1245,7 +1286,7 @@ Improved accuracy of Math..." />
         <li hidden="hidden" data-menu-item="i6insights-tab" data-targets="action-list.items" role="none" data-view-component="true" class="ActionListItem">
     
     
-    <a tabindex="-1" id="item-293ee166-43cd-4290-85a1-336ba57ea32b" href="/zloirock/core-js/pulse" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
+    <a tabindex="-1" id="item-9b02043c-618f-4bc6-8332-50c10da1b9b6" href="/zloirock/core-js/pulse" role="menuitem" data-view-component="true" class="ActionListContent ActionListContent--visual16">
         <span class="ActionListItem-visual ActionListItem-visual--leading">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-graph">
     <path d="M1.5 1.75V13.5h13.75a.75.75 0 0 1 0 1.5H.75a.75.75 0 0 1-.75-.75V1.75a.75.75 0 0 1 1.5 0Zm14.28 2.53-5.25 5.25a.75.75 0 0 1-1.06 0L7 7.06 4.28 9.78a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042l3.25-3.25a.75.75 0 0 1 1.06 0L10 7.94l4.72-4.72a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042Z"></path>
@@ -1281,400 +1322,37 @@ Improved accuracy of Math..." />
 
     
       
-<div class="clearfix container-xl tmp-px-3 tmp-px-md-4 tmp-px-lg-5 tmp-mt-4">
-  <nav data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame" aria-label="Breadcrumb" data-view-component="true" class="tmp-mb-5">
-  <ol>
-      <li data-view-component="true" class="breadcrumb-item "><a target="_self" href="/zloirock/core-js/releases" data-view-component="true" class="Link">Releases</a></li>
-      <li data-view-component="true" class="breadcrumb-item  breadcrumb-item-selected"><a target="_self" aria-current="page" href="/zloirock/core-js/releases/tag/v3.49.0" data-view-component="true" class="Link">v3.49.0</a></li>
-  </ol>
-</nav>
-<div class=""   data-hpc>
-  <div data-view-component="true" class="Box">
-  
-  <div data-view-component="true" class="Box-body">      <div class="d-flex flex-md-row flex-column">
-  <div class="d-flex flex-row flex-1 tmp-mb-3 wb-break-word">
-    <div class="flex-1" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame">
-        <h1 data-view-component="true" class="tmp-mr-3 d-inline">3.49.0 - 2026.03.16</h1>
-      <span>
-        <a href="/zloirock/core-js/releases/latest" data-view-component="true" class="Link v-align-text-bottom d-none d-md-inline-block"><span data-view-component="true" class="Label Label--success Label--large">Latest</span></a>
-          <div class="ml-2 d-none d-md-inline">
-              
-
-          </div>
-      </span>
-    </div>
-
-    <div class="tmp-mt-3 ml-2 d-md-none">
-      <a href="/zloirock/core-js/releases/latest" data-view-component="true" class="Link v-align-text-bottom"><span data-view-component="true" class="Label Label--success Label--large">Latest</span></a>
-    </div>
-        <div class="ml-2 tmp-mt-3 d-md-none">
-          
-
-        </div>
-  </div>
-  <div class="d-flex tmp-mb-3" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame">
-                    <select-panel id="select-panel-7c30f07a-eada-4981-a0e4-ab16190c8323" anchor-align="start" anchor-side="outside-bottom" data-select-variant="single" data-fetch-strategy="eventually_local" data-open-on-load="false" data-view-component="true">
-  <dialog-helper>
-    <button id="select-panel-7c30f07a-eada-4981-a0e4-ab16190c8323-button" aria-controls="select-panel-7c30f07a-eada-4981-a0e4-ab16190c8323-dialog" aria-haspopup="dialog" aria-expanded="false" type="button" data-view-component="true" class="Button--secondary Button--small Button">  <span class="Button-content">
-    <span class="Button-label">Compare</span>
-      <span class="Button-visual Button-trailingVisual">
-          <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-triangle-down">
-    <path d="m4.427 7.427 3.396 3.396a.25.25 0 0 0 .354 0l3.396-3.396A.25.25 0 0 0 11.396 7H4.604a.25.25 0 0 0-.177.427Z"></path>
-</svg>
-      </span>
-  </span>
-</button>
-
-    <dialog id="select-panel-7c30f07a-eada-4981-a0e4-ab16190c8323-dialog" aria-labelledby="select-panel-7c30f07a-eada-4981-a0e4-ab16190c8323-dialog-title" data-target="select-panel.dialog" style="position: absolute;" data-view-component="true" class="Overlay Overlay-whenNarrow Overlay--size-small-portrait">
-      <div data-view-component="true" class="Overlay-header Overlay-header--divided">
-  <div class="Overlay-headerContentWrap">
-    <div class="Overlay-titleWrap">
-      <h1 class="Overlay-title " id="select-panel-7c30f07a-eada-4981-a0e4-ab16190c8323-dialog-title">
-        Choose a tag to compare
-      </h1>
-        
-    </div>
-    <div class="Overlay-actionWrap">
-      <button data-close-dialog-id="select-panel-7c30f07a-eada-4981-a0e4-ab16190c8323-dialog" aria-label="Close" aria-label="Close" type="button" data-view-component="true" class="close-button Overlay-closeButton"><svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
-    <path d="M3.72 3.72a.75.75 0 0 1 1.06 0L8 6.94l3.22-3.22a.749.749 0 0 1 1.275.326.749.749 0 0 1-.215.734L9.06 8l3.22 3.22a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L8 9.06l-3.22 3.22a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042L6.94 8 3.72 4.78a.75.75 0 0 1 0-1.06Z"></path>
-</svg></button>
-    </div>
-  </div>
-  <div data-view-component="true" class="Overlay-headerFilter">            <div data-target="select-panel.bannerErrorElement" hidden>
-              <x-banner data-dismiss-scheme="none" data-view-component="true">
-  <div data-view-component="true" class="Banner flash Banner--error flash-error mb-2 tmp-mb-2">
-      <div class="Banner-visual">
-        <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-stop">
-    <path d="M4.47.22A.749.749 0 0 1 5 0h6c.199 0 .389.079.53.22l4.25 4.25c.141.14.22.331.22.53v6a.749.749 0 0 1-.22.53l-4.25 4.25A.749.749 0 0 1 11 16H5a.749.749 0 0 1-.53-.22L.22 11.53A.749.749 0 0 1 0 11V5c0-.199.079-.389.22-.53Zm.84 1.28L1.5 5.31v5.38l3.81 3.81h5.38l3.81-3.81V5.31L10.69 1.5ZM8 4a.75.75 0 0 1 .75.75v3.5a.75.75 0 0 1-1.5 0v-3.5A.75.75 0 0 1 8 4Zm0 8a1 1 0 1 1 0-2 1 1 0 0 1 0 2Z"></path>
-</svg>
-      </div>
-    <div data-view-component="true" class="Banner-message">
-      <p class="Banner-title" data-target="x-banner.titleText">
-                  <h2 class="f6 text-normal">Sorry, something went wrong.</h2>
-</p>
-</div></div></x-banner>            </div>
-            <remote-input aria-owns="select-panel-7c30f07a-eada-4981-a0e4-ab16190c8323-body" data-target="select-panel.remoteInput" data-view-component="true">
-                <primer-text-field class="FormControl width-full FormControl--fullWidth">
-      <label for="select-panel-7c30f07a-eada-4981-a0e4-ab16190c8323-filter" id="label-a0611b1e-5aa0-4766-bc3f-1ac9f636ec7d" class="sr-only FormControl-label position-absolute sr-only FormControl-label">
-        Filter
-</label>    
-  <div class="FormControl-input-wrap FormControl-input-wrap--leadingVisual">
-      <span class="FormControl-input-leadingVisualWrap">
-        <svg data-target="primer-text-field.leadingVisual" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-search FormControl-input-leadingVisual">
-    <path d="M10.68 11.74a6 6 0 0 1-7.922-8.982 6 6 0 0 1 8.982 7.922l3.04 3.04a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215ZM11.5 7a4.499 4.499 0 1 0-8.997 0A4.499 4.499 0 0 0 11.5 7Z"></path>
-</svg>
-          <span hidden="hidden" data-target="primer-text-field.leadingSpinner" data-view-component="true">
-  <svg style="box-sizing: content-box; color: var(--color-icon-primary);" width="16" height="16" viewBox="0 0 16 16" fill="none" aria-hidden="true" data-view-component="true" class="anim-rotate">
-    <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-opacity="0.25" stroke-width="2" vector-effect="non-scaling-stroke" fill="none"></circle>
-    <path d="M15 8a7.002 7.002 0 00-7-7" stroke="currentColor" stroke-width="2" stroke-linecap="round" vector-effect="non-scaling-stroke"></path>
-</svg>    <span class="sr-only">Loading</span>
-</span>
-      </span>
     
-      <input id="select-panel-7c30f07a-eada-4981-a0e4-ab16190c8323-filter" type="search" autofocus="autofocus" data-target="primer-text-field.inputElement select-panel.filterInputTextField" aria-describedby="validation-a0611b1e-5aa0-4766-bc3f-1ac9f636ec7d" class="form-control FormControl-input FormControl-medium" name="filter" />
-</div>
-      <div class="FormControl-inlineValidation" id="validation-a0611b1e-5aa0-4766-bc3f-1ac9f636ec7d" hidden="hidden">
-  <span class="FormControl-inlineValidation--visual" data-target="primer-text-field.validationSuccessIcon" hidden><svg aria-hidden="true" height="12" viewBox="0 0 12 12" version="1.1" width="12" data-view-component="true" class="octicon octicon-check-circle-fill">
-    <path d="M6 0a6 6 0 1 1 0 12A6 6 0 0 1 6 0Zm-.705 8.737L9.63 4.403 8.392 3.166 5.295 6.263l-1.7-1.702L2.356 5.8l2.938 2.938Z"></path>
-</svg></span>
-  <span class=" FormControl-inlineValidation--visual" data-target="primer-text-field.validationErrorIcon"><svg aria-hidden="true" height="12" viewBox="0 0 12 12" version="1.1" width="12" data-view-component="true" class="octicon octicon-alert-fill">
-    <path d="M4.855.708c.5-.896 1.79-.896 2.29 0l4.675 8.351a1.312 1.312 0 0 1-1.146 1.954H1.33A1.313 1.313 0 0 1 .183 9.058ZM7 7V3H5v4Zm-1 3a1 1 0 1 0 0-2 1 1 0 0 0 0 2Z"></path>
-</svg></span>
-  <span></span>
-</div>
-    
-</primer-text-field>
-</remote-input></div>
-</div>      <div data-view-component="true" class="Overlay-body p-0 tmp-p-0">
-        <focus-group direction="vertical" mnemonics retain>
-          <live-region data-target="select-panel.liveRegion"></live-region>
-          <div data-fetch-strategy="eventually_local" data-target="select-panel.list" data-view-component="true">
-            <div id="select-panel-7c30f07a-eada-4981-a0e4-ab16190c8323-body">
-                <include-fragment data-target="select-panel.includeFragment" loading="lazy" src="/zloirock/core-js/refs?tag_name=v3.49.0&amp;experimental=1" accept="text/fragment+html" data-nonce="v2:ead548d2-d238-8819-6794-8360eb938cae" data-view-component="true">
+
+
+
+
+
+
+
+
+<react-app
+  app-name="commits"
+  initial-path="/zloirock/core-js/commits/v3.32.2/SECURITY.md"
+  style="display: block; min-height: calc(100vh - 64px);"
+  data-attempted-ssr="true"
+  data-ssr="true"
+  data-lazy="false"
+  data-alternate="false"
+  data-data-router-enabled="false"
+  data-react-profiling="false"
+>
   
-                  <div id="select-panel-7c30f07a-eada-4981-a0e4-ab16190c8323-list" aria-disabled="true" aria-busy="true" data-view-component="true" class="SelectPanel-loadingPanel mt-2 tmp-mt-2 mb-2 tmp-mb-2 d-flex flex-items-start flex-justify-center text-center">
-                    <div data-hide-on-error class="pt-2">
-                      <span data-target="select-panel.bodySpinner" data-view-component="true">
-  <svg aria-label="Loading content..." style="box-sizing: content-box; color: var(--color-icon-primary);" width="32" height="32" viewBox="0 0 16 16" fill="none" role="img" data-view-component="true" class="anim-rotate">
-    <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-opacity="0.25" stroke-width="2" vector-effect="non-scaling-stroke" fill="none"></circle>
-    <path d="M15 8a7.002 7.002 0 00-7-7" stroke="currentColor" stroke-width="2" stroke-linecap="round" vector-effect="non-scaling-stroke"></path>
-</svg></span>
-                    </div>
-                    <div data-show-on-error hidden data-target="select-panel.fragmentErrorElement">
-                        <div class="pt-2 pb-2">
-                          <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-alert color-fg-danger">
-    <path d="M6.457 1.047c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0 1 14.082 15H1.918a1.75 1.75 0 0 1-1.543-2.575Zm1.763.707a.25.25 0 0 0-.44 0L1.698 13.132a.25.25 0 0 0 .22.368h12.164a.25.25 0 0 0 .22-.368Zm.53 3.996v2.5a.75.75 0 0 1-1.5 0v-2.5a.75.75 0 0 1 1.5 0ZM9 11a1 1 0 1 1-2 0 1 1 0 0 1 2 0Z"></path>
-</svg>
-                          <h2 class="f5 mt-2">Sorry, something went wrong.</h2>
-                        </div>
-                    </div>
-</div>
-  <div data-show-on-forbidden-error hidden>
-    <div class="Box">
-  <div class="blankslate-container">
-    <div data-view-component="true" class="blankslate blankslate-spacious color-bg-default rounded-2">
-      
-
-      <h3 data-view-component="true" class="blankslate-heading">        Uh oh!
-</h3>
-      <p data-view-component="true" class="blankslate-description">        <p class="color-fg-muted my-2 mb-2 ws-normal">There was an error while loading. <a class="Link--inTextBlock" data-turbo="false" href="" aria-label="Please reload this page">Please reload this page</a>.</p>
-</p>
-
-</div>  </div>
-</div>  </div>
-</include-fragment>            </div>
-            <div data-target="select-panel.noResults" class="SelectPanel-emptyPanel" hidden>
-              <h2 class="v-align-middle m-3 f5">No results found</h2>
-            </div>
-</div>        </focus-group>
-</div>      <div data-view-component="true" class="Overlay-footer Overlay-footer--alignEnd Overlay-footer--divided">          <div class="text-center width-full">
-            <a href="/zloirock/core-js/tags">View all tags</a>
-          </div>
-</div>
-</dialog>  </dialog-helper>
-</select-panel>
-
-  </div>
-</div>
-
-  <div class="tmp-mb-3 tmp-pb-md-4 border-md-bottom" data-pjax="#repo-content-pjax-container" data-turbo-frame="repo-content-turbo-frame">
-    <div class="d-flex flex-row flex-wrap color-fg-muted flex-items-end">
-  <div class="tmp-mr-4 mb-2">
-      <img src="https://avatars.githubusercontent.com/u/2213682?s=40&amp;v=4" alt="@zloirock" size="20" height="20" width="20" data-view-component="true" class="avatar avatar-small circle" />
-      <a class="text-bold color-fg-muted" data-hovercard-type="user" data-hovercard-url="/users/zloirock/hovercard" data-octo-click="hovercard-link-click" data-octo-dimensions="link_type:self" href="/zloirock">zloirock</a>
-
-    released this
-
-      <relative-time class="no-wrap" prefix="" datetime="2026-03-16T21:10:44Z">
-        16 Mar 21:10
-      </relative-time>
-  </div>
-
-  
-        <div class="tmp-mr-4 mb-2">
-          &middot;
-          <a href="/zloirock/core-js/compare/v3.49.0...master">
-            56 commits
-          </a>
-          to master
-          since this release
-        </div>
+  <script type="application/json" data-target="react-app.embeddedData">{"payload":{"commitGroups":[{"title":"Oct 22, 2022","commits":[{"oid":"aa9b0c25f96b1659e7e24021a6027b0aceb9f3fa","url":"/zloirock/core-js/commit/aa9b0c25f96b1659e7e24021a6027b0aceb9f3fa","authoredDate":"2022-10-22T17:16:44.000+07:00","committedDate":"2022-10-22T17:16:44.000+07:00","shortMessage":"update `SECURITY.md`","shortMessageMarkdown":null,"shortMessageMarkdownLink":"\u003ca data-pjax=\"true\" title=\"update `SECURITY.md`\" class=\"color-fg-default\" href=\"/zloirock/core-js/commit/aa9b0c25f96b1659e7e24021a6027b0aceb9f3fa\"\u003eupdate \u003ccode\u003eSECURITY.md\u003c/code\u003e\u003c/a\u003e","bodyMessageHtml":"","authors":[{"login":"zloirock","displayName":"Denis Pushkarev","avatarUrl":"https://avatars.githubusercontent.com/u/2213682?v=4","path":"/zloirock","profileName":"Denis Pushkarev","isGitHub":false}],"committerAttribution":false,"committer":{"login":"zloirock","displayName":"Denis Pushkarev","avatarUrl":"https://avatars.githubusercontent.com/u/2213682?v=4","path":"/zloirock","profileName":"Denis Pushkarev","isGitHub":false},"pusher":null,"pushedDate":null}]},{"title":"Jun 28, 2022","commits":[{"oid":"08d8143d2c814b7630df34ec8fb6913828163ad6","url":"/zloirock/core-js/commit/08d8143d2c814b7630df34ec8fb6913828163ad6","authoredDate":"2022-06-29T03:29:42.000+07:00","committedDate":"2022-06-29T03:29:42.000+07:00","shortMessage":"bump version in `SECURITY.md`","shortMessageMarkdown":null,"shortMessageMarkdownLink":"\u003ca data-pjax=\"true\" title=\"bump version in `SECURITY.md`\n\nReason:\n\n3.21.0 - 3.23.0: web compatibility issue - attempt to rewrite some non-writable non-configurable `Number` constants from proposals\n3.20.0 - 3.22.8: invalidation of V8 `ArrayBufferDetaching` protector on `structuredClone` feature detection and performance degradation\n3.22.4 - 3.23.2: broken some cases of IE8- support\" class=\"color-fg-default\" href=\"/zloirock/core-js/commit/08d8143d2c814b7630df34ec8fb6913828163ad6\"\u003ebump version in \u003ccode\u003eSECURITY.md\u003c/code\u003e\u003c/a\u003e","bodyMessageHtml":"Reason:\n\n3.21.0 - 3.23.0: web compatibility issue - attempt to rewrite some non-writable non-configurable `Number` constants from proposals\n3.20.0 - 3.22.8: invalidation of V8 `ArrayBufferDetaching` protector on `structuredClone` feature detection and performance degradation\n3.22.4 - 3.23.2: broken some cases of IE8- support","authors":[{"login":"zloirock","displayName":"Denis Pushkarev","avatarUrl":"https://avatars.githubusercontent.com/u/2213682?v=4","path":"/zloirock","profileName":"Denis Pushkarev","isGitHub":false}],"committerAttribution":false,"committer":{"login":"zloirock","displayName":"Denis Pushkarev","avatarUrl":"https://avatars.githubusercontent.com/u/2213682?v=4","path":"/zloirock","profileName":"Denis Pushkarev","isGitHub":false},"pusher":null,"pushedDate":null}]},{"title":"Dec 23, 2021","commits":[{"oid":"818e4734b37dc02852f9f3da03c08418391051de","url":"/zloirock/core-js/commit/818e4734b37dc02852f9f3da03c08418391051de","authoredDate":"2021-12-24T05:07:43.000+07:00","committedDate":"2021-12-24T05:07:43.000+07:00","shortMessage":"clarify supported versions","shortMessageMarkdown":null,"shortMessageMarkdownLink":"\u003ca data-pjax=\"true\" title=\"clarify supported versions\n\nsome workarounds of V8 whims were added in 3.3.x patch releases\" class=\"color-fg-default\" href=\"/zloirock/core-js/commit/818e4734b37dc02852f9f3da03c08418391051de\"\u003eclarify supported versions\u003c/a\u003e","bodyMessageHtml":"some workarounds of V8 whims were added in 3.3.x patch releases","authors":[{"login":"zloirock","displayName":"Denis Pushkarev","avatarUrl":"https://avatars.githubusercontent.com/u/2213682?v=4","path":"/zloirock","profileName":"Denis Pushkarev","isGitHub":false}],"committerAttribution":false,"committer":{"login":"zloirock","displayName":"Denis Pushkarev","avatarUrl":"https://avatars.githubusercontent.com/u/2213682?v=4","path":"/zloirock","profileName":"Denis Pushkarev","isGitHub":false},"pusher":null,"pushedDate":null}]},{"title":"Apr 30, 2021","commits":[{"oid":"1b8b1f2316c5420ac480cd85aae1e6b77d7e8838","url":"/zloirock/core-js/commit/1b8b1f2316c5420ac480cd85aae1e6b77d7e8838","authoredDate":"2021-04-30T23:13:09.000+03:00","committedDate":"2021-04-30T23:13:09.000+03:00","shortMessage":"mark `core-js@\u003c3.3` as no longer maintained","shortMessageMarkdown":null,"shortMessageMarkdownLink":"\u003ca data-pjax=\"true\" title=\"mark `core-js@\u0026lt;3.3` as no longer maintained\" class=\"color-fg-default\" href=\"/zloirock/core-js/commit/1b8b1f2316c5420ac480cd85aae1e6b77d7e8838\"\u003emark \u003ccode\u003ecore-js@\u0026lt;3.3\u003c/code\u003e as no longer maintained\u003c/a\u003e","bodyMessageHtml":"","authors":[{"login":"zloirock","displayName":"Denis Pushkarev","avatarUrl":"https://avatars.githubusercontent.com/u/2213682?v=4","path":"/zloirock","profileName":"Denis Pushkarev","isGitHub":false}],"committerAttribution":false,"committer":{"login":"zloirock","displayName":"Denis Pushkarev","avatarUrl":"https://avatars.githubusercontent.com/u/2213682?v=4","path":"/zloirock","profileName":"Denis Pushkarev","isGitHub":false},"pusher":null,"pushedDate":null}]},{"title":"Nov 16, 2019","commits":[{"oid":"3184a9ad81b4778cd4e6d7fece6c200468b8a582","url":"/zloirock/core-js/commit/3184a9ad81b4778cd4e6d7fece6c200468b8a582","authoredDate":"2019-11-16T23:38:28.000+07:00","committedDate":"2019-11-16T23:38:28.000+07:00","shortMessage":"mark `core-js@2` as unsupported","shortMessageMarkdown":null,"shortMessageMarkdownLink":"\u003ca data-pjax=\"true\" title=\"mark `core-js@2` as unsupported\" class=\"color-fg-default\" href=\"/zloirock/core-js/commit/3184a9ad81b4778cd4e6d7fece6c200468b8a582\"\u003emark \u003ccode\u003ecore-js@2\u003c/code\u003e as unsupported\u003c/a\u003e","bodyMessageHtml":"","authors":[{"login":"zloirock","displayName":"Denis Pushkarev","avatarUrl":"https://avatars.githubusercontent.com/u/2213682?v=4","path":"/zloirock","profileName":"Denis Pushkarev","isGitHub":false}],"committerAttribution":false,"committer":{"login":"zloirock","displayName":"Denis Pushkarev","avatarUrl":"https://avatars.githubusercontent.com/u/2213682?v=4","path":"/zloirock","profileName":"Denis Pushkarev","isGitHub":false},"pusher":null,"pushedDate":null}]},{"title":"Sep 8, 2019","commits":[{"oid":"b955d2dad747e34240be0584284ca8c9f35b1cb9","url":"/zloirock/core-js/commit/b955d2dad747e34240be0584284ca8c9f35b1cb9","authoredDate":"2019-09-08T16:43:08.000+07:00","committedDate":"2019-09-08T16:43:08.000+07:00","shortMessage":"add security policy","shortMessageMarkdown":null,"shortMessageMarkdownLink":"\u003ca data-pjax=\"true\" title=\"add security policy\" class=\"color-fg-default\" href=\"/zloirock/core-js/commit/b955d2dad747e34240be0584284ca8c9f35b1cb9\"\u003eadd security policy\u003c/a\u003e","bodyMessageHtml":"","authors":[{"login":"zloirock","displayName":"Denis Pushkarev","avatarUrl":"https://avatars.githubusercontent.com/u/2213682?v=4","path":"/zloirock","profileName":"Denis Pushkarev","isGitHub":false}],"committerAttribution":false,"committer":{"login":"zloirock","displayName":"Denis Pushkarev","avatarUrl":"https://avatars.githubusercontent.com/u/2213682?v=4","path":"/zloirock","profileName":"Denis Pushkarev","isGitHub":false},"pusher":null,"pushedDate":null}]}],"currentCommit":{"oid":"aaefe98d5fdc015e417801332eb4ede5113a01f5"},"filters":{"since":null,"until":null,"author":null,"newPath":null,"originalBranch":null,"currentBlobPath":"SECURITY.md","pagination":{"startCursor":"aaefe98d5fdc015e417801332eb4ede5113a01f5 0","endCursor":"aaefe98d5fdc015e417801332eb4ede5113a01f5 5","hasNextPage":false,"hasPreviousPage":false}},"metadata":{"browsingRenameHistory":null,"showProfileHelp":false,"deferredDataUrl":"/zloirock/core-js/commits/deferred_commit_data/v3.32.2?original_branch=v3.32.2\u0026path=SECURITY.md","deferredContributorUrl":"/zloirock/core-js/commits/deferred_commit_contributors","softNavToCommit":true},"repo":{"id":11481338,"defaultBranch":"master","name":"core-js","ownerLogin":"zloirock","currentUserCanPush":false,"isFork":false,"isEmpty":false,"createdAt":"2013-07-17T16:32:27.000Z","ownerAvatar":"https://avatars.githubusercontent.com/u/2213682?v=4","public":true,"private":false,"isOrgOwned":false},"refInfo":{"name":"v3.32.2","listCacheKey":"v0:1775672924.0","refType":"tag","currentOid":"aaefe98d5fdc015e417801332eb4ede5113a01f5"},"timedOutMessage":"","userNameDisplayConfiguration":"handle"},"title":"History for SECURITY.md - zloirock/core-js","appPayload":{"helpUrl":"https://docs.github.com"}}</script>
+  <div data-target="react-app.reactRoot"><link rel="preload" as="image" href="https://avatars.githubusercontent.com/u/2213682?v=4&amp;size=32"/> <!-- --> <div style="--spacing:var(--spacing-normal)" class="prc-PageLayout-PageLayoutRoot--KH-d"><div class="prc-PageLayout-PageLayoutWrapper-2BhU2" data-width="xlarge"><header data-hidden="false" class="prc-PageLayout-Header-0of-R Layout-module__LayoutHeader__NutRS" style="--spacing:var(--spacing-none)"><div class="prc-PageLayout-HeaderContent-gdFfN" style="--spacing:var(--spacing-none)"><div class="d-flex flex-items-center flex-justify-between"><h1 class="f2 text-normal pb-2 prc-Heading-Heading-MtWFE" id="commits-pagehead">Commits</h1></div></div><div class="prc-PageLayout-HorizontalDivider-JLVqp prc-PageLayout-HeaderHorizontalDivider-odAHl" data-variant="line" style="--spacing-divider:var(--spacing-normal);--spacing:var(--spacing-none)"></div></header><div class="prc-PageLayout-PageLayoutContent-BneH9"><div class="prc-PageLayout-ContentWrapper-gR9eG" data-is-hidden="false"><div class="prc-PageLayout-Content-xWL-A" data-width="full" style="--spacing:var(--spacing-none)"><div><div class="tmp-mb-3 prc-Stack-Stack-UQ9k6" data-gap="condensed" data-direction="horizontal" data-align="stretch" data-wrap="nowrap" data-justify="space-between" data-padding="none"><div class="d-flex flex-items-center"><div class="d-flex flex-items-baseline flex-column flex-sm-row"><h2 class="sr-only prc-Heading-Heading-MtWFE">Breadcrumbs</h2><span class="fgColor-default no-wrap">History for</span><nav class="ml-1 prc-Breadcrumbs-BreadcrumbsBase-3Gb-B" aria-label="Breadcrumbs" data-overflow="wrap" data-variant="normal"><ol class="prc-Breadcrumbs-BreadcrumbsList-BKjpe"><li class="prc-Breadcrumbs-ItemWrapper-k0NLn"><a class="prc-Breadcrumbs-Item-jcraJ" href="/zloirock/core-js/commits">core-js</a></li><li class="prc-Breadcrumbs-ItemWrapper-k0NLn"><a class="ListHeader-module__breadcrumbItem__j7KrS ListHeader-module__breadcrumbItemBold__QVOa9 prc-Breadcrumbs-Item-jcraJ selected" aria-current="page" href="/zloirock/core-js/commits/v3.32.2/SECURITY.md">SECURITY.md</a></li></ol></nav><div class="no-wrap"><span class="mr-2 ml-0 ml-sm-2 fgColor-default">on</span><a href="/zloirock/core-js/tree/v3.32.2" class="prc-BranchName-BranchName-CMTaU">v3.32.2</a></div></div></div><div class="d-flex flex-column flex-sm-row gap-2"><h2 class="sr-only prc-Heading-Heading-MtWFE">User selector</h2><div><button type="button" data-testid="user-selector-button" aria-haspopup="true" aria-expanded="false" tabindex="0" class="prc-Button-ButtonBase-9n-Xk" data-loading="false" data-size="medium" data-variant="default" id="_R_7jl9b_"><span data-component="buttonContent" data-align="center" class="prc-Button-ButtonContent-Iohp5"><span data-component="text" class="prc-Button-Label-FWkx3"><div class="d-flex"><div class="mr-2"><svg aria-hidden="true" focusable="false" class="octicon octicon-people fgColor-muted" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M2 5.5a3.5 3.5 0 1 1 5.898 2.549 5.508 5.508 0 0 1 3.034 4.084.75.75 0 1 1-1.482.235 4 4 0 0 0-7.9 0 .75.75 0 0 1-1.482-.236A5.507 5.507 0 0 1 3.102 8.05 3.493 3.493 0 0 1 2 5.5ZM11 4a3.001 3.001 0 0 1 2.22 5.018 5.01 5.01 0 0 1 2.56 3.012.749.749 0 0 1-.885.954.752.752 0 0 1-.549-.514 3.507 3.507 0 0 0-2.522-2.372.75.75 0 0 1-.574-.73v-.352a.75.75 0 0 1 .416-.672A1.5 1.5 0 0 0 11 5.5.75.75 0 0 1 11 4Zm-5.5-.5a2 2 0 1 0-.001 3.999A2 2 0 0 0 5.5 3.5Z"></path></svg></div><div class="UserSelector-module__truncatedUserText__EmYes"><span>All users</span></div></div></span></span><span data-component="trailingAction" class="prc-Button-Visual-YNt2F prc-Button-VisualWrap-E4cnq"><svg aria-hidden="true" focusable="false" class="octicon octicon-triangle-down" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="m4.427 7.427 3.396 3.396a.25.25 0 0 0 .354 0l3.396-3.396A.25.25 0 0 0 11.396 7H4.604a.25.25 0 0 0-.177.427Z"></path></svg></span></button></div><!--$!--><template></template><button type="button" class="prc-Button-ButtonBase-9n-Xk" data-loading="false" data-size="medium" data-variant="default"><span data-component="buttonContent" data-align="center" class="prc-Button-ButtonContent-Iohp5"><span data-component="leadingVisual" class="prc-Button-Visual-YNt2F prc-Button-VisualWrap-E4cnq"><svg aria-hidden="true" focusable="false" class="octicon octicon-calendar fgColor-muted ListHeader-module__calendarIcon__WikEB" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M4.75 0a.75.75 0 0 1 .75.75V2h5V.75a.75.75 0 0 1 1.5 0V2h1.25c.966 0 1.75.784 1.75 1.75v10.5A1.75 1.75 0 0 1 13.25 16H2.75A1.75 1.75 0 0 1 1 14.25V3.75C1 2.784 1.784 2 2.75 2H4V.75A.75.75 0 0 1 4.75 0ZM2.5 7.5v6.75c0 .138.112.25.25.25h10.5a.25.25 0 0 0 .25-.25V7.5Zm10.75-4H2.75a.25.25 0 0 0-.25.25V6h11V3.75a.25.25 0 0 0-.25-.25Z"></path></svg></span><span data-component="text" class="prc-Button-Label-FWkx3">All time</span><span data-component="trailingVisual" class="prc-Button-Visual-YNt2F prc-Button-VisualWrap-E4cnq"><svg aria-hidden="true" focusable="false" class="octicon octicon-triangle-down" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="m4.427 7.427 3.396 3.396a.25.25 0 0 0 .354 0l3.396-3.396A.25.25 0 0 0 11.396 7H4.604a.25.25 0 0 0-.177.427Z"></path></svg></span></span></button><!--/$--></div></div><div class="tmp-mb-3" data-hpc="true"><h2 class="sr-only prc-Heading-Heading-MtWFE">Commit History</h2><div class="prc-Timeline-Timeline-awSoC" data-clip-sidebar="both"><div class="TimelineRow-module__timelineRowItem__feuol TimelineRow-module__top__wbFNk Timeline-Item prc-Timeline-TimelineItem-QwDVH"><div class="prc-Timeline-TimelineBadgeWrapper-SZw4k"><div class="TimelineRow-module__timelineRowBadge__YaFlf prc-Timeline-TimelineBadge-u0qSm"><svg aria-hidden="true" focusable="false" class="octicon octicon-git-commit" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M11.93 8.5a4.002 4.002 0 0 1-7.86 0H.75a.75.75 0 0 1 0-1.5h3.32a4.002 4.002 0 0 1 7.86 0h3.32a.75.75 0 0 1 0 1.5Zm-1.43-.75a2.5 2.5 0 1 0-5 0 2.5 2.5 0 0 0 5 0Z"></path></svg></div></div><div class="mt-0 prc-Timeline-TimelineBody-tjOtb"><h3 class="text-normal f5 py-1 prc-Heading-Heading-MtWFE" id="_R_1kpl9b_" data-testid="commit-group-title">Commits on Oct 22, 2022</h3><div class="color-bg-default position-relative border rounded-2 color-border-default mt-2 d-flex flex-column CommitGroup-module__panel__Pfvdu"><div id="_R_59kpl9b_-list-view-container" class="ListView-module__container__CfCNF"><ul class="ListView-module__ul__uMK30" aria-labelledby="_R_1kpl9b_" tabindex="-1" role="list" data-listview-component="items-list" data-density="default"><li id="_R_59kpl9b_-list-view-node-_R_7t9kpl9b_" class="ListItem-module__listItem__wBJcm CommitRow-module__ListItem_0__u0LMo" tabindex="-1" aria-label="More information available below." data-testid="commit-row-item" data-commit-link="/zloirock/core-js/commit/aa9b0c25f96b1659e7e24021a6027b0aceb9f3fa"><div class="Title-module__container__ZzhV_ CommitRow-module__ListItemTitle_0__cUhJS" data-listview-item-title-container="true"><h4 class="Title-module__heading__tHuYV CommitRow-module__ListItemTitle_0__cUhJS"><a class="Title-module__anchor__dBbYy Title-module__inline__YFTZT" href="/zloirock/core-js/commit/aa9b0c25f96b1659e7e24021a6027b0aceb9f3fa"><span>update `SECURITY.md`</span></a></h4><span class="Title-module__trailingBadgesContainer__INeSa"></span></div><div class="px-1"></div><div class="MainContent-module__container__uXXH2"><div class="MainContent-module__inner__C80co"><div class="Description-module__container__hpqJz"><div class="CommitAttribution-module__CommitAttributionContainer__I_rfs"><div data-testid="author-avatar" class="AuthorAvatar-module__AuthorAvatarContainer__n0MVc"><a class="prc-Link-Link-9ZwDx" href="/zloirock" data-testid="avatar-icon-link"><img data-component="Avatar" class="AuthorAvatar-module__authorAvatarImage__a3R8x prc-Avatar-Avatar-0xaUi" alt="zloirock" width="16" height="16" style="--avatarSize-regular:16px" src="https://avatars.githubusercontent.com/u/2213682?v=4&amp;size=32" data-testid="github-avatar" aria-label="zloirock"/></a><a class="AuthorAvatar-module__authorHoverableLink__MHTT8 prc-Link-Link-9ZwDx" href="/zloirock/core-js/commits?author=zloirock" aria-label="commits by zloirock" style="--author-font-weight:var(--base-text-weight-normal);--author-font-color:var(--fgColor-muted)">zloirock</a></div><span class="pl-1">committed</span><div class="LoadingSkeleton-module__skeleton__euqGn LoadingSkeleton-module__rounded__J10DA d-none d-sm-flex ml-1" style="width:60px"></div><div class="LoadingSkeleton-module__skeleton__euqGn LoadingSkeleton-module__rounded__J10DA d-none d-sm-flex ml-2" style="width:20px"></div><div class="d-none d-sm-flex"></div></div></div></div></div><div class="MetadataContainer-module__container__YDbLz"><div class="Metadata-module__metadata__ocr9n Metadata-module__secondary__RkFvd"></div><div class="Metadata-module__metadata__ocr9n Metadata-module__secondary__RkFvd CommitRow-module__ListItemMetadata_0__W4Kqf"><div class="LoadingSkeleton-module__skeleton__euqGn LoadingSkeleton-module__rounded__J10DA d-none d-sm-flex" style="width:62px"></div></div><div class="Metadata-module__metadata__ocr9n Metadata-module__primary__XCEO2 d-none d-sm-flex px-0 gap-2"><div class="d-flex"><span role="tooltip" aria-label="View commit details" id="_R_5rnt9kpl9b_" class="prc-Tooltip-Tooltip-JLsri prc-Tooltip-Tooltip--s-RbCQB tooltipped-s"><a type="button" sx="[object Object]" class="prc-Button-ButtonBase-9n-Xk" data-loading="false" data-no-visuals="true" data-size="small" data-variant="invisible" href="/zloirock/core-js/commit/aa9b0c25f96b1659e7e24021a6027b0aceb9f3fa" data-discover="true"><span data-component="buttonContent" data-align="center" class="prc-Button-ButtonContent-Iohp5"><span data-component="text" class="prc-Button-Label-FWkx3">aa9b0c2</span></span></a></span><div><button data-component="IconButton" type="button" class="prc-Button-ButtonBase-9n-Xk prc-Button-IconButton-fyge7" data-loading="false" data-no-visuals="true" data-size="small" data-variant="invisible" aria-labelledby="_R_9rnt9kpl9b_"><svg aria-hidden="true" focusable="false" class="octicon octicon-copy" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path></svg></button><span class="CopyToClipboardButton-module__tooltip__BhMvU prc-TooltipV2-Tooltip-tLeuB" data-direction="s" aria-label="Copy full SHA for aa9b0c2" aria-hidden="true" id="_R_9rnt9kpl9b_">Copy full SHA for aa9b0c2</span></div></div><span role="tooltip" aria-label="View code at this point" id="view-code-aa9b0c2" class="prc-Tooltip-Tooltip-JLsri prc-Tooltip-Tooltip--sw-FsNH8 tooltipped-sw"><a aria-labelledby="view-code-aa9b0c2" href="/zloirock/core-js/blob/aa9b0c25f96b1659e7e24021a6027b0aceb9f3fa/SECURITY.md" class="Button Button--iconOnly Button--invisible Button--small" data-testid="commit-row-view-code"><svg aria-hidden="true" focusable="false" class="octicon octicon-file-code" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M4 1.75C4 .784 4.784 0 5.75 0h5.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v8.586A1.75 1.75 0 0 1 14.25 15h-9a.75.75 0 0 1 0-1.5h9a.25.25 0 0 0 .25-.25V6h-2.75A1.75 1.75 0 0 1 10 4.25V1.5H5.75a.25.25 0 0 0-.25.25v2.5a.75.75 0 0 1-1.5 0Zm1.72 4.97a.75.75 0 0 1 1.06 0l2 2a.75.75 0 0 1 0 1.06l-2 2a.749.749 0 0 1-1.275-.326.749.749 0 0 1 .215-.734l1.47-1.47-1.47-1.47a.75.75 0 0 1 0-1.06ZM3.28 7.78 1.81 9.25l1.47 1.47a.751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018l-2-2a.75.75 0 0 1 0-1.06l2-2a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042Zm8.22-6.218V4.25c0 .138.112.25.25.25h2.688l-.011-.013-2.914-2.914-.013-.011Z"></path></svg></a></span><span role="tooltip" aria-label="Browse repository at this point" id="browse-repo-aa9b0c2" class="prc-Tooltip-Tooltip-JLsri prc-Tooltip-Tooltip--sw-FsNH8 tooltipped-sw"><a aria-labelledby="browse-repo-aa9b0c2" href="/zloirock/core-js/tree/aa9b0c25f96b1659e7e24021a6027b0aceb9f3fa" class="Button Button--iconOnly Button--invisible Button--small" data-testid="commit-row-browse-repo"><svg aria-hidden="true" focusable="false" class="octicon octicon-code" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="m11.28 3.22 4.25 4.25a.75.75 0 0 1 0 1.06l-4.25 4.25a.749.749 0 0 1-1.275-.326.749.749 0 0 1 .215-.734L13.94 8l-3.72-3.72a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215Zm-6.56 0a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042L2.06 8l3.72 3.72a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L.47 8.53a.75.75 0 0 1 0-1.06Z"></path></svg></a></span></div></div><!--$!--><template></template><!--/$--></li></ul></div></div></div></div><div class="TimelineRow-module__timelineRowItem__feuol Timeline-Item prc-Timeline-TimelineItem-QwDVH"><div class="prc-Timeline-TimelineBadgeWrapper-SZw4k"><div class="TimelineRow-module__timelineRowBadge__YaFlf prc-Timeline-TimelineBadge-u0qSm"><svg aria-hidden="true" focusable="false" class="octicon octicon-git-commit" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M11.93 8.5a4.002 4.002 0 0 1-7.86 0H.75a.75.75 0 0 1 0-1.5h3.32a4.002 4.002 0 0 1 7.86 0h3.32a.75.75 0 0 1 0 1.5Zm-1.43-.75a2.5 2.5 0 1 0-5 0 2.5 2.5 0 0 0 5 0Z"></path></svg></div></div><div class="mt-0 prc-Timeline-TimelineBody-tjOtb"><h3 class="text-normal f5 py-1 prc-Heading-Heading-MtWFE" id="_R_2kpl9b_" data-testid="commit-group-title">Commits on Jun 28, 2022</h3><div class="color-bg-default position-relative border rounded-2 color-border-default mt-2 d-flex flex-column CommitGroup-module__panel__Pfvdu"><div id="_R_5akpl9b_-list-view-container" class="ListView-module__container__CfCNF"><ul class="ListView-module__ul__uMK30" aria-labelledby="_R_2kpl9b_" tabindex="-1" role="list" data-listview-component="items-list" data-density="default"><li id="_R_5akpl9b_-list-view-node-_R_7takpl9b_" class="ListItem-module__listItem__wBJcm CommitRow-module__ListItem_0__u0LMo" tabindex="-1" aria-label="More information available below." data-testid="commit-row-item" data-commit-link="/zloirock/core-js/commit/08d8143d2c814b7630df34ec8fb6913828163ad6"><div class="Title-module__container__ZzhV_ CommitRow-module__ListItemTitle_0__cUhJS" data-listview-item-title-container="true"><h4 class="Title-module__heading__tHuYV CommitRow-module__ListItemTitle_0__cUhJS"><a class="Title-module__anchor__dBbYy Title-module__inline__YFTZT" href="/zloirock/core-js/commit/08d8143d2c814b7630df34ec8fb6913828163ad6"><span>bump version in `SECURITY.md`</span></a></h4><span class="Title-module__trailingBadgesContainer__INeSa"></span><button data-component="IconButton" type="button" data-testid="commit-row-show-description-button" aria-pressed="false" aria-expanded="false" class="prc-Button-ButtonBase-9n-Xk Button Button--iconOnly Button--invisible Button--small ml-1 prc-Button-IconButton-fyge7" data-loading="false" data-no-visuals="true" data-size="medium" data-variant="default" aria-describedby="show-description-08d8143" aria-labelledby="show-description-08d8143"><svg aria-hidden="true" focusable="false" class="octicon octicon-ellipsis" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M0 5.75C0 4.784.784 4 1.75 4h12.5c.966 0 1.75.784 1.75 1.75v4.5A1.75 1.75 0 0 1 14.25 12H1.75A1.75 1.75 0 0 1 0 10.25ZM12 7a1 1 0 1 0 0 2 1 1 0 0 0 0-2ZM7 8a1 1 0 1 0 2 0 1 1 0 0 0-2 0ZM4 7a1 1 0 1 0 0 2 1 1 0 0 0 0-2Z"></path></svg></button><span class="prc-TooltipV2-Tooltip-tLeuB" data-direction="s" aria-label="Show description for 08d8143" role="tooltip" aria-hidden="true" id="show-description-08d8143">Show description for 08d8143</span></div><div class="px-1"></div><div class="MainContent-module__container__uXXH2"><div class="MainContent-module__inner__C80co"><div class="Description-module__container__hpqJz"><div class="CommitAttribution-module__CommitAttributionContainer__I_rfs"><div data-testid="author-avatar" class="AuthorAvatar-module__AuthorAvatarContainer__n0MVc"><a class="prc-Link-Link-9ZwDx" href="/zloirock" data-testid="avatar-icon-link"><img data-component="Avatar" class="AuthorAvatar-module__authorAvatarImage__a3R8x prc-Avatar-Avatar-0xaUi" alt="zloirock" width="16" height="16" style="--avatarSize-regular:16px" src="https://avatars.githubusercontent.com/u/2213682?v=4&amp;size=32" data-testid="github-avatar" aria-label="zloirock"/></a><a class="AuthorAvatar-module__authorHoverableLink__MHTT8 prc-Link-Link-9ZwDx" href="/zloirock/core-js/commits?author=zloirock" aria-label="commits by zloirock" style="--author-font-weight:var(--base-text-weight-normal);--author-font-color:var(--fgColor-muted)">zloirock</a></div><span class="pl-1">committed</span><div class="LoadingSkeleton-module__skeleton__euqGn LoadingSkeleton-module__rounded__J10DA d-none d-sm-flex ml-1" style="width:60px"></div><div class="LoadingSkeleton-module__skeleton__euqGn LoadingSkeleton-module__rounded__J10DA d-none d-sm-flex ml-2" style="width:20px"></div><div class="d-none d-sm-flex"></div></div></div></div></div><div class="MetadataContainer-module__container__YDbLz"><div class="Metadata-module__metadata__ocr9n Metadata-module__secondary__RkFvd"></div><div class="Metadata-module__metadata__ocr9n Metadata-module__secondary__RkFvd CommitRow-module__ListItemMetadata_0__W4Kqf"><div class="LoadingSkeleton-module__skeleton__euqGn LoadingSkeleton-module__rounded__J10DA d-none d-sm-flex" style="width:62px"></div></div><div class="Metadata-module__metadata__ocr9n Metadata-module__primary__XCEO2 d-none d-sm-flex px-0 gap-2"><div class="d-flex"><span role="tooltip" aria-label="View commit details" id="_R_5rntakpl9b_" class="prc-Tooltip-Tooltip-JLsri prc-Tooltip-Tooltip--s-RbCQB tooltipped-s"><a type="button" sx="[object Object]" class="prc-Button-ButtonBase-9n-Xk" data-loading="false" data-no-visuals="true" data-size="small" data-variant="invisible" href="/zloirock/core-js/commit/08d8143d2c814b7630df34ec8fb6913828163ad6" data-discover="true"><span data-component="buttonContent" data-align="center" class="prc-Button-ButtonContent-Iohp5"><span data-component="text" class="prc-Button-Label-FWkx3">08d8143</span></span></a></span><div><button data-component="IconButton" type="button" class="prc-Button-ButtonBase-9n-Xk prc-Button-IconButton-fyge7" data-loading="false" data-no-visuals="true" data-size="small" data-variant="invisible" aria-labelledby="_R_9rntakpl9b_"><svg aria-hidden="true" focusable="false" class="octicon octicon-copy" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path></svg></button><span class="CopyToClipboardButton-module__tooltip__BhMvU prc-TooltipV2-Tooltip-tLeuB" data-direction="s" aria-label="Copy full SHA for 08d8143" aria-hidden="true" id="_R_9rntakpl9b_">Copy full SHA for 08d8143</span></div></div><span role="tooltip" aria-label="View code at this point" id="view-code-08d8143" class="prc-Tooltip-Tooltip-JLsri prc-Tooltip-Tooltip--sw-FsNH8 tooltipped-sw"><a aria-labelledby="view-code-08d8143" href="/zloirock/core-js/blob/08d8143d2c814b7630df34ec8fb6913828163ad6/SECURITY.md" class="Button Button--iconOnly Button--invisible Button--small" data-testid="commit-row-view-code"><svg aria-hidden="true" focusable="false" class="octicon octicon-file-code" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M4 1.75C4 .784 4.784 0 5.75 0h5.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v8.586A1.75 1.75 0 0 1 14.25 15h-9a.75.75 0 0 1 0-1.5h9a.25.25 0 0 0 .25-.25V6h-2.75A1.75 1.75 0 0 1 10 4.25V1.5H5.75a.25.25 0 0 0-.25.25v2.5a.75.75 0 0 1-1.5 0Zm1.72 4.97a.75.75 0 0 1 1.06 0l2 2a.75.75 0 0 1 0 1.06l-2 2a.749.749 0 0 1-1.275-.326.749.749 0 0 1 .215-.734l1.47-1.47-1.47-1.47a.75.75 0 0 1 0-1.06ZM3.28 7.78 1.81 9.25l1.47 1.47a.751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018l-2-2a.75.75 0 0 1 0-1.06l2-2a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042Zm8.22-6.218V4.25c0 .138.112.25.25.25h2.688l-.011-.013-2.914-2.914-.013-.011Z"></path></svg></a></span><span role="tooltip" aria-label="Browse repository at this point" id="browse-repo-08d8143" class="prc-Tooltip-Tooltip-JLsri prc-Tooltip-Tooltip--sw-FsNH8 tooltipped-sw"><a aria-labelledby="browse-repo-08d8143" href="/zloirock/core-js/tree/08d8143d2c814b7630df34ec8fb6913828163ad6" class="Button Button--iconOnly Button--invisible Button--small" data-testid="commit-row-browse-repo"><svg aria-hidden="true" focusable="false" class="octicon octicon-code" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="m11.28 3.22 4.25 4.25a.75.75 0 0 1 0 1.06l-4.25 4.25a.749.749 0 0 1-1.275-.326.749.749 0 0 1 .215-.734L13.94 8l-3.72-3.72a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215Zm-6.56 0a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042L2.06 8l3.72 3.72a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L.47 8.53a.75.75 0 0 1 0-1.06Z"></path></svg></a></span></div></div><!--$!--><template></template><!--/$--></li></ul></div></div></div></div><div class="TimelineRow-module__timelineRowItem__feuol Timeline-Item prc-Timeline-TimelineItem-QwDVH"><div class="prc-Timeline-TimelineBadgeWrapper-SZw4k"><div class="TimelineRow-module__timelineRowBadge__YaFlf prc-Timeline-TimelineBadge-u0qSm"><svg aria-hidden="true" focusable="false" class="octicon octicon-git-commit" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M11.93 8.5a4.002 4.002 0 0 1-7.86 0H.75a.75.75 0 0 1 0-1.5h3.32a4.002 4.002 0 0 1 7.86 0h3.32a.75.75 0 0 1 0 1.5Zm-1.43-.75a2.5 2.5 0 1 0-5 0 2.5 2.5 0 0 0 5 0Z"></path></svg></div></div><div class="mt-0 prc-Timeline-TimelineBody-tjOtb"><h3 class="text-normal f5 py-1 prc-Heading-Heading-MtWFE" id="_R_3kpl9b_" data-testid="commit-group-title">Commits on Dec 23, 2021</h3><div class="color-bg-default position-relative border rounded-2 color-border-default mt-2 d-flex flex-column CommitGroup-module__panel__Pfvdu"><div id="_R_5bkpl9b_-list-view-container" class="ListView-module__container__CfCNF"><ul class="ListView-module__ul__uMK30" aria-labelledby="_R_3kpl9b_" tabindex="-1" role="list" data-listview-component="items-list" data-density="default"><li id="_R_5bkpl9b_-list-view-node-_R_7tbkpl9b_" class="ListItem-module__listItem__wBJcm CommitRow-module__ListItem_0__u0LMo" tabindex="-1" aria-label="More information available below." data-testid="commit-row-item" data-commit-link="/zloirock/core-js/commit/818e4734b37dc02852f9f3da03c08418391051de"><div class="Title-module__container__ZzhV_ CommitRow-module__ListItemTitle_0__cUhJS" data-listview-item-title-container="true"><h4 class="Title-module__heading__tHuYV CommitRow-module__ListItemTitle_0__cUhJS"><a class="Title-module__anchor__dBbYy Title-module__inline__YFTZT" href="/zloirock/core-js/commit/818e4734b37dc02852f9f3da03c08418391051de"><span>clarify supported versions</span></a></h4><span class="Title-module__trailingBadgesContainer__INeSa"></span><button data-component="IconButton" type="button" data-testid="commit-row-show-description-button" aria-pressed="false" aria-expanded="false" class="prc-Button-ButtonBase-9n-Xk Button Button--iconOnly Button--invisible Button--small ml-1 prc-Button-IconButton-fyge7" data-loading="false" data-no-visuals="true" data-size="medium" data-variant="default" aria-describedby="show-description-818e473" aria-labelledby="show-description-818e473"><svg aria-hidden="true" focusable="false" class="octicon octicon-ellipsis" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M0 5.75C0 4.784.784 4 1.75 4h12.5c.966 0 1.75.784 1.75 1.75v4.5A1.75 1.75 0 0 1 14.25 12H1.75A1.75 1.75 0 0 1 0 10.25ZM12 7a1 1 0 1 0 0 2 1 1 0 0 0 0-2ZM7 8a1 1 0 1 0 2 0 1 1 0 0 0-2 0ZM4 7a1 1 0 1 0 0 2 1 1 0 0 0 0-2Z"></path></svg></button><span class="prc-TooltipV2-Tooltip-tLeuB" data-direction="s" aria-label="Show description for 818e473" role="tooltip" aria-hidden="true" id="show-description-818e473">Show description for 818e473</span></div><div class="px-1"></div><div class="MainContent-module__container__uXXH2"><div class="MainContent-module__inner__C80co"><div class="Description-module__container__hpqJz"><div class="CommitAttribution-module__CommitAttributionContainer__I_rfs"><div data-testid="author-avatar" class="AuthorAvatar-module__AuthorAvatarContainer__n0MVc"><a class="prc-Link-Link-9ZwDx" href="/zloirock" data-testid="avatar-icon-link"><img data-component="Avatar" class="AuthorAvatar-module__authorAvatarImage__a3R8x prc-Avatar-Avatar-0xaUi" alt="zloirock" width="16" height="16" style="--avatarSize-regular:16px" src="https://avatars.githubusercontent.com/u/2213682?v=4&amp;size=32" data-testid="github-avatar" aria-label="zloirock"/></a><a class="AuthorAvatar-module__authorHoverableLink__MHTT8 prc-Link-Link-9ZwDx" href="/zloirock/core-js/commits?author=zloirock" aria-label="commits by zloirock" style="--author-font-weight:var(--base-text-weight-normal);--author-font-color:var(--fgColor-muted)">zloirock</a></div><span class="pl-1">committed</span><div class="LoadingSkeleton-module__skeleton__euqGn LoadingSkeleton-module__rounded__J10DA d-none d-sm-flex ml-1" style="width:60px"></div><div class="LoadingSkeleton-module__skeleton__euqGn LoadingSkeleton-module__rounded__J10DA d-none d-sm-flex ml-2" style="width:20px"></div><div class="d-none d-sm-flex"></div></div></div></div></div><div class="MetadataContainer-module__container__YDbLz"><div class="Metadata-module__metadata__ocr9n Metadata-module__secondary__RkFvd"></div><div class="Metadata-module__metadata__ocr9n Metadata-module__secondary__RkFvd CommitRow-module__ListItemMetadata_0__W4Kqf"><div class="LoadingSkeleton-module__skeleton__euqGn LoadingSkeleton-module__rounded__J10DA d-none d-sm-flex" style="width:62px"></div></div><div class="Metadata-module__metadata__ocr9n Metadata-module__primary__XCEO2 d-none d-sm-flex px-0 gap-2"><div class="d-flex"><span role="tooltip" aria-label="View commit details" id="_R_5rntbkpl9b_" class="prc-Tooltip-Tooltip-JLsri prc-Tooltip-Tooltip--s-RbCQB tooltipped-s"><a type="button" sx="[object Object]" class="prc-Button-ButtonBase-9n-Xk" data-loading="false" data-no-visuals="true" data-size="small" data-variant="invisible" href="/zloirock/core-js/commit/818e4734b37dc02852f9f3da03c08418391051de" data-discover="true"><span data-component="buttonContent" data-align="center" class="prc-Button-ButtonContent-Iohp5"><span data-component="text" class="prc-Button-Label-FWkx3">818e473</span></span></a></span><div><button data-component="IconButton" type="button" class="prc-Button-ButtonBase-9n-Xk prc-Button-IconButton-fyge7" data-loading="false" data-no-visuals="true" data-size="small" data-variant="invisible" aria-labelledby="_R_9rntbkpl9b_"><svg aria-hidden="true" focusable="false" class="octicon octicon-copy" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path></svg></button><span class="CopyToClipboardButton-module__tooltip__BhMvU prc-TooltipV2-Tooltip-tLeuB" data-direction="s" aria-label="Copy full SHA for 818e473" aria-hidden="true" id="_R_9rntbkpl9b_">Copy full SHA for 818e473</span></div></div><span role="tooltip" aria-label="View code at this point" id="view-code-818e473" class="prc-Tooltip-Tooltip-JLsri prc-Tooltip-Tooltip--sw-FsNH8 tooltipped-sw"><a aria-labelledby="view-code-818e473" href="/zloirock/core-js/blob/818e4734b37dc02852f9f3da03c08418391051de/SECURITY.md" class="Button Button--iconOnly Button--invisible Button--small" data-testid="commit-row-view-code"><svg aria-hidden="true" focusable="false" class="octicon octicon-file-code" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M4 1.75C4 .784 4.784 0 5.75 0h5.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v8.586A1.75 1.75 0 0 1 14.25 15h-9a.75.75 0 0 1 0-1.5h9a.25.25 0 0 0 .25-.25V6h-2.75A1.75 1.75 0 0 1 10 4.25V1.5H5.75a.25.25 0 0 0-.25.25v2.5a.75.75 0 0 1-1.5 0Zm1.72 4.97a.75.75 0 0 1 1.06 0l2 2a.75.75 0 0 1 0 1.06l-2 2a.749.749 0 0 1-1.275-.326.749.749 0 0 1 .215-.734l1.47-1.47-1.47-1.47a.75.75 0 0 1 0-1.06ZM3.28 7.78 1.81 9.25l1.47 1.47a.751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018l-2-2a.75.75 0 0 1 0-1.06l2-2a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042Zm8.22-6.218V4.25c0 .138.112.25.25.25h2.688l-.011-.013-2.914-2.914-.013-.011Z"></path></svg></a></span><span role="tooltip" aria-label="Browse repository at this point" id="browse-repo-818e473" class="prc-Tooltip-Tooltip-JLsri prc-Tooltip-Tooltip--sw-FsNH8 tooltipped-sw"><a aria-labelledby="browse-repo-818e473" href="/zloirock/core-js/tree/818e4734b37dc02852f9f3da03c08418391051de" class="Button Button--iconOnly Button--invisible Button--small" data-testid="commit-row-browse-repo"><svg aria-hidden="true" focusable="false" class="octicon octicon-code" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="m11.28 3.22 4.25 4.25a.75.75 0 0 1 0 1.06l-4.25 4.25a.749.749 0 0 1-1.275-.326.749.749 0 0 1 .215-.734L13.94 8l-3.72-3.72a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215Zm-6.56 0a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042L2.06 8l3.72 3.72a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L.47 8.53a.75.75 0 0 1 0-1.06Z"></path></svg></a></span></div></div><!--$!--><template></template><!--/$--></li></ul></div></div></div></div><div class="TimelineRow-module__timelineRowItem__feuol Timeline-Item prc-Timeline-TimelineItem-QwDVH"><div class="prc-Timeline-TimelineBadgeWrapper-SZw4k"><div class="TimelineRow-module__timelineRowBadge__YaFlf prc-Timeline-TimelineBadge-u0qSm"><svg aria-hidden="true" focusable="false" class="octicon octicon-git-commit" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M11.93 8.5a4.002 4.002 0 0 1-7.86 0H.75a.75.75 0 0 1 0-1.5h3.32a4.002 4.002 0 0 1 7.86 0h3.32a.75.75 0 0 1 0 1.5Zm-1.43-.75a2.5 2.5 0 1 0-5 0 2.5 2.5 0 0 0 5 0Z"></path></svg></div></div><div class="mt-0 prc-Timeline-TimelineBody-tjOtb"><h3 class="text-normal f5 py-1 prc-Heading-Heading-MtWFE" id="_R_4kpl9b_" data-testid="commit-group-title">Commits on Apr 30, 2021</h3><div class="color-bg-default position-relative border rounded-2 color-border-default mt-2 d-flex flex-column CommitGroup-module__panel__Pfvdu"><div id="_R_5ckpl9b_-list-view-container" class="ListView-module__container__CfCNF"><ul class="ListView-module__ul__uMK30" aria-labelledby="_R_4kpl9b_" tabindex="-1" role="list" data-listview-component="items-list" data-density="default"><li id="_R_5ckpl9b_-list-view-node-_R_7tckpl9b_" class="ListItem-module__listItem__wBJcm CommitRow-module__ListItem_0__u0LMo" tabindex="-1" aria-label="More information available below." data-testid="commit-row-item" data-commit-link="/zloirock/core-js/commit/1b8b1f2316c5420ac480cd85aae1e6b77d7e8838"><div class="Title-module__container__ZzhV_ CommitRow-module__ListItemTitle_0__cUhJS" data-listview-item-title-container="true"><h4 class="Title-module__heading__tHuYV CommitRow-module__ListItemTitle_0__cUhJS"><a class="Title-module__anchor__dBbYy Title-module__inline__YFTZT" href="/zloirock/core-js/commit/1b8b1f2316c5420ac480cd85aae1e6b77d7e8838"><span>mark `core-js@&lt;3.3` as no longer maintained</span></a></h4><span class="Title-module__trailingBadgesContainer__INeSa"></span></div><div class="px-1"></div><div class="MainContent-module__container__uXXH2"><div class="MainContent-module__inner__C80co"><div class="Description-module__container__hpqJz"><div class="CommitAttribution-module__CommitAttributionContainer__I_rfs"><div data-testid="author-avatar" class="AuthorAvatar-module__AuthorAvatarContainer__n0MVc"><a class="prc-Link-Link-9ZwDx" href="/zloirock" data-testid="avatar-icon-link"><img data-component="Avatar" class="AuthorAvatar-module__authorAvatarImage__a3R8x prc-Avatar-Avatar-0xaUi" alt="zloirock" width="16" height="16" style="--avatarSize-regular:16px" src="https://avatars.githubusercontent.com/u/2213682?v=4&amp;size=32" data-testid="github-avatar" aria-label="zloirock"/></a><a class="AuthorAvatar-module__authorHoverableLink__MHTT8 prc-Link-Link-9ZwDx" href="/zloirock/core-js/commits?author=zloirock" aria-label="commits by zloirock" style="--author-font-weight:var(--base-text-weight-normal);--author-font-color:var(--fgColor-muted)">zloirock</a></div><span class="pl-1">committed</span><div class="LoadingSkeleton-module__skeleton__euqGn LoadingSkeleton-module__rounded__J10DA d-none d-sm-flex ml-1" style="width:60px"></div><div class="LoadingSkeleton-module__skeleton__euqGn LoadingSkeleton-module__rounded__J10DA d-none d-sm-flex ml-2" style="width:20px"></div><div class="d-none d-sm-flex"></div></div></div></div></div><div class="MetadataContainer-module__container__YDbLz"><div class="Metadata-module__metadata__ocr9n Metadata-module__secondary__RkFvd"></div><div class="Metadata-module__metadata__ocr9n Metadata-module__secondary__RkFvd CommitRow-module__ListItemMetadata_0__W4Kqf"><div class="LoadingSkeleton-module__skeleton__euqGn LoadingSkeleton-module__rounded__J10DA d-none d-sm-flex" style="width:62px"></div></div><div class="Metadata-module__metadata__ocr9n Metadata-module__primary__XCEO2 d-none d-sm-flex px-0 gap-2"><div class="d-flex"><span role="tooltip" aria-label="View commit details" id="_R_5rntckpl9b_" class="prc-Tooltip-Tooltip-JLsri prc-Tooltip-Tooltip--s-RbCQB tooltipped-s"><a type="button" sx="[object Object]" class="prc-Button-ButtonBase-9n-Xk" data-loading="false" data-no-visuals="true" data-size="small" data-variant="invisible" href="/zloirock/core-js/commit/1b8b1f2316c5420ac480cd85aae1e6b77d7e8838" data-discover="true"><span data-component="buttonContent" data-align="center" class="prc-Button-ButtonContent-Iohp5"><span data-component="text" class="prc-Button-Label-FWkx3">1b8b1f2</span></span></a></span><div><button data-component="IconButton" type="button" class="prc-Button-ButtonBase-9n-Xk prc-Button-IconButton-fyge7" data-loading="false" data-no-visuals="true" data-size="small" data-variant="invisible" aria-labelledby="_R_9rntckpl9b_"><svg aria-hidden="true" focusable="false" class="octicon octicon-copy" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path></svg></button><span class="CopyToClipboardButton-module__tooltip__BhMvU prc-TooltipV2-Tooltip-tLeuB" data-direction="s" aria-label="Copy full SHA for 1b8b1f2" aria-hidden="true" id="_R_9rntckpl9b_">Copy full SHA for 1b8b1f2</span></div></div><span role="tooltip" aria-label="View code at this point" id="view-code-1b8b1f2" class="prc-Tooltip-Tooltip-JLsri prc-Tooltip-Tooltip--sw-FsNH8 tooltipped-sw"><a aria-labelledby="view-code-1b8b1f2" href="/zloirock/core-js/blob/1b8b1f2316c5420ac480cd85aae1e6b77d7e8838/SECURITY.md" class="Button Button--iconOnly Button--invisible Button--small" data-testid="commit-row-view-code"><svg aria-hidden="true" focusable="false" class="octicon octicon-file-code" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M4 1.75C4 .784 4.784 0 5.75 0h5.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v8.586A1.75 1.75 0 0 1 14.25 15h-9a.75.75 0 0 1 0-1.5h9a.25.25 0 0 0 .25-.25V6h-2.75A1.75 1.75 0 0 1 10 4.25V1.5H5.75a.25.25 0 0 0-.25.25v2.5a.75.75 0 0 1-1.5 0Zm1.72 4.97a.75.75 0 0 1 1.06 0l2 2a.75.75 0 0 1 0 1.06l-2 2a.749.749 0 0 1-1.275-.326.749.749 0 0 1 .215-.734l1.47-1.47-1.47-1.47a.75.75 0 0 1 0-1.06ZM3.28 7.78 1.81 9.25l1.47 1.47a.751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018l-2-2a.75.75 0 0 1 0-1.06l2-2a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042Zm8.22-6.218V4.25c0 .138.112.25.25.25h2.688l-.011-.013-2.914-2.914-.013-.011Z"></path></svg></a></span><span role="tooltip" aria-label="Browse repository at this point" id="browse-repo-1b8b1f2" class="prc-Tooltip-Tooltip-JLsri prc-Tooltip-Tooltip--sw-FsNH8 tooltipped-sw"><a aria-labelledby="browse-repo-1b8b1f2" href="/zloirock/core-js/tree/1b8b1f2316c5420ac480cd85aae1e6b77d7e8838" class="Button Button--iconOnly Button--invisible Button--small" data-testid="commit-row-browse-repo"><svg aria-hidden="true" focusable="false" class="octicon octicon-code" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="m11.28 3.22 4.25 4.25a.75.75 0 0 1 0 1.06l-4.25 4.25a.749.749 0 0 1-1.275-.326.749.749 0 0 1 .215-.734L13.94 8l-3.72-3.72a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215Zm-6.56 0a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042L2.06 8l3.72 3.72a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L.47 8.53a.75.75 0 0 1 0-1.06Z"></path></svg></a></span></div></div><!--$!--><template></template><!--/$--></li></ul></div></div></div></div><div class="TimelineRow-module__timelineRowItem__feuol Timeline-Item prc-Timeline-TimelineItem-QwDVH"><div class="prc-Timeline-TimelineBadgeWrapper-SZw4k"><div class="TimelineRow-module__timelineRowBadge__YaFlf prc-Timeline-TimelineBadge-u0qSm"><svg aria-hidden="true" focusable="false" class="octicon octicon-git-commit" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M11.93 8.5a4.002 4.002 0 0 1-7.86 0H.75a.75.75 0 0 1 0-1.5h3.32a4.002 4.002 0 0 1 7.86 0h3.32a.75.75 0 0 1 0 1.5Zm-1.43-.75a2.5 2.5 0 1 0-5 0 2.5 2.5 0 0 0 5 0Z"></path></svg></div></div><div class="mt-0 prc-Timeline-TimelineBody-tjOtb"><h3 class="text-normal f5 py-1 prc-Heading-Heading-MtWFE" id="_R_5kpl9b_" data-testid="commit-group-title">Commits on Nov 16, 2019</h3><div class="color-bg-default position-relative border rounded-2 color-border-default mt-2 d-flex flex-column CommitGroup-module__panel__Pfvdu"><div id="_R_5dkpl9b_-list-view-container" class="ListView-module__container__CfCNF"><ul class="ListView-module__ul__uMK30" aria-labelledby="_R_5kpl9b_" tabindex="-1" role="list" data-listview-component="items-list" data-density="default"><li id="_R_5dkpl9b_-list-view-node-_R_7tdkpl9b_" class="ListItem-module__listItem__wBJcm CommitRow-module__ListItem_0__u0LMo" tabindex="-1" aria-label="More information available below." data-testid="commit-row-item" data-commit-link="/zloirock/core-js/commit/3184a9ad81b4778cd4e6d7fece6c200468b8a582"><div class="Title-module__container__ZzhV_ CommitRow-module__ListItemTitle_0__cUhJS" data-listview-item-title-container="true"><h4 class="Title-module__heading__tHuYV CommitRow-module__ListItemTitle_0__cUhJS"><a class="Title-module__anchor__dBbYy Title-module__inline__YFTZT" href="/zloirock/core-js/commit/3184a9ad81b4778cd4e6d7fece6c200468b8a582"><span>mark `core-js@2` as unsupported</span></a></h4><span class="Title-module__trailingBadgesContainer__INeSa"></span></div><div class="px-1"></div><div class="MainContent-module__container__uXXH2"><div class="MainContent-module__inner__C80co"><div class="Description-module__container__hpqJz"><div class="CommitAttribution-module__CommitAttributionContainer__I_rfs"><div data-testid="author-avatar" class="AuthorAvatar-module__AuthorAvatarContainer__n0MVc"><a class="prc-Link-Link-9ZwDx" href="/zloirock" data-testid="avatar-icon-link"><img data-component="Avatar" class="AuthorAvatar-module__authorAvatarImage__a3R8x prc-Avatar-Avatar-0xaUi" alt="zloirock" width="16" height="16" style="--avatarSize-regular:16px" src="https://avatars.githubusercontent.com/u/2213682?v=4&amp;size=32" data-testid="github-avatar" aria-label="zloirock"/></a><a class="AuthorAvatar-module__authorHoverableLink__MHTT8 prc-Link-Link-9ZwDx" href="/zloirock/core-js/commits?author=zloirock" aria-label="commits by zloirock" style="--author-font-weight:var(--base-text-weight-normal);--author-font-color:var(--fgColor-muted)">zloirock</a></div><span class="pl-1">committed</span><div class="LoadingSkeleton-module__skeleton__euqGn LoadingSkeleton-module__rounded__J10DA d-none d-sm-flex ml-1" style="width:60px"></div><div class="LoadingSkeleton-module__skeleton__euqGn LoadingSkeleton-module__rounded__J10DA d-none d-sm-flex ml-2" style="width:20px"></div><div class="d-none d-sm-flex"></div></div></div></div></div><div class="MetadataContainer-module__container__YDbLz"><div class="Metadata-module__metadata__ocr9n Metadata-module__secondary__RkFvd"></div><div class="Metadata-module__metadata__ocr9n Metadata-module__secondary__RkFvd CommitRow-module__ListItemMetadata_0__W4Kqf"><div class="LoadingSkeleton-module__skeleton__euqGn LoadingSkeleton-module__rounded__J10DA d-none d-sm-flex" style="width:62px"></div></div><div class="Metadata-module__metadata__ocr9n Metadata-module__primary__XCEO2 d-none d-sm-flex px-0 gap-2"><div class="d-flex"><span role="tooltip" aria-label="View commit details" id="_R_5rntdkpl9b_" class="prc-Tooltip-Tooltip-JLsri prc-Tooltip-Tooltip--s-RbCQB tooltipped-s"><a type="button" sx="[object Object]" class="prc-Button-ButtonBase-9n-Xk" data-loading="false" data-no-visuals="true" data-size="small" data-variant="invisible" href="/zloirock/core-js/commit/3184a9ad81b4778cd4e6d7fece6c200468b8a582" data-discover="true"><span data-component="buttonContent" data-align="center" class="prc-Button-ButtonContent-Iohp5"><span data-component="text" class="prc-Button-Label-FWkx3">3184a9a</span></span></a></span><div><button data-component="IconButton" type="button" class="prc-Button-ButtonBase-9n-Xk prc-Button-IconButton-fyge7" data-loading="false" data-no-visuals="true" data-size="small" data-variant="invisible" aria-labelledby="_R_9rntdkpl9b_"><svg aria-hidden="true" focusable="false" class="octicon octicon-copy" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path></svg></button><span class="CopyToClipboardButton-module__tooltip__BhMvU prc-TooltipV2-Tooltip-tLeuB" data-direction="s" aria-label="Copy full SHA for 3184a9a" aria-hidden="true" id="_R_9rntdkpl9b_">Copy full SHA for 3184a9a</span></div></div><span role="tooltip" aria-label="View code at this point" id="view-code-3184a9a" class="prc-Tooltip-Tooltip-JLsri prc-Tooltip-Tooltip--sw-FsNH8 tooltipped-sw"><a aria-labelledby="view-code-3184a9a" href="/zloirock/core-js/blob/3184a9ad81b4778cd4e6d7fece6c200468b8a582/SECURITY.md" class="Button Button--iconOnly Button--invisible Button--small" data-testid="commit-row-view-code"><svg aria-hidden="true" focusable="false" class="octicon octicon-file-code" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M4 1.75C4 .784 4.784 0 5.75 0h5.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v8.586A1.75 1.75 0 0 1 14.25 15h-9a.75.75 0 0 1 0-1.5h9a.25.25 0 0 0 .25-.25V6h-2.75A1.75 1.75 0 0 1 10 4.25V1.5H5.75a.25.25 0 0 0-.25.25v2.5a.75.75 0 0 1-1.5 0Zm1.72 4.97a.75.75 0 0 1 1.06 0l2 2a.75.75 0 0 1 0 1.06l-2 2a.749.749 0 0 1-1.275-.326.749.749 0 0 1 .215-.734l1.47-1.47-1.47-1.47a.75.75 0 0 1 0-1.06ZM3.28 7.78 1.81 9.25l1.47 1.47a.751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018l-2-2a.75.75 0 0 1 0-1.06l2-2a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042Zm8.22-6.218V4.25c0 .138.112.25.25.25h2.688l-.011-.013-2.914-2.914-.013-.011Z"></path></svg></a></span><span role="tooltip" aria-label="Browse repository at this point" id="browse-repo-3184a9a" class="prc-Tooltip-Tooltip-JLsri prc-Tooltip-Tooltip--sw-FsNH8 tooltipped-sw"><a aria-labelledby="browse-repo-3184a9a" href="/zloirock/core-js/tree/3184a9ad81b4778cd4e6d7fece6c200468b8a582" class="Button Button--iconOnly Button--invisible Button--small" data-testid="commit-row-browse-repo"><svg aria-hidden="true" focusable="false" class="octicon octicon-code" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="m11.28 3.22 4.25 4.25a.75.75 0 0 1 0 1.06l-4.25 4.25a.749.749 0 0 1-1.275-.326.749.749 0 0 1 .215-.734L13.94 8l-3.72-3.72a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215Zm-6.56 0a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042L2.06 8l3.72 3.72a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L.47 8.53a.75.75 0 0 1 0-1.06Z"></path></svg></a></span></div></div><!--$!--><template></template><!--/$--></li></ul></div></div></div></div><div class="TimelineRow-module__timelineRowItem__feuol Timeline-Item prc-Timeline-TimelineItem-QwDVH"><div class="prc-Timeline-TimelineBadgeWrapper-SZw4k"><div class="TimelineRow-module__timelineRowBadge__YaFlf prc-Timeline-TimelineBadge-u0qSm"><svg aria-hidden="true" focusable="false" class="octicon octicon-git-commit" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M11.93 8.5a4.002 4.002 0 0 1-7.86 0H.75a.75.75 0 0 1 0-1.5h3.32a4.002 4.002 0 0 1 7.86 0h3.32a.75.75 0 0 1 0 1.5Zm-1.43-.75a2.5 2.5 0 1 0-5 0 2.5 2.5 0 0 0 5 0Z"></path></svg></div></div><div class="mt-0 prc-Timeline-TimelineBody-tjOtb"><h3 class="text-normal f5 py-1 prc-Heading-Heading-MtWFE" id="_R_6kpl9b_" data-testid="commit-group-title">Commits on Sep 8, 2019</h3><div class="color-bg-default position-relative border rounded-2 color-border-default mt-2 d-flex flex-column CommitGroup-module__panel__Pfvdu"><div id="_R_5ekpl9b_-list-view-container" class="ListView-module__container__CfCNF"><ul class="ListView-module__ul__uMK30" aria-labelledby="_R_6kpl9b_" tabindex="-1" role="list" data-listview-component="items-list" data-density="default"><li id="_R_5ekpl9b_-list-view-node-_R_7tekpl9b_" class="ListItem-module__listItem__wBJcm CommitRow-module__ListItem_0__u0LMo" tabindex="-1" aria-label="More information available below." data-testid="commit-row-item" data-commit-link="/zloirock/core-js/commit/b955d2dad747e34240be0584284ca8c9f35b1cb9"><div class="Title-module__container__ZzhV_ CommitRow-module__ListItemTitle_0__cUhJS" data-listview-item-title-container="true"><h4 class="Title-module__heading__tHuYV CommitRow-module__ListItemTitle_0__cUhJS"><a class="Title-module__anchor__dBbYy Title-module__inline__YFTZT" href="/zloirock/core-js/commit/b955d2dad747e34240be0584284ca8c9f35b1cb9"><span>add security policy</span></a></h4><span class="Title-module__trailingBadgesContainer__INeSa"></span></div><div class="px-1"></div><div class="MainContent-module__container__uXXH2"><div class="MainContent-module__inner__C80co"><div class="Description-module__container__hpqJz"><div class="CommitAttribution-module__CommitAttributionContainer__I_rfs"><div data-testid="author-avatar" class="AuthorAvatar-module__AuthorAvatarContainer__n0MVc"><a class="prc-Link-Link-9ZwDx" href="/zloirock" data-testid="avatar-icon-link"><img data-component="Avatar" class="AuthorAvatar-module__authorAvatarImage__a3R8x prc-Avatar-Avatar-0xaUi" alt="zloirock" width="16" height="16" style="--avatarSize-regular:16px" src="https://avatars.githubusercontent.com/u/2213682?v=4&amp;size=32" data-testid="github-avatar" aria-label="zloirock"/></a><a class="AuthorAvatar-module__authorHoverableLink__MHTT8 prc-Link-Link-9ZwDx" href="/zloirock/core-js/commits?author=zloirock" aria-label="commits by zloirock" style="--author-font-weight:var(--base-text-weight-normal);--author-font-color:var(--fgColor-muted)">zloirock</a></div><span class="pl-1">committed</span><div class="LoadingSkeleton-module__skeleton__euqGn LoadingSkeleton-module__rounded__J10DA d-none d-sm-flex ml-1" style="width:60px"></div><div class="LoadingSkeleton-module__skeleton__euqGn LoadingSkeleton-module__rounded__J10DA d-none d-sm-flex ml-2" style="width:20px"></div><div class="d-none d-sm-flex"></div></div></div></div></div><div class="MetadataContainer-module__container__YDbLz"><div class="Metadata-module__metadata__ocr9n Metadata-module__secondary__RkFvd"></div><div class="Metadata-module__metadata__ocr9n Metadata-module__secondary__RkFvd CommitRow-module__ListItemMetadata_0__W4Kqf"><div class="LoadingSkeleton-module__skeleton__euqGn LoadingSkeleton-module__rounded__J10DA d-none d-sm-flex" style="width:62px"></div></div><div class="Metadata-module__metadata__ocr9n Metadata-module__primary__XCEO2 d-none d-sm-flex px-0 gap-2"><div class="d-flex"><span role="tooltip" aria-label="View commit details" id="_R_5rntekpl9b_" class="prc-Tooltip-Tooltip-JLsri prc-Tooltip-Tooltip--s-RbCQB tooltipped-s"><a type="button" sx="[object Object]" class="prc-Button-ButtonBase-9n-Xk" data-loading="false" data-no-visuals="true" data-size="small" data-variant="invisible" href="/zloirock/core-js/commit/b955d2dad747e34240be0584284ca8c9f35b1cb9" data-discover="true"><span data-component="buttonContent" data-align="center" class="prc-Button-ButtonContent-Iohp5"><span data-component="text" class="prc-Button-Label-FWkx3">b955d2d</span></span></a></span><div><button data-component="IconButton" type="button" class="prc-Button-ButtonBase-9n-Xk prc-Button-IconButton-fyge7" data-loading="false" data-no-visuals="true" data-size="small" data-variant="invisible" aria-labelledby="_R_9rntekpl9b_"><svg aria-hidden="true" focusable="false" class="octicon octicon-copy" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 0 1 0 1.5h-1.5a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-1.5a.75.75 0 0 1 1.5 0v1.5A1.75 1.75 0 0 1 9.25 16h-7.5A1.75 1.75 0 0 1 0 14.25Z"></path><path d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0 1 14.25 11h-7.5A1.75 1.75 0 0 1 5 9.25Zm1.75-.25a.25.25 0 0 0-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 0 0 .25-.25v-7.5a.25.25 0 0 0-.25-.25Z"></path></svg></button><span class="CopyToClipboardButton-module__tooltip__BhMvU prc-TooltipV2-Tooltip-tLeuB" data-direction="s" aria-label="Copy full SHA for b955d2d" aria-hidden="true" id="_R_9rntekpl9b_">Copy full SHA for b955d2d</span></div></div><span role="tooltip" aria-label="View code at this point" id="view-code-b955d2d" class="prc-Tooltip-Tooltip-JLsri prc-Tooltip-Tooltip--sw-FsNH8 tooltipped-sw"><a aria-labelledby="view-code-b955d2d" href="/zloirock/core-js/blob/b955d2dad747e34240be0584284ca8c9f35b1cb9/SECURITY.md" class="Button Button--iconOnly Button--invisible Button--small" data-testid="commit-row-view-code"><svg aria-hidden="true" focusable="false" class="octicon octicon-file-code" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="M4 1.75C4 .784 4.784 0 5.75 0h5.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v8.586A1.75 1.75 0 0 1 14.25 15h-9a.75.75 0 0 1 0-1.5h9a.25.25 0 0 0 .25-.25V6h-2.75A1.75 1.75 0 0 1 10 4.25V1.5H5.75a.25.25 0 0 0-.25.25v2.5a.75.75 0 0 1-1.5 0Zm1.72 4.97a.75.75 0 0 1 1.06 0l2 2a.75.75 0 0 1 0 1.06l-2 2a.749.749 0 0 1-1.275-.326.749.749 0 0 1 .215-.734l1.47-1.47-1.47-1.47a.75.75 0 0 1 0-1.06ZM3.28 7.78 1.81 9.25l1.47 1.47a.751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018l-2-2a.75.75 0 0 1 0-1.06l2-2a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042Zm8.22-6.218V4.25c0 .138.112.25.25.25h2.688l-.011-.013-2.914-2.914-.013-.011Z"></path></svg></a></span><span role="tooltip" aria-label="Browse repository at this point" id="browse-repo-b955d2d" class="prc-Tooltip-Tooltip-JLsri prc-Tooltip-Tooltip--sw-FsNH8 tooltipped-sw"><a aria-labelledby="browse-repo-b955d2d" href="/zloirock/core-js/tree/b955d2dad747e34240be0584284ca8c9f35b1cb9" class="Button Button--iconOnly Button--invisible Button--small" data-testid="commit-row-browse-repo"><svg aria-hidden="true" focusable="false" class="octicon octicon-code" viewBox="0 0 16 16" width="16" height="16" fill="currentColor" display="inline-block" overflow="visible" style="vertical-align:text-bottom"><path d="m11.28 3.22 4.25 4.25a.75.75 0 0 1 0 1.06l-4.25 4.25a.749.749 0 0 1-1.275-.326.749.749 0 0 1 .215-.734L13.94 8l-3.72-3.72a.749.749 0 0 1 .326-1.275.749.749 0 0 1 .734.215Zm-6.56 0a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042L2.06 8l3.72 3.72a.749.749 0 0 1-.326 1.275.749.749 0 0 1-.734-.215L.47 8.53a.75.75 0 0 1 0-1.06Z"></path></svg></a></span></div></div><!--$!--><template></template><!--/$--></li></ul></div></div></div></div><div class="TimelineRow-module__timelineRowItem__feuol Timeline-Item prc-Timeline-TimelineItem-QwDVH"><div class="prc-Timeline-TimelineBadgeWrapper-SZw4k"><div class="TimelineRow-module__timelineRowBadge__YaFlf prc-Timeline-TimelineBadge-u0qSm"><span class="prc-Spinner-Box-Y-ke-"><svg height="16px" width="16px" viewBox="0 0 16 16" fill="none" aria-hidden="true" aria-labelledby="_R_5spl9b_" class="prc-Spinner-SpinnerAnimation-tutJZ"><circle cx="8" cy="8" r="7" stroke="currentColor" stroke-opacity="0.25" stroke-width="2" vector-effect="non-scaling-stroke"></circle><path d="M15 8a7.002 7.002 0 00-7-7" stroke="currentColor" stroke-width="2" stroke-linecap="round" vector-effect="non-scaling-stroke"></path></svg><span class="prc-VisuallyHidden-VisuallyHidden-Q0qSB" id="_R_5spl9b_">Loading</span></span></div></div><div class="mt-0 prc-Timeline-TimelineBody-tjOtb"></div></div></div></div></div></div></div></div></div></div> <!-- --> <script type="application/json" id="__PRIMER_DATA__R_0___">{"resolvedServerColorMode":"day"}</script></div>
+</react-app>
 
 
-        <div class="tmp-mr-4 mb-2">
-          <a href="/zloirock/core-js/tree/v3.49.0" data-view-component="true" class="Link Link--muted"><span data-view-component="true" class="css-truncate css-truncate-target">
-              <svg aria-label="Tag" role="img" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-tag">
-    <path d="M1 7.775V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 0 1 0 2.474l-5.026 5.026a1.75 1.75 0 0 1-2.474 0l-6.25-6.25A1.752 1.752 0 0 1 1 7.775Zm1.5 0c0 .066.026.13.073.177l6.25 6.25a.25.25 0 0 0 .354 0l5.025-5.025a.25.25 0 0 0 0-.354l-6.25-6.25a.25.25 0 0 0-.177-.073H2.75a.25.25 0 0 0-.25.25ZM6 5a1 1 0 1 1 0 2 1 1 0 0 1 0-2Z"></path>
-</svg>
-              <span class="ml-1">
-                v3.49.0
-              </span>
-</span></a>          
-        </div>
-        <div class="tmp-mr-4 mb-2" style="position: relative; top: 1px;">
-          <a data-hovercard-type="commit" data-hovercard-url="/zloirock/core-js/commit/80adfc415fa74e5e4f6ba2de6425aa577e3ad439/hovercard" href="/zloirock/core-js/commit/80adfc415fa74e5e4f6ba2de6425aa577e3ad439" data-view-component="true" class="Link Link--muted"><svg aria-label="Commit" role="img" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-git-commit">
-    <path d="M11.93 8.5a4.002 4.002 0 0 1-7.86 0H.75a.75.75 0 0 1 0-1.5h3.32a4.002 4.002 0 0 1 7.86 0h3.32a.75.75 0 0 1 0 1.5Zm-1.43-.75a2.5 2.5 0 1 0-5 0 2.5 2.5 0 0 0 5 0Z"></path>
-</svg>
-              <code class="f5 ml-1">80adfc4</code></a>          
-        </div>
-
-</div>
-  </div>
-        <div data-pjax="true" data-test-selector="body-content" data-view-component="true" class="markdown-body tmp-my-3"><ul>
-<li>Changes <a href="https://github.com/zloirock/core-js/compare/v3.48.0...v3.49.0">v3.48.0...v3.49.0</a> (373 commits)</li>
-<li><a href="https://github.com/tc39/proposal-iterator.range"><code>Iterator.range</code></a> updated following the actual spec version
-<ul>
-<li>Throw a <code>RangeError</code> on <code>NaN</code> <code>start</code> / <code>end</code> / <code>step</code></li>
-<li>Allow <code>null</code> as <code>optionOrStep</code></li>
-</ul>
-</li>
-<li>Improved accuracy of <code>Math.{ asinh, atanh }</code> polyfills with big and small values</li>
-<li>Improved accuracy of <code>Number.prototype.toExponential</code> polyfills with big and small values</li>
-<li>Improved performance of <code>atob</code>, <code>btoa</code>, <code>Uint8Array.fromHex</code>, <code>Uint8Array.prototype.setFromHex</code>, and <code>Uint8Array.prototype.toHex</code>, <a href="https://github.com/zloirock/core-js/issues/1503" data-hovercard-type="pull_request" data-hovercard-url="/zloirock/core-js/pull/1503/hovercard">#1503</a>, <a href="https://github.com/zloirock/core-js/issues/1464" data-hovercard-type="pull_request" data-hovercard-url="/zloirock/core-js/pull/1464/hovercard">#1464</a>, <a href="https://github.com/zloirock/core-js/issues/1510" data-hovercard-type="pull_request" data-hovercard-url="/zloirock/core-js/pull/1510/hovercard">#1510</a>, thanks <a href="https://github.com/johnzhou721"><strong>@johnzhou721</strong></a></li>
-<li>Minor performance optimization polyfills of methods from <a href="https://github.com/tc39/proposal-upsert"><code>Map</code> upsert proposal</a></li>
-<li>Polyfills of methods from <a href="https://github.com/tc39/proposal-upsert"><code>Map</code> upsert proposal</a> from the pure version made generic to make it work with polyfilled and native collections</li>
-<li>Wrap <code>Symbol.for</code> in <code>Symbol.prototype.description</code> polyfill for correct handling of empty string descriptions</li>
-<li>Fixed <a href="https://bugs.webkit.org/show_bug.cgi?id=309342" rel="nofollow">a modern Safari bug</a> in <code>Array.prototype.includes</code> with sparse arrays and <code>fromIndex</code></li>
-<li>Fixed one more case (<code>Iterator.prototype.take</code>) of a V8 ~ Chromium &lt; 126 <a href="https://issues.chromium.org/issues/336839115" rel="nofollow">bug</a></li>
-<li>Forced replacement of <code>Iterator.{ concat, zip, zipKeyed }</code> in the pure version for ensuring proper wrapped <code>Iterator</code> instances as the result</li>
-<li>Fixed proxying <code>.return()</code> on exhausted iterator from some methods of iterator helpers polyfill to the underlying iterator</li>
-<li>Fixed double <code>.return()</code> calling in case of throwing error in this method in the internal <code>iterate</code> helper that affected some polyfills</li>
-<li>Fixed closing iterator on <code>IteratorValue</code> errors in the internal <code>iterate</code> helper that affected some polyfills</li>
-<li>Fixed iterator closing in <code>Array.from</code> polyfill on failure to create array property</li>
-<li>Fixed order of arguments validation in <code>Array.fromAsync</code> polyfill</li>
-<li>Fixed a lack of counter validation on <code>MAX_SAFE_INTEGER</code> in <code>Array.fromAsync</code> polyfill</li>
-<li>Fixed order of arguments validation in <code>Array.prototype.flat</code> polyfill</li>
-<li>Fixed handling strings as iterables in <code>Iterator.{ zip, zipKeyed }</code> polyfills</li>
-<li>Fixed some cases of iterators closing in <code>Iterator.{ zip, zipKeyed }</code> polyfills</li>
-<li>Fixed validation of iterators <code>.next()</code> results an objects in <code>Iterator.{ zip, zipKeyed }</code> polyfills</li>
-<li>Fixed a lack of early error in <code>Iterator.concat</code> polyfill on primitive as an iterator</li>
-<li>Fixed buffer mutation exposure in <code>Iterator.prototype.windows</code> polyfill</li>
-<li>Fixed iterator closing in <code>Set.prototype.{ isDisjointFrom, isSupersetOf }</code> polyfill</li>
-<li>Fixed (updated following the final spec) one more case <code>Set.prototype.difference</code> polyfill with updating <code>this</code></li>
-<li>Fixed <code>DataView.prototype.setFloat16</code> polyfill in (0, 1) range</li>
-<li>Fixed order of arguments validation in <code>String.prototype.{ padStart, padEnd }</code> polyfills</li>
-<li>Fixed order of arguments validation in <code>String.prototype.{ startsWith, endsWith }</code> polyfills</li>
-<li>Fixed some cases of <code>Infinity</code> handling in <code>String.prototype.substr</code> polyfill</li>
-<li>Fixed <code>String.prototype.repeat</code> polyfill with a counter exceeding 2 ** 32</li>
-<li>Fixed some cases of chars case in <code>escape</code> polyfill</li>
-<li>Fixed named backreferences in <code>RegExp</code> NCG polyfill</li>
-<li>Fixed some cases of <code>RegExp</code> NCG polyfill in combination with other types of groups</li>
-<li>Fixed some cases of <code>RegExp</code> NCG polyfill in combination with <code>dotAll</code></li>
-<li>Fixed <code>String.prototype.replace</code> with <code>sticky</code> polyfill, <a href="https://github.com/zloirock/core-js/issues/810" data-hovercard-type="issue" data-hovercard-url="/zloirock/core-js/issues/810/hovercard">#810</a>, <a href="https://github.com/zloirock/core-js/issues/1514" data-hovercard-type="pull_request" data-hovercard-url="/zloirock/core-js/pull/1514/hovercard">#1514</a></li>
-<li>Fixed <code>RegExp</code> <code>sticky</code> polyfill with alternation</li>
-<li>Fixed handling of some line terminators in case of <code>multiline</code> + <code>sticky</code> mode in <code>RegExp</code> polyfill</li>
-<li>Fixed <code>.input</code> slicing on result object with <code>RegExp</code> <code>sticky</code> mode polyfill</li>
-<li>Fixed handling of empty groups with <code>global</code> and <code>unicode</code> modes in polyfills</li>
-<li>Fixed <code>URLSearchParam.prototype.delete</code> polyfill with duplicate key-value pairs</li>
-<li>Fixed possible removal of unnecessary entries in <code>URLSearchParam.prototype.delete</code> polyfill with second argument</li>
-<li>Fixed an error in some cases of non-special URLs without a path in the <code>URL</code> polyfill</li>
-<li>Fixed some percent encode cases / character sets in the <code>URL</code> polyfill</li>
-<li>Fixed parsing of non-IPv4 hosts ends in a number in the <code>URL</code> polyfill</li>
-<li>Fixed some cases of <code>''</code> and <code>null</code> host handling in the <code>URL</code> polyfill</li>
-<li>Fixed host parsing with <code>hostname = host:port</code> in the <code>URL</code> polyfill</li>
-<li>Fixed host inheritance in some cases of file scheme in the <code>URL</code> polyfill</li>
-<li>Fixed block of protocol change for file with empty host in the <code>URL</code> polyfill</li>
-<li>Fixed invalid code points handling in UTF-8 decode in the <code>URLSearchParams</code> polyfill</li>
-<li>Fixed some cases of serialization in <code>URL</code> polyfill (<code>/.</code> prefix for non-special URLs with <code>null</code> host and path starting with empty segment)</li>
-<li>Fixed <code>URL</code> polyfill <code>.origin</code> getter with <code>blob</code> scheme</li>
-<li>Fixed a lack of error in <code>URLSearchParams.prototype.set</code> polyfill on calling only with 1 argument</li>
-<li>Fixed handling invalid UTF-8 continuation bytes in <code>URLSearchParams</code> polyfill</li>
-<li>Fixed incomplete sequences with out-of-range continuation bytes handling in <code>URLSearchParams</code> polyfill</li>
-<li>Fixed allowing unexpected symbols in scheme in the <code>URL</code> polyfill</li>
-<li>Fixed repeated <code>ToPropertyKey</code> calling in <code>Reflect.{ get, set, deleteProperty }</code> polyfills</li>
-<li>Fixed <code>Reflect.set</code> polyfill with some descriptors cases</li>
-<li>Fixed <code>Reflect.set</code> polyfill with some non-extensible receiver cases</li>
-<li>Fixed the order of <code>Reflect.construct</code> polyfill arguments validation (observable only in the error message)</li>
-<li>Fixed a lack of error in <code>Reflect.defineProperty</code> polyfill with malformed descriptor</li>
-<li>Fixed a lack of error in <code>JSON.parse</code> polyfill on unterminated object and array literals</li>
-<li>Fixed a lack of error in <code>JSON.parse</code> polyfill on numbers with <code>.</code>, but without a fraction part</li>
-<li>Fixed a lack of error on <code>\u{}</code> in <code>String.dedent</code> polyfill</li>
-<li>Fixed some cases of hex escaping in the end of string in <code>String.dedent</code> polyfill</li>
-<li>Fixed <code>%AsyncFromSyncIteratorPrototype%</code> to make it a little stricter</li>
-<li>Fixed counter in some cases of some <code>AsyncIterator</code> methods</li>
-<li>Fixed order of async iterators closing</li>
-<li>Fixed iterator closing in <code>AsyncIterator.prototype.flatMap</code> polyfill</li>
-<li>Fixed iterator closing in <code>AsyncIterator.prototype.map</code> polyfill on error in underlying iterator <code>.next()</code></li>
-<li>Fixed iterator closing in <code>AsyncIterator.prototype.take</code> polyfill with <code>return: null</code></li>
-<li>Fixed validation <code>.return()</code> result as object in <code>AsyncIterator.prototype.take</code> polyfill</li>
-<li>Fixed a lack of error in <code>structuredClone</code> polyfill on attempt to transfer multiple objects, some of which are non-transferable</li>
-<li>Fixed resizable <code>ArrayBuffer</code> transferring where <code>newByteLength</code> exceeds the original <code>maxByteLength</code></li>
-<li>Fixed possible loss of symbol enumerability in <code>Object.defineProperty</code> in <code>Symbol</code> polyfill</li>
-<li>Fixed return value of <code>Object.defineProperty</code> in <code>Symbol</code> polyfill in Android ~ 2</li>
-<li>Fixed order of <code>%TypedArray%.from</code> arguments validation</li>
-<li>Fixed a lack of error on passing an <code>ArrayBuffer</code> and a negative length to the <code>%TypedArray%</code> and <code>DataView</code> constructors polyfills</li>
-<li>Fixed some cases of <code>@@toStringTag</code> on <code>%TypedArray%</code> polyfill</li>
-<li>Fixed some cases of <code>ToUint8Clamp</code> conversion</li>
-<li>Fixed <code>NaN</code> handling in <code>Date.prototype.setYear</code> polyfill</li>
-<li>Fixed false positive on a <code>WeakMap</code> validation in the pure version</li>
-<li>Fixed some minor <code>{ Map, Set }.prototype.forEach</code> moments in the pure version</li>
-<li>Fixed possible error in <code>Array.isTemplateObject</code> polyfill on frozen array</li>
-<li>Fixed semantics of <code>Observable.from</code> with multiple subscriptions of the obsolete ECMAScript <code>Observable</code> proposal polyfill</li>
-<li>Fixed handling of ending zeroes in the fraction part in <code>Number.fromString</code> polyfill</li>
-<li>Fixed <code>esmodules: intersect</code> option of <code>core-js-compat</code></li>
-<li>Fixed a lack of <code>reactnative</code> alias in <code>core-js-compat</code> types</li>
-<li>Fixed a minor logical bug in the debugging output of <code>core-js-builder</code></li>
-<li>Fixed ignorance of the obsolete <code>blacklist</code> option of <code>core-js-builder</code> - it should be removed only in the next major release</li>
-<li>In case of bugs in <code>String.prototype.{ match, matchAll, replace, split }</code> in modern engines, add <code>s</code>, <code>d</code> and <code>v</code> flag support to polyfills of those methods</li>
-<li>Just in case, added an extra input string validation to the  polyfill of obsolete <code>Number.fromString</code> proposals</li>
-<li>Simplified <code>iOS</code> detection</li>
-<li>Many minor stylistic fixes and optimizations</li>
-<li>Compat data improvements:
-<ul>
-<li><a href="https://github.com/tc39/proposal-math-sum"><code>Math.sumPrecise</code></a> marked as <a href="https://issues.chromium.org/issues/374310075#comment16" rel="nofollow">shipped in V8 ~ Chrome 147</a></li>
-<li><a href="https://github.com/tc39/proposal-iterator-sequencing"><code>Iterator.concat</code></a> marked as <a href="https://issues.chromium.org/issues/434977727#comment7" rel="nofollow">shipped in V8 ~ Chrome 146</a></li>
-<li><a href="https://github.com/tc39/proposal-iterator-sequencing"><code>Iterator.concat</code></a> marked as shipped in Safari 26.4</li>
-<li>Because of <a href="https://bugs.webkit.org/show_bug.cgi?id=309342" rel="nofollow">a bug</a>, <code>Array.prototype.includes</code> marked as not supported in modern Safari</li>
-<li>Fixed compat data for <code>parseInt</code> and <code>parseFloat</code></li>
-<li>Added Deno <a href="https://github.com/denoland/deno/releases/tag/v2.6.7">2.6.7</a>, <a href="https://github.com/denoland/deno/releases/tag/v2.7.0">2.7.0</a> and <a href="https://github.com/denoland/deno/releases/tag/v2.7.2">2.7.2</a> compat data mapping</li>
-<li>Added Electron 42 compat data mapping</li>
-<li>Added Opera for Android <a href="https://forums.opera.com/topic/87912/opera-for-android-95" rel="nofollow">95</a> and <a href="https://forums.opera.com/topic/88254/opera-for-android-96" rel="nofollow">96</a> compat data mapping</li>
-<li>Added <a href="https://developers.meta.com/horizon/downloads/package/browser/42.0/" rel="nofollow">Oculus Quest Browser 42</a> compat data mapping</li>
-</ul>
-</li>
-</ul></div>
-</div>
-  <div data-view-component="true" class="Box-footer">
-        <div class="tmp-mb-3">
-          <details-toggle>
-    <details open="open" data-target="details-toggle.detailsTarget" data-view-component="true">
-      <summary role="button" data-target="details-toggle.summaryTarget" data-action="click:details-toggle#toggle" aria-expanded="true" data-view-component="true">    <span class="d-inline-flex flex-items-center">
-      <span data-view-component="true" class="f3 text-bold ml-2 tmp-ml-2 mr-2 tmp-mr-2">Assets</span>
-      <span title="2" data-view-component="true" class="Counter">2</span>
-    </span>
-</summary>
-      <div data-view-component="true">      <include-fragment loading="lazy" src="https://github.com/zloirock/core-js/releases/expanded_assets/v3.49.0" data-nonce="v2:ead548d2-d238-8819-6794-8360eb938cae" data-view-component="true">
-  
-        <span data-view-component="true">
-  <svg style="box-sizing: content-box; color: var(--color-icon-primary);" width="32" height="32" viewBox="0 0 16 16" fill="none" aria-hidden="true" data-view-component="true" class="anim-rotate">
-    <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-opacity="0.25" stroke-width="2" vector-effect="non-scaling-stroke" fill="none"></circle>
-    <path d="M15 8a7.002 7.002 0 00-7-7" stroke="currentColor" stroke-width="2" stroke-linecap="round" vector-effect="non-scaling-stroke"></path>
-</svg>    <span class="sr-only">Loading</span>
-</span>
-
-  <div data-show-on-forbidden-error hidden>
-    <div class="Box">
-  <div class="blankslate-container">
-    <div data-view-component="true" class="blankslate blankslate-spacious color-bg-default rounded-2">
-      
-
-      <h3 data-view-component="true" class="blankslate-heading">        Uh oh!
-</h3>
-      <p data-view-component="true" class="blankslate-description">        <p class="color-fg-muted my-2 mb-2 ws-normal">There was an error while loading. <a class="Link--inTextBlock" data-turbo="false" href="" aria-label="Please reload this page">Please reload this page</a>.</p>
-</p>
-
-</div>  </div>
-</div>  </div>
-</include-fragment></div>
-</details></details-toggle>
-
-        </div>
-
-
-          <div class="d-flex flex-row flex-wrap flex-justify-between js-comment">
-              <div data-view-component="true" class="comment-reactions js-reactions-container js-reaction-buttons-container social-reactions reactions-container has-reactions d-flex">
-  <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-pick-reaction" data-turbo="false" action="/zloirock/core-js/reactions" accept-charset="UTF-8" method="post"><input type="hidden" name="_method" value="put" autocomplete="off" /><input type="hidden" name="authenticity_token" value="QZpbEhdH555mnNLmcvg4acTE5sdYCUzhACRt69fiFPDknKGUrk4T7FpRZj7I2daqTzyXhPJUHZO_70fiOgi7uQ" autocomplete="off" />
-    <input type="hidden" name="input[subjectId]" value="RE_kwDOAK8w-s4Rvil9">
-    <div  class="js-comment-reactions-options d-flex flex-items-center flex-row flex-wrap">
-          <button name="input[content]" id="reactions--reaction_button_component-2ee48d" value="THUMBS_UP react" data-button-index-position="0" data-reaction-label="+1" data-reaction-content="+1" aria-pressed="false" aria-label="thumbs up (2): zloirock, 09:06PM on March 16" type="submit" disabled="disabled" data-view-component="true" class="social-reaction-summary-item js-reaction-group-button tmp-mr-1 btn-link d-flex no-underline color-fg-muted flex-items-baseline">    <g-emoji alias="+1" fallback-src="https://github.githubassets.com/assets/1f44d-41cb66fe1e22.png" class="social-button-emoji">👍</g-emoji>
-            <span class="js-discussion-reaction-group-count">2</span>
-</button>  <tool-tip id="tooltip-205ae94d-d74a-4140-b83b-d37018c2f6a9" for="reactions--reaction_button_component-2ee48d" popover="manual" data-direction="n" data-type="description" data-view-component="true" class="sr-only position-absolute">kun272705 and andreww2012 reacted with thumbs up emoji</tool-tip>
-          <button name="input[content]" id="reactions--reaction_button_component-94d196" value="ROCKET react" data-button-index-position="6" data-reaction-label="Rocket" data-reaction-content="rocket" aria-pressed="false" aria-label="rocket (3): zloirock, 09:06PM on March 16" type="submit" disabled="disabled" data-view-component="true" class="social-reaction-summary-item js-reaction-group-button tmp-mr-1 btn-link d-flex no-underline color-fg-muted flex-items-baseline">    <g-emoji alias="rocket" fallback-src="https://github.githubassets.com/assets/1f680-d0ef47fdb515.png" class="social-button-emoji">🚀</g-emoji>
-            <span class="js-discussion-reaction-group-count">3</span>
-</button>  <tool-tip id="tooltip-ea05ab2b-cacb-4fb2-9557-3900f9fc75e3" for="reactions--reaction_button_component-94d196" popover="manual" data-direction="n" data-type="description" data-view-component="true" class="sr-only position-absolute">petamoriken, OpportunityLiu, and Rudxain reacted with rocket emoji</tool-tip>
-      <div class="js-reactions-container">
-        <details class="dropdown details-reset details-overlay d-inline-block js-all-reactions-popover" hidden>
-          <summary aria-haspopup="true" data-view-component="true" class="Button--link Button--medium Button">  <span class="Button-content">
-    <span class="Button-label">All reactions</span>
-  </span>
-</summary>
-
-          <ul class="dropdown-menu dropdown-menu-se">
-              <li class="dropdown-item" aria-label="kun272705 and andreww2012 reacted with thumbs up emoji">
-                <g-emoji alias="+1" fallback-src="https://github.githubassets.com/assets/1f44d-41cb66fe1e22.png" class="social-button-emoji mr-2">👍</g-emoji>
-                  <span>2 reactions</span>
-              </li>
-              <li class="dropdown-item" aria-label="petamoriken, OpportunityLiu, and Rudxain reacted with rocket emoji">
-                <g-emoji alias="rocket" fallback-src="https://github.githubassets.com/assets/1f680-d0ef47fdb515.png" class="social-button-emoji mr-2">🚀</g-emoji>
-                  <span>3 reactions</span>
-              </li>
-          </ul>
-        </details>
-      </div>
-    </div>
-</form>    <div data-view-component="true" class="color-fg-muted mt-1 tmp-mt-1">5 people reacted</div>
-</div>
-          </div>
-</div>
-</div></div>
-
-</div>
 
 
   </div>
 
 </turbo-frame>
-
 
     </main>
   </div>
